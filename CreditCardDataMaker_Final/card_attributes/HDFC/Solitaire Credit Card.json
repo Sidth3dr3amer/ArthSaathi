@@ -1,0 +1,97 @@
+{
+  "card_name": "Solitaire Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": null,
+  "annual_fee": 500,
+  "fee_waiver_condition": "spending ₹50,000 within a year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3 Reward Points for every ₹200 spent",
+    "50% more Reward Points on dining and grocery expenses"
+  ],
+  "reward_redemption_options": [
+    "Redeem 100 Reward Points as ₹20 cashback against Credit Card's outstanding amount"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "₹1,000 CashBack on shopping in-app for over 200+ brands with Payzapp"
+  ],
+  "milestone_benefits": [
+    "Gift Voucher worth ₹1,000 on crossing spends of ₹75,000 in 6 months (up to 2 vouchers in a year)"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions ₹400-₹5,000 (Max waiver: ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% on ₹400-₹5,000 (Max ₹250 per statement cycle)",
+  "eligibility": [
+    "Salaried employee: age 21 to 60",
+    "Self-employed: age 21 to 65",
+    "Salaried employee: Minimum 21 years and maximum 60 years",
+    "Self-employed: Minimum 21 years and maximum 65 years",
+    "Salaried employee: Minimum 21 years and maximum 60 years.",
+    "Self-employed: Minimum 21 years and maximum 65 years."
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "3.49% interest charged to any unpaid balance remaining beyond the bill's due date",
+    "3.6% monthly interest rate (equivalent to an annual rate of 43.2%)",
+    "Annual charges: ₹500 plus GST annually"
+  ],
+  "interest_rates": [
+    3.49,
+    43.2,
+    "3.49% interest on unpaid balance (effective September 1, 2020: 3.6% monthly, equivalent to 43.2% annually)"
+  ],
+  "fees_and_penalties": [
+    "₨500 plus applicable GST"
+  ],
+  "spend_conditions": [
+    "spending ₹50,000 within a year"
+  ],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms and Conditions apply"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\HDFC_Solitaire Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Solitaire Credit Card\\MITC\\mitc-in-english5.pdf"
+  ]
+}

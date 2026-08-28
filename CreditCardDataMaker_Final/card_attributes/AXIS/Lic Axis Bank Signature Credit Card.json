@@ -1,0 +1,200 @@
+{
+  "card_name": "Lic Axis Bank Signature Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": "Nil",
+  "annual_fee": "Nil",
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "100% cashback up to ₹300 on first utility bill payment within first 30 days of card issuance"
+  ],
+  "reward_structure": [
+    "Earn 2 Reward points for every ₹100 spent on LIC Premium payment and foreign currency transactions",
+    "Earn 1 Reward point for every ₹100 spent on all other transactions except fuel, wallet load and EMI conversions",
+    "2 Reward points for every ₹100 spent on LIC Premium payment and foreign currency transactions",
+    "1 Reward point for every ₹100 spent on all other transactions except fuel, wallet load and EMI conversions"
+  ],
+  "reward_redemption_options": [
+    "Redeem the rewards earned against e-vouchers, gift cards and other products by calling customer care 18004190064",
+    "e-vouchers",
+    "gift cards",
+    "other products"
+  ],
+  "reward_exclusions": [
+    "No reward points on fuel purchases",
+    "fuel purchases",
+    "Utilities & Telecom",
+    "Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Gold & Jewellery",
+    "Fuel",
+    "Cash advances",
+    "Repayments"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "8 complimentary lounge visits per calendar year at select domestic airports",
+    "2 complimentary lounge access per quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "1% fuel surcharge waiver on fuel transactions between ₹400 to ₹4,000. Maximum benefits up to ₹400 per month"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Complimentary lost card liability insurance cover up to credit limit"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI: No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of ₹1,500 or more into easy EMI",
+    "Convert purchases to EMI for transactions of ₹1,500 or more"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+  "eligibility": [
+    "Primary cardholder should be between the age of 18 and 70 years",
+    "The individual should be a Resident of India",
+    "Individual should be a Resident of India"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN card photocopy or Form 97",
+    "Colour photograph",
+    "Latest payslip/Form 16/IT return copy as proof of income",
+    "Residence proof (any one of the following): Passport, Ration Card, Electricity bill, Landline telephone bill",
+    "Identity proof (any one of the following): Passport, Driving License, PAN Card, Aadhaar card",
+    "Residence proof (Passport, Ration Card, Electricity bill, Landline telephone bill)",
+    "Identity proof (Passport, Driving License, PAN Card, Aadhaar card)"
+  ],
+  "charges": [
+    "Cash Payment Fee: ₹175/-",
+    "Duplicate Statement Fee: Waived",
+    "Charge Slip Retrieval Fee or Copy Request Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Mobile Alerts for Transactions: Free",
+    "Hotlisting Charges: Nil",
+    "Balance Enquiry Charges: Waived",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,01 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount subject to Min ₹500.",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹400 to ₹4,000. Maximum benefits up to ₹400 per month)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Reward Point Redemption fee: No",
+    "GST: As per existing Government norms",
+    "Rent Transaction fee (Applicable from 5th March 2023): 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup (Applicable from 5th March 2023): 1.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation Websites",
+    "Education Transaction Fee (Applicable from 20th Dec, 2024): 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 10,000 or more on online skill based gaming platforms per statement cycle",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,01 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount subject to Min ₹500",
+    "Cash Payment Fee: ₹175",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Rent Transaction fee: 1% fee per transaction on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation Websites",
+    "Education Transaction Fee: 1% fee per transaction on education payments made via third party apps",
+    "Utility Transaction Fee: 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more on online skill based gaming platforms per statement cycle"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Cash Payment Fee: ₹175/-",
+    "Duplicate Statement Fee: Waived",
+    "Charge Slip Retrieval Fee or Copy Request Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Mobile Alerts for Transactions: Free",
+    "Hotlisting Charges: Nil",
+    "Balance Enquiry Charges: Waived",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,01 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount subject to Min ₹500.",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹400 to ₹4,000. Maximum benefits up to ₹400 per month)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Reward Point Redemption fee: No",
+    "GST: As per existing Government norms",
+    "Rent Transaction fee (Applicable from 5th March 2023): 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup (Applicable from 5th March 2023): 1.5% will be applicable on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation Websites",
+    "Education Transaction Fee (Applicable from 20th Dec, 2024): 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of INR 10,000 or more on online skill based gaming platforms per statement cycle",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,01 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount subject to Min ₹500"
+  ],
+  "spend_conditions": [
+    "Minimum eligible spend of Rs. 50,000 in the previous 3 calendar months; waived for the month of card issuance and the following 3 months"
+  ],
+  "benefit_conditions": [
+    "100% cashback up to ₹300 on first utility bill payment within first 30 days of card issuance",
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "1% fuel surcharge waiver on fuel transactions between ₹400 to ₹4,000. Maximum benefits up to ₹400 per month",
+    "Valid on transaction between ₹400 to ₹4,000; Maximum monthly benefit up to ₹400",
+    "GST on fuel surcharge is non refundable",
+    "Minimum eligible spend of Rs. 50,000 in the previous 3 calendar months; waived for the month of card issuance and the following 3 months",
+    "Convert purchases to EMI for transactions of ₹1,500 or more"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off upto ₹1000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "important_terms": [],
+  "excluded_categories": [
+    "fuel purchases",
+    "Utilities & Telecom",
+    "Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Gold & Jewellery",
+    "Fuel",
+    "Cash advances",
+    "Repayments"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\AXIS_Lic Axis Bank Signature Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\REWARDS\\lic-rewards-points-terms-and-conditions.pdf",
+    "LIC AXIS BANK Credit Card Terms and Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Signature Credit Card\\TERMS\\terms-and-conditions-lic-axis-bank-signature-credit-card.pdf"
+  ]
+}

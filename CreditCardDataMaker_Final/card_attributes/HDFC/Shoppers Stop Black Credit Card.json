@@ -1,0 +1,298 @@
+{
+  "card_name": "Shoppers Stop Black Credit Card",
+  "card_network": null,
+  "card_type": "Black Variant",
+  "joining_fee": 4500,
+  "annual_fee": 4500,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Shoppers Stop welcome voucher",
+    "Airport Lounge access",
+    "Welcome Voucher worth ₹1,500",
+    "Shoppers Stop Black Membership worth ₹4,500",
+    "Rs.1500 Shoppers Stop voucher",
+    "Complimentary Shoppers Stop Black membership worth Rs.4,500",
+    "Get Shoppers Stop vouchers worth Rs.1500, redeemable on a min bill value of Rs.5000",
+    "Get Shoppers Stop vouchers worth Rs.1500, redeemable on any bill value"
+  ],
+  "reward_structure": [
+    "Earn Reward points on all retail transactions (excluding wallet loading, EMI transactions, account fees and payments, and purchase of jewelry/gold coins or its equivalents)",
+    "7% Reward Points on Shoppers Stop purchases",
+    "2% Reward Points on non-Shoppers Stop purchases",
+    "Reward Points earned for transaction amounts in multiples of ₹200; residual amounts below ₹200 do not earn points",
+    "7% Reward Points on Shoppers Stop spends (min transaction INR 150, monthly cap 2000 RP)",
+    "1% Reward Points on non-Shoppers Stop spends (min transaction INR 150, exclusions: Fuel, Rent, Government related transactions, EMI, Wallet, Jewellery)",
+    "Earn 20 First Citizen Points for every Rs.150 spent on Shoppers Stop Private label brands",
+    "Earn 15 First Citizen Points for every Rs.150 spent on all other Shoppers Stop brands (capped at 2,000 First Citizen Points per month)",
+    "Earn 5 First Citizen Points for every Rs.150 spent on all other spends (except fuel and wallet)",
+    "Get 7% Reward points on every Shoppers Stop spends",
+    "Get 2% Reward Points on Non-Shoppers Stop spends (Maximum capping of Rs.2000 per month on Shoppers Stop spends & non Shoppers Stop spends)"
+  ],
+  "reward_redemption_options": [
+    "Product Catalogue",
+    "Cash Back",
+    "Airmiles",
+    "Unified SmartBuy (Flights/Hotels)",
+    "Product Catalogue (0.35 per point)",
+    "Cash Back (0.2 per point)",
+    "Airmiles (up to 0.5 per point)",
+    "Unified SmartBuy (Flights/Hotels) (0.5 per point)",
+    "Redeem 1 Reward point = ₹1 against Shoppers Stop vouchers",
+    "Statement balance (cashback) at 0.2 Rs per point",
+    "Shoppers Stop vouchers at 1 Rs per point",
+    "Product catalogue up to 0.35 Rs per point",
+    "Airmiles at 0.5 Rs per point",
+    "Unified SmartBuy (flights/hotels) at 0.5 Rs per point",
+    "First Citizen points to be redeemed only in Shoppers Stop platform (online or in-store)",
+    "Bank Reward points redemption value will be Re 1 when availed against Shoppers Stop voucher"
+  ],
+  "reward_exclusions": [
+    "Wallet loading",
+    "EMI Transactions",
+    "Account Fees and Payment",
+    "Purchase of jewelry/gold coins or its equivalents",
+    "Rental category payments",
+    "Government category payments",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Fuel",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travelers’ cheques",
+    "Insurance",
+    "Any other categories as decided from Time to Time",
+    "fuel",
+    "wallet"
+  ],
+  "reward_caps": [
+    "Validity of points is 2 years",
+    "Reward Points on Grocery spends capped at 1,000 points per month per customer",
+    "Monthly cap of 2000 Reward Points for 7% Shoppers Stop category",
+    "Redemption cap of 50,000 Reward Points per calendar month for flights & hotels",
+    "Redemption cap of 50,000 Reward Points per calendar month for other reward redemptions",
+    "First Citizen Points capped at 2,000 per month",
+    "Reward points capped at Rs.2000 per month on Shoppers Stop spends & non Shoppers Stop spends"
+  ],
+  "cashback_benefits": [
+    "Cash Back redemption value of 1 Reward point is 0.2 for Mass variant and 0.2 for Premium variant",
+    "Cashback benefits on Shoppers Stop spends",
+    "Cashback benefits on other spends",
+    "Minimum cashback redemption amount: Rs 500",
+    "Cashback at 0.2 Rs per Reward Point when redeemed against statement balance (₹50 redemption fee)"
+  ],
+  "milestone_benefits": [
+    "Reward Points worth ₹2,000 per month for purchases of ₹50,000 or above on Shoppers Stop weekends",
+    "Weekend offer on single purchase of ₹15,000",
+    "Get Rs.10,000 worth FREE shopping in a year",
+    "Earn Rs.2000 per month for a min. purchase of Rs.50,000 on Shoppers Stop over the weekend (capped to maximum once in a month and 5 times in a year)"
+  ],
+  "lounge_access": [
+    "Airport Lounge access",
+    "16 complimentary domestic lounge accesses per year (4 per quarter)",
+    "8 complimentary international lounge accesses per year (2 per quarter)",
+    "16 complimentary domestic lounge accesses per calendar year (4 per quarter)",
+    "8 complimentary international lounge accesses per calendar year (2 per quarter)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Airmiles redemption with a value of 0.25 for Mass variant and up to 0.5 for Premium variant",
+    "Accidental air death cover worth ₹3 Crores",
+    "Emergency overseas hospitalization up to ₹50 lakhs",
+    "Credit liability cover up to ₹9 Lakhs"
+  ],
+  "hotel_benefits": [
+    "Unified SmartBuy (Flights/Hotels) redemption with a value of 0.2 for Mass variant and 0.5 for Premium variant",
+    "Up to 50% of hotel booking value can be paid with Reward Points via SmartBuy"
+  ],
+  "airline_benefits": [
+    "Airmiles redemption with a value of 0.25 for Mass variant and up to 0.5 for Premium variant",
+    "Up to 50% of flight booking value can be paid with Reward Points via SmartBuy"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver up to ₹500 per statement cycle",
+    "1% fuel surcharge waiver on minimum transaction of ₹400 & maximum transaction of ₹5000. Maximum waiver of ₹500 per statement cycle"
+  ],
+  "shopping_benefits": [
+    "Save more on every spend at Shoppers Stop",
+    "Shoppers Stop First Citizen membership",
+    "Weekend shopping offers",
+    "7% Reward Points on Shoppers Stop purchases",
+    "2% Reward Points on non-Shoppers Stop purchases",
+    "Welcome voucher worth ₹1,500",
+    "Shoppers Stop Black membership worth ₹4,500",
+    "Complimentary Shoppers Stop Black membership worth Rs.4,500",
+    "Weekend offer: Earn Rs.1500 per month for a single purchase of Rs.50,000 or above on Shoppers Stop (capped once per month, 5 times per year)"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Accidental air death cover worth ₹3 crore",
+    "Emergency overseas hospitalisation up to ₹50 lakh",
+    "Credit liability cover up to ₹9 lakh",
+    "Accidental air death cover worth ₹3 Crores",
+    "Emergency overseas hospitalization up to ₹50 lakhs",
+    "Credit liability cover up to ₹9 Lakhs"
+  ],
+  "protection_benefits": [
+    "Protection against fraudulent transactions",
+    "Zero Lost Card Liability",
+    "Accidental air death cover worth ₹3 Crores",
+    "Emergency overseas hospitalization up to ₹50 lakhs",
+    "Credit liability cover up to ₹9 Lakhs"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Ability to convert large transactions to SmartEMI",
+    "SmartEMI with attractive interest rates over 9 to 36 months"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 16,
+  "international_lounge_visits_per_year": 8,
+  "guest_lounge_access": null,
+  "reward_rate": [
+    "Product Catalogue: Up to 0.35 for Premium variant",
+    "Airmiles: Up to 0.5 for Premium variant",
+    "Unified SmartBuy (Flights/Hotels): 0.5 for Premium variant"
+  ],
+  "forex_markup": 1,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried applicants: Minimum 21 years, Maximum 60 years, Gross monthly income greater than ₹70,000",
+    "Self-employed applicants: Minimum 21 years, Maximum 65 years, Income Tax Return (ITR) greater than ₹8.4 lakh per annum",
+    "Salaried Applicants: Indian nationality, age 21-60 years, gross monthly income greater than ₹70,000",
+    "Self-Employed Applicants: age 21-65 years, Income Tax Return greater than ₹8.4 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ₹70,000",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ₹8.4 lakh per annum",
+    "Individuals above the age of 21 years",
+    "Salaried Indian, age 21‑60, monthly income ≥ ₹70,000",
+    "Self‑employed Indian, age 21‑65, annual income > ₹8,40,000"
+  ],
+  "income_requirements": [
+    "Salaried: ₹70,000 per month",
+    "Self-employed: ₹8.4 lakh per annum",
+    "Salaried: > ₹70,000 per month",
+    "Self-Employed: > ₹8.4 lakh per annum",
+    "For Salaried Applicants: Gross monthly income greater than ₹70,000",
+    "For Self-Employed Applicants: Income Tax Return (ITR) greater than ₹8.4 lakh per annum",
+    "Monthly income ≥ ₹70,000 for salaried applicants",
+    "Annual income > ₹8,40,000 for self‑employed applicants"
+  ],
+  "documents_required": [
+    "Identity Proof (Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photograph)",
+    "Address Proof (Utility bills, Rental agreement)",
+    "Income Proof (Salary slips, Income Tax Returns, Form 16, Bank statements)"
+  ],
+  "charges": [
+    "Joining/Renewal Membership Fee ₹4,500 + applicable taxes",
+    "1% fee on Rental transactions after the 2nd rental transaction each calendar month",
+    "1% markup on all International DCC transactions",
+    "₹50 redemption fee for cashback redemption",
+    "₹99 + taxes handling charge for reward catalogue redemption"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "1% fuel surcharge waiver up to ₹500 per statement cycle",
+    "1% fee on Rental transactions after the 2nd rental per month",
+    "1% markup on International DCC transactions"
+  ],
+  "spend_conditions": [
+    "Reward Points worth ₹2,000 per month for Shoppers Stop purchases ≥ ₹50,000 on weekends",
+    "Weekend offer on single purchase of ₹15,000",
+    "Minimum transaction amount of INR 150 for reward points eligibility",
+    "Monthly cap of 2000 Reward Points for 7% category"
+  ],
+  "benefit_conditions": [
+    "Fuel surcharge waiver applicable up to ₹500 per statement cycle",
+    "Reward Points on Grocery spends capped at 1,000 points per month",
+    "Domestic lounge access limited to 4 per quarter",
+    "International lounge access limited to 2 per quarter",
+    "Weekend offer limited to once per month and up to 5 times per year"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Shoppers Stop First Citizen Program",
+    "Shoppers Stop Black membership",
+    "Shoppers Stop Silver Edge membership (link provided)"
+  ],
+  "merchant_offers": [
+    "Weekend shopping offers",
+    "Welcome voucher worth ₹1,500 on any Shoppers Stop transaction",
+    "Weekend offers on Shoppers Stop purchases",
+    "Weekend offer: Earn Rs.1500 per month for a single purchase of Rs.50,000 or above on Shoppers Stop",
+    "Welcome voucher Rs.1500 on card receipt"
+  ],
+  "limited_period_offers": [
+    "Weekend offer* (details in document)",
+    "Weekend offer limited to once per month and up to 5 times per year"
+  ],
+  "important_terms": [
+    "Minimum age 21 years, maximum age 60 years for salaried and 65 years for self-employed",
+    "Applicants must have an established credit history; no credit history disqualifies",
+    "Re-application allowed after a six-month cooling period if previously rejected",
+    "Welcome voucher will be sent via WhatsApp by Shoppers Stop post getting the card",
+    "Reward points can be redeemed on HDFC Bank’s Reward redemption portal SmartBuy or Netbanking portal",
+    "Reward Points valid for 2 years",
+    "Fees and charges updated effective 1 Aug 2024",
+    "Product specific T&C and Card Member Agreement applicable",
+    "Reward Points posted monthly based on transaction dates",
+    "Reward Points validity 2 years",
+    "Redemption fee of ₹50 for cashback",
+    "Redemption handling charge of ₹99 + taxes for catalogue redemption",
+    "Minimum redemption balance of 500 Reward Points",
+    "Reward Points capped at 2000 per month for 7% category",
+    "Redemption caps of 50,000 points per month for flights, hotels, and other redemptions"
+  ],
+  "excluded_categories": [
+    "Wallet loading",
+    "EMI Transactions",
+    "Account Fees and Payment",
+    "Purchase of jewelry/gold coins or its equivalents",
+    "Rental category payments",
+    "Government category payments",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Fuel",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travelers’ cheques",
+    "Insurance",
+    "Any other categories as decided from Time to Time",
+    "fuel",
+    "wallet"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\HDFC_Shoppers Stop Black Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\FAQ\\ss-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "Provided Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\TERMS\\card-member-agreement-shoppers-stop-black1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\TERMS\\card-member-agreement-shoppers-stop-black2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\TERMS\\card-member-agreement-shoppers-stop-black3.pdf",
+    "Terms & Conditions – Shoppers Stop Black HDFC Bank Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\TERMS\\SS-Black-T-and-C-latest.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Black Credit Card\\TERMS\\t-and-c-for-shoppers-stop-black.pdf"
+  ]
+}

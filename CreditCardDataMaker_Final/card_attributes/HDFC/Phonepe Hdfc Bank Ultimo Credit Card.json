@@ -1,0 +1,191 @@
+{
+  "card_name": "Phonepe Hdfc Bank Ultimo Credit Card",
+  "card_network": "Rupay",
+  "card_type": "Credit Card",
+  "joining_fee": 999,
+  "annual_fee": 999,
+  "fee_waiver_condition": "Waived on ₹2 lakh annual spend",
+  "welcome_benefits": [
+    "Get PhonePe Gift card ₹499 on your first Rupay CC on UPI transaction.",
+    "Additional Scratch cards worth ₹50 each on your next 10 Rupay CC on UPI transactions.",
+    "PhonePe Gift card ₹499 on your first Rupay CC on UPI transaction",
+    "Additional Scratch cards worth ₹50 each on your next 10 Rupay CC on UPI transactions",
+    "₹499 gift voucher after first Rupay CC on UPI payment on PhonePe app",
+    "Scratch cards worth ₹50 each for next 10 Rupay CC on UPI payments on PhonePe",
+    "Get PhonePe Gift card ₹499 on your first RuPay CC on UPI transaction.",
+    "Additional Scratch cards worth ₹50 each on your next 10 RuPay CC on UPI transactions.",
+    "Rs 499 PhonePe Gift Card on first Rupay CC on UPI transaction",
+    "Rs 50 scratch cards for 10 subsequent Rupay CC on UPI transactions"
+  ],
+  "reward_structure": [
+    "Get 10% Reward Points on select PhonePe Categories Spends.",
+    "Get 5% Reward Points on select online brands Spends.",
+    "Get 1% Reward Points on UPI Scan & Pay.",
+    "10% Reward Points on select PhonePe Categories Spends",
+    "5% Reward Points on select online brands Spends",
+    "1% Reward Points on UPI Scan & Pay",
+    "10% Reward Points on PhonePe categories (Recharges & Bills, Travel & Stays)",
+    "5% Reward Points on Online Brands (Amazon, Flipkart, Myntra, Ajio, Uber, Swiggy, Zomato)",
+    "1% Reward Points on Scan & Pay spends",
+    "10% Reward Points on select PhonePe Categories Spends.",
+    "5% Reward Points on select online brands Spends.",
+    "1% Reward Points on UPI Scan & Pay.",
+    "10% Reward Points on PhonePe categories (Recharges & Bills, Travel & Stays) capped at 1000 points/month",
+    "5% Reward Points on select online brands (Amazon, Flipkart, Myntra, Ajio, Uber, Swiggy, Zomato) capped at 500 points/month",
+    "1% Reward Points on all Scan and Pay spends (Rupay CC on UPI) capped at 500 points/month"
+  ],
+  "reward_redemption_options": [
+    "Cashback against statement balance via HDFC Bank Netbanking portal",
+    "Towards HDFC Bank SmartBuy platform offerings",
+    "Cashback against credit card balance via HDFC Bank Netbanking portal (1 point = Re.1)",
+    "Redemption on HDFC Bank SmartBuy platform (1 point = Re.0.3)"
+  ],
+  "reward_exclusions": [
+    "EMI transactions",
+    "Fuel, wallet load, gift cards, cash advances, credit card bill payments, charges, government payments, rental transactions, education fees, insurance, investments, jewelry purchases",
+    "Fuel",
+    "Wallet load",
+    "Gift cards",
+    "Cash advances",
+    "Credit card bill payments",
+    "Charges",
+    "Government payments",
+    "Rental transactions",
+    "Education fees",
+    "Insurance",
+    "Investments",
+    "Jewelry purchases"
+  ],
+  "reward_caps": [
+    "1000 Reward Points per calendar month on PhonePe categories",
+    "500 Reward Points per calendar month on Online Brands",
+    "500 Reward Points per calendar month on Scan & Pay",
+    "1000 Reward Points per calendar month for PhonePe categories",
+    "500 Reward Points per calendar month for online brands",
+    "500 Reward Points per calendar month for Scan and Pay spends"
+  ],
+  "cashback_benefits": [
+    "1 Reward Point = ₹1 when redeemed as cashback",
+    "1 Reward Point = ₹0.3 on SmartBuy platform"
+  ],
+  "milestone_benefits": [
+    "8 complimentary domestic lounge accesses per year (2 per quarter) on spends of ₹75,000 or more in a calendar quarter"
+  ],
+  "lounge_access": [
+    "8 complimentary domestic lounge visits per year (2 per quarter) on ₹75,000+ quarterly spend",
+    "Up to 8 domestic airport lounge visits per calendar year (2 per quarter)",
+    "Two complimentary domestic lounge access every calendar quarter",
+    "Additional two complimentary domestic lounge access (excluding first quarter of card issuance) on minimum spends of Rs. 75,000 in the previous calendar quarter",
+    "8 complimentary domestic lounge accesses (2 per quarter) on spends of Rs 75,000 or more in a calendar quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions between ₹400-₹5,000 (max ₹250 per statement cycle)",
+    "Fuel surcharge waiver of 1% on all fuel transactions between Rs. 400 to Rs. 5,000 (maximum waiver of INR 250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% on transactions between ₹400-₹5,000 (max ₹250 per statement cycle)",
+  "eligibility": [
+    "Spend ₹75,000 or more in a calendar quarter to qualify for domestic lounge voucher"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "1% fuel surcharge waiver on minimum transaction of ₹400 & maximum transaction of ₹5000. Maximum waiver of ₹250 per statement cycle",
+    "3.5% Foreign Currency Transactions % Of transaction value"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining fee: ₹999 + applicable taxes",
+    "Annual fee: ₹999 + applicable taxes (waived on ₹2 lakh annual spend)",
+    "1% fuel surcharge waiver on minimum transaction of ₹400 & maximum transaction of ₹5000. Maximum waiver of ₹250 per statement cycle",
+    "3.5% Foreign Currency Transactions % Of transaction value"
+  ],
+  "spend_conditions": [
+    "Minimum transaction of ₹100 to be eligible for Welcome Benefits",
+    "Cashback not applicable in multi-instrument transactions where value via this card is less than ₹100",
+    "Cash advances",
+    "Credit card fees or any charges",
+    "All EMI spends",
+    "Minimum transaction of Rs 100 to be eligible for Welcome Benefits",
+    "Cashback not applicable if transaction value via this card is less than ₹100 in multi-instrument transactions"
+  ],
+  "benefit_conditions": [
+    "Reward points expire after 2 years from accumulation date",
+    "Maximum cashback redemption of ₹7,500 per calendar month",
+    "Domestic lounge access is milestone-based; spend ₹75,000 in a quarter",
+    "Reward Points credited once, on or before 15th of every month for eligible transactions settled in the previous calendar month",
+    "Unredeemed Reward Points will expire/lapse after 2 years from the date of accumulation",
+    "Maximum cashback redemption of Rs 7,500 per calendar month"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward points credited once, on or before 15th of every month for eligible transactions settled in the previous calendar month",
+    "Exceptional scenario: Reward points for eligible transactions not posted in the regular cycle may be credited up to 60 days from the transaction month",
+    "Voucher must be claimed within 120 days of receipt",
+    "Voucher is non-transferable and cannot be encashed",
+    "Additional charges may apply for meals, alcoholic drinks, nap, massage, spa at lounges",
+    "Bank may alter, cancel, or amend eligibility or benefits at any time without notice",
+    "Reward Points are credited once, on or before 15th of every month for eligible transactions that are settled in the previous calendar month",
+    "Reward Points in the statement may differ due to the difference between the rewards posting cycle and the statement cycle",
+    "Accrued reward points become available for redemption only after the statement is generated"
+  ],
+  "excluded_categories": [
+    "Cash advances",
+    "Credit card fees or any charges",
+    "All EMI spends",
+    "Fuel, wallet load, gift cards, cash advances, credit card bill payments, charges, government payments, rental transactions, education fees, insurance, investments, jewelry purchases",
+    "EMI transactions",
+    "Fuel",
+    "Wallet load",
+    "Gift cards",
+    "Credit card bill payments",
+    "Charges",
+    "Government payments",
+    "Rental transactions",
+    "Education fees",
+    "Insurance",
+    "Investments",
+    "Jewelry purchases"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\HDFC_Phonepe Hdfc Bank Ultimo Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\FAQ\\ultimo-faqs.pdf",
+    "Version 2 (9th Apr’26) Classification - Internal",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\LOUNGE\\phonepe-ultimo-cc-lounge-access-t-and-cs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\REWARDS\\phonepe-ultimo-cc-reward-points-t-cs-v-3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\TERMS\\phonepe-hdfc-bank-ultimo-credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\TERMS\\phonepe-hdfc-bank-ultimo-credit-card-member-agreement2.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Ultimo Credit Card\\TERMS\\phonepe-hdfc-bank-ultimo-credit-card-member-agreement3.pdf"
+  ]
+}

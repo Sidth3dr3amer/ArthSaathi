@@ -1,0 +1,156 @@
+{
+  "card_name": "Irctc Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Spend ₹1.5 lakh or more in a year before the renewal date to get the renewal fee waived",
+  "welcome_benefits": [
+    "Welcome Gift voucher worth INR 500 on card activation by performing 1 transaction of any amount within first 37 days of card issuance (for cards issued from 1st Oct’25 to 31st Dec’25)"
+  ],
+  "reward_structure": [
+    "5 Reward Points for every Rs. 100 spends on Train ticket booking on IRCTC Website/IRCTC Railconnect App",
+    "5 Reward Points for every Rs. 100 spends on Train ticket booking on HDFC Bank Smartbuy portal",
+    "1 Reward Point for every Rs. 100 spends on other spends"
+  ],
+  "reward_redemption_options": [
+    "Reward Points can be used for Train ticket booking via HDFC Bank SmartBuy"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Government and Rental pay transactions",
+    "Education",
+    "Smart EMI / Dial an EMI transaction",
+    "Interest amount of Merchant EMI",
+    "Prepaid card/gift Card/ wallet load and / or voucher purchases",
+    "Merchant Category Code (MCC) of 6540",
+    "Fuel, Wallet, Rent, Government, Online Skill based Gaming"
+  ],
+  "reward_caps": [
+    "5X Reward Points on IRCTC spends capped at 1000 Reward Points per month and 12000 Reward Points Annually",
+    "Reward points on UPI transactions capped at 500 per calendar month",
+    "Reward Points on grocery capped at 1000 Reward Points per month and 12000 Reward Points Annually",
+    "Reward Points on other spends capped at 1000 Reward Points per month and 12000 Reward Points Annually"
+  ],
+  "cashback_benefits": [
+    "5% Cashback on IRCTC Train Ticket booking made via HDFC Bank SmartBuy",
+    "5% Cashback capped at INR 1000 per month and INR 12000 Annually"
+  ],
+  "milestone_benefits": [
+    "Gift Voucher worth INR 500 on quarterly (every 90 days) spends of INR 30,000 or more (cards issued till 30th Sep'25)",
+    "Gift voucher worth INR 500 every calendar quarter on spends of INR 30,000 or more (cards issued from 1st Oct'25 onwards)"
+  ],
+  "lounge_access": [
+    "Complimentary IRCTC Executive Lounge access on select Railway Stations",
+    "8 complimentary access to select IRCTC Executive Lounges every year (2 per quarter)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": true,
+  "eligibility": [
+    "For Salaried Applicants: Nationality - Indian, Age - Minimum 21 years, Maximum 60 years, Income - Gross monthly income greater than ₹25,000",
+    "For Self-Employed Applicants: Age - Minimum 21 years, Maximum 65 years, Income - Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years",
+    "For Salaried Applicants: Nationality Indian, Age 21-60 years, Gross monthly income greater than 25,000 INR",
+    "For Self-Employed Applicants: Age 21-65 years, Income Tax Return (ITR) greater than 6 lakh per annum"
+  ],
+  "income_requirements": [
+    "Gross monthly income greater than ₹25,000 for salaried applicants",
+    "Income Tax Return (ITR) greater than ₹6 lakh per annum for self-employed applicants",
+    "For Salaried Applicants: Gross monthly income greater than ₹25,000",
+    "For Self-Employed Applicants: Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "Gross monthly income > 25,000 INR (salaried)",
+    "ITR > 6 lakh per annum (self-employed)"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Rs 2/- will be charged from the customer’s account to validate the card for complimentary lounge access.",
+    "1% Transaction surcharge reversed on bookings made via IRCTC Website/Mobile App, Railconnect app/website or HDFC Bank smartbuy website (capped at maximum INR 1000 per month)"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining fee of INR 500+ Applicable taxes will be levied on the 45th day from the date of card issuance",
+    "Renewal fee of INR 500 + GST applicable will be waived on spends of INR 1,50,000 or more in a year before Renewal Fee date"
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [
+    "Eligible cardholders must present their valid, unexpired eligible cards and valid train travel ticket at the entrance to the participating lounges to avail the benefit.",
+    "Access to the lounge will be available on a first-come-first-serve basis.",
+    "Participating lounges reserve the right to enforce a maximum stay policy (usually 2 or 3 hours).",
+    "The service is only available for the intended customer and is non-transferable.",
+    "Customer is responsible for directly paying any additional products/services charges, if any, to the operator."
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived on spends of INR 1,50,000 or more in a year before Renewal Fee date"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The access to the lounge will be available on a first-come-first-serve basis.",
+    "Participating lounges reserve the right to enforce a maximum stay policy (usually 2 or 3 hours).",
+    "Access to/usage of service(s) may be subject to terms/conditions/restrictions imposed by the lounge and/or governing authorities.",
+    "The provision of complimentary food/drinks (whether alcoholic, or others) - if applicable as part of service, subject to wherever local law permits, is at the discretion of each participating lounge operator.",
+    "Lounge staff has the right to terminate the Customer’s visit early, or to refuse entry to a Customer who is either intoxicated or behaving in a disorderly fashion."
+  ],
+  "excluded_categories": [
+    "Fuel Spends",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Government and Rental pay transactions",
+    "Education",
+    "Smart EMI / Dial an EMI transaction",
+    "Interest amount of Merchant EMI",
+    "Prepaid card/gift Card/ wallet load and / or voucher purchases",
+    "Merchant Category Code (MCC) of 6540",
+    "Fuel, Wallet, Rent, Government, Online Skill based Gaming"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\HDFC_Irctc Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\summary.txt",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\LOUNGE\\lounge.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\TERMS\\irctc-tnc-09-10-25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\TERMS\\terms-and-conditions-irctc-hdfc-bank-credit-card.pdf",
+    "Terms & Conditions – IRCTC HDFC Bank Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\TERMS\\terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Irctc Credit Card\\TERMS\\Terms-and-Conditionss.pdf"
+  ]
+}

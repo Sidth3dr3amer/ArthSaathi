@@ -1,0 +1,106 @@
+{
+  "card_name": "Titanium Edge Credit Card",
+  "card_network": null,
+  "card_type": "Premium & Super Premium Credit Card",
+  "joining_fee": null,
+  "annual_fee": "Membership renewal fee waiver on spending ₹50,000 within a year",
+  "fee_waiver_condition": "Spend ₹50,000 within a year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "2 Reward Points for every ₹200 spent",
+    "50% more Reward Points on Dining expenses"
+  ],
+  "reward_redemption_options": [
+    "100 Reward Points = ₹10 for CashBack redemption against outstanding Credit Card amount"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "Get ₹1,000 CashBack on shopping in-app over 200+ brands"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "50% more Reward Points on Dining expenses"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "100% fuel surcharge waiver (Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [
+    "Get ₹1,000 CashBack on shopping in-app over 200+ brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero liability on lost card if reported immediately"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "100% fuel surcharge waiver (Maximum waiver of ₹250 per statement cycle)",
+  "eligibility": [
+    "Salaried employees: age 21 to 60 years",
+    "Self-employed individuals: age 21 to 65 years",
+    "Minimum age requirement: 21 years",
+    "Salaried employees Age: Minimum 21 years and maximum 60 years",
+    "Self-employed Age: Minimum 21 years and maximum 65 years",
+    "Minimum age criteria: 21 years old",
+    "For salaried employees: Age: Minimum 21 years and maximum 60 years.",
+    "For self-employed: Age: Minimum 21 years and maximum 65 years."
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fee of 2.5%, with a minimum of ₹500, is applied to all cash withdrawals"
+  ],
+  "interest_rates": [
+    "3.49% interest per month on any unpaid balance carried past the due date of the bill"
+  ],
+  "fees_and_penalties": [
+    "Annual fee",
+    "Cash advance fee of 2.5%",
+    "Interest of 3.49% per month on unpaid balance",
+    "Cash advance fee of 2.5%, with a minimum of ₹500, is applied to all cash withdrawals",
+    "3.49% interest per month on any unpaid balance carried past the due date of the bill"
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [
+    "Membership renewal fee waiver on spending ₹50,000 within a year",
+    "100% fuel surcharge waiver (Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "renewal_benefits": [
+    "Membership renewal fee waiver on spending ₹50,000 within a year"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Zero liability for fraudulent transactions if reported immediately to HDFC Bank’s 24/7 Call Centre"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\HDFC_Titanium Edge Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Edge Credit Card\\MITC\\mitc-in-english5.pdf"
+  ]
+}

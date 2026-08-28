@@ -1,0 +1,196 @@
+{
+  "card_name": "Money Back Credit Card",
+  "card_network": null,
+  "card_type": "CashBack Credit Card",
+  "joining_fee": "₹50,000",
+  "annual_fee": "₹50,000",
+  "fee_waiver_condition": "₹50,000 / Annum",
+  "welcome_benefits": [
+    "500 reward points upon card activation"
+  ],
+  "reward_structure": [
+    "2 reward points for every 150 spent",
+    "2X rewards for online transactions (equivalent to 4 RP per 150 spent online)",
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "cap": "₹15,000 per calendar month",
+      "conditions": "Across all other spends"
+    },
+    {
+      "category": "All categories",
+      "reward_rate": "2 points per ₹200 spent"
+    }
+  ],
+  "reward_redemption_options": [
+    "Redeem reward points via NetBanking or by filling out a form at any branch",
+    "Redeem reward points for up to 50% on flights & hotels",
+    "Redeem up to 70% of product/voucher value with points",
+    "Redeem through PayZapp Mobile App"
+  ],
+  "reward_exclusions": [
+    "Rent and government-related transactions",
+    "Fraudulent transactions",
+    "Fuel",
+    "EMI",
+    "Rent payments",
+    "E-wallet loading",
+    "Government-related transactions",
+    "Insurance transactions (capped at ₹2,000 per month)",
+    "Online skill-based gaming transactions"
+  ],
+  "reward_caps": [
+    "15,000 reward points per statement cycle",
+    "1,000 reward points per month for grocery transactions",
+    "500 reward points per statement cycle",
+    "1,000 reward points on grocery transactions per month",
+    "15,000 reward points per cycle",
+    "500 points monthly on additional 2 RP per 150 from 2X feature",
+    "₹15,000 per calendar month for 1% unlimited Cashback"
+  ],
+  "cashback_benefits": [
+    "10% cashback on flight and hotel bookings, gift vouchers and more on the MoneyBack Credit Card via SmartBuy",
+    "1,000 CashBack on shopping in-app over 200+ brands",
+    "1% Cashback on all other spends (capped at ₹15,000 per month)"
+  ],
+  "milestone_benefits": [
+    "500 e-voucher upon 50,000 quarterly spends"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    {
+      "forex_markup": "1.75%"
+    }
+  ],
+  "dining_benefits": [
+    "20% off on Swiggy Dineout"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on 400-5,000 transaction amount (capped at 250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero liability for fraud transactions by reporting lost card"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "100 RP = 20",
+  "forex_markup": "1.75%",
+  "fuel_surcharge_waiver": "1% on 400-5,000 transaction amount (capped at 250 per statement cycle)",
+  "eligibility": [
+    "For a salaried Indian national: Age 21-60 years, Gross Monthly Income > ₹20,000",
+    "For a self-employed Indian national: Age 21-65 years, Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Salaried Indian national: Minimum 21 years and maximum 60 years",
+    "Self-employed Indian national: Minimum 21 years and maximum 65 years",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years.",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years.",
+    "Delinquent customers are ineligible"
+  ],
+  "income_requirements": [
+    "Salaried: Gross Monthly Income > ₹20,000",
+    "Self-employed: Annual ITR > ₹6 lakh",
+    "Self-employed: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "For a salaried Indian national: Gross Monthly Income: > ₹20,000",
+    "For a self-employed Indian national: Income Tax Return (ITR): > ₹6 lakh per annum"
+  ],
+  "documents_required": [],
+  "charges": [
+    "2.5% of the withdrawn amount or a minimum of ₹500 (whichever is higher) on cash withdrawal",
+    "Joining Membership Fee: 500 plus applicable taxes",
+    "Membership Renewal Fee 2nd year onwards: 500 plus applicable taxes",
+    "1% fee will be levied on Fuel transaction exceeding Rs 15,000 for consumer cards Rs.30,000 for business cards Fee will be applied on the total transacted amount. Fee capped at Rs 4999 per transaction.",
+    "1% fee will be levied on utility spends exceeding Rs 50,000 per Calendar month for consumer cards Rs.75,000 per Calendar month for business cards . Fee will be applied on the total Utility spends in a calendar month. Fee capped at Rs 4999 per month.",
+    "1% fee will be levied on Education transactions done through third party applications like (but not limited to ) CRED, Nobroker, Cheq etc.Fee capped at Rs 4999 per transaction",
+    "1% fee will be levied on Online Skill based gaming spends exceeding Rs 10,000 in a calendar month.Fee will be applied on the total Online skill-based gaming spends in a calendar month. Fee capped at Rs 4999 per month.",
+    "1% fee will be levied on Wallet loading spends exceeding Rs 10,000 in a calendar month. Fee will be applied on the total wallet loading spends in a calendar month Fee capped at Rs 4999 per month.",
+    {
+      "type": "Card re-issuance fee",
+      "amount": "₹199 for non-metal card variants"
+    }
+  ],
+  "interest_rates": [
+    "3.6% per month",
+    "Nominal interest rate (details in fees and charges section)",
+    "Monthly: 3.75%",
+    "Annually: 45.0%"
+  ],
+  "fees_and_penalties": [
+    "Joining/Renewal: ₹500 plus applicable taxes",
+    "Annual Fee: ₹500 plus applicable taxes",
+    "500 renewal fee waived on 50,000+ annual spends",
+    "1% fee will be levied on Fuel transaction exceeding Rs 15,000 for consumer cards Rs.30,000 for business cards Fee will be applied on the total transacted amount. Fee capped at Rs 4999 per transaction.",
+    "1% fee will be levied on utility spends exceeding Rs 50,000 per Calendar month for consumer cards Rs.75,000 per Calendar month for business cards . Fee will be applied on the total Utility spends in a calendar month. Fee capped at Rs 4999 per month.",
+    "1% fee will be levied on Education transactions done through third party applications like (but not limited to ) CRED, Nobroker, Cheq etc.Fee capped at Rs 4999 per transaction",
+    "1% fee will be levied on Online Skill based gaming spends exceeding Rs 10,000 in a calendar month.Fee will be applied on the total Online skill-based gaming spends in a calendar month. Fee capped at Rs 4999 per month.",
+    "1% fee will be levied on Wallet loading spends exceeding Rs 10,000 in a calendar month. Fee will be applied on the total wallet loading spends in a calendar month Fee capped at Rs 4999 per month."
+  ],
+  "spend_conditions": [
+    "Retail transactions only",
+    "Cash transactions, Dial-An-EMI, Cash-on-Call, Balance Transfer, Personal Loan on Credit Card are ineligible"
+  ],
+  "benefit_conditions": [
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 (Six) months after prior written notice is sent on the email address and/or phone number and/or communication address, registered in the records of the Bank.",
+    "2,500 minimum reward points to redeem against the statement",
+    "Unredeemed reward points expire after 2 years"
+  ],
+  "renewal_benefits": [
+    "500 renewal fee waived on 50,000+ annual spends"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [
+    "E-vouchers from Pizza Hut, Book My Show, Big Bazaar, Bata, Levis, Woodland, Mainland China, and Myntra"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Contactless payments up to 5,000 don't require a PIN for a single transaction",
+    "For amounts 5,000 or more, the Cardholder must enter the Credit Card PIN",
+    "In case of upgrade/downgrade, spends calculation for Quarterly spending benefits on the new MoneyBack Credit Card variant will start from the date of upgrade/downgrade",
+    "Reward Points are valid for 2 years from the date of accumulation",
+    "CashPoints accrued will be reversed if a retail transaction is converted into EMI",
+    "CashPoints accrued for insurance transactions have a maximum cap of ₹2,000 per month",
+    "Online skill-based gaming transactions will not earn CashPoints",
+    "If the Credit Card is not used for more than 365 days, CashPoints accrued will be nullified",
+    "CashPoints earned but not redeemed at the time of death of the Cardmember shall be forfeited"
+  ],
+  "excluded_categories": [
+    "Rent and government-related transactions",
+    "Fraudulent transactions",
+    "Fuel",
+    "EMI",
+    "Rent payments",
+    "E-wallet loading",
+    "Government-related transactions",
+    "Insurance transactions",
+    "Online skill-based gaming transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\HDFC_Money Back Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\FEES\\fees-and-charges1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\FEES\\fees-and-charges2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\FEES\\fees-and-charges3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\FEES\\fees-and-charges4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Money Back Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

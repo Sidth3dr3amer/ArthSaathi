@@ -1,0 +1,263 @@
+{
+  "card_name": "Pride Platinum Credit Card",
+  "card_network": null,
+  "card_type": "Platinum",
+  "joining_fee": "Nil",
+  "annual_fee": "₹250 (Waived on spends of ₹20,000 in the preceding year)",
+  "fee_waiver_condition": "Waived on spends of ₹20,000 in the preceding year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "4 points on every ₹200 spent on the Credit Card",
+    "4 points per ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem EDGE REWARDS Points for 500+ rewards and offers",
+    "EDGE REWARDS Catalogue (free redemption)",
+    "EDGE REWARDS Catalogue"
+  ],
+  "reward_exclusions": [
+    "No EDGE REWARD Points are earned on fuel transactions made using the credit card",
+    "Fuel transactions do not earn EDGE REWARD Points",
+    "fuel transactions",
+    "Educational Services",
+    "Insurance",
+    "Government Institutions",
+    "Wallet",
+    "Rent",
+    "Fuel"
+  ],
+  "reward_caps": [
+    "Maximum benefits up to ₹250 per statement cycle"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "15% off flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "15% off flights & hotels via MakeMyTrip",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "15% off flights & hotels via MakeMyTrip"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "15% discount at partnered restaurants (up to ₹500, minimum order ₹2500, valid once per card per month)",
+    "15% discount at partnered restaurants (up to ₹500, minimum order ₹2,500, once per month)",
+    "15% discount at partnered restaurants",
+    "Dining Delights membership"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on all fuel transactions in India (up to ₹250 per statement cycle)",
+    "1% fuel surcharge waiver up to ₹250 per statement cycle",
+    "1% fuel surcharge waiver on all fuel transactions in India",
+    "fuel surcharge waiver up to ₹250",
+    {
+      "fuel_surcharge_waiver": "1% of transaction amount (Refunded for fuel transactions Between INR 400 to INR 4,000. Maximum benefits up to INR 250 per Statement Cycle)"
+    }
+  ],
+  "shopping_benefits": [
+    "10% off upto ₹1000 on Tira",
+    "10% off on orders via Swiggy"
+  ],
+  "entertainment_benefits": [
+    "10% off on orders via Swiggy"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero Lost Card Liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI on transactions over ₹2,500",
+    "convert purchases to EMI on transactions over ₹2500"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4 points per ₹200 spent",
+  "forex_markup": 1.5,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on all fuel transactions in India (up to ₹250 per statement cycle)",
+  "eligibility": [
+    "Primary cardholder should be between the age of 18 and 70 years",
+    "Add-on cardholder should be over 18 years",
+    "Individual should either be a Resident of India or Non-Resident Indian",
+    "Primary cardholder age 18-70 years",
+    "Add-on cardholder age over 18 years",
+    "Resident of India or Non-Resident Indian"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN card photocopy or Form 97",
+    "Colour photograph",
+    "Latest payslip/Form 16/IT return copy as proof of income",
+    "Residential proof (Passport, Ration Card, Electricity bill, Landline telephone bill)",
+    "Identity proof (Passport, Driving license, PAN card, Aadhaar card)",
+    "Latest payslip/Form 16/IT return copy",
+    "Residential proof",
+    "Identity proof"
+  ],
+  "charges": [
+    "Cash Payment Fee: ₹175",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the Cash Amount",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction fee: 1% fee per transaction",
+    "Education Payment Charges: 1% fee per transaction",
+    "Wallet Load Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more per statement cycle",
+    "Fuel Transaction Fee: 1% fee on cumulative spends of ₹50,000 or more per statement cycle",
+    "Utility Transaction Fee: 1% fee on cumulative spends of ₹25,000 or more per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more per statement cycle",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500)",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Overdue Penalty: Nil if total due < ₹500, ₹500 if ₹501-5,000, ₹750 if ₹5,001-10,000, ₹1,200 if >₹10,000",
+    "Additional ₹100 charge for not paying Minimum Amount Due for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of over limit amount (Min. ₹500)",
+    "Cheque return or dishonour Fee: 2% of payment amount (Min. ₹500)",
+    "Foreign Currency Transaction Fee: 3.5% of transaction value",
+    "Reward Redemption fee: Yes",
+    "Rent Transaction fee: 1% per transaction",
+    "Wallet Load Transaction Fee: 1% on cumulative spends ≥₹10,000 per statement cycle",
+    "Fuel Transaction Fee: 1% on cumulative spends ≥₹50,000 per statement cycle",
+    "Utility Transaction Fee: 1% on cumulative spends ≥₹25,000 per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% on cumulative spends ≥₹10,000 per statement cycle",
+    "Overdue Penalty or Late Payment Fee",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. ₹500",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle",
+    {
+      "fuel_transaction_surcharge": "1% of transaction amount"
+    },
+    "Cash payment fee of INR 175 per payment transaction",
+    "Outstation cheques/drafts may attract a processing fee"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Finance Charges: 3.75% per month (55.55% per annum)",
+    {
+      "overdue_interest_on_extended_credit": "3.75% per month",
+      "annual_rate": "55.55% per annum",
+      "interest_on_cash_advances": "3.75% per month"
+    }
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if between ₹501 - ₹5,000, ₹750 if between ₹5,01 - ₹10,000, ₹1200 if greater than ₹10,000. Additional ₹100 if MAD not paid for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal: 2% of the payment amount (Min. ₹500)",
+    "Overdue Penalty schedule as described in charges",
+    "Over Limit Penalty as described in charges",
+    "Cheque return or dishonour Fee as described in charges",
+    "Foreign Currency Transaction Fee: 3.5% of transaction value",
+    "Overdue Penalty or Late Payment Fee: ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000",
+    "Cash payment fee of INR 175 per payment transaction",
+    "Penal charges as applicable on card variant"
+  ],
+  "spend_conditions": [
+    "Annual fee waiver on spends of ₹20,000 in preceding year",
+    "Fuel surcharge waiver up to ₹250 per statement cycle",
+    "Dining discount minimum order ₹2,500, up to ₹500 discount, once per card per month",
+    "spends of ₹20,000 in the preceding year for annual fee waiver"
+  ],
+  "benefit_conditions": [
+    "15% discount at partnered restaurants (up to ₹500, minimum order ₹2500, valid once per card per month)",
+    "Fuel surcharge waiver up to ₹250 per statement cycle",
+    "No EDGE REWARD Points on fuel transactions",
+    "Dining discount applicable only once per card per month with minimum order ₹2,500",
+    "Reward points not earned on fuel transactions",
+    "Wednesday Delight: valid on transactions between ₹400 and ₹4,000 only, maximum benefits up to ₹250 per statement cycle"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Dining Delights",
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira",
+    "Axis Bank Dining Delights"
+  ],
+  "merchant_offers": [
+    "15% discount at partnered restaurants",
+    "10% off on orders via Swiggy",
+    "10% off upto ₹1000 on Tira",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "Axis Bank Dining Delights",
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight offers"
+  ],
+  "important_terms": [
+    "Zero Lost Card Liability",
+    "Report lost/stolen card immediately by calling 1860 500 5555 or 1860 419 5555",
+    "GST charged on fuel surcharge is non-refundable",
+    "Terms and Conditions apply as per card member agreement clause no. 18",
+    "Terms and conditions apply",
+    "Maximum length for card embossing is 19 characters",
+    "Bank can change features and benefits with 30 days prior communication",
+    "Card must be activated within 30 days from issuance or it will be deactivated",
+    "Card closed if not used for more than one year",
+    "Welcome benefit available only once per lifetime",
+    "Annual fee reversal not accepted if card used after levy",
+    "Unredeemed EDGE REWARD Points/Miles forfeited 30 days after closure or if dues outstanding > 90 days (Effective 1st Oct 2025)",
+    "Cash payment TAT: same day",
+    "Cheque/Draft payment TAT: Axis Bank 1 working day, Other bank 3-5 working days",
+    "Internet payment TAT: 1 working day",
+    "Auto-Debit TAT: 1 working day",
+    "Click to Pay TAT: 3 working days",
+    "NEFT TAT: 1 working day",
+    "VMT TAT: 2 working days",
+    "ATM payment TAT: 1 working day",
+    "IMPS TAT: same day",
+    "NACH mandate executed 1 day prior to due date",
+    "Termination effective only after payment of all dues",
+    "Finance charges applicable till outstanding cleared",
+    "Negative reward points converted to statement debit",
+    "No pro-rata refund of annual, joining or renewal fees",
+    "Lost card liability limited to amount covered under policy",
+    "Air Accident Cover discontinued w.e.f. 31st October 2022",
+    "Zero Lost Card Liability covers fraudulent purchase transactions 30 days prior to reporting",
+    "Purchase Protection covers fire/burglary within 90 days",
+    "Price Protection covers difference in price for items > INR 2500 on Amazon/Flipkart",
+    "Credit Shield covers outstanding in event of accidental death",
+    "Delay in Check-in Baggage covers overseas travel if ticket purchased on card",
+    "Loss of Check-in Baggage covers overseas travel if ticket purchased on card",
+    "Loss of Travel Documents covers costs for lost passport",
+    "Grace period of 3 days from payment due date",
+    "Account reported as 'past due' to CICs if overdue > 3 days"
+  ],
+  "excluded_categories": [
+    "Rent transactions (MCC 6513) and wallet load transactions (MCC 6540) are not eligible for annual fee waiver",
+    "Fuel transactions do not earn EDGE REWARD Points",
+    "Rent transactions not counted for annual fee waiver",
+    "Rent transactions (MCC 6513)",
+    "Wallet load transactions (MCC 6540)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\AXIS_Pride Platinum Credit Card_summary.txt",
+    "Provided Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\MITC\\mitc-credit-cards7.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\REWARDS\\pride-platinum-edge-rewards-mcc-exclusions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\TERMS\\credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\TERMS\\credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Pride Platinum Credit Card\\TERMS\\credit-card-member-agreement3.pdf"
+  ]
+}

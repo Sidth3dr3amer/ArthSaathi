@@ -1,0 +1,227 @@
+{
+  "card_name": "Diamond Reserve Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 3000,
+  "annual_fee": 3000,
+  "fee_waiver_condition": "waived off on ₹6L of annual spends",
+  "welcome_benefits": [
+    "₹500 Welcome Gift Voucher",
+    "100% cashback up to ₹200 (Limited period offer)",
+    "5% Cashback on EMI",
+    "Fuel Surcharge Waiver",
+    "Comprehensive Insurance Cover",
+    "24x7 Roadside Assistance (RSA)",
+    "/uni20B9500 gift voucher from choice of brands like - Amazon, Bigbasket, Uber and Lifestyle on spending /uni20B95,000 within 30 days of card generation",
+    "/uni20B9500 GIFT VOUCHER FROM YOUR FAVOURITE BRANDS: Enjoy 5% cashback of up to /uni20B91,000 on your first EMI transaction within the first 30 days card generation",
+    "UP TO /uni20B91,000 CASHBACK ON YOUR FIRST EMI TRANSACTION"
+  ],
+  "reward_structure": [
+    "10X reward points for incremental spends above ₹20,000 in a statement cycle and on your birthday",
+    "3X reward points on spends up to ₹20,000 in a statement cycle",
+    "3X reward points on Education, Wallet Load, Government, Rent and Property Management/Purchase transactions",
+    "1X reward point on Utilities, Insurance, Railway and Fastag",
+    "10% Value back: Earn up to 60 Reward Points on hotel bookings",
+    "5% Value back: Earn up to 30 Reward Points on flight bookings",
+    "1.6% Value back: Earn up to 10 Reward Points on your monthly spends",
+    "Never-expiring reward points",
+    "Reward Points redeemable as good as cash",
+    "Earn up to 10x Reward Points on foreign currency spends",
+    "Earn up to 4x Reward Points on cloud storage & digital marketing spends"
+  ],
+  "reward_redemption_options": [
+    "Pay with points online or at stores"
+  ],
+  "reward_exclusions": [
+    "International spends",
+    "Spends converted to EMI",
+    "Cash Withdrawal",
+    "Fuel",
+    "Fee and Charges"
+  ],
+  "reward_caps": [
+    "Earn Milestone Rewards of 5,000 Reward Points on ₹10 lakhs spends in a year",
+    "Earn Milestone Rewards of 10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "cashback_benefits": [
+    "5% Cashback on EMI (up to ₹1,000 on first EMI transaction)",
+    "5% Cashback on EMI",
+    "5% cashback of up to /uni20B91,000 on your first EMI transaction within the first 30 days card generation"
+  ],
+  "milestone_benefits": [
+    "Earn Milestone Rewards of 5,000 Reward Points on ₹10 lakhs spends in a year",
+    "Earn Milestone Rewards of 10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "lounge_access": [
+    "2 complimentary visits per quarter to domestic airport terminals in India",
+    "2 complimentary visits per quarter to overseas lounge terminals",
+    "2 complimentary visits per quarter to lounges and spas at domestic airport terminals in India",
+    "2 domestic and 2 international complimentary airport lounge visits every quarter",
+    "Avail 4 complimentary visits every quarter to lounges at select Indian railway terminals"
+  ],
+  "airport_services": [
+    "Airport Meet & Greet (1 complimentary service a year and 10% off on the rest)",
+    "Airport Transfer Discounts",
+    "Airport Meet & Greet",
+    "Airport Meet & Greet: Enjoy 1 complimentary service annually on $1,000 of international spends, along with 10% off on all future bookings",
+    "Airport Transfers: Lucrative Discounts on Airport Transfer Limousine service in over 3000 cities across 83 countries"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Zero Forex Mark-Up",
+    "Interest-Free Global ATM Cash Withdrawals (₹199 + GST per transaction)",
+    "20% bonus RP on hotel bookings*",
+    "10% bonus RP on flight bookings*",
+    "₹700 off on min booking amount of ₹7,000 for round trip domestic flights",
+    "₹500 off on a min booking amount of ₹5,000 for one-way domestic flights",
+    "Interest-Free Global ATM Cash Withdrawals",
+    "Free Trip Cancellation Cover",
+    "Accelerated Rewards on Travel",
+    "UP TO 10% VALUE BACK ON TRAVEL BOOKINGS",
+    "FREE TRIP CANCELLATION COVER OF UP TO /uni20B925,000",
+    "Comprehensive travel insurance cover: Loss of Checked-in Baggage: USD 500 | Delay of Checked-In Baggage: USD 100 | Loss of Passport and other documents: USD 300 | Delay in Flight: USD 300",
+    "Accident and lost card liability cover: Air Accident Cover of /uni20B91 Crore, Personal Accident Cover of /uni20B910,00,000 and Lost Card Liability Cover of /uni20B950,000",
+    "24/7 ROADSIDE ASSISTANCE Receive complimentary 24/7 roadside assistance worth /uni20B91,399 during car or two-wheeler emergencies across India",
+    "Get reimbursed for up to /uni20B925,000 on the non-refundable portion of hotel and flight cancellations"
+  ],
+  "hotel_benefits": [
+    "Luxury Stay Bonus (Complimentary 3rd night stay for every 2 paid nights at ITC Hotels)",
+    "Extend Your Villa Escape (Free 3rd night stay for every 2 paid nights at Elivaas Luxury Villas)",
+    "Worldwide Hotel Privileges (Exclusive perks and discounts at 900+ luxury hotels)",
+    "Luxury Stay Bonus",
+    "Extend Your Villa Escape",
+    "Worldwide Hotel Privileges",
+    "Curated Dining Deals",
+    "Get a free stay at ITC Hotels: Enjoy a complimentary 3rd night for every 2 consecutive paid nights at ITC Hotels",
+    "Stay for 3, Pay for 2 at Elivaas Properties: Enjoy a complimentary 3rd night for every 2 consecutive paid nights booked at Elivaas’ properties"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Zero Forex Mark-Up",
+    "ZERO FOREX CHARGES Pay zero foreign exchange fees when you use your card for international purchases",
+    "Earn up to 10x Reward Points on foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Curated Dining Deals (Savour luxury at handpicked restaurants)",
+    "Curated Dining Deals"
+  ],
+  "movie_benefits": [
+    "Buy 1 Get 1 Movie Offer (Save up to ₹250 on your second movie ticket, twice every month)",
+    "Buy 1 Get 1 Movie Offer",
+    "Buy 1-get-1 movie ticket offer : Indulge in movie experiences using the BOGO movie ticket offer via District mobile app and get up to /uni20B9250 off on the 2nd ticket. (twice in a calendar month)"
+  ],
+  "golf_benefits": [
+    "Complimentary Golf Access (Tee-off at 20+ golf courses for up to 2 golf rounds or lessons every month)",
+    "Complimentary Golf Access",
+    "COMPLIMENTARY GOLF ROUNDS AND LESSONS",
+    "Tee off in style at 20+ golf courses in India with up to 2 complimentary golf rounds/lessons every month on every /uni20B920,000 spent in a statement cycle"
+  ],
+  "fuel_benefits": [
+    "Fuel Surcharge Waiver (Save up to ₹300 per month with a 1% fuel surcharge waiver)",
+    "Fuel Surcharge Waiver",
+    "1% FUEL SURCHARGE WAIVER Save more for your next road trip with a 1% fuel surcharge waiver of up to /uni20B9300"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive Insurance Cover (Includes air accident cover, personal accident cover, travel insurance)",
+    "24x7 Roadside Assistance (RSA) worth ₹1,399",
+    "Comprehensive Insurance Cover",
+    "Free Trip Cancellation Cover",
+    "TRIP CANCELLATION COVER UP TO 25,000",
+    "COMPREHENSIVE TRAVEL INSURANCE/uni00A0",
+    "Comprehensive travel insurance cover: Loss of Checked-in Baggage: USD 500 | Delay of Checked-In Baggage: USD 100 | Loss of Passport and other documents: USD 300 | Delay in Flight: USD 300",
+    "Accident and lost card liability cover: Air Accident Cover of /uni20B91 Crore, Personal Accident Cover of /uni20B910,00,000 and Lost Card Liability Cover of /uni20B950,000"
+  ],
+  "protection_benefits": [
+    "Free Trip Cancellation Cover (Claim up to ₹25,000 on non-refundable hotel and flight cancellations)",
+    "24x7 Roadside Assistance (RSA)",
+    "24/7 ROADSIDE ASSISTANCE Receive complimentary 24/7 roadside assistance worth /uni20B91,399 during car or two-wheeler emergencies across India"
+  ],
+  "concierge_benefits": [
+    "Concierge: A modern, personalised experience that lets you self-book dining, staycations, flights, and activities"
+  ],
+  "emi_benefits": [
+    "5% Cashback on EMI (up to ₹1,000 on first EMI transaction)",
+    "5% Cashback on EMI",
+    "Enjoy 5% cashback of up to /uni20B91,000 on your first EMI transaction within the first 30 days card generation"
+  ],
+  "business_benefits": [
+    "Avail 100% Credit Limit against Fixed Deposits with Corporate Liability"
+  ],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 8,
+  "guest_lounge_access": [],
+  "reward_rate": 10,
+  "forex_markup": 0,
+  "fuel_surcharge_waiver": "1%",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "UPI Fee ₹199 + GST",
+    "Add on Fee ₹499 + GST",
+    "Replacement Fee ₹199 + GST",
+    "Cash Withdrawals Across domestic and international ATMs /uni20B93,000+ GST /uni20B93,000+ GST"
+  ],
+  "interest_rates": [
+    "Interest for up to 45 days /uni20B9199 + GST per transaction",
+    "Industry Lowest Interest (APR%) Starting from 15% p.a."
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "Spend ₹20,000 or more in a statement cycle to activate lounge benefits",
+    "Spend ₹20,000 or more in a statement cycle to activate golf benefits",
+    "Spend ₹20,000 or more in a statement cycle to activate movie benefits",
+    "Spend ₹20,000 or more in the current calendar month to activate lounge benefits in the next month",
+    "Spend /uni20B920,000 in current month to unlock the benefit next month"
+  ],
+  "benefit_conditions": [
+    "Lounge benefit activates if spent ₹20,000 in the previous calendar month",
+    "Golf benefit activates if spent ₹20,000 in the previous calendar month",
+    "Movie benefit activates if spent ₹20,000 in the previous calendar month",
+    "Spend ₹20,000 or more in the current calendar month to activate lounge benefits in the next month"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Discounts on 300+ brands",
+    "Over 300+ merchant offers: Make every purchase sweeter with 300+ brand offers across dining, shopping, travel and more, all year long"
+  ],
+  "limited_period_offers": [
+    "100% cashback up to ₹200 (Limited period offer)",
+    "Joining Fee Payment Benefit: 100% cashback up to ₹200"
+  ],
+  "important_terms": [
+    "Reward points do not expire",
+    "CFAR benefit is complimentary and coverage is as per specified terms & conditions",
+    "Reward points never expire",
+    "No expiry date on the reward points accrued on your IDFC Diamond Reserve Credit Card"
+  ],
+  "excluded_categories": [
+    "International spends",
+    "Spends converted to EMI",
+    "Cash Withdrawal",
+    "Fuel",
+    "Fee and Charges"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\IDFC FIRST_Diamond Reserve Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\LOUNGE\\Diamond-Reserve-Credit-Card-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\PRODUCT_GUIDE\\Credit-Card-Basics-Power.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\PRODUCT_GUIDE\\Diamond-Reserve-Product-Guide1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "CARDMEMBER AGREEMENT IDFC FIRST Bank Credit Cards",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Diamond Reserve Credit Card\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

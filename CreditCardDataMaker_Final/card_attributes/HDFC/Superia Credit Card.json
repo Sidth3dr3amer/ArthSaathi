@@ -1,0 +1,137 @@
+{
+  "card_name": "Superia Credit Card",
+  "card_network": null,
+  "card_type": "Premium",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "Complimentary membership for one year upon spending ₹15,000 within the initial 90 days of enrollment. No cost membership by annual spending worth ₹75,000 within a year to qualify for renewal.",
+  "welcome_benefits": [
+    "1000 Reward Points as welcome benefit"
+  ],
+  "reward_structure": [
+    "3 Reward Points for every 200 spent",
+    "50% more Reward Points on Dining expenses at select premium restaurants"
+  ],
+  "reward_redemption_options": [
+    "1 Reward Point = 0.7 AirMiles",
+    "Convert Reward Points into vouchers for domestic airlines (up to 8,000 saved)",
+    "Redeem Reward Points for AirMiles with 20+ international airlines via KrisFlyer",
+    "Use Reward Points for gifts from the exclusive rewards catalogue"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "Earn additional CashBack on utility bills, mobile recharges via PayZapp",
+    "1,000 CashBack on shopping in-app over 200+ brands via PayZapp"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary Priority Pass Membership"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Complimentary Priority Pass Membership"
+  ],
+  "travel_benefits": [
+    "1% fuel surcharge waiver on a minimum transaction of 400 (max waiver 500 per cycle)",
+    "Reward Points convertible to AirMiles for domestic and international airlines",
+    "Priority Pass Membership"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Reward Points convertible to AirMiles",
+    "Redeem Reward Points for airline tickets via KrisFlyer"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "50% more Reward Points on Dining expenses at select premium restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on a minimum transaction of 400 (max waiver 500 per cycle)"
+  ],
+  "shopping_benefits": [
+    "1,000 CashBack on shopping in-app over 200+ brands via PayZapp"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "EMV Chip Card technology for unauthorised use protection",
+    "Zero liability on lost cards"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "3 Reward Points per 200 spent",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on a minimum transaction of 400 (max waiver 500 per cycle)",
+  "eligibility": [
+    "Salaried employees: age 21 to 60 years",
+    "Self-employed: age 21 to 65 years",
+    "For Salaried employee: Minimum 21 years and maximum 60 years.",
+    "For Self-employed: Minimum 21 years and maximum 65 years."
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fee: 2.5%, with a minimum charge of ₹500, is applied to all cash withdrawals made using the card.",
+    "Membership Renewal Fee: 1,000 + applicable taxes per year",
+    "2.5% fee with a minimum of 500 on all cash withdrawals",
+    "Interest rate of 3.49% on outstanding amount beyond due date"
+  ],
+  "interest_rates": [
+    "50-day interest-free credit period.",
+    "3.49% interest charged on any outstanding balance carried beyond the bill due date.",
+    "3.49% on outstanding amount carried forward beyond the bill's due date",
+    "Nominal interest rate for revolving credit"
+  ],
+  "fees_and_penalties": [
+    "Cash advance fee: 2.5%, with a minimum charge of ₹500.",
+    "3.49% interest on outstanding balance beyond the bill due date.",
+    "Membership Renewal Fee: 1,000 + taxes per year",
+    "2.5% cash withdrawal fee (minimum 500)",
+    "Annual fee (amount not disclosed)"
+  ],
+  "spend_conditions": [
+    "Spend 75,000 annually to waive renewal fee of 1,000",
+    "Spend 15,000 within first 90 days for first year fee waiver"
+  ],
+  "benefit_conditions": [
+    "Renewal fee waiver on annual spend of 75,000",
+    "First year fee waiver on spend of 15,000 within 90 days"
+  ],
+  "renewal_benefits": [
+    "1,000 Reward Points as Renewal Benefit every year",
+    "Renewal fee waiver on annual spend of 75,000"
+  ],
+  "partner_programs": [
+    "Priority Pass Membership",
+    "PayZapp"
+  ],
+  "merchant_offers": [
+    "Earn additional CashBack on utility bills and mobile recharges via PayZapp",
+    "1,000 CashBack on shopping in-app over 200+ brands via PayZapp"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms and conditions apply",
+    "Sourcing of this Credit Card has been stopped; existing customers will continue to enjoy benefits"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\HDFC_Superia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Superia Credit Card\\MITC\\mitc-in-english5.pdf"
+  ]
+}

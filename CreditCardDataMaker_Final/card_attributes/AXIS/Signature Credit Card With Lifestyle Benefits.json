@@ -1,0 +1,242 @@
+{
+  "card_name": "Signature Credit Card With Lifestyle Benefits",
+  "card_network": "Visa",
+  "card_type": "Credit Card",
+  "joining_fee": 5000,
+  "annual_fee": 3000,
+  "fee_waiver_condition": "Waived on achievement of spends threshold of ₹3 Lakhs in the preceding year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "10 points on every ₹200 spent on the credit card domestically",
+    "20 points on every ₹200 spent on the credit card internationally",
+    "100 points on the first online transaction",
+    "10 points on every ■200 spent on the credit card domestically",
+    "20 points on every ■200 spent on the credit card internationally"
+  ],
+  "reward_redemption_options": [
+    "Axis EDGE REWARDS Catalogue"
+  ],
+  "reward_exclusions": [
+    "No reward points are earned on movie offer transactions",
+    "No reward points are earned on fuel transactions"
+  ],
+  "reward_caps": [
+    "Maximum cashback in a calendar year is limited to ₹2,000",
+    "Maximum cashback in a calendar year is limited to ■2,000"
+  ],
+  "cashback_benefits": [
+    "50% cashback on movie tickets purchased through BookMyShow",
+    "1% fuel surcharge waiver on monthly fuel spends on ₹4000",
+    "1% fuel surcharge waiver on monthly fuel spends",
+    "50% cashback on movie ticket bookings through BookMyShow",
+    {
+      "category": "Movie (BookMyShow)",
+      "cashback_rate": "50%",
+      "max_cashback_per_transaction": "Rs. 250",
+      "max_cashback_per_year": "Rs. 2000",
+      "conditions": [
+        "Cashback not exceeding Rs. 2000 in a calendar year",
+        "Cashback restricted to 50% of transaction value or Rs. 250, whichever is lesser",
+        "Cannot be combined with other BookMyShow offers/promotions"
+      ]
+    }
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary access to airport lounges within India with an Axis Bank Signature Credit Card",
+    "Access to over 700 VIP lounges in over 90 countries and 275 cities with Priority Pass",
+    "Complimentary membership to the Priority Pass program worth $99",
+    "Complimentary access to selected lounges affiliated with VISA, 2 times in calendar quarter",
+    "Priority Pass"
+  ],
+  "airport_services": [
+    "Global emergency assistance",
+    "Visa Offer: Complimentary access to airport lounges within India"
+  ],
+  "priority_pass_benefits": [
+    "Complimentary membership to the Priority Pass program worth $99",
+    "Complimentary membership to the Priority Pass program for Primary Cardholder",
+    "Complimentary membership to the Priority Pass program for the primary cardholder",
+    "Access to over 700 VIP lounges in over 90 countries and 275 cities",
+    "Complimentary membership",
+    "Access to over 500 VIP lounges"
+  ],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "Loss Travel Document cover/Delay of check in baggage cover up to 300 USD"
+  ],
+  "hotel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value"
+  ],
+  "dining_benefits": [
+    "Upto 15% discount at selected Fine dining restaurants",
+    "Dining Delights Program"
+  ],
+  "movie_benefits": [
+    "50% cashback on movie tickets purchased through BookMyShow",
+    "Complimentary movie tickets through bookmyshow",
+    "50% discount on movie tickets"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on monthly fuel spends on ₹4000",
+    "1% fuel surcharge waiver on monthly fuel spends",
+    "1% fuel surcharge waiver on monthly fuel spends on ■4000",
+    "Fuel surcharge refund on spends at all fuel stations across India"
+  ],
+  "shopping_benefits": [
+    "10% off on orders via Swiggy",
+    "10% off up to ₹1000 on Tira",
+    "10% off up to ■1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "50% cashback on movie tickets purchased through BookMyShow"
+  ],
+  "insurance_benefits": [
+    "Comprehensive Insurance cover worth 2.25 Crores",
+    "Loss Travel Document cover/Delay of check in baggage cover upto 300 USD",
+    "Purchase Protection upto ₹1,00,000"
+  ],
+  "protection_benefits": [
+    "Purchase Protection upto ₹1,00,000",
+    "Loss Travel Document cover/Delay of check in baggage cover upto 300 USD",
+    "High Security",
+    "Purchase Protection up to ■1,00,000"
+  ],
+  "concierge_benefits": [
+    "International Concierge services"
+  ],
+  "emi_benefits": [
+    "Convert purchases to EMI on any transaction over ₹1,500",
+    "Convert purchases to EMI on any transaction over ■1,500"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 2,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": [
+    "Visits to the lounge by the primary cardholder/add-on cardholder/guest would be chargeable",
+    "Additional guest visit charges apply"
+  ],
+  "reward_rate": 0.2,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Primary cardholder between the age of 18 years and 70 years",
+    "Add-on cardholder should be over 18 years",
+    "Net income of ₹9,00,000 per annum",
+    "Resident of India",
+    "Net income of ■9,00,000 per annum"
+  ],
+  "income_requirements": [
+    "Net income of ₹9,00,000 per annum",
+    "Net income of ■9,00,000 per annum"
+  ],
+  "documents_required": [
+    "PAN Card photocopy or Form 60",
+    "Colour photographs",
+    "Latest Payslip/Form 16/IT return copy as proof of income",
+    "Residence proof: (any one of the following) Passport Ration Card Electricity Bill Landline Telephone Bill",
+    "Residence proof: (any one of the following) Passport, Ration Card, Electricity Bill, Landline Telephone Bill"
+  ],
+  "charges": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹250) of the Cash Amount",
+    "Fee for Cash Payment: ₹175/-",
+    "Overdue Penalty or Late Payment Fee: ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1,200 if total payment due is greater than ₹10,000",
+    "Finance Charges (Retail Purchases & Cash) - 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees - 2.5% (Min. ₹250) of the Cash Amount",
+    "Fee for Cash Payment - ₹175/-",
+    "Overdue Penalty or Late Payment Fee - Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹ 1200 if total payment due is greater than ₹10,000",
+    "Standard Joining Fee: ■5000 (Special invitation price – ■3000)",
+    "Standard Annual Fee (2nd year onwards): ■3000",
+    "Cash Withdrawal Fees: 2.5% (Min. ■250) of the Cash Amount",
+    "Fee for Cash Payment: ■175/-",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ■500, ■500 if total payment due is between ■501 - ■5,000, ■750 if total payment due is between ■5,001 - ■10,000, ■1200 if total payment due is greater than ■10,000",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ■500)",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ■400 and ■4000)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Surcharge Fee: 1% of the rental transaction amount plus taxes",
+    "Dynamic Currency Conversion markup fee: 1.5% of each international transaction plus taxes",
+    "Wallet load transaction fee: 1% fee on cumulative spends of ■10,000 or more on wallet loads per statement cycle",
+    "Fuel transaction fee: 1% fee on cumulative spends of ■50,000 or more on fuel transactions per statement cycle",
+    "Education transaction fee: 1% fee on education payments made via third party apps",
+    "Utility transaction fee: 1% fee on cumulative spends of ■25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming transaction fee: 1% fee on cumulative spends of ■10,000 or more on online skill-based gaming platforms in a statement cycle",
+    "Lounge visit charges: $16.50 (India Domestic), $16.50 (China Domestic), $18.50 (Taiwan), $19.75 (Hong Kong, Macau, China International), $22.50 (Singapore, Malaysia, Indonesia), $25.00 (Korea, India International, Rest of Asia, Rest of the World)"
+  ],
+  "interest_rates": [
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Over Limit Penalty - 2.5% of the overlimit amount (Min. ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal - 2% of the payment amount subject to Min. ₹500",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ■500, ■500 if total payment due is between ■501 - ■5,000, ■750 if total payment due is between ■5,001 - ■10,000, ■1200 if total payment due is greater than ■10,000",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ■500)"
+  ],
+  "spend_conditions": [
+    "90% of the total spends are allocated against domestic spends",
+    "Annual Fee will be waived upon crossing the threshold limit of ■3 Lakhs in the preceding year"
+  ],
+  "benefit_conditions": [
+    "Maximum benefits upto ₹400 per statement cycle",
+    "Maximum cashback in a calendar year is limited to ■2,000",
+    "Valid on transactions between ■400 and ■4,000 only",
+    "Service tax charged on fuel surcharge is non-refundable",
+    "Cardmember has to bear all costs towards lounge visits",
+    "Any dispute relating to the offer shall be subject to the jurisdiction of the Courts in Mumbai only"
+  ],
+  "renewal_benefits": [
+    "Priority Pass membership will be renewed from 2nd year onwards on customer request"
+  ],
+  "partner_programs": [
+    "Priority Pass program",
+    "Axis EDGE REWARDS",
+    "Priority Pass"
+  ],
+  "merchant_offers": [
+    "MakeMyShow",
+    "Swiggy",
+    "Tira",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹1000 on Tira",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "10% off up to ■1000 on Tira"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India",
+    "GST, as notified by the Government of India, is applicable on all fees, interest & other charges",
+    "A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank Credit Cards",
+    "A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation",
+    "The offer is not transferable, non-negotiable & cannot be encashed",
+    "Axis Bank shall not be liable in any manner whatsoever or howsoever for any loss or damage or claims that may arise out of or otherwise howsoever from any refusal to honour the offer made by Priority Pass for any reason whatsoever",
+    "Cashback is credited to the card account",
+    "Cashback is subject to merchant settlement timing",
+    "Cashback may be revoked if spends on cashback categories exceed 50% of total spends in 3 months",
+    "Cashback is forfeited if the cardholder is delinquent for 90+ days",
+    "No cashback for returned, disputed, or fraudulent transactions",
+    "Bank reserves the right to modify or terminate the cashback facility",
+    "All taxes on cashback are borne by the cardholder",
+    "Bank can reverse inadvertently credited cashback",
+    "Bank's decision on cashback is final and binding",
+    "Cashback category may change; updates will be communicated"
+  ],
+  "excluded_categories": [
+    "No reward points are earned on movie offer transactions",
+    "No reward points are earned on fuel transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Signature Credit Card With Lifestyle Benefits\\AXIS_Signature Credit Card With Lifestyle Benefits_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Signature Credit Card With Lifestyle Benefits\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Signature Credit Card With Lifestyle Benefits\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Signature Credit Card With Lifestyle Benefits\\MEMBERSHIP\\signature_cc_priority_pass_offer-1c613a1dd-b028-42e5-acfc-e46951db825a.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Signature Credit Card With Lifestyle Benefits\\REWARDS\\website-t-amp-c-for-movie-cashback-(2)6630471c-891f-49dd-a228-d9118e5fadaf.pdf"
+  ]
+}

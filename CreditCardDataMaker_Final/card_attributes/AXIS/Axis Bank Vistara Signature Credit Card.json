@@ -1,0 +1,729 @@
+{
+  "card_name": "Axis Bank Vistara Signature Credit Card",
+  "card_network": "Visa",
+  "card_type": "Signature",
+  "joining_fee": null,
+  "annual_fee": "Waived off",
+  "fee_waiver_condition": "Annual fees on AXIS BANK VISTARA Credit Cards due for renewal will be waived off.",
+  "welcome_benefits": [
+    "Complimentary Premium Economy Ticket Voucher on fee payment",
+    "Complimentary Maharaja Club Silver Membership on fee payment",
+    "Complimentary Premium Economy Class ticket voucher",
+    "Complimentary Maharaja Club Silver Membership",
+    "Complimentary Premium Economy Class ticket voucher on fee payment"
+  ],
+  "reward_structure": [
+    {
+      "points": 4,
+      "spend": 200,
+      "currency": "INR",
+      "description": "Earn 4 Maharaja Points for every ₹200 of eligible spends"
+    },
+    "Earn 4 Maharaja Points for every ₹200 of eligible spends",
+    {
+      "type": "Maharaja Points",
+      "description": "Credited for eligible spend transactions on Axis Bank Vistara Credit Card and issued to cardholder’s Maharaja Club account every billing cycle, within 10 working days from the statement generation date."
+    },
+    {
+      "points": 4,
+      "spend_amount": 200,
+      "currency": "INR",
+      "description": "Earn 4 Maharaja Points for every ₹200 of eligible spends"
+    },
+    {
+      "points": 4,
+      "spend_amount": 200,
+      "currency": "Rs."
+    },
+    "Maharaja Points are credited for eligible spend transactions",
+    {
+      "reward_type": "Maharaja Points",
+      "earning_condition": "All eligible spends",
+      "exclusions": [
+        "Rent",
+        "Wallet load transactions",
+        "Utility bill payment",
+        "Government services",
+        "Insurance",
+        "Jewellery, Gold, Silver, Precious stones & metals",
+        "Watches"
+      ]
+    }
+  ],
+  "reward_redemption_options": [
+    "Upgrade flights",
+    "Award flights",
+    "Redeem for upgrades & award flights",
+    "Upgrades & award flights"
+  ],
+  "reward_exclusions": [
+    "Reversals of transactions",
+    "Conversion of transactions to EMI",
+    "Fee payments",
+    "Cash withdrawals",
+    "Interest charges",
+    "Transactions converted to EMI",
+    "Fee & other charges",
+    "Temporary credit against dispute transaction",
+    "Fuel transactions on Axis Bank Vistara Infinite Credit Card",
+    "Government services and utilities transactions (from 3rd January 2024)",
+    "Jewellery and insurance transactions (from 20th April 2024)",
+    "MCCs: 6513 (Rental Payments), 6540 (Wallet Load Transactions), 4814, 4816, 4899, 4900 (Utility Services), 9222, 9311, 9399, 9402 (Government Services), 5960, 6012, 6051, 6300, 6381 (Insurance Services), 5094, 5944 (Precious Stones & Metals, Clock, Jewellery, Watch and Silverware Stores)",
+    "Rent",
+    "Wallet load transactions",
+    "Utility bill payment",
+    "Government services",
+    "Insurance",
+    "Jewellery",
+    "Gold",
+    "Silver",
+    "Precious stones & metals",
+    "Watches",
+    "reversals",
+    "fraud transactions",
+    "fee payments",
+    "cash withdrawals",
+    "interest charges",
+    "transactions converted to EMI",
+    "government services and utilities transactions (from 3rd January 2024)",
+    "jewellery and insurance transactions (from 20th April 2024)",
+    "Insurance transactions",
+    "Gold / Jewellery transactions",
+    "Government Services",
+    "Utilities Services",
+    "Rental Payments",
+    "Wallet Load Transactions",
+    "Utility Services",
+    "Insurance Services",
+    "Precious Stones & Metals, Clock, Jewellery, Watch and Silverware Stores"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira",
+    "Instant savings up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    "10% off on Swiggy orders",
+    "10% off on Amazon Fresh orders",
+    "10% off up to Rs.1000 on Tira"
+  ],
+  "milestone_benefits": [
+    {
+      "milestone": "1st Premium Economy Ticket Voucher",
+      "spend_required": 150000
+    },
+    {
+      "milestone": "2nd Premium Economy Ticket Voucher",
+      "spend_required": 300000
+    },
+    {
+      "milestone": "3rd Premium Economy Ticket Voucher",
+      "spend_required": 450000
+    },
+    {
+      "milestone": "4th Premium Economy Ticket Voucher",
+      "spend_required": 900000
+    },
+    "Up to 4 Premium Economy Class tickets vouchers on achieving milestone spends",
+    {
+      "description": "Milestone spends and Maharaja Points will only be earned on Eligible spends transactions."
+    },
+    "One-way base fare waived ticket vouchers after achieving milestone spends.",
+    "Milestone spends are subject to net cumulative spend transactions on eligible categories done on the card during the card membership year.",
+    "Milestone spends and CV points will only be earned on eligible spends transactions.",
+    {
+      "milestone": "1st Premium Economy Ticket Voucher",
+      "spend": 150000
+    },
+    {
+      "milestone": "2nd Premium Economy Ticket Voucher",
+      "spend": 300000
+    },
+    {
+      "milestone": "3rd Premium Economy Ticket Voucher",
+      "spend": 450000
+    },
+    {
+      "milestone": "4th Premium Economy Ticket Voucher",
+      "spend": 900000
+    },
+    "Milestone spends",
+    "One-way base fare waived ticket vouchers after achieving milestone spends"
+  ],
+  "lounge_access": [
+    "2 Complimentary lounge accesses at select airports within India (subject to spend criteria)",
+    "2 Complimentary lounge access at select airports within India subject to spends criteria",
+    "2 complimentary lounge access per quarter",
+    "Lounge access",
+    "lounge access",
+    "2 Complimentary lounge accesses at select Indian airports (subject to spend criteria)",
+    "2 complimentary lounge accesses at select Indian airports",
+    "Lounge access based on spends in previous 3 calendar months",
+    "Minimum spend Rs. 50,000 in preceding 3 months required",
+    "Waiver of minimum spend for the month of issuance and following 3 months for newly issued cards"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Purchase Protection Cover up to ₹1 lakh",
+    "Cover up to $300 for travel-related incidents",
+    "Loss of Travel documents",
+    "Delay of Check-In Baggage",
+    "Loss of Check-In Baggage",
+    "Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    "Priority check-in and additional baggage allowance",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off upto ₹1000 on Tira",
+    "One-way base fare waived ticket vouchers for travel on Vistara domestic network.",
+    "Vouchers are usable for a single flight number journey between two points.",
+    "Cover up to $300 for eligible purchases",
+    "Loss of travel documents protection",
+    "Delay of check‑in baggage protection",
+    "Loss of check‑in baggage protection",
+    "Purchase Protection Cover up to Rs.1 lakh",
+    "Cover up to $300 for specified purchases",
+    "Loss of travel documents insurance",
+    "Delay of check‑in baggage insurance",
+    "Loss of check‑in baggage insurance",
+    "One-way base fare waived ticket vouchers for travel on Vistara domestic network"
+  ],
+  "hotel_benefits": [
+    "Instant savings up to 15% on hotels via Goibibo and MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "Premium Economy ticket vouchers on milestone spends",
+    "Complimentary Maharaja Club Silver Membership (priority check‑in, additional baggage)",
+    "Complimentary Premium Economy Class ticket voucher on fee payment",
+    "Complimentary Premium Economy Class ticket voucher on renewal",
+    "Complimentary Club Vistara Gold Membership in year 1 after fee payment, valid for 12 months from date of upgrade.",
+    "Year 2 onwards, customer needs to achieve 4 Vistara flights and 15,000 Tier Points criteria in the last 12 months to retain the Gold Tier.",
+    "Premium Economy ticket vouchers",
+    "Maharaja Club Silver Membership (priority check‑in, additional baggage)",
+    "Complimentary Club Vistara Gold Membership (subject to predefined conditions)"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Dining Discounts once per month at partner restaurants with EazyDiner",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "Dining offers",
+    "dining offers",
+    "Dining discounts once per month at partner restaurants via EazyDiner",
+    "Monthly dining discounts at partner restaurants via EazyDiner"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "3 complimentary rounds of golf at selected Indian destinations",
+    "3 complimentary rounds of golf at picturesque destinations",
+    "Golf benefits",
+    "golf benefits"
+  ],
+  "fuel_benefits": [
+    "No Maharaja Points are credited for fuel transactions"
+  ],
+  "shopping_benefits": [
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "Curated experiences – Extraordinary weekends"
+  ],
+  "insurance_benefits": [
+    "Purchase Protection up to ₹1 lakh",
+    "Cover up to $300 for travel incidents",
+    "Loss of Travel documents",
+    "Delay of Check‑In Baggage",
+    "Loss of Check‑In Baggage",
+    "Purchase Protection Cover up to ₹1 lakh",
+    "Cover up to $300 for loss of travel documents, delay of check-in baggage, loss of check-in baggage",
+    "Personal Accident cover",
+    "Delay of Checked-In Baggage or Baggage Delay",
+    "Baggage Loss of Checked-In Baggage",
+    "Purchase Protection",
+    "Credit Shield",
+    "Cover upto $300 for loss of travel documents, delay of check-in baggage, loss of check-in baggage",
+    "Insurance benefits",
+    "insurance benefits",
+    "Cover up to $300",
+    "Loss of travel documents",
+    "Delay of check‑in baggage",
+    "Loss of check‑in baggage",
+    "Purchase Protection up to Rs.1 lakh",
+    "Travel document loss insurance",
+    "Baggage delay and loss insurance"
+  ],
+  "protection_benefits": [
+    "Purchase Protection Cover up to ₹1 lakh",
+    "Purchase Protection up to ₹1 lakh",
+    "Cover up to $300",
+    "Purchase Protection up to Rs.1 lakh"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI on any transaction over ₹1,500",
+    "Convert purchases to EMI on transactions over ₹1,500",
+    "Convert purchases over Rs.1,500 into EMIs",
+    "Any reversal of transaction or conversion of transaction to EMI will lead to reversal of Maharaja Points"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 2,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4 points per ₹200 spent",
+  "forex_markup": "1.5% on international transactions performed in Indian currency",
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Primary Cardholder should be 18-70 years of age",
+    "Applicant should be a resident of India",
+    "Net income should be a minimum of ₹6 lakhs per annum",
+    "Net income should be a minimum of ₹6 lakhs p.a.",
+    "Primary cardholder age 18‑70 years",
+    "Resident of India",
+    "Net income minimum Rs.6 lakh per annum"
+  ],
+  "income_requirements": [
+    "₹6,00,000 per annum",
+    "Minimum net income of ₹6 lakhs p.a.",
+    "Minimum net income ₹6,00,000 per annum",
+    "Rs.6 lakh per annum"
+  ],
+  "documents_required": [
+    "PAN Card photocopy or Form 60",
+    "Proof of income – Latest payslip / Form 16 / IT Return",
+    "Residence proof – Driving License / Electricity Bill / Landline Telephone Bill",
+    "Proof of income - Latest payslip / Form 16 / IT Return",
+    "Residence proof - Driving License / Electricity Bill / Landline Telephone Bill",
+    "Proof of income – Latest payslip / Form 16 / Income Tax Return",
+    "Proof of income – latest payslip / Form 16 / IT Return"
+  ],
+  "charges": [
+    {
+      "charge": "Finance Charges (Retail Purchases & Cash)",
+      "value": "3.75% per month"
+    },
+    {
+      "charge": "Cash Withdrawal Fees",
+      "value": "2.5% (Min. ₹500) of the cash amount"
+    },
+    {
+      "charge": "Fee For Cash Payment",
+      "value": "₹175"
+    },
+    {
+      "charge": "Card Replacement",
+      "value": "Nil"
+    },
+    {
+      "charge": "Duplicate Statement Fee",
+      "value": "Waived"
+    },
+    {
+      "charge": "OverDue Penalty or Late Payment Fee",
+      "value": "Nil if Total Payment Due is less than ₹500; ₹500 if between ₹501‑₹5,000; ₹750 if between ₹5,001‑₹10,000; ₹1,200 if greater than ₹10,000"
+    },
+    {
+      "charge": "Additional charge for missed MAD payment for two consecutive cycles",
+      "value": "₹100"
+    },
+    {
+      "charge": "Over Limit Penalty",
+      "value": "2.5% of the over limit amount (Min. ₹500)"
+    },
+    {
+      "charge": "Chargeslip Retrieval Fee or Copy Request Fee",
+      "value": "Waived"
+    },
+    {
+      "charge": "Outstation Cheque Fee",
+      "value": "Waived"
+    },
+    {
+      "charge": "Cheque return or Dishonour Fee or Auto‑debit Reversal",
+      "value": "2% of the payment amount (Min. ₹500)"
+    },
+    {
+      "charge": "Fuel Transaction Fee",
+      "value": "1% fee on cumulative fuel transactions of ₹50,000 or more in a statement cycle"
+    },
+    {
+      "charge": "Education Transaction Fee",
+      "value": "1% fee on each education payment through third‑party apps"
+    },
+    {
+      "charge": "Utility Transaction Fee",
+      "value": "1% fee on cumulative spends of ₹25,000 or more towards utility payments in a statement cycle"
+    },
+    {
+      "charge": "Online skill‑based gaming Fee",
+      "value": "1% fee on cumulative spends of ₹10,000 or more in a statement period"
+    },
+    {
+      "charge": "Foreign Currency Transaction Fee",
+      "value": "3.50% of the transaction value"
+    },
+    {
+      "charge": "Mobile Alerts for Transactions",
+      "value": "Waived"
+    },
+    {
+      "charge": "Hotlisting Charges",
+      "value": "Waived"
+    },
+    {
+      "charge": "Balance Enquiry Charges",
+      "value": "Waived"
+    },
+    {
+      "charge": "Reward Redemption fee",
+      "value": "No"
+    },
+    {
+      "charge": "Rent Transaction Fee",
+      "value": "1% per transaction"
+    },
+    {
+      "charge": "Wallet load transaction fee",
+      "value": "1% fee on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+    },
+    {
+      "charge": "Dynamic Currency Conversion markup",
+      "value": "1.5% on international transaction performed in Indian currency"
+    },
+    "Finance Charges (Retail Purchases & Cash): 3.75% Per Month",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) Of The Cash Amount",
+    "Fee For Cash Payment: ₹175/-",
+    "OverDue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if between ₹501 - ₹5,000, ₹750 if between ₹5,001 - ₹10,000, ₹1200 if greater than ₹10,000, plus ₹100 for two consecutive unpaid MAD",
+    "Over Limit Penalty: 2.5% of the over limit amount (Min. ₹500)",
+    "Cheque return or Dishonour Fee or Auto-debit Reversal: 2% of the Payment Amount Subject to Min. ₹500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As Prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Fee: 1% fee on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee on each education payment via third-party apps",
+    "Utility Transaction: 1% fee on cumulative spends of ₹25,000 or more on utility payments in a statement cycle",
+    "Online skill-based gaming: 1% fee on cumulative spends of ₹10,000 or more on gaming platforms in a statement period",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction Fee: 1% Per Transaction On Rental Transactions",
+    "Wallet load transaction: 1% fee on cumulative wallet load transactions of ₹10,000 or more in a statement cycle",
+    "Dynamic Currency Conversion markup: 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Fee For Cash Payment: ₹175",
+    "OverDue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500",
+    "OverDue Penalty or Late Payment Fee: ₹500 if Total Payment Due is between ₹501 - ₹5,000",
+    "OverDue Penalty or Late Payment Fee: ₹750 if Total Payment Due is between ₹5,001 - ₹10,000",
+    "OverDue Penalty or Late Payment Fee: ₹1200 if Total Payment Due is greater than ₹10,000",
+    "Additional charge of ₹100 if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods",
+    "Fuel Transaction Fee: 1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee will be applicable on each education payments done through third party apps",
+    "Utility Transaction: 1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period",
+    "Online skill-based gaming: 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period",
+    "Wallet load transaction: 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of cash amount",
+    "Duplicate Statement Fee: Waived",
+    "Overdue Penalty/Late Payment Fee: Nil if total due < ₹500; ₹500 if ₹501‑₹5,000; ₹750 if ₹5,001‑₹10,000; ₹1,200 if > ₹10,000",
+    "Additional ₹100 charge for missed MAD for two consecutive billing periods",
+    "Over Limit Penalty: 2.5% of over limit amount (Min. ₹500)",
+    "Cheque return or Dishonour Fee: 2% of payment amount (Min. ₹500)",
+    "Fuel Transaction Fee: 1% on cumulative fuel spends of ₹50,000 or more in a statement cycle",
+    "Education Transaction Fee: 1% per transaction",
+    "Utility Transaction Fee: 1% on cumulative spends of ₹25,000 or more in a statement cycle",
+    "Online skill‑based gaming Fee: 1% on cumulative spends of ₹10,000 or more in a statement cycle",
+    "Foreign Currency Transaction Fee: 3.5% of transaction value",
+    "Dynamic Currency Conversion markup: 1.5% on international transactions performed in Indian currency",
+    "Cash Withdrawal Fees: 2.5% (minimum Rs.500) of cash amount",
+    "Fee for Cash Payment: Rs.175",
+    "Overdue Penalty/Late Payment Fee: Nil if total due < Rs.500; Rs.500 if Rs.501‑5,000; Rs.750 if Rs.5,001‑10,000; Rs.1,200 if > Rs.10,000",
+    "Additional Rs.100 charge for missed MAD for two consecutive billing periods",
+    "Over Limit Penalty: 2.5% of over‑limit amount (minimum Rs.500)",
+    "Cheque return/Dishonour Fee: 2% of payment amount (minimum Rs.500)",
+    "Fuel Transaction Fee: 1% on cumulative fuel spend ≥ Rs.50,000 per statement cycle",
+    "Utility Transaction Fee: 1% on cumulative utility spend ≥ Rs.25,000 per statement cycle",
+    "Online skill‑based gaming fee: 1% on cumulative spend ≥ Rs.10,000 per statement cycle",
+    "Foreign Currency Transaction Fee: 3.50% of transaction value",
+    "Rent Transaction Fee: 1% per transaction",
+    "Wallet load transaction fee: 1% on cumulative wallet load ≥ Rs.10,000 per statement cycle"
+  ],
+  "interest_rates": [
+    {
+      "type": "Finance Charges (Retail Purchases & Cash)",
+      "rate": "3.75% per month"
+    },
+    "Finance Charges (Retail Purchases & Cash): 3.75% Per Month",
+    {
+      "type": "Finance Charges",
+      "rate": "3.75% per month"
+    }
+  ],
+  "fees_and_penalties": [
+    "OverDue Penalty as per spend brackets",
+    "Additional ₹100 charge for missed MAD payment for two consecutive billing cycles",
+    "Over Limit Penalty 2.5% (Min. ₹500)",
+    "Cheque return or Dishonour Fee 2% (Min. ₹500)",
+    "Card Replacement: Nil",
+    "Duplicate Statement Fee: Waived",
+    "Chargeslip Retrieval Fee or Copy Request Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Mobile Alerts for Transactions: Waived",
+    "Hotlisting Charges: Waived",
+    "Balance Enquiry Charges: Waived",
+    "Reward Redemption fee: No",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) Of The Cash Amount",
+    "Fee For Cash Payment: ₹175",
+    "OverDue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500",
+    "OverDue Penalty or Late Payment Fee: ₹500 if Total Payment Due is between ₹501 - ₹5,000",
+    "OverDue Penalty or Late Payment Fee: ₹750 if Total Payment Due is between ₹5,001 - ₹10,000",
+    "OverDue Penalty or Late Payment Fee: ₹1200 if Total Payment Due is greater than ₹10,000",
+    "Additional charge of ₹100 if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods",
+    "Over Limit Penalty: 2.5% of the over limit amount (Min. ₹500)",
+    "Cheque return or Dishonour Fee or Auto-debit Reversal: 2% of the Payment Amount Subject to Min. ₹500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As Prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Fee: 1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee will be applicable on each education payments done through third party apps",
+    "Utility Transaction: 1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period",
+    "Online skill-based gaming: 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction Fee: 1% Per Transaction On Rental Transactions",
+    "Wallet load transaction: 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle",
+    "Dynamic Currency Conversion markup: 1.5% on International Transaction Performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Overdue Penalty tiers as listed in charges",
+    "Additional ₹100 charge for missed MAD for two consecutive billing periods",
+    "Cheque return/Dishonour Fee 2% (Min. ₹500)",
+    "Fuel Transaction Fee 1% above ₹50,000 cumulative spend",
+    "Education Transaction Fee 1% per transaction",
+    "Utility Transaction Fee 1% above ₹25,000 cumulative spend",
+    "Online skill‑based gaming Fee 1% above ₹10,000 cumulative spend",
+    "Foreign Currency Transaction Fee 3.5%",
+    "Dynamic Currency Conversion markup 1.5%",
+    "Overdue penalty schedule as listed in charges",
+    "Additional Rs.100 charge for missed MAD for two consecutive billing periods",
+    "Over limit penalty 2.5% (minimum Rs.500)",
+    "Cheque return fee 2% (minimum Rs.500)"
+  ],
+  "spend_conditions": [
+    "2 complimentary lounge accesses subject to spend criteria (specific spend not disclosed)",
+    "Milestone ticket vouchers require spends of ₹150,000; ₹300,000; ₹450,000; ₹900,000 respectively",
+    "Minimum spend Rs. 50,000 in the previous 3 calendar months",
+    "Transaction settlement date is considered for calculating milestone and Maharaja Points benefits.",
+    "Spends made towards Government Services and Utilities Services transactions will not be eligible for earning CV points and milestone benefits.",
+    "Spends made towards Jewellery and Insurance transactions will not be eligible for earning CV points and milestone benefits.",
+    "Milestone spends and CV points will only be earned on eligible spends transactions.",
+    "Earn Maharaja Points on all spends across all categories except the excluded categories",
+    "Milestone Premium Economy ticket vouchers require spends of ₹150,000, ₹300,000, ₹450,000 and ₹900,000 respectively",
+    "Earn 4 points for every Rs.200 spent",
+    "Fuel transaction fee applies after Rs.50,000 cumulative fuel spend in a statement cycle",
+    "Utility transaction fee applies after Rs.25,000 cumulative utility spend in a statement cycle",
+    "Online gaming fee applies after Rs.10,000 cumulative spend in a statement cycle",
+    "Wallet load fee applies after Rs.10,000 cumulative wallet load in a statement cycle",
+    "Lounge access subject to spend criteria (specific spend not disclosed)",
+    "Eligible spends transactions are defined as spends excluding reversals, fraud transactions, fee payments, cash withdrawals, interest charges, transactions converted to EMI, Fee & other charges, Temporary credit against dispute transaction",
+    "Minimum spend Rs. 50,000 in previous 3 calendar months for lounge access",
+    "Milestone benefits are based on net cumulative spend transactions on eligible categories during the card membership year"
+  ],
+  "benefit_conditions": [
+    "Welcome Premium Economy ticket voucher on fee payment and on renewal",
+    "Complimentary Maharaja Club Silver Membership issued within 10 working days of joining/annual fee payment",
+    "Lounge access subject to spends criteria",
+    "Premium Economy ticket vouchers on milestone spends",
+    "Spend criteria waived for month of issuance and following 3 months for new cards",
+    "Complimentary lounge access at select airports within India subject to spends criteria",
+    "Complimentary Premium Economy Class ticket voucher on fee payment",
+    "Complimentary Maharaja Club Silver Membership",
+    "Activation benefit is valid only for the first card membership year.",
+    "No activation Maharaja Points will be credited for transactions beyond the eligible first 90 days from the card issue date.",
+    "Activation Maharaja Points, if eligible, will be credited to the cardholder’s Maharaja Club account within 10 working days of becoming eligible.",
+    "This benefit cannot be combined with any other promotional Offer from TATA SIA Airlines Limited or Axis Bank Ltd.",
+    "The decision of TSAL and Axis with respect to the benefit will be final and binding on all the Cardholders availing this benefit.",
+    "TSAL and Axis reserves the rights to change, amend, withdraw and/or alter any of the terms and conditions of this benefit at any time without prior notice.",
+    "This benefit shall be governed by the laws of India. Any dispute arising out of or in connection with this benefit shall be subject to the exclusive jurisdiction of the courts of Delhi.",
+    "By availing this benefit, the Cardholder shall be deemed to have accepted all the aforesaid terms and conditions.",
+    "Vouchers are subject to net cumulative spend transactions on eligible categories done on the card during the card membership year.",
+    "Vouchers are usable for a single flight number journey between two points.",
+    "Vouchers are valid for 3 months from the date of issuance and will not be extended.",
+    "Vouchers can be issued within 6 months from the time of eligibility.",
+    "Annual fee waived off for renewal",
+    "Discontinued: complimentary Maharaja Club tier memberships, renewal ticket vouchers, milestone ticket/voucher benefits",
+    "Welcome Premium Economy ticket voucher granted on fee payment",
+    "Maharaja Club Silver Membership granted on fee payment",
+    "Milestone ticket vouchers granted upon achieving spend thresholds",
+    "Welcome Premium Economy ticket voucher on fee payment",
+    "Maharaja Club Silver Membership on fee payment",
+    "Lounge access subject to spend criteria",
+    "Milestone ticket vouchers based on spend thresholds",
+    "Activation benefit for all Axis Bank Vistara Credit Cards is valid only for the first card membership year",
+    "No activation Maharaja Points will be credited for transactions beyond the eligible first 90 days from the card issue date",
+    "Lounge access eligibility based on spend criteria",
+    "Voucher is valid for 3 months from date of issuance",
+    "Voucher can be extended by 3 months by paying a service fee",
+    "Voucher is non-transferable and cannot be bartered, sold or exchanged for cash",
+    "Voucher cannot be combined with any other promotional offer"
+  ],
+  "renewal_benefits": [
+    "Complimentary Premium Economy Ticket Voucher on renewal",
+    "Complimentary Maharaja Club Silver Membership on renewal",
+    "Complimentary Premium Economy Class ticket voucher on renewal",
+    "Complimentary Premium Economy Class ticket voucher on fee payment",
+    "Annual fee waived off on renewal",
+    "Annual fee waived off for renewal",
+    "Complimentary Premium Economy Ticket Voucher on renewal of card membership",
+    "Complimentary Premium Economy ticket voucher on renewal",
+    {
+      "benefit": "Annual fee waived off",
+      "condition": "For renewal cycles"
+    }
+  ],
+  "partner_programs": [
+    "Goibibo",
+    "MakeMyTrip",
+    "Swiggy",
+    "Amazon Fresh",
+    "EazyDiner",
+    "Visa lounges",
+    "Maharaja Club Silver Membership",
+    "Goibibo and MakeMyTrip",
+    "Swiggy and Amazon Fresh",
+    "Tira",
+    "Maharaja Points",
+    "Club Vistara Gold Membership",
+    "Maharaja Points (Air India Maharaja Club)",
+    "Visa lounge network",
+    "Maharaja Club",
+    "Club Vistara",
+    {
+      "program": "Maharaja Club",
+      "benefits": "Earning of Maharaja Points on eligible spends"
+    }
+  ],
+  "merchant_offers": [
+    "Dining Discounts once per month at partner restaurants with EazyDiner",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira",
+    "Instant savings up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    "Dining discounts once per month at partner restaurants via EazyDiner",
+    "10% off up to ₹1,000 on Tira",
+    "Up to 15% savings on flights & hotels via Goibibo and MakeMyTrip",
+    "Dining discounts via EazyDiner",
+    "10% off Swiggy orders",
+    "10% off Amazon Fresh orders",
+    "10% off up to Rs.1000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight – weekly offers every Wednesday"
+  ],
+  "important_terms": [
+    "Terms & Conditions updated w.e.f 18th April 2025",
+    "Terms & Conditions updated effective 12th November 2024 following Vistara and Air India merger",
+    "Terms and Conditions updated w.e.f 18th April'25",
+    "Terms and Conditions updated following Vistara and Air India merger, effective 12th November'24",
+    "Terms and Conditions will be updated w.e.f 18th April'25",
+    "Following the Vistara and Air India merger, Terms and Conditions will be updated, effective 12th November'24",
+    "Annual fee waived on renewal",
+    "Welcome ticket voucher, class upgrade vouchers, tier memberships, and milestone spend vouchers discontinued",
+    "Earn Maharaja Points on all eligible spends",
+    "Lounge, golf, and dining benefits continue",
+    "The Voucher is voluntarily transferable to nominees (as updated in the Club Vistara Account of the Cardholder).",
+    "The Voucher eligibility notification will be sent via email to the registered e-mail address of the cardholder as recorded in their Club Vistara account.",
+    "The Voucher(s) once issued cannot be reversed.",
+    "The Voucher(s) can be issued within 6 months from the time of eligibility.",
+    "The Voucher can be used only once and will become unusable upon utilization.",
+    "Issuance of voucher does not guarantee redemption seat availability.",
+    "Once booked and ticketed under a particular Cardholder's name, the ticket is non-transferable.",
+    "Changes to any ticket can be made subject to availability of designated seats and by payment of applicable change fee.",
+    "In case of any cancellations or no-show, the Voucher will be deemed utilized and, in such cases, only the statutory taxes will be refunded.",
+    "The Voucher cannot be bartered, sold or exchanged for cash.",
+    "This benefit cannot be combined with any other promotional Offer from TSAL or Axis Bank.",
+    "The decision of TSAL and Axis with respect to the benefit will be final and binding on all the Cardholders participating availing this benefit.",
+    "TSAL and Axis reserves the rights to change, amend, withdraw and/or alter any of the terms and conditions of this benefit at any time without prior notice.",
+    "This benefit shall be governed by the laws of India. Any dispute arising out of or in connection with this benefit shall be subject to the exclusive jurisdiction of the courts of Delhi.",
+    "By availing this benefit, the Cardholder shall be deemed to have accepted all the aforesaid terms and conditions.",
+    "Annual fee waiver for renewal cycle",
+    "Discontinuation of complimentary Maharaja Club tier memberships, renewal ticket vouchers, and milestone spend vouchers",
+    "Eligibility to earn Maharaja Points on all spends except specified excluded categories",
+    "Continuation of lounge access, golf benefits, and dining offers",
+    "Terms updated effective 12th November 2024 following Vistara and Air India merger",
+    "Terms updated w.e.f 18th April 2025",
+    "Activation Maharaja Points, if eligible, will be credited to the cardholder’s Maharaja Club account within 10 working days of becoming eligible",
+    "This benefit cannot be combined with any other promotional Offer from TATA SIA Airlines Limited or Axis Bank Ltd.",
+    "These terms and conditions are in addition to and not in derogation to the terms and conditions as applicable to Maharaja Club members",
+    "The decision of TATA SIA Airlines Limited and Axis Bank Ltd. with respect to the benefit will be final and binding on all the Cardholders availing this benefit",
+    "TATA SIA Airlines Limited and Axis Bank Ltd. reserves the rights to change, amend, withdraw and/or alter any of the terms and conditions of this benefit at any time without prior notice",
+    "This benefit shall be governed by the laws of India. Any dispute arising out of or in connection with this benefit shall be subject to the exclusive jurisdiction of the courts of Delhi",
+    "By availing this benefit, the Cardholder shall be deemed to have accepted all the aforesaid terms and conditions",
+    "Updated Most Important Terms and Conditions available at axisbank.com/mitnc",
+    "Voucher is subject to availability of seats in select booking fare classes",
+    "Changes to ticket require payment of applicable change fee",
+    "Cancellation or no-show results in Voucher being deemed utilized",
+    "Taxes and surcharges must be paid using the Axis Bank Vistara credit card"
+  ],
+  "excluded_categories": [
+    "Rent",
+    "Wallet load transactions",
+    "Utility bill payment",
+    "Government services",
+    "Insurance",
+    "Jewellery",
+    "Gold",
+    "Silver",
+    "Precious stones & metals",
+    "Watches",
+    {
+      "category": "Insurance",
+      "mcc": [
+        "5960",
+        "6012",
+        "6051",
+        "6300",
+        "6381"
+      ]
+    },
+    {
+      "category": "Gold / Jewellery",
+      "mcc": [
+        "5094",
+        "5944"
+      ]
+    },
+    "Government Services",
+    "Utilities Services",
+    "Rental Payments",
+    "Wallet Load Transactions",
+    "Precious Stones & Metals, Clock, Jewellery, Watch and Silverware Stores",
+    "Rental Payments (MCC 6513)",
+    "Wallet Load Transactions (MCC 6540)",
+    "Utility Services (MCC 4814, 4816, 4899, 4900)",
+    "Government Services (MCC 9222, 9311, 9399, 9402)",
+    "Insurance Services (MCC 5960, 6012, 6051, 6300, 6381)",
+    "Precious Stones & Metals, Clock, Jewellery, Watch and Silverware Stores (MCC 5094, 5944)",
+    "Insurance transactions",
+    "Gold / Jewellery transactions",
+    "Utility Services",
+    "Insurance Services",
+    "Jewellery, Gold, Silver, Precious stones & metals"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\AXIS_Axis Bank Vistara Signature Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\INSURANCE\\vistara-insurance-benefits.pdf",
+    "provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\cv-points-terms-and-conditions.pdf",
+    "https://www.axisbank.com/docs/default-source/default-document-library/credit-cards/terms-and-conditions-axis-bank-vistara-signature.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-axis-bank-vistara-cards.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-axis-bank-vistara-signature.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-for-axis-bank-vistara-credit-cards-ticket-voucher-benefit-(1).pdf",
+    "https://www.axisbank.com/docs/defaultsource/default-document-library/credit-cards/terms-and-conditions-axisbank-vistara-signature.pdf",
+    "https://www.axisbank.com/docs/defaultsource/default-document-library/credit-cards/vistara-insurance-benefits.pdf",
+    "https://dining.eazydiner.com/axisbank",
+    "https://www.extraordinaryweekends.com/",
+    "https://www.axisbank.com/grab-deals/Wednesday-delights",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-for-axis-bank-vistara-credit-cards-ticket-voucher-benefit.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\AXIS_Axis Bank Vistara Signature Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\INSURANCE\\vistara-insurance-benefits.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "Provided Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\main.pdf",
+    "Terms & Conditions for Axis Bank Vistara Credit Cards Maharaja Points & Activation Benefit",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\cv-points-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-axis-bank-vistara-cards.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-axis-bank-vistara-signature.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-for-axis-bank-vistara-credit-cards-ticket-voucher-benefit-(1).pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Vistara Signature Credit Card\\TERMS\\terms-and-conditions-for-axis-bank-vistara-credit-cards-ticket-voucher-benefit.pdf"
+  ]
+}

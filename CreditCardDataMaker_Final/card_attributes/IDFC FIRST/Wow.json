@@ -1,0 +1,161 @@
+{
+  "card_name": "Wow",
+  "card_network": "Visa Infinite",
+  "card_type": "Travel",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "4X Reward Points on every travel spend",
+    "4X Reward Points on online and offline spends",
+    "1X Reward Points on insurance premium, utility bill payments, FASTag recharges and Railway spends",
+    "4X Reward Points on international spends",
+    "1 Reward Point = ₹0.25"
+  ],
+  "reward_redemption_options": [
+    "Redeemable anywhere",
+    "Reward points as good as cash",
+    "Instant Redemption at partner stores and online merchants at a minimal reward redemption fee of ₹99+ GST"
+  ],
+  "reward_exclusions": [
+    "Insurance premium payments",
+    "Utility bill payments",
+    "FASTag recharges",
+    "Railway spends",
+    "Fuel transactions",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Zero Forex Markup Fees on International Spends with Rewards on top",
+    "Zero Interest Charges on ATM Cash Withdrawals for up to 45 days",
+    "Interest-Free Foreign Currency Withdrawals at ATMs Worldwide",
+    "Global Acceptance powered by VISA Infinite Platform",
+    "Zero forex markup on international transactions",
+    "Instantly Increase Your Credit Limit!"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Zero Forex Markup Fees on International Spends with Rewards on top",
+    "Zero forex markup on international transactions"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4X",
+  "forex_markup": 0,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Age Limit Criteria: 18 to 80 years",
+    "Be an Indian citizen with a permanent address in India",
+    "Minimum FD amount of ₹20,000 required with IDFC FIRST Bank",
+    "No credit history or income proof required"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Minimum Fixed Deposit (FD) of ₹20,000 with IDFC FIRST Bank"
+  ],
+  "charges": [
+    "Cash withdrawal fee (Per withdrawal): ₹199 + GST",
+    "Cash withdrawal fee of ₹199 + GST per transaction",
+    {
+      "type": "annual_fee",
+      "amount": 499
+    },
+    "1% fee (minimum ₹49) on education fee payments",
+    "1% surcharge (minimum ₹49) on rental spends",
+    "1% surcharge on utility spends if utility spends exceed ₹10,000",
+    "1% fee on Railway spends if Railway spends exceed ₹10,000",
+    "1% fee on FASTag Recharge spends if FASTag Recharge spends exceed ₹10,000"
+  ],
+  "interest_rates": [
+    "8.5% - 46.2% per annum",
+    {
+      "type": "overdue_interest",
+      "rate": "47.88% annual"
+    }
+  ],
+  "fees_and_penalties": [
+    "Cash withdrawal fee (Per withdrawal): ₹199 + GST",
+    "Cash withdrawal fee of ₹199 + GST per transaction",
+    {
+      "type": "late_payment_charge",
+      "rate": "15% of total amount due (min 100, max 1300)"
+    }
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [
+    "Interest-Free Foreign Currency Withdrawals at ATMs Worldwide",
+    "Global Acceptance powered by VISA Infinite Platform",
+    "Instantly Increase Your Credit Limit!"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "No Joining Fee | No Annual Fee",
+    "LIFETIME-FREE FD-BACKED PREMIUM CREDIT CARD",
+    "Goodbye forex charges. Hello FIRST WOW! Travel",
+    "Assured Card No Credit History Required",
+    "International Credit Card, powered by Visa Infinite",
+    "Instant Issuance Fully Digital Online Application",
+    "Earn interest on your FD while you spend",
+    "Travel with Confidence, Stay Secure",
+    "Instantly Increase Your Credit Limit!",
+    "Link your existing FD or book a new FD to increase your credit limit instantly through the IDFC FIRST Bank Mobile App, starting from ₹5,000. *T&C Apply",
+    "Lifetime-Free FD-Backed Premium Credit Card",
+    "Zero Currency Exchange Hassles",
+    "Zero Interest Charges on ATM Cash Withdrawals for up to 45 days",
+    "Zero Joining & Annual Fees",
+    "Reward Points that never expire"
+  ],
+  "excluded_categories": [
+    "Insurance premium payments",
+    "Utility bill payments",
+    "FASTag recharges",
+    "Railway spends",
+    "Fuel transactions",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\IDFC FIRST_Wow_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\PRODUCT_GUIDE\\WOW-Product-Guide.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

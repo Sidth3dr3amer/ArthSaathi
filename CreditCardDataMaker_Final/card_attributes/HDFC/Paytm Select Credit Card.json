@@ -1,0 +1,135 @@
+{
+  "card_name": "Paytm Select Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "First Year Fee waived on spending ₹50,000 (Non-EMI Spends) within the first 90 days. Renewal Year Fee waived on spending ₹1.50 Lakh (Non-EMI Spends) in 12 months.",
+  "welcome_benefits": [
+    "₹750 welcome cashback"
+  ],
+  "reward_structure": [
+    "5% CashPoints on purchases on Paytm [Recharge + Utility + Travel + Movies + Mini App] Max. Cap per Calendar Month - 1500 Cashpoints.",
+    "3% CashPoints on Swiggy, AJIO, Big Basket & Uber. Max. Cap per Calendar Month - 500 Cashpoints.",
+    "1% CashPoint on all other retail transactions. Max. Cap per Calendar Month - 2000 Cashpoints."
+  ],
+  "reward_redemption_options": [
+    "CashPoints can be redeemed as CashBack along with other redemption categories."
+  ],
+  "reward_exclusions": [
+    "No CashBack on rental and educational spending.",
+    "No CashBack on wallet loads, fuel spends, EMI spends."
+  ],
+  "reward_caps": [
+    "Overall cashback redemption will be capped at 3000 points per month.",
+    "Redemption on travel Reward Points is capped at 50,000 points per month.",
+    "Accruals on grocery spends are capped at 1000 cashpoints per month."
+  ],
+  "cashback_benefits": [
+    "Up to 10% savings on all your personal spends of ₹8,00,000 in a year*",
+    "Gift Vouchers worth ₹500 upon spending ₹50,000* every Calendar Quarter (Non-EMI and Non-Rental Spends)"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "8 Complimentary access to Domestic Airport Lounges across the country in a calendar year*"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Up to 20% discount* on partner restaurants via Dineout."
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 20% discount* on partner restaurants via Dineout."
+  ],
+  "movie_benefits": [
+    "5% CashPoints on purchases on Paytm [Movies]"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waived off on fuel transactions up to Rs.500 per statement cycle; Minimum Transaction – Rs.400"
+  ],
+  "shopping_benefits": [
+    "5% CashPoints on purchases on Paytm [Recharge + Utility + Travel + Movies + Mini App]"
+  ],
+  "entertainment_benefits": [
+    "5% CashPoints on purchases on Paytm [Movies]"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero lost card liability for any fraudulent transactions."
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1%",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried: Nationality - Indian, Age: 21 - 65 years, Income (monthly) > ₹30,000",
+    "Self-Employed: Age: 21 - 65 years, Annual ITR > ₹60,000"
+  ],
+  "income_requirements": [
+    "Salaried: > ₹30,000 monthly income",
+    "Self-Employed: > ₹60,000 annual ITR"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Income Tax Returns (ITR), GST Returns, Bank Statements, Merchant Payment Report"
+  ],
+  "charges": [
+    "Annual Membership Fee – ₹1,000 plus GST",
+    "Rental Payments – 1% fee from second rental transaction in same calendar month",
+    "International DCC Transactions – 1% markup fee",
+    "Annual Membership Fee: ₹1,000 + GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Annual Membership Fee: ₹1,000 + GST"
+  ],
+  "spend_conditions": [
+    "Spend ₹50,000 in first 90 days for first-year fee waiver",
+    "Spend ₹1.50 lakh in 12 months for renewal fee waiver",
+    "First Year Fee waived upon spending ₹50,000 (Non-EMI Spends) within the first 90 days",
+    "Renewal Year Fee waived upon spending ₹1,50,000 (Non-EMI Spends) in the 12 months period"
+  ],
+  "benefit_conditions": [
+    "CashBack is accrued as CashPoints in your card account, which can be redeemed post statement generation.",
+    "Effective April 1, 2023, CashPoints for a particular month shall be accrued in your card account in the first week of the subsequent month on a cumulative basis.",
+    "Effective January 01, 2023, No CashBack on rental and educational spending.",
+    "70% points + 30% minimum pay system - A minimum of 30% pay system has been introduced for redemption of points on select categories only."
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived on spending ₹1.50 lakh in 12 months",
+    "Renewal Fee waived on spending ₹1.5 lakh on non-EMI spends in the 12-month period."
+  ],
+  "partner_programs": [
+    "Exclusive benefits over and above the regular offers with Paytm First."
+  ],
+  "merchant_offers": [
+    "5% CashPoints on purchases on Paytm [Recharge + Utility + Travel + Movies + Mini App]",
+    "3% CashPoints on Swiggy, AJIO, Big Basket & Uber"
+  ],
+  "limited_period_offers": [
+    "₹750 welcome cashback"
+  ],
+  "important_terms": [
+    "CashBack is not applicable for wallet loads, fuel spends, EMI spends, rental spends and education spends.",
+    "To know more, click here."
+  ],
+  "excluded_categories": [
+    "Wallet loads, fuel spends, EMI spends, rental spends and education spends."
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Credit Card\\HDFC_Paytm Select Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Credit Card\\main.pdf"
+  ]
+}

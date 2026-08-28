@@ -1,0 +1,158 @@
+{
+  "card_name": "Indigo Hdfc Bank Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Rewards Credit Card",
+  "joining_fee": 250,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Minimum Spend for waiver of annual membership fee / renewal charges for next year: ₹50,000 / Annum",
+  "welcome_benefits": [
+    "Complimentary flight ticket worth ₹1500",
+    "1 Complimentary 6E Prime Add-On - Priority check in, choice of seat, a complimentary meal"
+  ],
+  "reward_structure": [
+    "1 6E Rewards per ₹100 Spends on all other spends",
+    "2.5 6E Rewards per ₹100 Spends on flights booking on IndiGo App/Website",
+    "2 6E Rewards per ₹100 Spends on Grocery, Dining & Entertainment capped at 100 RP monthly"
+  ],
+  "reward_redemption_options": [
+    "Redeem 6E Reward Points on Indigo Website or Indigo App where 1 6E Reward = 1 Rupee",
+    "Rewards earned will be transferred to the IndiGo account at the end of the month & can be only be redeemed through IndiGo account on flight bookings and 6E Add-ons & services"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "2 6E Rewards per ₹100 Spends on Grocery, Dining & Entertainment capped at 100 RP monthly"
+  ],
+  "cashback_benefits": [
+    "2.5 6E Rewards per ₹100 Spends on flights booking on IndiGo App/Website",
+    "2 6E Rewards per ₹100 Spends on Grocery, Dining & Entertainment capped at 100 RP monthly"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "As of now, the 6E Rewards-IndiGo HDFC Bank Credit Card doesn't offer complimentary domestic airport lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary flight ticket worth ₹1500",
+    "1 Complimentary 6E Prime Add-On - Priority check in, choice of seat, a complimentary meal",
+    "Discounted Convenience Fee on IndiGo tickets ₹150 per person",
+    "Complimentary flight ticket worth ₹1500, with 1 Complimentary 6E Prime Add-On - Priority check in, choice of seat, a complimentary meal",
+    "Convenience Fee Discount on IndiGo tickets ₹150 per person"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Complimentary flight ticket worth ₹1500",
+    "1 Complimentary 6E Prime Add-On - Priority check in, choice of seat, a complimentary meal",
+    "Discounted Convenience Fee on IndiGo tickets ₹150 per person"
+  ],
+  "forex_benefits": [
+    "Markup fee of 3.5% on all foreign currency transactions"
+  ],
+  "dining_benefits": [
+    "Exclusive Dining Privileges with the Good Food Trail Dining program at premium restaurants across top cities"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "Get ₹1,000 CashBack on Shopping in-app over 200+ brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Zero liability in case of card misuse"
+  ],
+  "protection_benefits": [
+    "Zero liability in case of card misuse"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Revolving Credit on your 6E Rewards - IndiGo HDFC Bank Credit Card, at nominal interest rate"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 6E Reward = ₹1",
+  "forex_markup": "3.5%",
+  "fuel_surcharge_waiver": "Fuel Surcharge Waiver will be capped at 1% of the eligible fuel transaction amounts. Waiver applicable for transaction between ₹400 to ₹5000. GST on Fuel surcharge will not be reversed. The rate of surcharge may vary depending on the fuel station and their acquiring bank. The surcharge is levied by the acquiring bank providing the terminal to the merchant. The value on charge slip will differ from the credit card statement since the Surcharge & GST is levied by acquiring bank post the transaction.",
+  "eligibility": [
+    "Salaried: Gross monthly income above ₹50,000",
+    "Self-Employed: Annual ITR > ₹7,20,000",
+    "Salaried: Indian, Age: 21 – 60 years, Income (Monthly) - ₹50,000",
+    "Self-Employed: Age: Minimum: 21 – 65 years, Annual ITR > ₹7,20,000",
+    "Salaried: Nationality: Indian, Age: 21 – 60 years, Income (Monthly) - ₹50,000"
+  ],
+  "income_requirements": [
+    "Salaried: Gross monthly income above ₹50,000",
+    "Self-Employed: Annual ITR > ₹7,20,000",
+    "Salaried: ₹50,000 monthly income"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR) Form 16, Bank statements",
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Markup fee of 3.5% on all foreign currency transactions",
+    "Cash advance fee: 2.5% or ₹500 whichever is higher",
+    "Fuel Transaction Surcharge (Plus GST): 3.5% Of transaction value",
+    "Dynamic currency conversion Markup Fee: A Markup fee of 1% will be levied on all transactions carried out in Indian Currency at an international location or at merchants which are located in India but registered overseas."
+  ],
+  "interest_rates": [
+    "Nominal interest rate on revolving credit",
+    "Revolving Credit at nominal interest rate",
+    "Finance charges for both revolving credit and cash advances: 3.60% Monthly, 43.20% Annually",
+    "Late Payment Charges: Refer section ‘Schedule of Charges’ for details"
+  ],
+  "fees_and_penalties": [
+    "Late Payment Charges: ₹100 for amounts between ₹100 to ₹500, ₹500 for ₹501 to ₹5,000, ₹600 for ₹5,001 to ₹10,000, ₹800 for ₹10,001 to ₹25,000, ₹1100 for ₹25,001 to ₹50,000, ₹1300 for more than ₹50,000"
+  ],
+  "spend_conditions": [
+    "1 6E Rewards per ₹100 Spends on all other spends",
+    "2.5 6E Rewards per ₹100 Spends on flights booking on IndiGo App/Website",
+    "2 6E Rewards per ₹100 Spends on Grocery, Dining & Entertainment capped at 100 RP monthly"
+  ],
+  "benefit_conditions": [
+    "Rewards valid for 2 years",
+    "Discounted Convenience Fee on IndiGo tickets ₹150 per person",
+    "Reward Points Validity: 2 years",
+    "Rewards earned will be transferred to the IndiGo account at the end of the month & can be only be redeemed through IndiGo account on flight bookings and 6E Add-ons & services",
+    "Reward Points are valid for 2 years from the month in which they were posted"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Good Food Trail Dining program",
+    "Mastercard offers",
+    "Exciting offers and benefits curated by Mastercard"
+  ],
+  "merchant_offers": [
+    "Earn Additional CashBack along with the card CashPoints on Utility Bills, Mobile Recharges & more"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Rewards valid for 2 years",
+    "Zero liability in case of card misuse",
+    "Rewards can only be redeemed through IndiGo account on flight bookings and 6E Add-ons & services",
+    "Zero Cost Card Liability: Available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre",
+    "6E Rewards program is getting phased out from 1st Nov’25",
+    "Any unutilised 6E Rewards balance will be auto-converted to IndiGo BluChip in 1:1 ratio on 1st Nov’25",
+    "The 6E Rewards Indigo HDFC Bank Credit Card is discontinued. Bank is not accepting any new applications for these card variants",
+    "Existing cardholders can continue to enjoy the features & benefits of this card until the replacement card is issued by 31st Oct’25",
+    "Interest free (grace Period): The interest free credit period could range from 20 to 50 days subject to the scheme applicable on the specific Credit Card and the submission on the specific Credit Card (please refer to the Schedule of Charges) and the submission of claims by the merchant. However, this is not applicable if the Previous month's balance has not been cleared in full or if the Cardmember has availed of cash from ATM.",
+    "Finance charges are payable at the monthly percentage rate on all transactions from the date of transaction in the event of the Cardmember choosing not to pay his balance in full, and on all cash, advances taken by the Cardmember, till they are paid back.",
+    "Late Payment Charges will be applicable if Minimum Amount Due is not Paid by the payment due date, Clear funds need to be credited to HDFC Bank Card account on or before the payment due date, to avoid Late Payment charges."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\HDFC_Indigo Hdfc Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\FAQ\\Migration_FAQ_08_08_25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indigo Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards4.pdf"
+  ]
+}

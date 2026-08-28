@@ -1,0 +1,296 @@
+{
+  "card_name": "Miles More Credit Card",
+  "card_network": "MasterCard",
+  "card_type": "Credit Card",
+  "joining_fee": "₹10,000 + GST",
+  "annual_fee": "₹4,500 + GST",
+  "fee_waiver_condition": "Joining fee and annual fee waived for HON and Senator Status members",
+  "welcome_benefits": [
+    "15,000 miles",
+    "Priority Pass",
+    "Up to 15,000 Bonus Welcome Miles",
+    "Priority Pass as joining benefit",
+    "Welcome Miles credited after the first purchase transaction on the credit card in the same or the next billing cycle"
+  ],
+  "reward_structure": [
+    "6 Award Miles per ₹200 of eligible spends",
+    "No expiry of award miles",
+    "Award miles earned on eligible spends excluding reversals, fraud transactions, fee payments, cash withdrawals, interest charges, EMI transactions, and fuel transactions"
+  ],
+  "reward_redemption_options": [
+    "Flights with Star Alliance partners",
+    "Upgrade tickets with Condor",
+    "Hotel stays",
+    "Shopping at partner stores",
+    "Car rentals",
+    "Charitable contributions",
+    "Redeem miles against flights and other redemption options available with Miles & More",
+    "flights",
+    "other redemptions options available with Miles & More"
+  ],
+  "reward_exclusions": [
+    "Reversals",
+    "Fraud transactions",
+    "Fee payments",
+    "Cash withdrawals",
+    "Advances",
+    "Interest charges",
+    "EMI transactions",
+    "Fuel MCCs",
+    "Wallet loads/spends",
+    "Rent",
+    "Insurance",
+    "Utilities",
+    "Government spends",
+    "Gold & jewelry",
+    "Government Institution",
+    "Gold/Jewelry",
+    "Utilities & Telecom",
+    "Wallet load",
+    "Government services",
+    "Gold & Jewellery",
+    "Fuel",
+    "Cash advances",
+    "Repayments",
+    "Award miles not suitable as status miles",
+    "Status miles can only be achieved on scheduled flights operated by specific airlines and Star Alliance partners"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Earn up to 55,000 miles in first year"
+  ],
+  "lounge_access": [
+    "8 complimentary visits to select airport lounges per quarter",
+    "4 complimentary lounge access per quarter",
+    "Complimentary access to MasterCard Lounges in India",
+    "Complimentary membership to Priority Pass",
+    "Priority Pass lounges",
+    "MasterCard lounges in India",
+    "Complimentary lounge access based on spends in the previous 3 calendar months"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "4 Priority Pass lounge visits p.a",
+    "4 complimentary visits to Priority Pass lounges per year for Miles & More World Select Credit Card holders",
+    "2 complimentary visits to Priority Pass lounges per year for Miles & More World Credit Card holders",
+    "4 complimentary visits per year for primary cardholder"
+  ],
+  "travel_benefits": [
+    "Flights and upgrades",
+    "Hotel bookings",
+    "Car rentals",
+    "Charitable contributions"
+  ],
+  "hotel_benefits": [
+    "Spend miles on accommodation in premium hotels and luxurious resorts"
+  ],
+  "airline_benefits": [
+    "Book flights with Star Alliance partners",
+    "Upgrade with Condor",
+    "Award miles can be earned on eligible spends and redeemed for flights"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "40% off or up to ₹1000 and 25% off or up to ₹800 at partner restaurants",
+    "40% off up to ₹1000 or 25% off up to ₹800 at partner restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel transactions are excluded from eligible spends for earning award miles"
+  ],
+  "shopping_benefits": [
+    "Redeem miles at partner stores"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Baggage loss insurance",
+    "Air accident insurance",
+    "Lost card insurance",
+    "Credit shield"
+  ],
+  "protection_benefits": [
+    "EMV chip and PIN security"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI on transactions over ₹2,500",
+    "Transactions converted to EMI are excluded from eligible spends for earning award miles"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": 4,
+  "guest_lounge_access": "Guests charges applicable",
+  "reward_rate": null,
+  "forex_markup": "1.5%",
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Primary cardholder between the age of 18 years and 70 years",
+    "Add-on cardholder should be over 18 years",
+    "Individual should either be a Resident of India or Non-Resident Indian",
+    "Primary age 18-70",
+    "Add-on age 18+",
+    "Resident of India or NRI"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN card photocopy or Form 60",
+    "Colour photograph",
+    "Latest payslip / Form 16 / IT return copy as proof of income",
+    "Residence proof (Passport, Ration card, Electricity bill, Landline telephone bill)",
+    "Copy of latest Miles & More Membership Card statement (for existing Miles & More members only)",
+    "Credit card statement of existing Miles & More Credit Card (not older than 2 months) issued by Miles & More earlier",
+    "Banking partner in India (for existing Miles & More members only)",
+    "Credit card statement of existing Miles & More Credit Card (not older than 2 months) issued by Miles & More earlier Banking partner in India (for existing Miles & More members only)",
+    "PAN card or Form 60",
+    "Latest payslip / Form 16 / IT return copy",
+    "Copy of latest Miles & More Membership Card statement (for existing members)",
+    "Credit card statement of existing Miles & More Credit Card (not older than 2 months)"
+  ],
+  "charges": [
+    "Standard Joining Fee: ₹10,000 + GST",
+    "Standard Annual Fee (2nd year onwards): ₹4,500 + GST",
+    "Finance Charges (Retail Purchases & Cash): 3.7% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the Cash Amount",
+    "Fee for Cash Payment: ₹175/-",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500",
+    "₹500 if total payment due is between ₹501 - ₹5,000",
+    "₹750 if total payment due is between ₹5,001 - ₹10,000",
+    "₹1200 if total payment due is greater than ₹10,000",
+    "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹500)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction fee: 1% fee per transaction",
+    "Wallet load transaction: 1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle",
+    "Fuel Transaction: 1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee will be applicable on each education payments done through third party apps",
+    "Utility Transaction: 1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period",
+    "Online skill-based gaming: 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period",
+    "Dynamic Currency Conversion markup: 1.5% on International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation",
+    "Cheque return or dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. ₹500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC / Indian Railways",
+    "Wallet load transaction: 1% fee on cumulative wallet load transactions of ₹10,000 or more in a statement cycle",
+    "Fuel Transaction: 1% fee on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee on each education payment",
+    "Utility Transaction: 1% fee on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle",
+    "Online skill-based gaming: 1% fee on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period",
+    "Joining fee: ₹3,500 + GST",
+    "Annual fee: ₹3,500 + GST (2nd year onwards)",
+    "Cash withdrawal fee: 2.5% min ₹500",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Dynamic Currency Conversion markup: 1.5%"
+  ],
+  "interest_rates": [
+    "Finance charges: 3.7% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500",
+    "₹500 if total payment due is between ₹501 - ₹5,000",
+    "₹750 if total payment due is between ₹5,001 - ₹10,000",
+    "₹1200 if total payment due is greater than ₹10,000",
+    "Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Late payment fee: Nil if total due < ₹500, else ₹500-₹1200 based on amount",
+    "Over limit penalty: 2.5% of overlimit amount min ₹500",
+    "Cheque return fee: 2% of payment amount min ₹450 max ₹1,515",
+    "Additional ₹100 on missing MAD for two consecutive cycles"
+  ],
+  "spend_conditions": [
+    "Eligible spends exclude reversals, fraud, fee payments, cash withdrawals, advances, interest charges, EMI transactions, fuel MCCs, wallet loads/spends, rent, insurance, utilities, government spends, gold & jewelry",
+    "Award miles credited subject to due payment of the bills of the Miles & More Credit Card",
+    "At least one (1) eligible purchase must be done each month to prevent mileage expiry",
+    "excludes reversals, fraud transactions, fee payments, cash withdrawals, interest charges, transactions converted to EMI, and transactions classified under Merchant Category Code (MCC) as Fuel and wallet spends/reloads"
+  ],
+  "benefit_conditions": [
+    "First transaction within 30 days of issuance",
+    "Make at least one miles-related purchase each month",
+    "Priority Pass visits for primary cardholder only",
+    "Award miles credited only if the cardholder is a member of the Miles & More programme",
+    "Award miles not credited in case of fraudulent use, theft, or counterfeiting of the card",
+    "cardholder must be a member of the Miles & More programme",
+    "cardholder must have at least one eligible purchase per month to prevent mileage expiry",
+    "miles do not expire for Frequent Travellers, Senators, and HON Circle Members"
+  ],
+  "renewal_benefits": [
+    "Annual Bonus: 4,000 award miles",
+    "Annual bonus of 4,000 award miles"
+  ],
+  "partner_programs": [
+    "Miles & More Club",
+    "Star Alliance",
+    "Condor",
+    "Goibibo",
+    "Makemytrip",
+    "Swiggy",
+    "Amazon Fresh",
+    "Tira",
+    "Eazydiner",
+    "Miles & More programme",
+    "Miles & More"
+  ],
+  "merchant_offers": [
+    "40% off up to ₹1000 or 25% off up to ₹800 at partner restaurants",
+    "15% off flights & hotels via Goibibo and Makemytrip",
+    "10% off orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight offers"
+  ],
+  "important_terms": [
+    "Terms and conditions apply",
+    "Bonus miles on activation",
+    "Priority Pass issued automatically on activation",
+    "Award miles never expire if cardholder active for at least 3 months and makes monthly miles-related purchase",
+    "Updated Most Important Terms and Conditions (MITC) available at axisbank.com/mitnc",
+    "Award miles credited to the Miles & More account are governed by the Miles & More programme terms and conditions",
+    "Axis Bank is not responsible for discrepancies between credit card statement and mileage account",
+    "miles are credited to the Miles & More account",
+    "miles are subject to due payment of the card bill",
+    "miles may be debited in case of default",
+    "miles do not credit for fraudulent use or disputes",
+    "miles expire if conditions are not met"
+  ],
+  "excluded_categories": [
+    "Reversals",
+    "Fraud transactions",
+    "Fee payments",
+    "Cash withdrawals",
+    "Advances",
+    "Interest charges",
+    "EMI transactions",
+    "Fuel",
+    "Wallet loads/spends",
+    "Rent",
+    "Insurance",
+    "Utilities",
+    "Government spends",
+    "Gold & jewelry",
+    "Utilities (MCC: 4814, 4816, 4899, 4900)",
+    "Government Institutions (MCC: 9222, 9311, 9399, 9402)",
+    "Insurance (MCC: 6300, 6381, 5960, 6399)",
+    "Rent (MCC: 6513)",
+    "Gold/Jewellery (MCC: 5094, 5944, 7631)",
+    "Fuel transactions",
+    "Transactions converted to EMI",
+    "wallet spends/reloads"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\AXIS_Miles More Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\FAQ\\chip-pin-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\LOUNGE\\axis-bank-mastercard-airport-lounge-access_program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\LOUNGE\\tnc-lounge-access-changed.pdf",
+    "Charges Table",
+    "Eligibility Section",
+    "Benefits Section",
+    "Rewards Section",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\REWARDS\\howtoraiseinsurance_miles_more.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\TERMS\\terms-and-conditions-mmi-world-credit-card.pdf",
+    "MILES & MORE AXIS BANK Credit Card Terms and Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\TERMS\\terms-and-conditions-mmi-world-select-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\TERMS\\tnc-miles05ab9ab9be576bf08df9ff00000b8c1c.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Miles More Credit Card\\TERMS\\tnc-milesfaaa9ab9be576bf08df9ff00000b8c1c.pdf"
+  ]
+}

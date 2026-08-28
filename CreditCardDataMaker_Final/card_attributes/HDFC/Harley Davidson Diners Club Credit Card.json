@@ -1,0 +1,121 @@
+{
+  "card_name": "Harley Davidson Diners Club Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Credit Card",
+  "joining_fee": 2500,
+  "annual_fee": 2500,
+  "fee_waiver_condition": "Spend ₹3 lakh or more in a year before the renewal date to get the renewal fee waived.",
+  "welcome_benefits": [
+    "Annual memberships of Swiggy One & Times Prime",
+    "Gift Card by Harley-Davidson worth 750 on spending 75,000 within the first 90 days of card issuance"
+  ],
+  "reward_structure": [
+    "5X Reward Points on Swiggy and Zomato",
+    "4 Reward Points on every 150 retail spends",
+    "20 Reward Points on every 150 spends on Swiggy and Zomato",
+    "Up to 10X Reward Points on Spends Via SmartBuy"
+  ],
+  "reward_redemption_options": [
+    "Flights and hotel bookings via SmartBuy at a value of 1 RP = 0.5",
+    "Exclusive Privilege Dining Catalogue on select Restaurants via SmartBuy at a value of 1 RP = 0.50",
+    "Cashback at a value of 1 RP = 0.20"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "1,500 worth vouchers of Marriott Experience or Decathlon or Barbeque Nation or O2 Spa or Lakme Salon on spends of 1.5 lakh in a calendar quarter"
+  ],
+  "lounge_access": [
+    "2 Complimentary Airport lounge access every calendar quarter worldwide"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Up to 10X Rewards on Booking flight tickets / stays across 150+ hotels (Domestic & International) at SmartBuy"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign Currency Markup: Nominal 3.5% on all your foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Good Food Trail program: Enjoy up to 20% off on all your restaurant bill payments via Swiggy Dineout (Choose from 20,000 + restaurants)"
+  ],
+  "movie_benefits": [
+    "Buy 1 Get 1 Free offer on BookMyShow"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "Buy 1 Get 1 Free offer on BookMyShow"
+  ],
+  "insurance_benefits": [
+    "Accidental Air Death Cover worth 1 crore",
+    "Emergency overseas hospitalization up to 25 lakh",
+    "Travel Insurance Cover of up to 50,000 on baggage delay (Capped to 10$ per hour & restricted to 8 hours)",
+    "Credit Liability cover up to 9 lakh"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI option to convert big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For Salaried Applicants: Nationality: Indian, Age: 21-60 years, Income: Gross monthly income > ₹70,000",
+    "For Self-Employed Applicants: Age: 21-65 years, Income: ITR > ₹8.4 lakh per annum",
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed)",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ■70,000",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ■8.4 lakh per annum",
+    "For Salaried Indian national: Age: Min 21 years & Max 60 Years, Net Monthly Income > 35,000",
+    "For Self Employed Indian national: Age: Min 21 years & Max 65 Years, Income: ITR > 6 Lakh per annum"
+  ],
+  "income_requirements": [
+    "Salaried: Gross monthly income > ₹70,000",
+    "Self-Employed: ITR > ₹8.4 lakh per annum",
+    "Gross monthly income greater than ₹70,000 (Salaried)",
+    "Income Tax Return (ITR) greater than ₹8.4 lakh per annum (Self-Employed)",
+    "Gross monthly income greater than ■70,000 for salaried applicants",
+    "Income Tax Return (ITR) greater than ■8.4 lakh per annum for self-employed applicants",
+    "Salaried: Net Monthly Income > 35,000",
+    "Self-Employed: ITR > 6 Lakh per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR) Form 16, Bank statements"
+  ],
+  "charges": [],
+  "interest_rates": [],
+  "fees_and_penalties": [],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [
+    "Renewal Fee waiver for next year on spends of 3 lakh in card anniversary year"
+  ],
+  "partner_programs": [
+    "Swiggy One & Times Prime memberships"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Harley Davidson Diners Club Credit Card\\HDFC_Harley Davidson Diners Club Credit Card_summary.txt",
+    "HDFC Bank Harley-Davidson Diners Club Credit Card Eligibility Criteria",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Harley Davidson Diners Club Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Harley Davidson Diners Club Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Harley Davidson Diners Club Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Harley Davidson Diners Club Credit Card\\main.pdf"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "card_name": "Diners Club Black Credit Card",
+  "card_network": "Diners Club",
+  "card_type": [
+    "Credit Card",
+    "Travel Credit Card",
+    "Rewards Credit Card",
+    "Lifestyle Credit Card",
+    "Premium & Super Premium Credit Card"
+  ],
+  "joining_fee": 10000,
+  "annual_fee": 10000,
+  "fee_waiver_condition": "Spend ■5 lakh in 12 months and enjoy a renewal fee waiver for the next renewal year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "Earn 5 Reward Points for every ₹150 spent",
+    "Earn 2X Reward Points on Weekend Dining on participating restaurants",
+    "Earn up to 10X Reward Points on hotels and flight bookings on SmartBuy",
+    "5X reward points on popular dining platforms like Swiggy and Zomato"
+  ],
+  "reward_redemption_options": [
+    "SmartBuy (Flight and hotel bookings)",
+    "Airmiles conversion",
+    "Products and Voucher",
+    "Cashback",
+    "SmartBuy or NetBanking"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Reward Points can be redeemed up to 70% of the booking value for Flights and Hotel booking"
+  ],
+  "cashback_benefits": [
+    "₹1,000 CashBack across 200+ brands on your Credit Card via PayZapp",
+    "Cashback up to ₹0.30 per reward point"
+  ],
+  "milestone_benefits": [
+    "Spend INR 80,000 or more to avail 2 voucher worth INR 500 from Tata Cliq, Uber, Book My Show or Cult Fit",
+    "Complimentary Annual memberships of Club Marriott, Times Prime, Amazon Prime, Swiggy One (3 months), MMT BLACK on 8 Lac spends in anniversary year"
+  ],
+  "lounge_access": [
+    "Unlimited lounge access to 1,300+ lounges in India and abroad for primary and add-on card members",
+    "Complimentary Lounge access is provided on a select list of participating lounges.",
+    "Domestic list of the participating lounges is updated on product page.",
+    "International list of participating lounges is to be referred on Diners Travel Tool App.",
+    "Lounge access is available to Primary & Add on Card holders basis shared benefit count.",
+    "Primary or add on card holder intending to access the benefit should present their respective cards at the lounge while availing the benefit.",
+    "Access is not allowed to guest member. If guest wants to accompany, the same will be charged by lounge service provider basis customer consent."
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Up to 50 days of interest-free Credit from the date of purchase",
+    "Emergency overseas hospitalisation cover",
+    "Travel Insurance cover on baggage delay"
+  ],
+  "hotel_benefits": [
+    "Earn up to 10X Reward Points on hotels on SmartBuy"
+  ],
+  "airline_benefits": [
+    "Earn up to 10X Reward Points on flight bookings on SmartBuy"
+  ],
+  "forex_benefits": [
+    "2% on all your foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Earn 2X Reward Points on Weekend Dining on participating restaurants",
+    "5X reward points on popular dining platforms like Swiggy and Zomato"
+  ],
+  "movie_benefits": [
+    "'Buy 1 Get 1 Free' on entertainment through BookMyShow"
+  ],
+  "golf_benefits": [
+    "6 complimentary golf games every quarter within India and across the world",
+    "100% green fee waiver on golf courses worldwide on weekdays and weekends",
+    "24-hour access to Golf Concierge Assistance services for booking/cancellation",
+    "6 Complimentary Golf games every quarter across the finest courses in the world"
+  ],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "₹1,000 CashBack across 200+ brands on your Credit Card via PayZapp"
+  ],
+  "entertainment_benefits": [
+    "'Buy 1 Get 1 Free' on entertainment through BookMyShow"
+  ],
+  "insurance_benefits": [
+    "Air accident cover: USD 250,000",
+    "Emergency medical expenses: USD 62,500",
+    "Financial liability cover: INR 900,000",
+    "Baggage delay cover: USD 688",
+    "Loss of personal documents: USD 688",
+    "Hijacking: USD 625",
+    "Air Accident: USD 250,000 cover for primary cardholder in case of death within 12 months of accident.",
+    "Emergency Medical Expenses: USD 62,500 cover for international travel outside India for bodily injury or sudden sickness.",
+    "Card Liability Cover: INR 900,000 cover for lost card liability.",
+    "Baggage Delay Cover: USD 688 for delay beyond 8 hours on international flights (max $10 per hour).",
+    "Loss of Personal Documents: USD 688 cover for expenses to obtain duplicate passport/documents during international travel (Sub-limit per Article: 10%).",
+    "Hijacking Cover: USD 688 ($75 per 6 hours on international flights, deductible 12 hours).",
+    "Air Accident Insurance",
+    "Emergency overseas hospitalisation cover",
+    "Travel Insurance cover on baggage delay"
+  ],
+  "protection_benefits": [
+    "Card Liability Cover: INR 900,000 for lost card liability (2 days prior to block and 30 days post block).",
+    "Protection against fraudulent transactions made on your Credit Card"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Ability to convert large transactions to a SmartEMI after purchase",
+    "Option to convert your big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": "Unlimited",
+  "international_lounge_visits_per_year": "Unlimited",
+  "guest_lounge_access": "Access is not allowed to guest member. If guest wants to accompany, the same will be charged by lounge service provider basis customer consent.",
+  "reward_rate": "5 Reward Points for every ₹150 spent",
+  "forex_markup": 2,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For Salaried Indian national: Age: Minimum 21 and maximum 60 years. Income: Net Monthly Income > ₹1.75 lakh per month.",
+    "For Self Employed Indian national: Age: Minimum 21 and maximum 65 years. Income: ITR > ₹ 21 lakh per annum for self-employed customers.",
+    "Minimum 21 and maximum 60 years (Salaried)",
+    "Minimum 21 and maximum 65 years (Self Employed)",
+    "For Salaried Indian national: Age: Minimum 21 and maximum 60 years.",
+    "For Self Employed Indian national: Age: Minimum 21 and maximum 65 years."
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹1.75 lakh per month (Salaried)",
+    "ITR > ₹ 21 lakh per annum (Self-employed)",
+    "ITR > ₹ 21 lakh per annum (Self Employed)",
+    "Net Monthly Income > 1.75 lakh per month (Salaried)",
+    "ITR > 21 lakh per annum (Self Employed)"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/Renewal Membership Fee: ₹10,000 plus Applicable Taxes",
+    "Foreign Currency Markup: 2%"
+  ],
+  "interest_rates": [
+    "nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Cancellation fee of INR 500 per person for domestic bookings if cancelled less than ONE clear day before tee-off",
+    "Cancellation fee of INR 500 per person for international bookings if cancelled less than four clear days before tee-off",
+    "Administration fee of Rs. 500 plus applicable taxes for any change requests made after confirmation of booking",
+    "Joining/Renewal Membership Fee: ₹10,000 plus Applicable Taxes",
+    "Foreign Currency Markup: 2%"
+  ],
+  "spend_conditions": [
+    "Air Accident cover is activated if tickets are purchased using Diners Card.",
+    "Travel Insurance is activated if tickets are purchased using Diners Card.",
+    "8 Lac spends in anniversary year",
+    "Spend INR 80,000 or more",
+    "annual spends of ₹5 lakh"
+  ],
+  "benefit_conditions": [
+    "Must have a valid golf handicap to avail the Green Fee offer",
+    "Must make all enquiries and bookings through HDFC Bank Diners concierge and must not contact the Golf Clubs / Golf Instructors directly",
+    "Must carry HDFC Bank Diners Club Black Credit Card and any valid Government issued identification proof",
+    "Must carry out a Rs 5 authentication transaction at the Golf Course from the Credit Card used to book the slot",
+    "Must carry a valid handicap certificate for all international bookings",
+    "Air accident cover activated if tickets purchased using Diners Card",
+    "Travel insurance activated if tickets purchased using Diners Card",
+    "Liability on lost card covered for 2 days prior to Date of Block and 30 days post the Date of Block",
+    "Maximum trip duration is 30 days",
+    "Insurance covers are available to Primary card holder only.",
+    "Liability on lost card starts from Date of Dispatch up to 30 days.",
+    "Air Accident and Emergency Medical Expenses start from Date of Activation.",
+    "Terrorism is specifically excluded.",
+    "Travel insurance is not valid for procuring a visa.",
+    "Travel insurance coverage is only valid for onboard journey, not return journey.",
+    "Travel insurance is valid for International Travel only, subject to travel origination from India.",
+    "Maximum Trip Duration is restricted to 30 Days.",
+    "Fraudulent transactions by person known to cardholder are excluded.",
+    "Benefits valid up to 22 July, 2026.",
+    "on Weekend Dining on participating restaurants",
+    "across the finest courses in the world",
+    "Reward Points can be redeemed up to 70% of the booking value for Flights and Hotel booking",
+    "List of participating lounges may change basis various factors such as closures, change in service provider or at the discretion of bank.",
+    "Any charges paid by customer with consent for any service not provided/not specified under this program will not be reversed or refunded."
+  ],
+  "renewal_benefits": [
+    "On annual spends of ₹5 lakh, get ₹10,000 renewal fee waived off"
+  ],
+  "partner_programs": [
+    "HDFC Ergo (Insurance Partner)",
+    "Club Marriott",
+    "Times Prime",
+    "Amazon Prime",
+    "Swiggy One",
+    "MMT BLACK",
+    "Tata Cliq",
+    "Uber",
+    "Book My Show",
+    "Cult Fit",
+    "PayZapp",
+    "SmartBuy"
+  ],
+  "merchant_offers": [
+    "₹1,000 CashBack across 200+ brands on your Credit Card via PayZapp"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Golf benefits are exclusive and non-transferable",
+    "Authentication transaction at golf course is mandatory",
+    "Visit without authentication transaction will be considered a NO Show",
+    "Golf program is valid for golf course access only and does not include other facilities",
+    "Maximum of three guests per booking, subject to availability",
+    "Cardholders must follow all local club/local establishment usage rules",
+    "Terrorism is excluded under the policy",
+    "Travel insurance not valid for visa procurement",
+    "Coverage only valid for onboard journey (not return journey)",
+    "Travel insurance valid only for international travel originating from India",
+    "Fraudulent transactions by person known to the cardholder are excluded",
+    "Insurance covers are not provided by HDFC Bank; exclusions apply as per HDFC Ergo's policy",
+    "Intimation of Claim to be provided within 60 days from date of loss.",
+    "Documents to be submitted to HDFC ERGO within 120 days from date of loss.",
+    "Emergency Medical Expenses Contact: Toll Free +800 08250825 or 01204507250.",
+    "Claims Email: bankclaims@hdfcergo.com.",
+    "Sourcing of this Credit Card has been stopped",
+    "Reward Points can be redeemed up to 70% of the booking value for Flights and Hotel booking",
+    "The remaining amount will have to be paid via Credit Card",
+    "These charges will be billed on your subsequent statement within 60 days from date of visit",
+    "Currency conversion rate is applicable as on the date of settlement",
+    "08.12.2025"
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Pre-existing illness (for medical expenses)",
+    "Return journey (for travel insurance)",
+    "Fraudulent transactions by person known to cardholder"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\HDFC_Diners Club Black Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\GOLF\\Diners%20Club%20Golf%20T%20and%20C.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\INSURANCE\\Diners%20Black%20Insurance%20Policy.pdf",
+    "HDFC BANK LTD POLICY NO: 2999204800579203000",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\INSURANCE\\insurance.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\main.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Information document/15 June 2023",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Credit Card\\TERMS\\lounge-tnc.pdf"
+  ]
+}

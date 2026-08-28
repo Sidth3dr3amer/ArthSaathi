@@ -1,0 +1,141 @@
+{
+  "card_name": "Diners Club Miles Credit Card",
+  "card_network": "Diners Club",
+  "card_type": [
+    "Travel Credit Card",
+    "Rewards Credit Card",
+    "Lifestyle Credit Card",
+    "Premium & Super Premium Credit Card"
+  ],
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Renewal fee waiver on spending 100,000 or more in a year",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "4 Reward Points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem for flight tickets and hotel stays",
+    "Redeem for cashback up to ₹0.20 per point",
+    "Redeem for airmiles conversion at 1.0 airmile per point",
+    "Redeem for products catalogue up to ₹0.35 per point"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Reward points earned are capped at 50,000 in a statement cycle",
+    "2000 Reward Points per month on Grocery transactions"
+  ],
+  "cashback_benefits": [
+    "Up to ₹0.20 cashback per reward point"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "6 complimentary lounge access annually"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Earn 1 mile per Reward Point",
+    "Travel insurance for baggage delay/loss up to ₹50,000",
+    "Air accident cover up to ₹1 crore"
+  ],
+  "hotel_benefits": [
+    "Redeem up to 70% of the booking value for hotel bookings"
+  ],
+  "airline_benefits": [
+    "Redeem up to 70% of the booking value for flight bookings"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "15% discount at premium restaurants",
+    "1400+ dining offers globally"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Emergency medical expenses cover up to ₹25 lakh",
+    "Credit liability cover up to ₹9 lakh"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "Access to concierge services"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 6,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 4,
+  "forex_markup": "1.75%",
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Nationality: Indian",
+    "Age: Minimum 21 years and maximum 60 years (Salaried)",
+    "Age: Minimum 21 years and maximum 65 years (Self-Employed)",
+    "Minimum age 21",
+    "For Salaried: Nationality: Indian, Age: Minimum 21 years and maximum 60 years, Income: Net Monthly Income > ₹30,000 per month.",
+    "For Self-Employed: Age: Minimum 21 years and maximum 65 years, Income: > ₹3.6 lakh per annum (as per ITR).",
+    "Salaried Indian nationals aged 21-60 years with net monthly income > ₹30,000",
+    "Self-employed Indian nationals aged 21-65 years with annual income > ₹3.6 lakh (as per ITR)"
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹30,000 per month (Salaried)",
+    "> ₹3.6 lakh per annum (Self-Employed)",
+    "Net Monthly Income > ₹30,000 per month for salaried individuals.",
+    "> ₹3.6 lakh per annum for self-employed individuals.",
+    "Salaried: Net monthly income > ₹30,000",
+    "Self-employed: Annual income > ₹3.6 lakh (as per ITR)"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/renewal membership fee: 1,000 plus applicable taxes",
+    "Cash Advance Fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Cash Advance Fee: 2.5% fee, minimum ₹500, on all cash withdrawals",
+    "Re-issuance fee: ₹199 for non-metal card variants",
+    "Re-issuance fee: ₹3,500 for metal card variants",
+    "DCC markup fee: 1.75%"
+  ],
+  "interest_rates": [
+    "3.6% per month on outstanding amounts past the due date"
+  ],
+  "fees_and_penalties": [
+    "Joining/renewal membership fee: 1,000 plus applicable taxes",
+    "Cash Advance Fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Interest: 3.6% per month on outstanding amounts past the due date",
+    "Joining/renewal membership fee: ₹1,000 plus applicable taxes",
+    "Re-issuance fee: ₹199 for non-metal card variants",
+    "Re-issuance fee: ₹3,500 for metal card variants",
+    "DCC markup fee: 1.75%"
+  ],
+  "spend_conditions": [
+    "Renewal fee waiver on spending ₹1lakh or more in a year",
+    "Spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [
+    "Reward Points can be redeemed up to 70% of the booking value for Flights and Hotel booking"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward Points can be redeemed up to 70% of the booking value for Flights and Hotel booking. The remaining amount will have to be paid via Credit Card.",
+    "Updates effective from 15th May 2026"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\HDFC_Diners Club Miles Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\TERMS\\terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\TERMS\\terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\TERMS\\terms-and-conditions3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Miles Credit Card\\TERMS\\terms-and-conditions4.pdf"
+  ]
+}

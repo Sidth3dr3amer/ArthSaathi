@@ -1,0 +1,531 @@
+{
+  "card_name": "Airtel Axis Bank Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": "₹NIL (Limited Period offer*)",
+  "annual_fee": "₹500",
+  "fee_waiver_condition": "Annual fee waived off on annual spends greater than ₹2,00,000 (rent transactions (MCC 6513) and wallet load transactions (MCC 6540) will not be eligible for spends counted in availing annual fee waiver)",
+  "welcome_benefits": [
+    "Amazon eVoucher worth ₹250 on first transaction made within first 30 days of card issuance",
+    "Get amazon eVoucher worth 250 on first transaction made within first 30 days of card issuance",
+    "Amazon e-Voucher worth INR 250",
+    "Amazon eVoucher worth ₹250 on first transaction within 30 days of card issuance"
+  ],
+  "reward_structure": [
+    "25% cashback on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App",
+    "10% cashback on utility bill payments (gas, electricity, etc.) via Airtel Thanks App",
+    "10% value back on Zomato, Blinkit and District Movies",
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "1% cashback on all other spends",
+    "25% cashback on Airtel Mobile, Broadband, and DTH via Airtel Thanks App",
+    "10% cashback on other utility payments via Airtel Thanks App",
+    "10% value back on Zomato, Blinkit, and District Movies via Ecom",
+    {
+      "category": "Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App",
+      "rate": "25%",
+      "capping": "twice base cashback"
+    },
+    {
+      "category": "Utility bill payments via Airtel Thanks App",
+      "rate": "10%",
+      "capping": "base cashback"
+    },
+    {
+      "category": "All other merchants",
+      "rate": "1%",
+      "capping": "none"
+    },
+    {
+      "category": "Preferred merchants (Zomato, Blinkit, District Movies)",
+      "rate": "10% value back",
+      "capping": "INR200 per partner per month"
+    },
+    "10% cashback on utility bill payments via Airtel Thanks App",
+    "1% fuel surcharge waiver on fuel purchases"
+  ],
+  "reward_redemption_options": [
+    "Cashback credited directly to credit card statement",
+    "Cashback credited to credit card account",
+    "Value back added to partner wallet"
+  ],
+  "reward_exclusions": [
+    "Cashback not applicable on excluded MCC categories",
+    "No cashback earned on fuel transactions",
+    "EMI transactions",
+    "Purchase converted to EMI",
+    "Payment of outstanding balance",
+    "Fees and other charges",
+    "Cash advances / Financial Institutions",
+    "Fuel spends",
+    "Rent payments",
+    "Wallet recharge",
+    "Jewelry",
+    "Insurance services",
+    "Education services",
+    "Government services",
+    "Utility and Telecom spends not done on Airtel Thanks App"
+  ],
+  "reward_caps": [
+    "Activation benefit: ₹250",
+    "Airtel billpay & recharge: Max cap per month is twice the base cashback earned during the same statement month",
+    "Utility bill payments: Max cap per month is the base cashback earned during the same statement month",
+    "Value back at Preferred Partner: Max value back of ₹200 per partner per month (₹499 for Zomato and Blinkit)",
+    "Total annual benefits: ₹13,950 (~4.65% of spend)",
+    "25% Airtel category spends capped at twice the base cashback earned during the same statement month",
+    "10% Airtel category spends capped at the base cashback earned during the same statement month",
+    "Maximum monthly value back of INR 200 per partner (Zomato, Blinkit, District Movies)",
+    "25% cashback capped at twice base cashback",
+    "10% cashback capped at base cashback",
+    "10% value back capped at INR200 per partner per month",
+    "25% cashback max cap per month is twice the base cashback earned during the same statement month",
+    "10% utility cashback cap per month is the base cashback earned during the same statement month",
+    "10% value back max ₹200 per partner per month (MOV ₹499 for Zomato and Blinkit)",
+    "Maximum benefit up to ₹500 per statement",
+    "Valid on transactions between ₹400 to ₹4,000",
+    "Cashback cap of Rs.250 per statement cycle for Airtel Bill payments",
+    "Cashback cap of Rs.250 per statement cycle for Utility payments",
+    "Maximum monthly value back of INR 200 per partner, per primary card"
+  ],
+  "cashback_benefits": [
+    "25% cashback on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App (Max cap p.m is twice the base cashback earned during the same statement month)",
+    "10% cashback on utility bill payments such as gas, electricity, etc., via Airtel Thanks App (Max cap p.m is the base cashback earned during the same statement month)",
+    "1% cashback/base cashback on all other spends",
+    "10% value back on Zomato, Blinkit and District Movies (Max value back of ₹200 per partner per month, Mov of ₹499 applicable for Zomato and Blinkit)",
+    "25% cashback on Airtel bill payments",
+    "10% cashback on utility bill payments",
+    "10% value back on Zomato, Blinkit and District Movies",
+    "1% fuel surcharge waiver",
+    "1% cashback on other spends",
+    "25% cashback on Airtel Mobile, Broadband, WiFi and DTH bill payments via Airtel Thanks App",
+    "10% cashback on utility bill payments such as gas, electricity, etc., via Airtel Thanks App",
+    "25% cashback on Airtel Bill payments (Mobile, Broadband, Wi-Fi and DTH) through Airtel Thanks app with a capping of Rs.250 per statement cycle",
+    "10% cashback on Utility payments (gas, electricity, etc.) through Airtel Thanks app with a capping of Rs.250 per statement cycle",
+    "No cashback on utility spends except on transactions done via Airtel Thanks app",
+    "25% cashback on Airtel Mobile, Broadband, and DTH via Airtel Thanks App",
+    "10% cashback on other utility payments via Airtel Thanks App",
+    "10% value back on Zomato, Blinkit, and District Movies via Ecom",
+    "10% cashback on Utility bill payments via Airtel Thanks App",
+    "1% cashback on all other merchants",
+    "25% cashback on Airtel Bill payments (Mobile, Broadband, Wi-Fi, DTH) via Airtel Thanks app, capped at Rs.250 per statement cycle",
+    "10% cashback on Utility payments (gas, electricity, etc.) via Airtel Thanks app, capped at Rs.250 per statement cycle",
+    "10% value back on Zomato, Blinkit, and District Movies via Ecom mode of payment, credited to partner wallet"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary domestic lounge access based on minimum spend of INR 50,000 in the previous 3 calendar months",
+    "Waiver of minimum spend requirement for lounge access for the month of card issuance and the following three months for newly issued cards",
+    "4 complimentary domestic lounge access discontinued",
+    "Complimentary domestic lounge access upon spending INR 50,000 in the preceding 3 calendar months (effective 1 May 2024). New card issuance waives spend requirement for issuance month and next three months."
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    "Instant savings up to 15% on flights & hotels via Goibibo and MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "Instant savings of up to 15% on hotels via Goibibo and MakeMyTrip",
+    "Instant savings up to 15% on hotels via Goibibo and MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "Instant savings of up to 15% on flights via Goibibo and MakeMyTrip",
+    "Instant savings up to 15% on flights via Goibibo and MakeMyTrip"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "10% value back on Zomato, Blinkit and District Movies",
+    "10% off on orders via Swiggy",
+    "10% value back on Zomato, Blinkit and District Movies (max ₹200 per partner per month)"
+  ],
+  "movie_benefits": [
+    "10% value back on District Movies",
+    "10% value back on District Movies (max ₹200 per month)"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "1% fuel surcharge waiver on fuel purchases"
+  ],
+  "shopping_benefits": [
+    "10% off upto ₹1000 on Tira",
+    "10% off on orders via Swiggy"
+  ],
+  "entertainment_benefits": [
+    "10% value back on Zomato, Blinkit and District Movies",
+    "Wednesday Delight offers"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI (transactions of ₹1,500 or more)",
+    "Convert purchases to EMI (minimum transaction ₹1,500)",
+    "Convert purchases to EMI No matter how big your credit card purchase, go right ahead. Just contact us and convert your transaction of 1,500 or more into easy EMI",
+    "Convert purchases of ₹1,500 or more into easy EMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4.65%",
+  "forex_markup": "1.5% plus taxes",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+  "eligibility": [
+    "Primary cardholder should be between the age of 18 and 70 years",
+    "The individual should be a resident of India",
+    "Primary cardholder age between 18 and 70 years",
+    "Resident of India",
+    "Card issued for personal expenses only"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN card photocopy",
+    "Colour photograph",
+    "Latest payslip/bank statement/Form 16/IT return copy as proof of income",
+    "Residence proof (Passport, Driving license, Voter ID card, Aadhaar card)",
+    "Identity proof (Passport, Driving license, Voter ID card, Aadhaar card, PAN card)",
+    "Latest payslip / bank statement / Form 16 / IT return copy as proof of income"
+  ],
+  "charges": [
+    "Joining fee - primary card: ₹NIL (Limited Period offer*)",
+    "Joining fee – Add-on Card: Waived",
+    "Annual fee – Primary Card: ₹500 (2nd year onward annual fee waived off on annual spends greater than ₹2,00,000)",
+    "Annual fee – add-on card: Waived",
+    "Card replacement fee – primary card: Nil",
+    "Card replacement fee – Add-on Card: ₹100",
+    "Cash payment fee: ₹175",
+    "Duplicate statement Fee: Waived",
+    "Charge slip retrieval fee or copy request fee: Waived",
+    "Mini statement SMS: Waived",
+    "Outstation cheque fee: Waived",
+    "Transaction alert SMS: Free",
+    "Balance enquiry charges: Waived",
+    "Finance charges (retail purchases and cash): 3.75% per month (55.55% per annum)",
+    "Late payment fees: Nil if total payment due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000. Additional ₹100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles.",
+    "Cash Withdrawal Fee: Min. ₹500 up to 2.5% of the cash withdrawal amount",
+    "Over limit Fees: Min. ₹500 up to 2.5% of the over limit amount",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Foreign currency transaction fee: 3.50% of the transaction value",
+    "Reward dedemption fee: No",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions. GST will be applicable as notified by",
+    "Dynamic Currency Conversion markup: 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation.",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹50,000 or more on per statement cycle.",
+    "Education Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle",
+    {
+      "description": "Joining fee - primary card",
+      "amount": "₹0"
+    },
+    {
+      "description": "Joining fee – Add-on Card",
+      "amount": "Waived"
+    },
+    {
+      "description": "Annual fee – Primary Card",
+      "amount": "₹500"
+    },
+    {
+      "description": "Annual fee – add-on card",
+      "amount": "Waived"
+    },
+    {
+      "description": "Card replacement fee – primary card",
+      "amount": "Nil"
+    },
+    {
+      "description": "Card replacement fee – Add-on Card",
+      "amount": "₹100"
+    },
+    {
+      "description": "Cash payment fee",
+      "amount": "₹175"
+    },
+    {
+      "description": "Duplicate statement Fee",
+      "amount": "Waived"
+    },
+    {
+      "description": "Charge slip retrieval fee or copy request fee",
+      "amount": "Waived"
+    },
+    {
+      "description": "Mini statement SMS",
+      "amount": "Waived"
+    },
+    {
+      "description": "Outstation cheque fee",
+      "amount": "Waived"
+    },
+    {
+      "description": "Transaction alert SMS",
+      "amount": "Free"
+    },
+    {
+      "description": "Balance enquiry charges",
+      "amount": "Waived"
+    },
+    {
+      "description": "Finance charges (retail purchases and cash)",
+      "amount": "3.75% per month (55.55% per annum)"
+    },
+    {
+      "description": "Late payment fees",
+      "amount": "Nil if total payment due < ₹500; ₹500 if ₹501‑₹5,000; ₹750 if ₹5,001‑₹10,000; ₹1,200 if > ₹10,000; additional ₹100 for missing MAD for two consecutive cycles"
+    },
+    {
+      "description": "Cash Withdrawal Fee",
+      "amount": "Min. ₹500 up to 2.5% of the cash withdrawal amount"
+    },
+    {
+      "description": "Over limit Fees",
+      "amount": "Min. ₹500 up to 2.5% of the over limit amount"
+    },
+    {
+      "description": "Surcharge on purchase or cancellation of Railway Tickets",
+      "amount": "As prescribed by IRCTC/Indian Railways"
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "amount": "2% of the payment amount subject to Min. ₹500"
+    },
+    {
+      "description": "Foreign currency transaction fee",
+      "amount": "3.50% of the transaction value"
+    },
+    {
+      "description": "Reward redemption fee",
+      "amount": "No"
+    },
+    {
+      "description": "Rent Transaction fee",
+      "amount": "1% per transaction (GST applicable)"
+    },
+    {
+      "description": "Dynamic Currency Conversion markup",
+      "amount": "1.5% plus taxes"
+    },
+    {
+      "description": "Wallet load transaction fee",
+      "amount": "1% fee for cumulative spends of ₹10,000 or more per statement cycle"
+    },
+    {
+      "description": "Fuel Transaction fee",
+      "amount": "1% fee for cumulative spends of ₹50,000 or more per statement cycle"
+    },
+    {
+      "description": "Education Transaction fee",
+      "amount": "1% per transaction"
+    },
+    {
+      "description": "Utility Transaction fee",
+      "amount": "1% fee for cumulative spends of ₹25,000 or more per statement cycle"
+    },
+    {
+      "description": "Online skill-based gaming fee",
+      "amount": "1% fee for cumulative spends of ₹10,000 or more per statement cycle"
+    },
+    "Joining fee - primary card: NIL (Limited Period offer*)",
+    "Annual fee – Primary Card: 500",
+    "Card replacement fee – Add-on Card: 100/-",
+    "Cash payment fee: 175/-",
+    "Late payment fees: Nil if total payment due is less than 500, 500 if total payment due is between 501 - 5,000, 750 if total payment due is between 5,001 - 10,000, 1200 if total payment due is greater than 10,000. Additional 100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles",
+    "Cash Withdrawal Fee: Min. 500 up to 2.5% of the cash withdrawal amount",
+    "Over limit Fees: Min. 500 up to 2.5% of the over limit amount",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. 500",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 50,000 or more on per statement cycle",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 10,000 or more on online skill-based gaming platforms per statement cycle",
+    "Joining fee - primary card: NIL (Limited Period offer)",
+    "Annual fee – Primary Card: ₹500 (waived from 2nd year on spends > ₹2,00,000)",
+    "Late payment fees: Nil if total due < ₹500; ₹500 if ₹501‑₹5,000; ₹750 if ₹5,001‑₹10,000; ₹1,200 if > ₹10,000; additional ₹100 for missing MAD for two consecutive cycles",
+    "Cash Withdrawal Fee: Minimum ₹500 up to 2.5% of withdrawal amount",
+    "Over limit Fees: Minimum ₹500 up to 2.5% of over limit amount",
+    "Foreign currency transaction fee: 3.50% of transaction value",
+    "Dynamic Currency Conversion markup: 1.5% plus taxes",
+    "Rent Transaction fee: 1% per transaction",
+    "Wallet load transaction fee: 1% for cumulative spends ≥ ₹10,000 per statement cycle",
+    "Fuel Transaction fee: 1% for cumulative spends ≥ ₹50,000 per statement cycle",
+    "Education Transaction fee: 1% per transaction",
+    "Utility Transaction fee: 1% for cumulative spends ≥ ₹25,000 per statement cycle",
+    "Online skill‑based gaming fee: 1% for cumulative spends ≥ ₹10,000 per statement cycle"
+  ],
+  "interest_rates": [
+    "Finance charges (retail purchases and cash): 3.75% per month (55.55% per annum)",
+    {
+      "type": "Finance charges",
+      "monthly": "3.75%",
+      "annual": "55.55%"
+    },
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Late payment fees: Nil if total payment due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000. Additional ₹100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles.",
+    "Cash Withdrawal Fee: Min. ₹500 up to 2.5% of the cash withdrawal amount",
+    "Over limit Fees: Min. ₹500 up to 2.5% of the over limit amount",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Foreign currency transaction fee: 3.50% of the transaction value",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions. GST will be applicable as notified by",
+    "Dynamic Currency Conversion markup: 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation.",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹50,000 or more on per statement cycle.",
+    "Education Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle",
+    "Late payment fees as per schedule",
+    "Cash Withdrawal Fee min ₹500 up to 2.5% of withdrawal amount",
+    "Over limit Fees min ₹500 up to 2.5% of over limit amount",
+    "Cheque return or dishonor fee 2% subject to min ₹500",
+    "Foreign currency transaction fee 3.5%",
+    "Dynamic Currency Conversion markup 1.5% plus taxes",
+    "Rent transaction fee 1% per transaction",
+    "Wallet load, Fuel, Education, Utility, Online gaming transaction fees 1% each as per spend thresholds",
+    "Late payment fees: Nil if total payment due is less than 500, 500 if total payment due is between 501 - 5,000, 750 if total payment due is between 5,001 - 10,000, 1200 if total payment due is greater than 10,000. Additional 100 on missing payment of minimum amount due (MAD) by the due date for two consecutive cycles",
+    "Cash Withdrawal Fee: Min. 500 up to 2.5% of the cash withdrawal amount",
+    "Over limit Fees: Min. 500 up to 2.5% of the over limit amount",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. 500",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 50,000 or more on per statement cycle",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee will be applicable for cumulative spends of 10,000 or more on online skill-based gaming platforms per statement cycle",
+    "Cash Withdrawal Fee minimum ₹500 up to 2.5%",
+    "Over limit Fee minimum ₹500 up to 2.5%",
+    "DCC markup 1.5% plus taxes",
+    "Rent transaction fee 1%",
+    "Wallet load fee 1% after ₹10,000 cumulative spend",
+    "Fuel transaction fee 1% after ₹50,000 cumulative spend"
+  ],
+  "spend_conditions": [
+    "Annual spend > ₹2,00,000 to waive annual fee (excluding rent and wallet load spends)",
+    "Cashback caps as per monthly limits described in reward_caps",
+    "Minimum spend of INR 50,000 in previous 3 calendar months to access complimentary domestic lounge",
+    "Cashback on Airtel Bill and Utility payments only when transacted via Airtel Thanks app",
+    "Minimum Order Value of INR 499 on Zomato & Blinkit",
+    "Base category spend required to unlock higher cashback rates",
+    "Active Airtel connections only for 25% cashback",
+    "Utility bill payments must be via Airtel Thanks App",
+    "Annual fee waiver on spends > ₹2,00,000 (excluding rent and wallet load MCCs)",
+    "Reward caps as detailed in reward_caps",
+    "Minimum spend INR 50,000 in previous 3 calendar months for domestic lounge access",
+    "Cashback only on Airtel Bill and Utility payments made via Airtel Thanks app",
+    "Minimum Order Value of INR 499 on Zomato & Blinkit for value back offer"
+  ],
+  "benefit_conditions": [
+    "Fuel surcharge waiver applicable on fuel purchases at all fuel stations",
+    "Cashback on Airtel bill payments capped at twice the base cashback earned in the same statement month",
+    "Utility cashback capped at the base cashback earned in the same statement month",
+    "Value back on Preferred Partners capped at ₹200 per partner per month (₹499 for Zomato and Blinkit)",
+    "Cashback not applicable on excluded MCC categories",
+    "First transaction within first 30 days of card issuance",
+    "Joining fee of INR 500 + taxes must be paid",
+    "Cancelled, refunded or cash transactions not considered",
+    "Voucher must be redeemed within 3 months of issuance",
+    "Waiver of minimum spend requirement for lounge access for the month of card issuance and the following three months for newly issued cards",
+    "Cashback earned credit follows a 60-day credit cycle",
+    "Value back credited to respective partner wallets with no validity period",
+    "Cashback credited in next billing cycle",
+    "Capped as per category rules",
+    "Value back credited instantly to partner wallet",
+    "Maximum cashback/value back caps per month as specified",
+    "Fuel surcharge waiver applicable on fuel purchases; GST on fuel surcharge not refundable",
+    "Cashback not earned on fuel transactions",
+    "Cashback capped at Rs.250 per statement cycle for each category",
+    "Lounge access based on spend criteria",
+    "Cashback credit follows a 60-day credit cycle",
+    "Value back credited to partner wallet with no validity period"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Preferred Partner: Zomato, Blinkit, District Movies",
+    "Airtel Thanks App for bill payments",
+    "Airtel Thanks app",
+    "Airtel Thanks App",
+    "Zomato",
+    "Blinkit",
+    "District Movies",
+    "Preferred Partners: Zomato, Blinkit, District Movies",
+    "Airtel Thanks"
+  ],
+  "merchant_offers": [
+    "10% off on orders via Swiggy",
+    "10% off upto ₹1000 on Tira",
+    "Instant savings up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    "Wednesday Delight offers",
+    "10% instant value back on Zomato, Blinkit, District Movies via e-commerce payment",
+    "10% off up to ₹1,000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Limited Period offer for joining fee (₹NIL) for new customers only",
+    "Amazon eVoucher worth ₹250 on first transaction within 30 days (joining fee offer)",
+    "Limited period joining fee waiver for new customers"
+  ],
+  "important_terms": [
+    "Terms & Conditions updated w.e.f. 20th April 2024",
+    "Features & Benefits revised w.e.f. 12th Apr'26",
+    "GST applicable on all fees as per government norms",
+    "Updated Most Important Terms and Conditions available at https://axisbank.com/mitnc",
+    "Cashback earned credit will be reflected in statements generated on or after 12 June 2026",
+    "Cashback not applicable on EMI transactions",
+    "Cashback may be reversed on transaction reversal or EMI conversion",
+    "Cashback processing may take up to 90 days for disputed MID/VPA",
+    "Card termination forfeits unused cashback",
+    "Cashback rounded down per transaction",
+    "Terms and conditions updated w.e.f. 12th Apr'26",
+    "Features and Terms revised w.e.f. 12th Apr'26",
+    "Eligibility and documentation criteria are indicative; bank reserves right to approve or decline",
+    "Updated MITC available at https://axisbank.com/mitnc",
+    "Cashback capping based on base cashback earned in the same statement month",
+    "Maximum cashback for Airtel spends capped as described",
+    "Maximum monthly value back INR 200 per partner",
+    "4 complimentary domestic lounge access discontinued"
+  ],
+  "excluded_categories": [
+    "Excluded MCC categories for cashback",
+    "Rent transactions (MCC 6513) and wallet load transactions (MCC 6540) not counted for annual fee waiver",
+    "Utility spends not done via Airtel Thanks app do not earn cashback",
+    "Axis Bank cashback not applicable for Zomato, Blinkit, and District Movies",
+    "EMI transactions",
+    "Cash advances",
+    "Fuel spends",
+    "Rent payments",
+    "Wallet recharge",
+    "Jewelry",
+    "Insurance services",
+    "Education services",
+    "Government services",
+    "Utility and Telecom spends not on Airtel Thanks App",
+    "Utility spends not made via Airtel Thanks app do not earn cashback"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\AXIS_Airtel Axis Bank Credit Card_summary.txt",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\OFFERS\\airtel-axis-bank-credit-card-welcome-benefit-amazon-voucher.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\axis-bank-airtel-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-airtel-cbcc-cvp.pdf",
+    "Cashback and Value back Terms & Conditions – Airtel Axis Bank Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-cashback-for-airtel-axis-bank-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-dining-delights-for-airtel.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\AXIS_Airtel Axis Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\summary.txt",
+    "Axis Bank|Public",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\OFFERS\\airtel-axis-bank-credit-card-welcome-benefit-amazon-voucher.pdf",
+    "Revision of AIRTEL AXIS BANK CREDIT CARD Terms and Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\axis-bank-airtel-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-airtel-cbcc-cvp.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-cashback-for-airtel-axis-bank-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Airtel Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-dining-delights-for-airtel.pdf"
+  ]
+}

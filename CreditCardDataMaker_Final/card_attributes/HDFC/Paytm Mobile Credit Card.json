@@ -1,0 +1,134 @@
+{
+  "card_name": "Paytm Mobile Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": null,
+  "annual_fee": 149,
+  "fee_waiver_condition": "Spend ₹1,000 on non-EMI spends within the initial 30 days for first-year fee waiver, Spend ₹25,000 on non-EMI spends within 12 months for renewal fee waiver",
+  "welcome_benefits": [
+    "Free annual memberships with partners like Club Marriott, MMT Black, Swiggy One, Amazon Prime, Times Prime Smart, Forbes Digital subscription, etc., upon spending over ₹1.5 lakh within the first 90 days."
+  ],
+  "reward_structure": [
+    "2% CashBack on purchases on Paytm [Mall + Movies + Mini App] Max. Cap per Calendar Month - ₹250",
+    "1% CashBack on all other Select Paytm Spends Max. Cap per Calendar Month - ₹250",
+    "0.5% CashBack on all other retail transactions Max. Cap per Calendar Month - ₹500"
+  ],
+  "reward_redemption_options": [
+    "CashBack credited as CashPoints, redeemable against statement balance"
+  ],
+  "reward_exclusions": [
+    "Cashback not applicable for wallet loads, fuel spends, EMI spends, rental spends, and government spends"
+  ],
+  "reward_caps": [
+    "2% CashBack capped at ₹250 per calendar month on Paytm Mall, Movies, and Mini App purchases",
+    "1% CashBack capped at ₹250 per calendar month on other Paytm spends",
+    "0.5% CashBack capped at ₹500 per calendar month on other retail transactions",
+    "Cashback earned on Grocery Spends capped at ₹1,000 cashpoints per month",
+    "Redemption of Travel Cashback Points capped at 50,000 points per month",
+    "Effective February 1, 2023, cashback redemption capped at 3,000 points per month"
+  ],
+  "cashback_benefits": [
+    "2% CashBack on purchases on Paytm [Mall + Movies + Mini App] Max. Cap per Calendar Month - ₹250",
+    "1% CashBack on all other Select Paytm Spends Max. Cap per Calendar Month - ₹250",
+    "0.5% CashBack on all other retail transactions Max. Cap per Calendar Month - ₹500"
+  ],
+  "milestone_benefits": [
+    "Upgrade to Paytm HDFC Bank Credit Card by spending ₹10,000 in 3 consecutive months (Non-EMI and Non-Rental Spends)"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "1% mark-up fee on International DCC Transactions"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero liability on any fraudulent transactions made on a lost card once it has been reported to the 24/7 call centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 1,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For Salaried: Indian national, Age: 21-60 years, Net Monthly Income > ₹25,000",
+    "For Self-Employed: Age: 21-65 years, Annual ITR > ₹6 lakh"
+  ],
+  "income_requirements": [
+    "For Salaried: Net Monthly Income > ₹25,000",
+    "For Self-Employed: Annual ITR > ₹6 lakh"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving license, PAN card",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "1% fee on rental transactions from the second rental transaction onwards within the same calendar month",
+    "Annual membership fee: ₹149 plus GST",
+    "Monthly membership fee: ₹29 plus GST (waived on monthly retail spend of ₹5,000 non-EMI)",
+    "1% markup fee on International DCC transactions",
+    "Annual Membership Fee: ₹149 + GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Monthly membership fee: ₹29 plus GST",
+    "Annual Membership Fee: ₹149 + GST"
+  ],
+  "spend_conditions": [
+    "Spend ₹5,000 in a month on non-EMI spends for monthly fee waiver",
+    "First-year fee waiver: non-EMI spend of ₹1,000 within the first 30 days",
+    "Renewal fee waiver: non-EMI spend of ₹25,000 within 12 months",
+    "First Year Fee waived upon spending ₹1,000 (non-EMI spends) within the first 30 days",
+    "Renewal Year Fee waived upon spending ₹25,000 (non-EMI spends) in the 12 months period"
+  ],
+  "benefit_conditions": [
+    "First-year fee waiver: non-EMI spend of ₹1,000 within the first 30 days",
+    "Renewal fee waiver: non-EMI spend of ₹25,000 within 12 months",
+    "Cashback not applicable for wallet loads, fuel spends, EMI spends, rental spends, and government spends",
+    "Cashback earned on Grocery Spends capped at ₹1,000 cashpoints per month",
+    "Redemption of Travel Cashback Points capped at 50,000 points per month",
+    "Effective February 1, 2023, cashback redemption capped at 3,000 points per month"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived upon achieving non-EMI spend of ₹25,000 within 12 months",
+    "Renewal Year Fee waived upon spending ₹25,000 (non-EMI spends) in the 12 months period"
+  ],
+  "partner_programs": [
+    "Free annual memberships with partners like Club Marriott, MMT Black, Swiggy One, Amazon Prime, Times Prime Smart, Forbes Digital subscription, etc."
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "GST applies to all fees, charges, and Interest transactions",
+    "GST applies to all fees, charges, and interest transactions",
+    "GST amount depends on Place of Provision and Place of Supply",
+    "GST for fees and charges billed on the statement date will appear in the next month's statement",
+    "GST will not be refunded in case of dispute regarding fees and charges or interest",
+    "Cashback as per the product features will be credited in the form of CashPoints, which can be redeemed by the customer against their statement balance.",
+    "70% points plus 30% minimum pay system - A minimum of 30% pay system has been introduced for redemption of points on select categories only."
+  ],
+  "excluded_categories": [
+    "Wallet loads, fuel spends, EMI spends, rental spends, and government spends"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Mobile Credit Card\\HDFC_Paytm Mobile Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Mobile Credit Card\\summary.txt",
+    "Paytm HDFC Bank Mobile Credit Card Fees & Charges",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Mobile Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Mobile Credit Card\\main.pdf"
+  ]
+}

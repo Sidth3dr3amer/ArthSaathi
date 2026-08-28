@@ -1,0 +1,191 @@
+{
+  "card_name": "Gaj",
+  "card_network": null,
+  "card_type": "Metal",
+  "joining_fee": 12500,
+  "annual_fee": 12500,
+  "fee_waiver_condition": "₹10,00,000 annual spends",
+  "welcome_benefits": [
+    "12,500 Reward Points worth up to ₹12,500",
+    "25% Off on 5-Star Hotel Voucher on select 5-Star hotel bookings via Travel and Shop Section on IDFC FIRST Bank Mobile App"
+  ],
+  "reward_structure": [
+    "5 reward points per ₹150 on eligible spends",
+    "3 reward points per ₹150 on international transactions",
+    "1 reward point per ₹150 on Education, Wallet Load, Government, Rent and Property Management/Purchase, Utilities, Railways, FASTag and Insurance transactions",
+    "5 reward points per ₹150 spent on eligible spends in a monthly statement cycle",
+    "3 reward points per ₹150 spent on international transactions",
+    "1 reward point per ₹150 spent on Education, Wallet Load, Government, Rent and Property Management/Purchase, Utilities, Railways, FASTag and Insurance transactions (both domestic and international)",
+    "5 reward points per ₹150 spent on Gaj Credit Card domestic transactions",
+    "1 reward point per ₹150 on Insurance, Utilities, Rent, Government, Wallet Load, Railways, Fastag and Education transactions (both domestic and international)",
+    "1 reward point per ₹150 on eligible UPI transactions via FIRST Digital Credit Card (complimentary with Gaj Credit Card)",
+    "No reward points on Fuel transactions (fuel surcharge waiver provided)",
+    "No reward points on transactions converted into EMI",
+    "No reward points on Fee or Charges and their GST",
+    "No reward points on Loan on Card, Balance Transfer, Cash withdrawal, transactions below ₹150, and cancelled or reversed authorisations"
+  ],
+  "reward_redemption_options": [
+    "1 Reward Point = ₹1 on travel bookings via IDFC FIRST Bank mobile app",
+    "1 Reward Point = ₹0.25 for purchasing gift voucher, products via Travel and Shop Section on IDFC FIRST Bank mobile app and for “Pay using reward points” on select online transactions",
+    "1 Reward Point = ₹1 on hotel and flight bookings via \"Travel & Shop\" section on IDFC FIRST Bank Mobile app",
+    "1 Reward Point = ₹0.90 (approximately) when redeemed for gift vouchers, product purchases, or select online transactions on IDFC FIRST Bank Mobile app"
+  ],
+  "reward_exclusions": [
+    "Spends converted to EMI, Cash Withdrawal, Fuel, Fee and Charges, Loan on Card, Balance Transfer and Transactions whose value is below ₹150",
+    "Fuel transactions",
+    "EMI conversions",
+    "Fee or Charges and GST",
+    "Loan on Card",
+    "Balance Transfer",
+    "Cash withdrawal transactions",
+    "Transactions below ₹150",
+    "Authorised but later cancelled or reversed transactions"
+  ],
+  "reward_caps": [
+    "Monthly redemption capping: 1,50,000 Reward Points (₹1,50,000 value)",
+    "Annual redemption capping: 3,00,000 Reward Points (₹3,00,000 value)",
+    "Monthly redeemable reward points capped at spend of ₹1,50,000 (worth ₹1.5 L)",
+    "Annual redeemable reward points capped at spend of ₹3,00,000 (worth ₹3 L)"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "4 complimentary visits per quarter to airport lounges at airport terminals in India",
+    "1 guest visit per quarter to Indian airport lounges",
+    "4 complimentary visits per quarter to global airport lounges"
+  ],
+  "airport_services": [
+    "Airport Transfer Discounts",
+    "Airport Meet & Greet"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Free Trip Cancellation Cover of up to ₹50,000",
+    "Comprehensive travel insurance with coverage up to USD 1,200",
+    "Accelerated reward points on travel bookings (flights & hotels) made via IDFC FIRST Bank Mobile app"
+  ],
+  "hotel_benefits": [
+    "33.33% Value Back with up to 50 reward points per ₹150 spent on hotels via mobile app",
+    "Accelerated Rewards on Hotel Bookings: 45 Bonus Reward Points per ₹150 on hotel bookings via the IDFC FIRST Bank Mobile App",
+    "Accelerated Rewards on Hotel Bookings: 45 Bonus Reward Points per ₹150 on hotel bookings via mobile app",
+    "Bonus 45 reward points per ₹150 on hotel bookings via the app",
+    "Additional 50 reward points per ₹150 on hotel bookings"
+  ],
+  "airline_benefits": [
+    "16.67% Value back with 25 reward points per ₹150 spent on flights via mobile app",
+    "Accelerated Rewards on Flight Bookings: 20 Bonus Reward Points per ₹150 on flight bookings via the IDFC FIRST Bank Mobile App",
+    "Accelerated Rewards on Flight Bookings: 20 Bonus Reward Points per ₹150 on flight bookings via mobile app",
+    "Bonus 20 reward points per ₹150 on flight bookings via the app",
+    "Additional 25 reward points per ₹150 on flight bookings"
+  ],
+  "forex_benefits": [
+    "Zero Forex Markup",
+    "Zero forex markup on international transactions",
+    "Interest-free global ATM cash withdrawals for up to 45 days"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waiver",
+    "Fuel surcharge waiver provided"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive Insurance Cover",
+    "Comprehensive insurance cover"
+  ],
+  "protection_benefits": [
+    "24/7 Roadside assistance"
+  ],
+  "concierge_benefits": [
+    "Concierge Services"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": 4,
+  "guest_lounge_access": "1 guest visit per quarter to Indian airport lounges",
+  "reward_rate": "5 reward points per ₹150 on eligible spends",
+  "forex_markup": 0,
+  "fuel_surcharge_waiver": true,
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash Advance Fee of ₹199/- + GST per transaction",
+    "₹199/- + GST per ATM withdrawal",
+    {
+      "type": "card_replacement_fee",
+      "value": 4000
+    }
+  ],
+  "interest_rates": [
+    "Interest-free global ATM cash withdrawals for up to 45 days"
+  ],
+  "fees_and_penalties": [
+    "Joining Fee: ₹12,500 + GST",
+    "Annual Fee: ₹12,500 + GST (from second year onwards)"
+  ],
+  "spend_conditions": [
+    "Lounge benefit can be availed in the next calendar month by spending ₹20,000 or more in the current calendar month",
+    "₹20,000 or more in the current calendar month to avail lounge benefits in the next calendar month",
+    "Reward points earned only on settled transactions",
+    "Minimum spend unit for earning points is ₹150"
+  ],
+  "benefit_conditions": [
+    "Annual fee waiver of ₹12,500 + GST by spending ₹10 lakhs in the previous card anniversary year",
+    "Annual fee waiver requires ₹10,00,000 annual spends",
+    "Bonus reward points applicable only on full swipe transactions without simultaneous redemption of points",
+    "Bonus points credited by the 5th of the next calendar month after travel/check‑in",
+    "Reward points can be used to pay up to 70% of a booking value; remaining amount must be paid by the Gaj Credit Card"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Discounts on 300+ brands"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward points are never-expiring and remain valid till the credit card is active",
+    "Reward points never expire",
+    "Reward points credited upon statement generation",
+    "Reward points are credited only on settled transactions",
+    "If Minimum Amount Due is not paid by the due date, earned reward points for that cycle are reversed",
+    "Refunded or reversed transactions will have corresponding reward points adjusted or debited",
+    "Transactions below ₹150 do not earn reward points",
+    "Bonus reward points are not credited for bookings that are later cancelled"
+  ],
+  "excluded_categories": [
+    "Fuel, EMI conversions, fees & charges (incl. GST), loan on card, balance transfers, cash withdrawals, and transactions below ₹150",
+    "Fuel",
+    "EMI conversions",
+    "Fees/Charges and GST",
+    "Loan on Card",
+    "Balance Transfer",
+    "Cash withdrawals",
+    "Transactions < ₹150",
+    "Cancelled or reversed authorisations"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\IDFC FIRST_Gaj_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\LOUNGE\\Gaj-Credit-Card-Lounge-List-02-12-25-link.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\PRODUCT_GUIDE\\Credit-Card-Basics-Power.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\PRODUCT_GUIDE\\GAJ-Product-Guide-22-12-251.pdf",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\REWARDS\\GAJ-CC-Rewards-Structure-TnC-22-12-25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Gaj\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

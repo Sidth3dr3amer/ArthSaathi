@@ -1,0 +1,130 @@
+{
+  "card_name": "Paytm Digital Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": "Rs.149 + GST",
+  "annual_fee": 149,
+  "fee_waiver_condition": "First Year Fee waived off on retail spends of Rs. 1,000 in the first 40 days. Renewal Year Fee waived off on retail spends of Rs. 25,000 in a calendar year.",
+  "welcome_benefits": [
+    "Upto ₹150 cashback on your first 2 transactions (minimum spend ₹250 each)"
+  ],
+  "reward_structure": [
+    "2% CashBack on select merchants when you use the Scan & Pay feature on the Paytm app (capped at ₹250 per month)",
+    "2% CashBack on your Swiggy and Uber spends (capped at ₹250 per month)",
+    "1% CashBack on all retail purchases, including Paytm transactions (Capped at ₹500 per month)"
+  ],
+  "reward_redemption_options": [
+    "CashBack credited in the form of CashPoints, which can be redeemed against their statement balance"
+  ],
+  "reward_exclusions": [
+    "CashBack not applicable for wallet loads, fuel spends, EMI spends, rental spends and government spends"
+  ],
+  "reward_caps": [
+    "CashBack earned on Grocery Spends capped at ₹1,000 cashpoints per month",
+    "Effective February 1, 2023, CashBack redemption capped at 3000 points per month"
+  ],
+  "cashback_benefits": [
+    "2% CashBack on select merchants when you use the Scan & Pay feature on the Paytm app (capped at ₹250 per month)",
+    "2% CashBack on your Swiggy and Uber spends (capped at ₹250 per month)",
+    "1% CashBack on all retail purchases, including Paytm transactions (Capped at ₹500 per month)"
+  ],
+  "milestone_benefits": [
+    "Earn up to ₹150 cashback on your first 2 transactions (minimum spend ₹250 each)"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at fuel stations across India"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Zero Cost Card Liability: Available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre"
+  ],
+  "protection_benefits": [
+    "Zero liability on any fraudulent transactions made on a lost card once it has been reported to our 24/7 call centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Enjoy no-cost and low-cost EMI options with your Credit Card"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1% mark-up fees on International DCC Transactions",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried: Nationality: Indian, Age: 21 - 60 years, Income (monthly) - ₹25,000",
+    "Self-Employed: Age: 21 - 65 years, Annual ITR > ₹6,00,000"
+  ],
+  "income_requirements": [
+    "Salaried: ₹25,000 monthly income",
+    "Self-Employed: Annual ITR > ₹6,00,000"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Yearly Membership Fee: Rs.149 + GST",
+    "Rental Payments – 1% fee on rental transactions from the second rental transaction onwards of the same calendar month",
+    "International DCC Transactions – 1% mark-up fees",
+    "Rental Payments – 1% fee will be applicable on rental transactions from the second rental transaction onwards of the same calendar month",
+    "International DCC Transactions – 1% mark-up fees to be levied on International DCC Transactions",
+    "Annual Membership Fee: ₹149 + GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Yearly Membership Fee: Rs.149 + GST",
+    "Goods and Services Tax (GST) is applicable on all Fees, Charges and Interest transactions",
+    "Annual Membership Fee: ₹149 + GST"
+  ],
+  "spend_conditions": [
+    "First Year Fee waived off on retail spends of Rs. 1,000 in the first 40 days",
+    "Renewal Year Fee waived off on retail spends of Rs. 25,000 in a calendar year",
+    "First Year Fee waived upon spending ₹1,000 within the first 40 days",
+    "Renewal Year Fee waived upon spending ₹25,000 in the 12 months period"
+  ],
+  "benefit_conditions": [
+    "CashBack not applicable for wallet loads, fuel spends, EMI spends, rental spends and government spends",
+    "70% points plus 30% minimum pay system for redemption of points on select categories only"
+  ],
+  "renewal_benefits": [
+    "Renewal Year Fee waived off on retail spends of Rs. 25,000 in a calendar year",
+    "Spend ₹1,000* within 40 days for a first-year fee waiver and ₹25,000 over 12 months for a renewal fee waiver"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [
+    "2% CashBack on select merchants when you use the Scan & Pay feature on the Paytm app (capped at ₹250 per month)",
+    "2% CashBack on your Swiggy and Uber spends (capped at ₹250 per month)"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Effective 1st July 2017, GST is applicable on all Fees, Charges and Interest transactions; GST for Fees & Charges / Interest transactions billed on statement date will reflect in the next month's statement; GST levied will not be reversed on any dispute on Fees & Charges / interest",
+    "Effective January 2023, additions in the Fees and Charges structure include Rental Payments fee and International DCC Transactions markup",
+    "GST levied will not be reversed on any dispute on Fees, Charges and interest",
+    "CashBack as per the product features will be credited in the form of CashPoints, which can be redeemed by the customer against their statement balance",
+    "Redemption of Travel CashBack Points will be capped at 50,000 points per month"
+  ],
+  "excluded_categories": [
+    "Wallet loads, fuel spends, EMI spends, rental spends and government spends"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Digital Credit Card\\HDFC_Paytm Digital Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Digital Credit Card\\summary.txt",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Digital Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Digital Credit Card\\main.pdf"
+  ]
+}

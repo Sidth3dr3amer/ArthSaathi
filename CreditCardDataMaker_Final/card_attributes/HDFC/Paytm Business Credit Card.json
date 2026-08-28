@@ -1,0 +1,128 @@
+{
+  "card_name": "Paytm Business Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "spending ₹30,000 (non-EMI) in the first 90 days for first-year fee waiver, spending ₹50,000 (Non-EMI spends) in 12 months for renewal fee waiver",
+  "welcome_benefits": [
+    "Paytm First Membership on first transaction (valid till 10th Sep 2024)",
+    "250 Gift Voucher on activation",
+    "500 Gift Voucher on spending 1 lakh in a year"
+  ],
+  "reward_structure": [
+    "3% CashPoints on Paytm spends (Recharge, Utility, Movies & Mini App)",
+    "2% CashPoints on select Paytm spends",
+    "1% CashPoints on all retail spends"
+  ],
+  "reward_redemption_options": [
+    "CashBack along with other redemption categories"
+  ],
+  "reward_exclusions": [
+    "wallet loads",
+    "fuel spends",
+    "EMI spends",
+    "rental spends",
+    "education spends"
+  ],
+  "reward_caps": [
+    "3% CashPoints capped at 500 per calendar month",
+    "2% CashPoints capped at 500 per calendar month",
+    "1% CashPoints capped at 1000 per calendar month"
+  ],
+  "cashback_benefits": [
+    "3% CashPoints on Paytm spends (Recharge, Utility, Movies & Mini App)",
+    "2% CashPoints on select Paytm spends",
+    "1% CashPoints on all retail spends"
+  ],
+  "milestone_benefits": [
+    "500 Gift Voucher on spending 1 lakh in a year (Non-EMI, Non-Wallet and Non-Rental Spends)"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 20% Discount on partner restaurants via Dineout"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge Waiver (min transaction 400, max transaction 5,000, max waiver 250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero cost liability on lost card reporting"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% fuel surcharge waived off on fuel transactions (min 400, max 5,000, max waiver 250 per statement cycle)",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining Fee: ₹500 plus Applicable Taxes",
+    "Renewal Fee: ₹500 plus Applicable Taxes",
+    "Membership Fee: 500 + GST",
+    "First Year Fee waived upon spending 30,000 (Non-EMI spends) within the first 90 days",
+    "Renewal Year Fee waived upon spending 50,000 (Non-EMI spends) in the 12 months period"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Rental Payments: 1% fee will be applicable on rental transactions from the second rental transaction onwards of the same calendar month",
+    "International DCC Transactions: 1% mark-up fees to be levied on International DCC Transactions"
+  ],
+  "spend_conditions": [
+    "spending ₹30,000 (non-EMI) in the first 90 days",
+    "spending ₹50,000 (Non-EMI spends) in 12 months"
+  ],
+  "benefit_conditions": [
+    "Paytm First Membership is provided by Paytm. For any queries, please reach out to Paytm Customer Care. This feature won’t be applicable for customers on boarded on or after 10th September 2024.",
+    "Activation Benefit: Enjoy 250 worth Gift Voucher upon card activation with 2 transactions in first 30 days. (Non-EMI Spends)",
+    "Milestone Benefit: Enjoy 500 worth Gift Voucher on spends of 1 lakh in a year (Non-EMI, Non-Wallet and Non-Rental Spends). This offer is only applicable for 1 year of card issuance."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Paytm First Membership"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "CashPoints are not applicable for wallet loads, fuel spends, EMI spends, rental spends and education spends",
+    "CashPoints can be redeemed as CashBack along with other redemption categories",
+    "Effective 1st April 2023, CashPoints for a particular month shall be accrued in your card account in the first week of the subsequent month on a cumulative basis",
+    "Effective 1st January 2023, CashBack accruals and redemptions have undergone the below mentioned changes",
+    "Rental Payments – No CashBack will be given on rental payments",
+    "Education Spends – No CashBack will be given on education spends",
+    "Grocery Spends - Accruals on Grocery Spends will be capped at 1000 CashPoints per month",
+    "Travel Redemption – Redemption of Travel Reward Points will be capped at 50,000 points per month",
+    "Effective 1st February 2023, CashBack redemptions have further been modified as under",
+    "Overall CashBack redemption will be capped at 3000 points per month",
+    "70% points + 30% minimum pay system - A minimum of 30% pay system has been introduced for redemption of points on select categories only"
+  ],
+  "excluded_categories": [
+    "wallet loads",
+    "fuel spends",
+    "EMI spends",
+    "rental spends",
+    "education spends"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Business Credit Card\\HDFC_Paytm Business Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Business Credit Card\\summary.txt",
+    "Paytm Business Credit Card Fees and Charges",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Business Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Business Credit Card\\main.pdf"
+  ]
+}

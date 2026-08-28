@@ -1,0 +1,428 @@
+{
+  "card_name": "Axis Bank Freecharge Credit Card",
+  "card_network": "Visa",
+  "card_type": "Credit Card",
+  "joining_fee": "₹250",
+  "annual_fee": "1st Year: Nil, 2nd Year: ₹250",
+  "fee_waiver_condition": "Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "1 EDGE REWARD Point per spend (regular reward earn)",
+    "Spend ₹2000-₹4999 per month = 100 EDGE REWARD Points",
+    "Spend ₹5000+ per month = 350 EDGE REWARD Points",
+    "Spend ₹2000-₹4999: 100 EDGE REWARD Points",
+    "Spend ₹5000 and above: 350 EDGE REWARD Points (100 + 250)",
+    "1 EDGE REWARD Point per qualifying spend as per spend table",
+    {
+      "spend_range": "0-1999",
+      "reward_points": 0
+    },
+    {
+      "spend_range": "2000-4999",
+      "reward_points": 100
+    },
+    {
+      "spend_range": "5000 and above",
+      "reward_points": 350
+    },
+    {
+      "spend_range": "0-₹1999",
+      "reward_points": 0
+    },
+    {
+      "spend_range": "₹2000 to ₹4999",
+      "reward_points": 100
+    },
+    {
+      "spend_range": "₹5000 and above",
+      "reward_points": 350
+    },
+    "0-■1999: 0",
+    "■2000 to ■4999: 100",
+    "■5000 and above: 350 (100 + 250)"
+  ],
+  "reward_redemption_options": [
+    "500+ redemption options",
+    "500+ options",
+    "A reward redemption fee of ■99 will be levied for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal.",
+    "A fee of ■199 will be levied for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs."
+  ],
+  "reward_exclusions": [
+    "Rent",
+    "Wallet load",
+    "Gold & Jewellery",
+    "Fuel",
+    "Financial Institutions",
+    "Cash advances",
+    "Repayments",
+    "Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver",
+    "Transactions made on Rent, Wallet load, Gold & Jewellery, Fuel, Financial Institutions, Cash advances and Repayments"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "Upto 10% off on Myntra",
+    "Get up to ₹100 credit on Shuttl every month",
+    "Get up to ₹120 off on Freshmenu every month",
+    "50% off on Eros Now Annual Subscription",
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off upto ₹1000 on Tira"
+  ],
+  "milestone_benefits": [
+    "Milestone Reward Earn as you spend",
+    "Earn milestone reward on you card as you spend"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip"
+  ],
+  "hotel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "3.5% of the transaction value"
+  ],
+  "dining_benefits": [
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "Get up to ■120 off* on Freshmenu every month"
+  ],
+  "movie_benefits": [
+    "50% off on Eros Now Annual Subscription",
+    "50%* Off On Eros Now Annual Subscription"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "Upto 10% off on Myntra",
+    "10% off upto ₹1000 on Tira",
+    "10% off upto ■1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "50% Off On Eros Now Annual Subscription",
+    "50% off on Eros Now Annual Subscription",
+    "Wednesday Delight offers"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1.5% plus taxes",
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Invite only model; eligible customers see banner on Freecharge Mobile App",
+    "Invite only model, available on Freecharge Mobile App",
+    "Axis Bank Freecharge Credit Card is an invite only model, wherein, if the customer is eligible, he/she shall be able to see the banner on their Freecharge Mobile App."
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining Fee: ₹250",
+    "Cash Payment Fee: ₹175",
+    "Finance Charges (Retail purchases and Cash): 3.75% per month",
+    "Cash withdrawal fee: 2.5% (Min. ₹500) of the cash amount",
+    "Late Payment Fee: Nil if total payment due < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1200 if > ₹10,000; additional ₹100 after two consecutive missed MAD payments",
+    "Over limit penalty: 2.5% over limit amount (Min ₹500)",
+    "Cheque return or Dishonour Fee or Auto Debit Reversal: 2% of the payment amount subject to Min. ₹500",
+    "Foreign currency transaction fee: 3.5% of the transaction value",
+    "Reward Redemption fee: ₹99 per redemption transaction; ₹199 per conversion/transfer to partner programs",
+    "Rent Transaction fee: 1% on each rental transaction",
+    "Wallet load transaction fee: 1% on cumulative wallet loads of ₹10,000 or more in a statement cycle",
+    "Fuel Transaction fee: 1% on cumulative fuel transactions of ₹50,000 or more in a statement cycle",
+    "Education Transaction fee: 1% on each education payment via third‑party apps",
+    "Utility Transaction fee: 1% on cumulative spends of ₹25,000 or more towards utility payments in a statement cycle",
+    "Online skill‑based gaming fee: 1% on cumulative spends of ₹10,000 or more in a statement period",
+    "Dynamic Currency Conversion Markup: 1.5% plus taxes per international transaction performed in Indian currency",
+    "Annual Fee: Nil (1st year), ₹250 (2nd year)",
+    "Cash withdrawal fee: 2.5% (Min. ₹500)",
+    "Late Payment Fee: Nil if total due < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1,200 if > ₹10,000; additional ₹100 after two consecutive missed MAD payments",
+    "Cheque return/Dishonour Fee or Auto Debit Reversal: 2% of payment amount (Min ₹500)",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Reward Redemption fee: ₹99 per redemption; ₹199 per conversion/transfer to partner programs",
+    "Rent Transaction fee: 1% per rental transaction",
+    "Wallet load transaction fee: 1% on cumulative loads of ₹10,000+ per statement cycle",
+    "Fuel Transaction fee: 1% on cumulative fuel spends of ₹50,000+ per statement cycle",
+    "Education Transaction fee: 1% per education payment via third‑party apps",
+    "Utility Transaction fee: 1% on cumulative utility spends of ₹25,000+ per statement cycle",
+    "Online skill‑based gaming fee: 1% on cumulative spends of ₹10,000+ per statement cycle",
+    "Dynamic Currency Conversion Markup: 1.5% plus taxes per international transaction",
+    {
+      "charge_type": "Cash Payment Fee",
+      "amount": 175
+    },
+    {
+      "charge_type": "Cash withdrawal fee",
+      "amount": "2.5% (Min. 500) of the cash amount"
+    },
+    {
+      "charge_type": "Late Payment Fee",
+      "amount": "Nil if total payment due is less than 500, 500 if total payment due is between 501-5,000, 750 if total payment due is between 5,001-10,000, 1200 if total payment due is greater than 10,000. An additional charge of 100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+    },
+    {
+      "charge_type": "Over limit penalty",
+      "amount": "2.5% over limit amount (Min 500)"
+    },
+    {
+      "charge_type": "Cheque return or Dishonour Fee or Auto Debit Reversal",
+      "amount": "2% of the payment amount subject to Min. 500"
+    },
+    {
+      "charge_type": "Surcharge on purchase or cancellation of railway tickets",
+      "amount": "As prescribed by IRTC/Indian Railways"
+    },
+    {
+      "charge_type": "Foreign currency transaction fee",
+      "amount": "3.5% of the transaction value"
+    },
+    {
+      "charge_type": "Reward Redemption fee",
+      "amount": "99 for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal. 199 for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs."
+    },
+    {
+      "charge_type": "Rent Transaction",
+      "amount": "1% on each rental transaction"
+    },
+    {
+      "charge_type": "Wallet load transaction",
+      "amount": "1% fee will be levied on cumulative wallet load transactions of 10,000 or more in a statement cycle"
+    },
+    {
+      "charge_type": "Fuel Transaction",
+      "amount": "1% fee will be levied on cumulative fuel transactions of 50,000 or more in a statement cycle"
+    },
+    {
+      "charge_type": "Education Transaction",
+      "amount": "1% fee will be applicable on each education payments done through third party apps"
+    },
+    {
+      "charge_type": "Utility Transaction",
+      "amount": "1% fee will be levied on cumulative spends of 25,000 or more made towards utility payments in a statement cycle within a statement period"
+    },
+    {
+      "charge_type": "Online skill-based gaming",
+      "amount": "1% fee will be applicable for cumulative spends of 10,000 or more on online skill-based gaming platforms in a statement period"
+    },
+    {
+      "charge_type": "Finance Charges (Retail purchases and Cash)",
+      "amount": "3.75% per month"
+    },
+    {
+      "charge_type": "Cash withdrawal fee",
+      "amount": "2.5% (Min. ₹500) of the cash amount"
+    },
+    {
+      "charge_type": "Late Payment Fee",
+      "amount": "Nil if total payment due is less than ₹500 ₹500 if total payment due is between ₹501- ₹5,000 ₹750 if total payment due is between ₹5,001- ₹10,000 ₹1200 if total payment due is greater than ₹10,000 An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+    },
+    {
+      "charge_type": "Over limit penalty",
+      "amount": "2.5% over limit amount (Min ₹500)"
+    },
+    {
+      "charge_type": "Cheque return or Dishonour Fee or Auto Debit Reversal",
+      "amount": "2% of the payment amount subject to Min. ₹500"
+    },
+    {
+      "charge_type": "Reward Redemption fee",
+      "amount": "A reward redemption fee of ₹99 will be levied for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal. A fee of ₹199 will be levied for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs."
+    },
+    {
+      "charge_type": "Wallet load transaction",
+      "amount": "1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+    },
+    {
+      "charge_type": "Fuel Transaction",
+      "amount": "1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle"
+    },
+    {
+      "charge_type": "Utility Transaction",
+      "amount": "1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period"
+    },
+    {
+      "charge_type": "Online skill-based gaming",
+      "amount": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period"
+    },
+    "Card Replacement Fee: Nil",
+    "Cash Payment Fee: ■175",
+    "Duplicate Statement Fee: Waived",
+    "Charge slip retrieval fee or copy request fee: Waived",
+    "Outstation cheque fee: Waived",
+    "Mobile Alerts for transaction: Free",
+    "Balance Inquiry charges: Free",
+    "Cash withdrawal fee: 2.5% (Min. ■500) of the cash amount",
+    "Late Payment Fee: Nil if total payment due is less than ■500 ■500 if total payment due is between ■501- ■5,000 ■750 if total payment due is between ■5,001- ■10,000 ■1200 if total payment due is greater than ■10,000 An additional charge of ■100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods.",
+    "Over limit penalty: 2.5% over limit amount (Min ■500)",
+    "Cheque return or Dishonour Fee or Auto Debit Reversal: 2% of the payment amount subject to Min. ■500",
+    "Surcharge on purchase or cancellation of railway tickets: As prescribed by IRTC/Indian Railways",
+    "Reward Redemption fee: A reward redemption fee of ■99 will be levied for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal. A fee of ■199 will be levied for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs.",
+    "Rent Transaction: 1% on each rental transaction",
+    "Wallet load transaction: 1% fee will be levied on cumulative wallet load transactions of ■10,000 or more in a statement cycle",
+    "Fuel Transaction: 1% fee will be levied on cumulative fuel transactions of ■50,000 or more in a statement cycle",
+    "Education Transaction: 1% fee will be applicable on each education payments done through third party apps",
+    "Utility Transaction: 1% fee will be levied on cumulative spends of ■25,000 or more made towards utility payments in a statement cycle within a statement period",
+    "Online skill-based gaming: 1% fee will be applicable for cumulative spends of ■10,000 or more on online skill-based gaming platforms in a statement period",
+    "Dynamic Currency Conversion Markup: 1.5% plus taxes will be applicable for each international transaction performed in Indian currency or International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail purchases and Cash): 3.75% per month",
+    "Finance Charges: 3.75% per month",
+    {
+      "type": "Finance Charges (Retail purchases and Cash)",
+      "rate": "3.75% per month"
+    },
+    "3.75% per month"
+  ],
+  "fees_and_penalties": [
+    "Late Payment Fee structure as detailed above",
+    "Over limit penalty: 2.5% over limit amount (Min ₹500)",
+    "Cheque return or Dishonour Fee: 2% of payment amount (Min ₹500)",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Reward Redemption fee: ₹99 per redemption, ₹199 per conversion",
+    "Late Payment Fee schedule as described",
+    "Over limit penalty: 2.5% (Min ₹500)",
+    "Cheque return/Dishonour Fee: 2% (Min ₹500)",
+    {
+      "fee_type": "Cash Payment Fee",
+      "amount": 175
+    },
+    {
+      "fee_type": "Cash withdrawal fee",
+      "amount": "2.5% (Min. ₹500) of the cash amount"
+    },
+    {
+      "fee_type": "Late Payment Fee",
+      "amount": "Nil if total payment due is less than ₹500 ₹500 if total payment due is between ₹501- ₹5,000 ₹750 if total payment due is between ₹5,001- ₹10,000 ₹1200 if total payment due is greater than ₹10,000 An additional charge of ₹100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods."
+    },
+    {
+      "fee_type": "Over limit penalty",
+      "amount": "2.5% over limit amount (Min ₹500)"
+    },
+    {
+      "fee_type": "Cheque return or Dishonour Fee or Auto Debit Reversal",
+      "amount": "2% of the payment amount subject to Min. ₹500"
+    },
+    {
+      "fee_type": "Surcharge on purchase or cancellation of railway tickets",
+      "amount": "As prescribed by IRTC/Indian Railways"
+    },
+    {
+      "fee_type": "Foreign currency transaction fee",
+      "amount": "3.5% of the transaction value"
+    },
+    {
+      "fee_type": "Reward Redemption fee",
+      "amount": "A reward redemption fee of ₹99 will be levied for each redemption transaction of EDGE REWARD points or EDGE Miles on the EDGE portal. A fee of ₹199 will be levied for each instance of conversion/transfer of EDGE REWARD points or EDGE Miles to other miles partner loyalty programs."
+    },
+    {
+      "fee_type": "Rent Transaction",
+      "amount": "1% on each rental transaction"
+    },
+    {
+      "fee_type": "Wallet load transaction",
+      "amount": "1% fee will be levied on cumulative wallet load transactions of ₹10,000 or more in a statement cycle"
+    },
+    {
+      "fee_type": "Fuel Transaction",
+      "amount": "1% fee will be levied on cumulative fuel transactions of ₹50,000 or more in a statement cycle"
+    },
+    {
+      "fee_type": "Education Transaction",
+      "amount": "1% fee will be applicable on each education payments done through third party apps"
+    },
+    {
+      "fee_type": "Utility Transaction",
+      "amount": "1% fee will be levied on cumulative spends of ₹25,000 or more made towards utility payments in a statement cycle within a statement period"
+    },
+    {
+      "fee_type": "Online skill-based gaming",
+      "amount": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement period"
+    },
+    "Late Payment Fee: Nil if total payment due is less than ■500 ■500 if total payment due is between ■501- ■5,000 ■750 if total payment due is between ■5,001- ■10,000 ■1200 if total payment due is greater than ■10,000 An additional charge of ■100 will be applicable if the payment of Minimum Amount Due (MAD) is not made by the Payment Due Date (PDD) for two consecutive billing periods.",
+    "Over limit penalty: 2.5% over limit amount (Min ■500)",
+    "Cheque return or Dishonour Fee or Auto Debit Reversal: 2% of the payment amount subject to Min. ■500"
+  ],
+  "spend_conditions": [
+    "Spend ₹2000-₹4999 per month to earn 100 EDGE REWARD Points",
+    "Spend ₹5000+ per month to earn 350 EDGE REWARD Points",
+    "Rent and wallet load transactions are excluded from spend calculations for annual fee waiver",
+    "Spend ₹0-₹1999: 0 points",
+    "Spend ₹2000-₹4999: 100 points",
+    "Spend ₹5000 and above: 350 points",
+    "Rent and wallet load transactions not counted for annual fee waiver",
+    "0-■1999: 0",
+    "■2000 to ■4999: 100",
+    "■5000 and above: 350 (100 + 250)",
+    "Transactions made on Rent and Wallet load"
+  ],
+  "benefit_conditions": [
+    "Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver",
+    "Reward redemption incurs ₹99 fee per transaction"
+  ],
+  "renewal_benefits": [
+    "Annual fee waiver applicable if spend criteria met (excluding rent and wallet load transactions)"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Upto 10% off on Myntra",
+    "Up to ₹100 credit on Shuttl every month",
+    "Up to ₹120 off on Freshmenu every month",
+    "50% off on Eros Now Annual Subscription",
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip",
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira",
+    "Up to 15% off flights & hotels via Goibibo and Makemytrip",
+    "10% off on Swiggy and Amazon Fresh orders",
+    "10% off upto ₹1000 on Tira",
+    "Get up to 100 credit* on Shuttl every month",
+    "Get up to 120 off* on Freshmenu every month",
+    "50%* Off On Eros Now Annual Subscription",
+    "10% off upto 1000 on Tira",
+    "Get up to ₹100 credit* on Shuttl every month",
+    "Get up to ₹120 off* on Freshmenu every month",
+    "Upto 10% off on Myntra.",
+    "Get up to ■100 credit* on Shuttl every month.",
+    "Get up to ■120 off* on Freshmenu every month.",
+    "50%* Off On Eros Now Annual Subscription.",
+    "10% off upto ■1000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight – weekly mid‑week offers",
+    "Wednesday Delight weekly offers",
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "important_terms": [
+    "Terms and Conditions updated w.e.f 20th June, 2025",
+    "Invite only model; eligibility shown on Freecharge app",
+    "Terms and conditions updated w.e.f 20th June, 2025",
+    "Unredeemed EDGE REWARD Points / EDGE Miles will be forfeited 30 days after card closure or if the minimum amount due is outstanding for more than 90 days.",
+    "The terms and conditions of Axis Bank Freecharge Credit Card have been updated w.e.f 20th June, 2025. Please click here to know more"
+  ],
+  "excluded_categories": [
+    "Rent",
+    "Wallet load",
+    "Gold & Jewellery",
+    "Fuel",
+    "Financial Institutions",
+    "Cash advances",
+    "Repayments",
+    "Rent Transactions and wallet load transactions will not be eligible for spends counted in availing annual fee waiver"
+  ],
+  "source_files_used": [
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\AXIS_Axis Bank Freecharge Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\TERMS\\terms-and-conditions-freecharge-final.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\AXIS_Axis Bank Freecharge Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Freecharge Credit Card\\TERMS\\terms-and-conditions-freecharge-final.pdf"
+  ]
+}

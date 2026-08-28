@@ -1,0 +1,142 @@
+{
+  "card_name": "Business Corporate Regalia Credit Card",
+  "card_network": null,
+  "card_type": "Corporate",
+  "joining_fee": null,
+  "annual_fee": null,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "4X reward points for every ₹150 spent*"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points for miles against leading International and Domestic airlines, hotels and catalogue options",
+    "Redeem Reward Points instantly against: Airline ticket booking, Hotel booking, Reward redemption catalogue",
+    "1 Reward Point = INR 0.30 when redeemed on offers.smartbuy.hdfcbank.com/corporate"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "Up to 10% CashBack on Flight & Hotel bookings, Gift Vouchers and more via SmartBuy"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary Club Vistara Silver membership*",
+    "8 complimentary airport lounge accesses per year*",
+    "Through the Priority Pass program, you can enjoy eight domestic airport lounge visits annually and six international lounge visits annually"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary Club Vistara Silver membership*"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    {
+      "markup": "2%",
+      "description": "Cross Currency markup of 2% on the transaction value"
+    }
+  ],
+  "dining_benefits": [
+    "Unique dining privileges and discounts through partner programs"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions",
+    {
+      "surcharge_waiver": "1% surcharge waived off for transaction value between ₹400/- - ₹5000/- (Maximum waiver capped at ₹500/- per statement cycle (GST Applicable))"
+    }
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Extensive insurance coverage of ₹1 crore*",
+    "Employee fraud insurance covers up to ₹2 lakh per card and ₹25 lakh at the corporate level"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability, ensuring protection against fraudulent transactions"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI: Option to convert big spends into EMI after purchase available on Business Corporate Moneyback"
+  ],
+  "business_benefits": [
+    "Single Interface: One unified platform for managing Credit Cards, Debit Cards, FASTag, and Business Loans",
+    "Spend Tracking: An easy-to-use interface to monitor and manage all your business expenses seamlessly",
+    "Reward Points: Effortlessly view and redeem reward points with just a click",
+    "Card Controls: Manage Card Controls like Online Spends, Contactless Transactions, etc.",
+    "MyCards: A mobile-based service platform for all Credit Card needs, facilitates convenient activation and management of your Business Corporate Regalia Credit Card on the go"
+  ],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 6,
+  "guest_lounge_access": null,
+  "reward_rate": 4,
+  "forex_markup": "2%",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Company must be at least two years old",
+    "Company must have a minimum annual turnover of ₹10 crores",
+    "Company should be at least two years old",
+    "The Company has a minimum Annual turnover of ■10 crores"
+  ],
+  "income_requirements": [
+    "minimum Annual turnover of ■10 crores"
+  ],
+  "documents_required": [
+    "KYC (Know Your Customer) documents",
+    "Proof of business existence",
+    "Income documents",
+    "Other relevant documents as per HDFC Bank's Credit Card application requirements"
+  ],
+  "charges": [
+    {
+      "type": "Cash Advance",
+      "amount": "2.5% on amount withdrawn or ₹500 whichever is higher"
+    },
+    {
+      "type": "Fuel Surcharge",
+      "waiver": "1% surcharge waived off for transaction value between ₹400/- - ₹5000/- (Maximum waiver capped at ₹500/- per statement cycle (GST Applicable))"
+    }
+  ],
+  "interest_rates": [
+    "Available at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    {
+      "type": "Cash Advance",
+      "fee": "2.5% on amount withdrawn or ₹500 whichever is higher"
+    },
+    {
+      "type": "Fuel Surcharge",
+      "waiver": "1% surcharge waived off for transaction value between ₹400/- - ₹5000/- (Maximum waiver capped at ₹500/- per statement cycle (GST Applicable))"
+    }
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [
+    "Reward points are valid for up to 2 years",
+    "Frequent flyer registration is needed before attempting Airmiles redemption in NetBanking",
+    "Enable your Credit Card for International usage and upgrade your international daily limit through NetBanking"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "SmartBuy Corporate Portal",
+    "Priority Pass program"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "HDFC Bank issues corporate cards upon the satisfactory completion of all necessary documentation and fulfillment of required checks and formalities, following the Bank's policy.",
+    "The Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use. You must go through it thoroughly to fully understand the terms and conditions applicable to any banking product you choose."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\HDFC_Business Corporate Regalia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\MITC\\mitc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Business Corporate Regalia Credit Card\\MITC\\mitc2.pdf"
+  ]
+}

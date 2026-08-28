@@ -1,0 +1,332 @@
+{
+  "card_name": "Indianoil Premium Credit Card",
+  "card_network": null,
+  "card_type": "Premium",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Spend ₹30,000 and above in an anniversary year",
+  "welcome_benefits": [
+    "500 EDGE MILES on your first spend within 30 days of card issuance",
+    "500 EDGE MILES on first spend within 30 days of card issuance",
+    "500 EDGE Miles credited on first transaction within 30 days of card issuance"
+  ],
+  "reward_structure": [
+    "1 EDGE MILE on every ₹150 spent",
+    "6 EDGE MILES on every ₹150 spent at IOCL fuel outlets",
+    "2 EDGE MILES on every ₹150 spent on Grocery & Supermarket spends",
+    "Earn 1 EDGE MILE on every ₹150 spent (base earn, uncapped)",
+    "Earn 2 EDGE MILES on every ₹150 spent on Grocery & Supermarket spends",
+    "Earn 6 EDGE MILES on every ₹150 spent at any IOCL fuel outlet",
+    "1 EDGE MILE on every ₹150 spent (base earn)",
+    {
+      "category": "Fuel (IndianOil outlets)",
+      "base_rate": "1 EDGE Mile per INR 150",
+      "accelerated_rate": "5X",
+      "total_rate": "6X EDGE Miles per INR 150",
+      "cap": "600 EDGE Miles per statement month (INR 15,000 spend)"
+    },
+    {
+      "category": "Grocery and Supermarkets",
+      "base_rate": "1 EDGE Mile per INR 150",
+      "accelerated_rate": "1X",
+      "total_rate": "2X EDGE Miles per INR 150",
+      "cap": "33 EDGE Miles per statement month (INR 5,000 spend)"
+    },
+    {
+      "category": "Other spends",
+      "base_rate": "1 EDGE Mile per INR 150",
+      "accelerated_rate": null,
+      "total_rate": "1X EDGE Mile per INR 150",
+      "cap": null
+    }
+  ],
+  "reward_redemption_options": [
+    "Partner miles/points conversion via Axis Bank Points Transfer Program",
+    "Miles transfer to airline partners or XTRARewards (IOCL)",
+    "Travel bookings on Travel Edge portal",
+    "Catalogue redemption (product and gift vouchers)",
+    "SMS based instant redemption at select retail merchants",
+    "Instant offline redemption at partner outlets",
+    "Pay by points for credit card bill"
+  ],
+  "reward_exclusions": [
+    "Spends on no-earn categories (excluded MCCs)",
+    "restricted categories",
+    "no-earn categories (excluded MCCs)",
+    "Transactions below INR 150",
+    "MCCs: Transportation & Tolls (4111, 4121, 4131, 4784), Utilities (4814, 4816, 4899, 4900), Insurance (6300, 6381, 5960, 6012, 6051), Educational Institutions (8211, 8241, 8244, 8249, 8299), Government Institutions (9211, 9222, 9311, 9399, 9402, 9405, 8220), Wallet (6540), Rent (6513)",
+    "Utility & Telecom",
+    "Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Insurance",
+    "Gold & Jewellery",
+    "Financial Institutions",
+    "Cash advances",
+    "Repayments"
+  ],
+  "reward_caps": [
+    {
+      "category": "Fuel",
+      "monthly_cap": "600 EDGE Miles",
+      "spend_limit": "INR 15,000 per statement month"
+    },
+    {
+      "category": "Grocery and Supermarkets",
+      "monthly_cap": "33 EDGE Miles",
+      "spend_limit": "INR 5,000 per statement month"
+    }
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "2 complimentary lounge access per quarter at select domestic airports",
+    "2 complimentary lounge accesses per quarter (domestic airports)",
+    "2 complimentary lounge accesses per quarter",
+    "2 complimentary domestic lounge accesses per quarter",
+    "2 complimentary domestic airport lounge visits per quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "Up to 15% instant savings on flights & hotels via MakeMyTrip",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "Up to 15% instant savings on flights & hotels via MakeMyTrip",
+    "Instant savings up to 15% on hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "Miles transfer to airline partners (Air France-KLM, Ethiopian Airlines, Etihad Airways, etc.)"
+  ],
+  "forex_benefits": [
+    "3.5% fee on foreign currency transactions",
+    "1.5% + GST Dynamic Currency Conversion markup"
+  ],
+  "dining_benefits": [
+    "30% off on food delivery at Zomato with your IndianOil Axis Bank Premium Credit Card",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹1000 on Tira",
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program",
+    "30% off on food delivery at Zomato (max ₹150 per order, minimum spend ₹200, up to 2 times a month)",
+    "Dining Delight program at top restaurants",
+    "30% off on Zomato orders (max ₹150 per order, min spend ₹200, up to 2 times/month)",
+    "10% off on Swiggy orders",
+    "30% instant discount on Zomato (min transaction INR 200, max discount INR 150, twice per calendar month)"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% unlimited fuel surcharge waiver on fuel purchases at all IOCL fuel outlets across",
+    "1% unlimited fuel surcharge waiver on purchases at IOCL fuel outlets",
+    "Accelerated rewards of 6 EDGE MILES per ₹150 spent at IOCL fuel outlets",
+    "Fuel transaction charge 1% (+GST) of transaction amount (surcharge refunded for spends at IOCL outlets)",
+    "1% unlimited fuel surcharge waiver at IOCL fuel outlets",
+    "6 EDGE MILES per ₹150 spent at IOCL fuel outlets",
+    "1% fuel surcharge waiver on all fuel transactions at IndianOil outlets"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 EDGE MILE per ₹150",
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Primary Cardholder should be 18-70 years of age",
+    "The individual should either be a Resident of India",
+    "Resident of India",
+    "Eligible Card under Set B"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN Card photocopy or Form 60",
+    "Proof of income: Latest payslip / Form 16 / IT return",
+    "Residence proof: Driving License / Electricity Bill / Landline Telephone Bill",
+    "Proof of income (Latest payslip / Form 16 / IT return)",
+    "Residence proof (Driving License / Electricity Bill / Landline Telephone Bill)"
+  ],
+  "charges": [
+    "Cash Withdrawal Fee: 2.5% on the amount withdrawn (Minimum ₹500)",
+    "Finance Charges - Interest: 3.75% Per Month (55.55% Per Annum)",
+    "Late payment charges: Nil if outstanding amount is less than ₹500, ₹500 if between ₹501 and ₹5,000, ₹750 if between ₹5,001 and ₹10,000, ₹1,200 if greater than ₹10,001",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge: 2% of payment amount (Minimum ₹450)",
+    "Fuel transaction charge: 1% (+GST) of Transaction Amount",
+    "Railway ticket booking surcharge: As prescribed by IRCTC / Indian Railways",
+    "Rent surcharge: 1% + GST per transaction",
+    "Foreign currency transactions: 3.50% of Transaction value",
+    "Dynamic Currency Conversion markup: 1.5% + GST",
+    "Transaction fee: 1% on education payments via third-party apps, 1% on wallet loads exceeding ₹10,000, fuel exceeding ₹50,000, utilities exceeding ₹25,000, and online skill-based gaming platforms exceeding ₹10,000 within a statement period",
+    "Joining/Annual Fee: ₹1000 + GST",
+    "Cash Withdrawal Fee: 2.5% of amount withdrawn (minimum ₹500)",
+    "Finance Charges - Interest: 3.75% per month (55.55% per annum)",
+    "Late payment charges: Nil if outstanding < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1,200 if > ₹10,001; additional ₹100 if MAD not paid for two consecutive cycles",
+    "Over limit charge: 2.5% (minimum ₹500) of over limit amount",
+    "Returned Payment Charge: 2% of payment amount (minimum ₹450)",
+    "Fuel transaction charge: 1% (+GST) of transaction amount (surcharge refunded for IOCL spends)",
+    "Foreign currency transactions fee: 3.50% of transaction value",
+    "Transaction fee: 1% on education payments via third-party apps; 1% on cumulative spends exceeding thresholds on wallet loads, fuel, utilities, and online gaming platforms",
+    "Cash deposit at Citi branches: ₹175 per deposit",
+    "Reward Redemption Fee: Nil",
+    "Nominal swipe fee Rs 2 for Visa",
+    "Nominal swipe fee Rs 25 for Mastercard",
+    "Nominal swipe fee Rs 2 for Rupay",
+    "Fuel transaction charge: 1% (+GST) of transaction amount (surcharge refunded for spends at IOCL fuel outlets)",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Transaction fee: 1% on cumulative spends exceeding thresholds (wallet loads, fuel, utilities, gaming)",
+    "Joining fee: INR 1000+GST (one-time)",
+    "Annual fee: INR 1000+GST (from second year)",
+    "Fuel surcharge waiver: 1% (waived)"
+  ],
+  "interest_rates": [
+    "3.75% Per Month (55.55% Per Annum)",
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Cash Withdrawal Fee: 2.5% on the amount withdrawn (Minimum ₹500)",
+    "Late payment charges: Nil if outstanding amount is less than ₹500, ₹500 if between ₹501 and ₹5,000, ₹750 if between ₹5,001 and ₹10,000, ₹1,200 if greater than ₹10,001",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge: 2% of payment amount (Minimum ₹450)",
+    "Fuel transaction charge: 1% (+GST) of Transaction Amount",
+    "Railway ticket booking surcharge: As prescribed by IRCTC / Indian Railways",
+    "Rent surcharge: 1% + GST per transaction",
+    "Foreign currency transactions: 3.50% of Transaction value",
+    "Dynamic Currency Conversion markup: 1.5% + GST",
+    "Transaction fee: 1% on education payments via third-party apps, 1% on wallet loads exceeding ₹10,000, fuel exceeding ₹50,000, utilities exceeding ₹25,000, and online skill-based gaming platforms exceeding ₹10,000 within a statement period",
+    "Late payment charges: Nil if outstanding < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1,200 if >₹10,001; additional ₹100 if MAD not paid for two consecutive cycles"
+  ],
+  "spend_conditions": [
+    "Spend ₹30,000 and above in an anniversary year to be eligible for annual fee waiver",
+    "Spend ₹30,000 and above in an anniversary year to waive annual fee",
+    "Earn rewards on spend of ₹150 per transaction",
+    "Annual fee waiver requires INR 30,000 spend in anniversary year (excluding Wallet and Rent MCCs)",
+    "Fuel reward cap INR 15,000 spend per statement month",
+    "Grocery reward cap INR 5,000 spend per statement month"
+  ],
+  "benefit_conditions": [
+    "Welcome benefit is applicable to the customer only in the first year",
+    "Lounge access is based on assumption that customer visits lounge 2 times a quarter",
+    "Zomato discount is based on assumption that customer orders twice a month of minimum order value of ₹200, to avail 30% discount. The maximum discount per order ₹150",
+    "Annual fee waived on spends of ₹30,000 and above",
+    "Fuel surcharge waiver applicable on transactions at IOCL fuel outlets (GST on surcharge non‑refundable)",
+    "Zomato discount requires minimum order ₹200, max discount ₹150 per order, up to 2 times a month",
+    "Lounge access assumed 2 visits per quarter (cost assumed ₹1,500 per visit)",
+    "2 complimentary lounge accesses per quarter",
+    "Zomato discount requires minimum spend ₹200 per order, max discount ₹150, up to 2 times a month",
+    "Fuel surcharge waiver GST is non‑refundable",
+    "Lounge access assumes cost of ₹1,500 per lounge visit",
+    "Zomato discount: minimum transaction INR 200, maximum discount INR 150, applicable twice per calendar month",
+    "Unredeemed EDGE REWARD Points / EDGE Miles will be forfeited 30 days after card closure or if minimum amount due is overdue for more than 90 days."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Zomato",
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira",
+    "Axis Bank Dining Delights Program",
+    "Dining Delight",
+    "Air France-KLM",
+    "Ethiopian Airlines",
+    "Etihad Airways",
+    "IHGR Hotels & Resorts",
+    "Qatar Airways",
+    "Singapore Airlines",
+    "Turkish Airlines",
+    "United Airlines",
+    "Marriott International",
+    "Vistara",
+    "ITC",
+    "SpiceJet",
+    "AirAsia"
+  ],
+  "merchant_offers": [
+    "30% off on food delivery at Zomato with your IndianOil Axis Bank Premium Credit Card",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹1000 on Tira",
+    "30% off on Zomato orders (max ₹150 per order, min spend ₹200, up to 2 times/month)",
+    "10% off on Swiggy orders",
+    "Up to 15% off on flights & hotels via MakeMyTrip",
+    "30% off on Zomato orders",
+    "10% off up to ₹1,000 on Tira",
+    "Up to 15% off flights & hotels via MakeMyTrip",
+    "30% instant discount on Zomato (min INR 200, max INR 150, twice per month)"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday",
+    "Zomato discount (subject to usage limits)",
+    "Wednesday Delight offers",
+    "Dining Delight program offers",
+    "Zomato 30% discount (max ₹150 per order, up to 2 times/month)",
+    "Swiggy 10% discount",
+    "Tira 10% discount up to ₹1,000",
+    "Zomato instant discount offer"
+  ],
+  "important_terms": [
+    "The terms and conditions of IndianOil Axis Bank Premium credit card will be updated w.e.f 20th June'25",
+    "GST charged on fuel surcharge is non-refundable",
+    "GST charged on fuel surcharge is non‑refundable",
+    "Assumptions: first transaction and activation within 30 days for welcome benefit",
+    "Lounge cost assumed at ₹1,500 per visit",
+    "Zomato discount assumptions: two orders per month, minimum order value ₹200",
+    "Program effective from 1st June 2023",
+    "Program available till 31st August 2025",
+    "Lounge access assumes cost of ₹1,500 per visit",
+    "Zomato discount assumptions based on minimum order value and frequency",
+    "Reward points are credited within 12 days (base) or 45 days (accelerated)",
+    "Reversals adjust EDGE Miles in the month of reversal",
+    "No EDGE Miles for transactions below INR 150",
+    "Annual fee billed on first statement date after card anniversary",
+    "Spend exclusion approach for reward earns and fee waiver calculation revised to use spend categories.",
+    "Reward earn excluded categories: Utility & Telecom, Education, Rent, Wallet load, Government services, Insurance, Gold & Jewellery, Financial Institutions, Cash advances and Repayments.",
+    "Fee waiver calculation excluded categories: Rent and Wallet load.",
+    "Unredeemed points forfeiture clause as described."
+  ],
+  "excluded_categories": [
+    "Spends on no-earn categories (excluded MCCs)",
+    "restricted categories",
+    "no‑earn categories (excluded MCCs)",
+    "Transportation & Tolls (4111, 4121, 4131, 4784)",
+    "Utilities (4814, 4816, 4899, 4900)",
+    "Insurance (6300, 6381, 5960, 6012, 6051)",
+    "Educational Institutions (8211, 8241, 8244, 8249, 8299)",
+    "Government Institutions (9211, 9222, 9311, 9399, 9402, 9405, 8220)",
+    "Wallet (6540)",
+    "Rent (6513)",
+    "Utility & Telecom",
+    "Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Insurance",
+    "Gold & Jewellery",
+    "Financial Institutions",
+    "Cash advances",
+    "Repayments"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\AXIS_Indianoil Premium Credit Card_summary.txt",
+    "Financial Charges Table",
+    "Value Chart Table",
+    "Features & Benefits Section",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\summary.txt",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\main.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\TERMS\\terms-and-conditions-for-indianoil-axis-bank-premium-credit-card.pdf",
+    "Revision of INDIANOIL AXIS BANK PREMIUM Credit Card Terms and Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indianoil Premium Credit Card\\TERMS\\terms-and-conditions-iocl-premium-final.pdf"
+  ]
+}

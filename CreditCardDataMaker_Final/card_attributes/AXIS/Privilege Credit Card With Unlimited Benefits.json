@@ -1,0 +1,341 @@
+{
+  "card_name": "Privilege Credit Card With Unlimited Benefits",
+  "card_network": "Mastercard",
+  "card_type": "Credit Card",
+  "joining_fee": 1500,
+  "annual_fee": 1500,
+  "fee_waiver_condition": "Achieving spends of ₹5 lakhs in a card anniversary year",
+  "welcome_benefits": [
+    "Shopping or Travel vouchers worth ₹2500",
+    "12500 EDGE REWARD points worth ₹2500",
+    "Get 12500 EDGE REWARD points, Worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance.",
+    "12500 EDGE REWARD points, Worth ■2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance",
+    "12,500 EDGE REWARD Points credited upon payment of joining fee and first transaction within 30 days"
+  ],
+  "reward_structure": [
+    "10 points on every ₹200 spent on the credit card domestically/internationally",
+    "10 points on every ₹200 spent on the credit card domestically/internationally.",
+    "10 points on every ■200 spent on the credit card domestically/internationally",
+    "Earn EDGE REWARD Points"
+  ],
+  "reward_redemption_options": [
+    "Shopping or Travel vouchers",
+    "Redeem points against shopping or travel vouchers",
+    "Check the Axis EDGE REWARDS Catalogue",
+    "Vouchers worth Rs. 2,500",
+    "Miles Transfer Program to airline and hotel loyalty partners"
+  ],
+  "reward_exclusions": [
+    "Insurance",
+    "rent",
+    "fuel",
+    "educational services",
+    "utilities",
+    "government MCC",
+    "Spends done on Insurance, rent, fuel, educational services, utilities and government MCC(merchant category codes) will not be eligible for earning EDGE REWARDS.",
+    "Spends done on Insurance, rent, fuel, educational services, utilities and government MCC (merchant category codes) will not be eligible for earning EDGE REWARDS",
+    "Gold/Jewellery (MCC 5094, 5944)"
+  ],
+  "reward_caps": [
+    "Maximum benefits of up to ■400 per statement cycle",
+    "Maximum of 1 lakh EDGE REWARD Points cumulatively to Group A partners per calendar year",
+    "Maximum of 4 lakh EDGE REWARD Points cumulatively to Group B partners per calendar year"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Additional 10,000 EDGE REWARDS points worth ₹2000 by spending ₹2.5 lakhs in a card anniversary year",
+    "Get an additional 10,000 EDGE REWARDS points worth ₹2000 by spending ₹2.5 lakhs in a card anniversary year.",
+    "Get an additional 10,000 EDGE REWARDS points worth ■2000 by spending ■2.5 lakhs in a card anniversary year",
+    "Additional 10,000 Edge Reward points on spends of Rs. 2.5 lakhs in a card anniversary year",
+    "10,000 EDGE REWARD Points worth Rs 2,000 on spends of Rs. 2.5 lakh in a card anniversary year"
+  ],
+  "lounge_access": [
+    "2 Complimentary access per calendar quarter to select domestic lounges",
+    "Complimentary access to selected lounges affiliated with Mastercard, 2 times in calendar quarter (if offer availed once every quarter)",
+    "2 complimentary access per quarter",
+    "Domestic lounge access based on spends in previous 3 calendar months",
+    "Minimum spend Rs. 50,000 in previous 3 calendar months"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and MakeMyTrip",
+    {
+      "benefit": "Domestic Flights",
+      "discount": "14% off",
+      "minimum_booking_value": "INR 5,000",
+      "max_discount": "INR 2,025"
+    },
+    {
+      "benefit": "International Flights",
+      "discount": "11% off",
+      "minimum_booking_value": "INR 15,000",
+      "max_discount": "INR 7,000"
+    },
+    {
+      "benefit": "Domestic Hotels",
+      "discount": "25% off",
+      "minimum_booking_value": "INR 5,000",
+      "max_discount": "INR 7,500"
+    }
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value"
+  ],
+  "dining_benefits": [
+    "Dining Delights Program",
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.",
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program",
+    {
+      "benefit": "Zomato",
+      "discount": "Rs.150 off",
+      "minimum_spend": "Rs.600"
+    },
+    {
+      "benefit": "Swiggy",
+      "discount": "Rs.150 off",
+      "minimum_spend": "Rs.600"
+    },
+    {
+      "benefit": "Blinkit",
+      "discount": "Rs.150 off",
+      "minimum_spend": "Rs.1500"
+    }
+  ],
+  "movie_benefits": [
+    "Buy one get one offer on movie tickets",
+    "Buy one get one offer on movie tickets booked via District app"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge Waiver on monthly fuel spends",
+    "Fuel surcharge refund on spends at all fuel stations across India",
+    "1 % Fuel Surcharge Waiver on monthly fuel spends",
+    "Fuel surcharge refund on spends at all fuel stations across India with a Privilege Credit Card from Axis Bank"
+  ],
+  "shopping_benefits": [
+    {
+      "benefit": "Reliance Digital",
+      "discount": "7.5% instant discount",
+      "max_discount": "INR 30,000",
+      "minimum_transaction": "INR 15,000"
+    }
+  ],
+  "entertainment_benefits": [
+    "Wednesday Delight offers",
+    "10% off on orders via Swiggy",
+    "10% off up to ■1000 on Tira"
+  ],
+  "insurance_benefits": [
+    "Purchase Protection Plan of up to ₹1 lakh",
+    "Credit shield ₹1 lakh",
+    "Loss Travel Document Cover upto $300",
+    "Delay of Check-In Baggage Cover upto $300",
+    "Loss of Check-In Baggage Cover upto $500",
+    "Purchase Protection Plan of up to ■1 lakh",
+    "Credit shield ■1 lakh",
+    "Loss Travel Document Cover up to $300",
+    "Delay of Check-In Baggage Cover up to $300",
+    "Loss of Check-In Baggage Cover up to $500"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "24*7 complimentary concierge service will be discontinued"
+  ],
+  "emi_benefits": [
+    "EDGE REWARD points will be debited for credit card transactions which are converted to EMI. On cancellation of the EMI transaction, points shall not be credited back to the original transaction."
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 10,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Primary cardholder should be between 18 and 70 years of age",
+    "Add on cardholders should be over 18 years",
+    "Should be an Indian resident",
+    "Primary cardholder should be between 18 and 70 years of age.",
+    "Add on cardholders should be over 18 years.",
+    "You should be an Indian resident."
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN Card photocopy or Form 97",
+    "Proof of income - Latest payslip / Form 16 / IT Return",
+    "Residence proof - Driving License / Electricity Bill / Landline Telephone Bill"
+  ],
+  "charges": [
+    "Finance Charges (Retail Purchases & Cash) - 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees - 2.5% (Min. ₹500) of the Cash Amount",
+    "Fee for Cash Payment - ₹175",
+    "Standard Joining Fee: ₹1500",
+    "Standard Annual Fee (2nd year onwards): ₹1500",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the Cash Amount",
+    "Fee for Cash Payment: ₹175",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹500)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Surcharge Fee: 1% of the rental txn amount",
+    "Wallet load transaction fee: 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel transaction fee: 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Education transaction fee: 1% fee on education payments made via third party apps",
+    "Utility transaction fee: 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming transaction fee: 1% fee on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle",
+    "Dynamic Currency Conversion markup fee: 1.5% of each international txn plus taxes",
+    "Nominal swipe fee of Rs. 2 for Visa, Rs. 25 for Mastercard and Rs. 2 for Rupay",
+    "Standard Joining Fee: ■1500",
+    "Standard Annual Fee (2nd year onwards): ■1500",
+    "Cash Withdrawal Fees: 2.5% (Min. ■500) of the Cash Amount",
+    "Fee for Cash Payment: ■175",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ■500, ■500 if total payment due is between ■501 - ■5,000, ■750 if total payment due is between ■5,001 - ■10,000, ■1200 if total payment due is greater than ■10,000. Additional ■100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ■500)",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ■400 and ■4000)",
+    "Wallet load transaction fee: 1% fee on cumulative spends of ■10,000 or more on wallet loads per statement cycle",
+    "Fuel transaction fee: 1% fee on cumulative spends of ■50,000 or more on fuel transactions per statement cycle",
+    "Utility transaction fee: 1% fee on cumulative spends of ■25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming transaction fee: 1% fee on cumulative spends of ■10,000 or more on online skill-based gaming platforms in a statement cycle"
+  ],
+  "interest_rates": [
+    55.55,
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee - ₹500 if total payment due is between ₹501 - ₹5,000",
+    "Over Limit Penalty - 2.5% of the overlimit amount (Min. ₹500)",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until MAD is cleared.",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ■500, ■500 if total payment due is between ■501 - ■5,000, ■750 if total payment due is between ■5,001 - ■10,000, ■1200 if total payment due is greater than ■10,000. Additional ■100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ■500)"
+  ],
+  "spend_conditions": [
+    "Spends threshold for annual fee waiver will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewellery, Fuel, Educational services",
+    "Spends done on both Primary as well as add-on cards are eligible for this benefit",
+    "Spends threshold for Milestone benefits will exclude transactions made on Utility & Telecom, Rent, Wallet, Government services, Insurance, Gold & Jewellery, Fuel, Educational services",
+    "Government services, utilities, gold/jewellery, rent, wallet, insurance, fuel and educational services merchants will not be eligible for milestone achievement and annual fee waiver calculation"
+  ],
+  "benefit_conditions": [
+    "Terms and conditions apply",
+    "Maximum benefits of up to ₹400 per statement cycle for fuel surcharge waiver.",
+    "The Program is available till 31st August 2025",
+    "Usage is subject to access limits/quota every quarter",
+    "Entry Type 1 may be restricted if maximum capacity reached",
+    "Card must be validated at point of entry",
+    "Additional charge may occur for meal/food/drink items",
+    "Terms and conditions apply for all benefits",
+    "Free cards, first year free cards, and priority segment customers are not eligible for some benefits",
+    "Applicable upon achieving spends milestone of Rs. 2.5 Lakh in the card anniversary year",
+    "Levy of full joining fee of Rs. 1,500 + GST and successful completion of first card transaction within 30 days from issuance",
+    "Lounge access benefits based on spends in previous 3 calendar months",
+    "Minimum spend Rs. 50,000 in previous 3 calendar months"
+  ],
+  "renewal_benefits": [
+    "Annual fees of ₹1500 will be reversed on achieving spending of ₹5 lakhs in the previous card anniversary year."
+  ],
+  "partner_programs": [
+    "Axis Bank Airport Lounge Access Program",
+    "Axis Bank Dining Delights Program",
+    "EDGE REWARDS",
+    "Accor Hotels",
+    "Air France-KLM",
+    "Air Canada",
+    "Air India",
+    "Ethiopian Airlines",
+    "Etihad",
+    "ITC",
+    "Japan Airlines",
+    "IHG Hotels & Resorts",
+    "Marriott International",
+    "Qantas Airways",
+    "Qatar Airways",
+    "SpiceJet",
+    "Singapore Airlines",
+    "Vistara",
+    "Turkish Airlines",
+    "Thai Airways",
+    "United Airlines",
+    "Wyndham Hotels"
+  ],
+  "merchant_offers": [
+    "Wednesday Delight offers",
+    "Dining Delights Program",
+    "10% off on orders via Swiggy",
+    "10% off up to ■1000 on Tira",
+    {
+      "merchant": "Yatra",
+      "offer": "Flat 14% off on Domestic Flights",
+      "valid_till": "30th Dec'2026"
+    },
+    {
+      "merchant": "Reliance Digital",
+      "offer": "7.5% instant discount up to INR 30,000",
+      "valid_till": "29th August 2026"
+    }
+  ],
+  "limited_period_offers": [
+    "Program is available till 31st August 2025",
+    "Apply the code AXISPRIVILEGE to get up to ■250 off, valid once a month (wef 20th June 2025)",
+    {
+      "offer": "Zomato - Rs.150 off on spends of Rs.600",
+      "valid_till": "30th Dec'2026"
+    },
+    {
+      "offer": "Blinkit - Rs.150 off on transactions above Rs.1500",
+      "valid_till": "30th Dec'2026"
+    },
+    {
+      "offer": "Swiggy - Rs.150 off on spends of Rs.600",
+      "valid_till": "30th Dec'2026"
+    }
+  ],
+  "important_terms": [
+    "GST, as notified by the Government of India, is applicable on all fees, interest & other charges, and is subject to change as per relevant regulations of the Government of India",
+    "Free cards, first year free cards, and priority segment customers are not eligible for this benefit.",
+    "The offer is not transferable, non-negotiable and cannot be en-cashed",
+    "Privileges cannot be clubbed with other offers",
+    "Participating Lounges are not owned by Axis Bank",
+    "Access denied if space constraints or capacity reached",
+    "Dress code applies (no shorts outside USA)",
+    "Maximum stay policy (usually 2 or 3 hours)",
+    "Axis Bank not liable for disputes",
+    "Terms & Conditions of Axis Bank Privilege Credit Card will be updated with effect from 20th June 2025",
+    "A rent surcharge fee of 1% will be applicable on each rental transaction done on Axis Bank Credit Cards. GST will be applicable as notified by Government of India. The Rent transactions will be identified through Merchant Category Code 6513. The revision is effective from 20-12-2024.",
+    "A Dynamic Currency Conversion (DCC) markup fee of 1.5% plus taxes will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation. DCC markup fee will not be applicable on Burgundy Private Credit Card. The revision is effective from 20-12-2024.",
+    "Axis Bank reserves the right to discontinue / modify this benefit from time to time",
+    "Axis Bank Standard Terms and Conditions apply",
+    "Revision effective 20th April '24",
+    "Miles transfer capping applicable from 20th Apr'24 to 31st Dec'24 for current year, then calendar year"
+  ],
+  "excluded_categories": [
+    "Utility & Telecom",
+    "Rent",
+    "Wallet",
+    "Government services",
+    "Insurance",
+    "Gold & Jewellery",
+    "Fuel",
+    "Educational services",
+    "Insurance, rent, fuel, educational services, utilities and government MCC(merchant category codes)",
+    "Spends done on Insurance, rent, fuel, educational services, utilities and government MCC (merchant category codes) will not be eligible for earning EDGE REWARDS",
+    "Gold/Jewellery",
+    "Utilities"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\AXIS_Privilege Credit Card With Unlimited Benefits_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\INSURANCE\\axis-bank-privilege-credit-card_insurance-t-c.pdf",
+    "Axis Bank Airport Lounge Access Program",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\LOUNGE\\axis-bank-mastercard-airport-lounge-access_program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\OFFERS\\axis-privilege-amex-offers-and-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\OFFERS\\axis-privilege-credit-card-milestone-benefit-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\TERMS\\terms-and-conditions-for-axis-bank-privilege-credit-card.pdf",
+    "Revision of Axis Bank PRIVILEGE Credit Card Terms and Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Credit Card With Unlimited Benefits\\TERMS\\terms-and-conditions-privilege-credit-card.pdf"
+  ]
+}

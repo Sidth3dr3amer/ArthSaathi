@@ -1,0 +1,284 @@
+{
+  "card_name": "Business Credit Card Sme",
+  "card_network": null,
+  "card_type": "Business Credit Card",
+  "joining_fee": 499,
+  "annual_fee": 999,
+  "fee_waiver_condition": "Fee will not be levied for the year on eligible spends of ₹5L in the previous card anniversary (Plastic Variant)",
+  "welcome_benefits": [
+    "Introductory benefits of ₹4999 (Limited period offer)"
+  ],
+  "reward_structure": [
+    "5X Reward Points on business spends in foreign currency transactions (Low Interest Variant)",
+    "2X Reward Points on business utility & digital advertising (Low Interest Variant)",
+    "1X Reward Points on rentals, restaurants & utility (Low Interest Variant)",
+    "10X Reward Points on business spends in foreign currency transactions (High Reward Points Variant)",
+    "4X Reward Points on business utility & digital advertising (High Reward Points Variant)",
+    "2X Reward Points on rentals, restaurants & utility (High Reward Points Variant)",
+    "5X Reward Points on business spends in foreign currency transactions",
+    "2X Reward Points on business utility & digital advertising",
+    "1X Reward Points on rentals, restaurants & utility",
+    "10X Reward Points on business spends in foreign currency transactions",
+    "4X Reward Points on business utility & digital advertising",
+    "2X Reward Points on rentals, restaurants & utility",
+    {
+      "category": "Business spends",
+      "multiplier": "10X"
+    },
+    {
+      "category": "Business Utility & Digital Advertising",
+      "multiplier": "4X"
+    },
+    {
+      "category": "Rentals, Restaurants & Utility",
+      "multiplier": "2X"
+    },
+    {
+      "category": "Foreign currency transactions",
+      "multiplier": "5X"
+    },
+    {
+      "category": "Base rate",
+      "multiplier": "1X per ₹100 spent"
+    },
+    "1 Reward Point = ₹0.25",
+    "30 Reward Points per ₹100 on hotel bookings",
+    "20 Reward Points per ₹100 on flight bookings",
+    "1 Reward Point per ₹100 on rentals",
+    "2 Reward Points per ₹100 on business utility",
+    "5 Reward Points per ₹100 on foreign currency transactions"
+  ],
+  "reward_redemption_options": [
+    "Cash redemption on all transactions",
+    "Hotel and flight bookings via IDFC FIRST Bank Mobile app",
+    "Gift vouchers or product purchases on IDFC FIRST Bank Mobile app",
+    "Online transactions using reward points"
+  ],
+  "reward_exclusions": [
+    "Cash + Points transactions are not eligible for Bonus Reward Points"
+  ],
+  "reward_caps": [
+    "Monthly capping on redeemable reward points: 1,00,000",
+    "Annual capping on redeemable reward points: 2,00,000"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    {
+      "milestone": "Spend ₹10 Lakhs in a year",
+      "benefit": "5000 Reward Points"
+    },
+    {
+      "milestone": "Spend ₹20 Lakhs in a year",
+      "benefit": "10000 Reward Points"
+    }
+  ],
+  "lounge_access": [
+    "2 international and/or domestic Airport Lounges per quarter on minimum spends of ₹20,000 on the previous month",
+    "2 complimentary domestic and/or international airport lounge visits per year"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "25% bonus Reward Points on Hotel bookings",
+    "15% bonus Reward Points on Travel bookings",
+    "Personal and Travel Insurance cover up to ₹10 lakhs",
+    "Bonus Reward Points on travel bookings via IDFC FIRST Bank Mobile App"
+  ],
+  "hotel_benefits": [
+    "25% bonus Reward Points on Hotel bookings",
+    "30 Bonus Reward Points per ₹100 on hotel bookings",
+    "32 Reward Points per ₹100 on hotel bookings"
+  ],
+  "airline_benefits": [
+    "20 Bonus Reward Points per ₹100 on flight bookings",
+    "22 Reward Points per ₹100 on flight bookings"
+  ],
+  "forex_benefits": [
+    "Low forex mark-up at just 1.99%",
+    "Low forex markup of 1.99%",
+    "5 Reward Points per ₹100 on foreign currency transactions"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Free Road Side Assistance worth ₹1,499",
+    "Personal Accident Cover of ₹10,00,000 on doing at least one transaction in the previous month",
+    "Insurance Cover of ₹50,000 each on Lost card liability, Credit Shield and Purchase Protection",
+    "Travel Insurance for Loss of Checked-In Baggage - USD 500",
+    "Travel Insurance for Delay of Checked-In Baggage - USD 100",
+    "Travel Insurance for Loss of Passport and other documents - USD 300",
+    "Travel Insurance for Delay in Flight - USD 300",
+    "Air Accident Cover of ₹1,00,00,000",
+    "Delay of Checked-In Baggage - USD 100",
+    "Loss of Passport and other documents - USD 300",
+    "Delay in Flight - USD 300",
+    "Personal and Travel Insurance cover up to ₹10 lakhs",
+    "Loss of Checked-In Baggage - USD 500",
+    "Air Accident Cover of ₹1 Crore"
+  ],
+  "protection_benefits": [
+    "Cover of ₹50,000 each on Lost card liability, Credit Shield and Purchase Protection"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Option to convert outstanding about to EMIs with Interest as low as 1.5% p.m",
+    "Convert outstanding balance to EMI as low as 1.5% per month"
+  ],
+  "business_benefits": [
+    "A 45-day Interest free credit period",
+    "A single view dashboard and annualised statements",
+    "Option to get multiple cards for employees/directors with individual credit limits",
+    "Option to convert outstanding about to EMIs with Interest as low as 1.5% p.m",
+    "Option to get multiple cards for employees/directors with individual credit limits and the option of Balance Transfer",
+    "Issue cards to employees for official expenses",
+    "Joint / individual liability of firm & cardholders",
+    "Monthly consolidated statement for all cards",
+    "Secure digital payments",
+    "Single view of all expenses via dashboard",
+    "Discount and offers on business productivity apps, utilities, ad spends, rent",
+    "Reward Points on business utility and digital advertising"
+  ],
+  "domestic_lounge_visits_per_year": 2,
+  "international_lounge_visits_per_year": 2,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 1.99,
+  "fuel_surcharge_waiver": "1% surcharge waiver up to ₹500 per statement cycle on fuel transactions between ₹200-₹5000",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash withdrawal charges = ₹199 + GST for each instance",
+    "Joining fee ₹999",
+    "Annual fee ₹999",
+    "Cash advance fee ₹199 per transaction",
+    "Late payment fee ₹199 (15% of total amount due, min ₹100 max ₹1300)",
+    "Reward redemption fee ₹999 per redemption",
+    "Fuel surcharge waiver up to ₹500 per statement cycle",
+    "Joining fee: ₹9999",
+    "Annual Membership Fee: 999",
+    "Renewal Membership Fee: 999",
+    "Cash Advance Fee: 199 per transaction",
+    "Late Payment Charge: 3% of due amount (minimum 300, maximum 1250)",
+    "Over-limit Fee: 2.5% of over-limit amount (minimum 550)"
+  ],
+  "interest_rates": [
+    "Year 1 (Introductory Offer): 1.5% p.m. (Low Interest Variant)",
+    "Year 2 onwards: 2% p.m. (Low Interest Variant)",
+    "Interest Rate of 3% p.m. (High Reward Points Variant)",
+    "Monthly Rate 3.99% Annual Rate 47.88% (for both variants)",
+    "Year 1 (Introductory Offer): 1.5% p.m.",
+    "Year 2 onwards: 2% p.m.",
+    "Interest Rate of 3% p.m.",
+    "Monthly Rate 3.99% Annual Rate 47.88%",
+    "Monthly rate 1.25% - 3%",
+    "Annual rate 15% - 36% for Business Max",
+    "Monthly rate 3.99% Annual rate 47.88% for Business Multiplier",
+    {
+      "period": "Year 1 Introductory Offer (without FD)",
+      "rate": "1.5% p.m."
+    },
+    {
+      "period": "Year 1 Introductory Offer (with FD)",
+      "rate": "1.25% p.m."
+    },
+    {
+      "period": "Year 2 onwards",
+      "rate": "2% p.m."
+    },
+    {
+      "period": "Standard",
+      "rate": "3% p.m."
+    },
+    "47.88% per annum (overdue interest rate)",
+    "36% per annum (post overdue period interest rate)"
+  ],
+  "fees_and_penalties": [
+    "Late payment fee 3% of due amount min ₹300 max ₹1250",
+    "Overdue interest 47.88% per annum",
+    "Fuel surcharge waiver 1% up to ₹500 per statement cycle",
+    "Joining fee: ₹9999",
+    "Late Payment Charge: 3% of due amount (minimum 300, maximum 1250)",
+    "Over-limit Fee: 2.5% of over-limit amount (minimum 550)",
+    "Cash Advance Fee: 199 per transaction"
+  ],
+  "spend_conditions": [
+    "Unlocked on spending a minimum of ₹20,000 in a calendar month"
+  ],
+  "benefit_conditions": [
+    "2 lounge visits per year",
+    "Bonus Reward Points will be credited by the 5th of the next calendar month post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active.",
+    "Bonus Reward Points will be applicable only on full swipe transactions on your FIRST Business Credit Card.",
+    "Reward Points can be utilised to pay up to 70% of the total booking value (incl. tax); rest is to be paid via FIRST Business Credit Card from which the Reward Points are being utilised in the transaction."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Discount and offers on business productivity apps, utilities, ad spends, rent"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Introductory benefits of ₹4999 (Limited period)"
+  ],
+  "important_terms": [
+    "In case of booking cancellations, refunds for both Reward Points & Cash will be processed and credited to source account within 5-7 business days from the date of cancellation.",
+    "In the case of a refund on a booking which was done using reward points and credit card, the refund is first issued in the form of reward points (up to the amount used in the transaction), and any remaining refundable amount is then credited back to the original payment source (i.e., the credit card).",
+    "No annual, joining, renewal fees or any other charges billed to the Business Entity/Cardmember shall be refunded upon card closure.",
+    "Card may be closed by the Business Entity/Cardmember at any time with written notice.",
+    "Bank may close the card for inactivity of 12 months or as deemed fit.",
+    "Events of Default may lead to immediate demand of all dues and possible card closure.",
+    "Bank may withdraw privileges or cancel the card without notice."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\IDFC FIRST_Business Credit Card Sme_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V21.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V22.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\LOUNGE\\Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final3.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\PRODUCT_GUIDE\\First-Business-Product-guide-12-06-25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\REWARDS\\Business-Rewards-Structure-TnC-0606.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601211.pdf",
+    "Ver_BC_CMA_FEB2510",
+    "Ver_BC_CMA_FEB2511",
+    "Ver_BC_CMA_FEB2512",
+    "Ver_BC_CMA_FEB2513",
+    "Ver_BC_CMA_FEB2514",
+    "Ver_BC_CMA_FEB2515",
+    "Ver_BC_CMA_FEB2516",
+    "Ver_BC_CMA_FEB2517",
+    "Ver_BC_CMA_FEB2518",
+    "Ver_BC_CMA_FEB2519",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601212.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601213.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601214.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601215.pdf",
+    "Ver_BC_CMA_FEB2550",
+    "Ver_BC_CMA_FEB2551",
+    "Ver_BC_CMA_FEB2552",
+    "Ver_BC_CMA_FEB2553",
+    "Ver_BC_CMA_FEB2554",
+    "Ver_BC_CMA_FEB2555",
+    "Ver_BC_CMA_FEB2556",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement-0601216.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Credit Card Sme\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

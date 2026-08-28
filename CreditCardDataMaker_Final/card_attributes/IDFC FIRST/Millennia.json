@@ -1,0 +1,143 @@
+{
+  "card_name": "Millennia",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 199,
+  "annual_fee": 199,
+  "fee_waiver_condition": "No joining fee, annual fee, or add-on card fees will be levied on the FIRST Digital Rupay Credit Card attached to the Gaj: Credit Card.",
+  "welcome_benefits": [
+    "₹500 gift voucher from your favourite brand",
+    "Up to ₹1,000 cashback on first EMI",
+    "₹500 gift voucher from choice of brands like- Amazon, BigBasket, Uber and Lifestyle on spending ₹5,000 or more within 30 days of card generation",
+    "500 Welcome Gift Voucher"
+  ],
+  "reward_structure": [
+    "Earn up to 3X Reward Points on UPI Spends",
+    "20% Bonus Reward Points on hotel bookings",
+    "10% Bonus Reward Points on flight bookings"
+  ],
+  "reward_redemption_options": [
+    "Redeem via IDFC FIRST Mobile Banking App or Redemption Portal",
+    "Reward Points can be redeemed at 1 Point = ₹0.25",
+    "Reward Points can be redeemed to pay up to 70% of the total booking value (incl. tax)"
+  ],
+  "reward_exclusions": [
+    "Bonus Reward Points will be applicable only on full swipe transactions on your IDFC FIRST Bank Credit Card. Any EMI transactions or transactions converted to EMI will not earn Bonus Reward Points."
+  ],
+  "reward_caps": [
+    "Monthly Capping on Redeemable Reward Points: 1,00,000",
+    "Annual Capping on Redeemable Reward Points: 2,00,000",
+    "Total Bonus Reward Points that can be earned in a calendar month in the credit card account: 8,000"
+  ],
+  "cashback_benefits": [
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation"
+  ],
+  "milestone_benefits": [
+    "Bonus Reward Points are calculated assuming the ₹20,000 milestone for a statement cycle has been met and you are eligible for 10 Reward Points on purchases and bookings."
+  ],
+  "lounge_access": [
+    "Complimentary railway lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "ZERO convenience fees on flight bookings",
+    "Earn bonus reward points on hotel bookings",
+    "Bonus Reward Points on flights & hotel bookings done via the IDFC FIRST Bank Mobile App"
+  ],
+  "hotel_benefits": [
+    "Earn bonus reward points on hotel bookings",
+    "20% Bonus Reward Points on hotel bookings"
+  ],
+  "airline_benefits": [
+    "10% Bonus Reward Points on flight bookings"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 20% off at 1500+ restaurants"
+  ],
+  "movie_benefits": [
+    "25% off on movie tickets",
+    "Get 25% off up to ₹100 on movie tickets booked via the District by Zomato mobile app every month",
+    "25% off up to ₹100 on movie tickets booked via the District by Zomato mobile app every month"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver",
+    "Fuel surcharge waiver of 1%* up to ₹200 every month at fuel stations across India",
+    "1% Fuel surcharge waiver up to ₹200 every month at fuel stations across India"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive insurance",
+    "Accident and lost card liability cover"
+  ],
+  "protection_benefits": [
+    "24/7 Roadside assistance"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "Up to 25% Reward Points on hotel bookings, up to 15% Reward Points on flight bookings",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": [
+    "1% Fuel surcharge waiver",
+    "Fuel surcharge waiver of 1%* up to ₹200 every month at fuel stations across India",
+    "1% up to ₹200 every month at fuel stations across India",
+    "1% Fuel Surcharge Waiver on Fuel Transactions value between 200 and 5,000"
+  ],
+  "eligibility": [
+    "Card Members who meet eligibility criteria"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [],
+  "interest_rates": [],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "Bonus Reward Points will be applicable only on transactions which are completed without redemption of Reward Points i.e., Cash + Points transactions are not eligible for Bonus Reward Points."
+  ],
+  "benefit_conditions": [
+    "Eligibility criterion must be met during the Benefit Period",
+    "Bonus Reward Points will be credited by the 5th of the next calendar month post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active.",
+    "IDFC FIRST Bank reserves the right to review the bookings, & clawback Bonus Reward Points earned against the bookings not made for cardholder and/or cardholder’s immediate family members."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "300+ Merchant offers, all year long!"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Welcome Gift Voucher is non-transferable, non-binding, and non-encashable",
+    "Voucher must be redeemed at merchant on or before expiry date if any",
+    "No exchange or replacement requests for Welcome Gift items will be entertained",
+    "In case of booking cancellations, refunds for both Reward Points & payments done via credit card will be processed and credited to source account within 7 business days from the date of cancellation.",
+    "The Platform is introduced for Flight & Hotel bookings of the cardholder and cardholder’s immediate family-members.",
+    "IDFC FIRST Bank reserves the right to alter/ modify/ remove altogether any or all of the above with due intimation to the Cardmember through the Bank’s website and by other acceptable modes of communication."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\IDFC FIRST_Millennia_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\OFFERS\\Welcome-Benefit-Claim-Process.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Millennia\\TERMS\\first-millennia-tnc-travel-and-shop.pdf"
+  ]
+}

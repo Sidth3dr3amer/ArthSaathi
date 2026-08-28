@@ -1,0 +1,254 @@
+{
+  "card_name": "Diners Privilege Old Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Credit Card",
+  "joining_fee": "₹2,500 + applicable taxes",
+  "annual_fee": "₹2,500 + applicable taxes",
+  "fee_waiver_condition": "Spend ₹3,00,000 or more in a year before renewal",
+  "welcome_benefits": [
+    "Complimentary Annual Memberships of Swiggy One & Times Prime on Rs. 75,000 spends in first 90 days of card issuance",
+    "Complimentary Annual Memberships of Swiggy One & Times Prime on achieving net retail spends of Rs 75,000 within 90 days of card issuance"
+  ],
+  "reward_structure": [
+    "4 Reward Points for every ₹200 spent elsewhere",
+    "5X Reward Points on online food orders on Swiggy and Zomato",
+    "Up to 10X points on spends via SmartBuy",
+    "4 Reward Points for every ₹200 spent on eligible categories",
+    "5X Reward Points on Swiggy and Zomato (20 reward points for every Rs. 150 spent)"
+  ],
+  "reward_redemption_options": [
+    "SmartBuy or NetBanking",
+    "Exclusive reward redemption catalogue",
+    "Cashback"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "2500 Reward points per calendar month",
+    "4X reward points (16 reward points) for every Rs. 150 spend on Swiggy & Zomato is capped at 2500 reward points per calendar month across both merchants combined"
+  ],
+  "cashback_benefits": [
+    "Cashback at a value of 1 RP = Rs 0.20"
+  ],
+  "milestone_benefits": [
+    "Rs. 1500 worth Marriott, Decathlon & more vouchers on quarterly spends of Rs. 1.5 lakh",
+    "Choose any one Rs. 1500 voucher from Marriott, Decathlon, Barbeque Nation, O2 Spa or Lakme Salon upon net spends of Rs. 1,50,000 or more in a calendar quarter",
+    {
+      "benefit": "Lakme Salon Voucher (Rs 1,500)",
+      "condition": "Quarterly Benefit"
+    },
+    {
+      "benefit": "O2 Spa Voucher (Rs 1,500)",
+      "condition": "Quarterly Benefit"
+    }
+  ],
+  "lounge_access": [
+    "2 Complimentary Airport lounge access every calendar quarter worldwide for Primary & Addon cardholders",
+    "3 Airport Lounge Access Vouchers in a calendar quarter on Rs. 60,000 eligible spends in previous calendar quarter (starting 01 July 2026)",
+    {
+      "domestic_lounge_visits_per_year": null,
+      "international_lounge_visits_per_year": null,
+      "guest_lounge_access": null,
+      "description": "Diners Privilege Credit Card customers can avail international lounge access by downloading vouchers from SmartBuy on meeting quarterly spends criteria. April - June'26 spends will be considered for availing lounge access from July 1st, 2026."
+    },
+    "Complimentary lounge access (2 Domestic + 1 International per calendar quarter) on spends of ₹60,000 or more in the preceding calendar quarter",
+    "Complimentary lounge access on a select list of participating lounges"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Priority Pass membership via Diners Travel Tool App"
+  ],
+  "travel_benefits": [
+    "2 domestic and 1 international lounge visits per calendar quarter by spending Rs. 60,000 in the previous quarter"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "2% markup fee on foreign currency exchange transactions",
+    "Nominal 3.5% foreign currency markup",
+    "DCC markup revised to 1.75% on each international transaction carried out in Indian currency (INR) at an international location, or transactions carried out in INR with merchants located in India but registered in a foreign nation"
+  ],
+  "dining_benefits": [
+    "5X Reward Points on online food orders on Swiggy and Zomato",
+    "Extra 10% off on Dineout bill on participating restaurants",
+    "‘Buy One Get Free’ on BookMyShow Offer is applicable for shows on Friday, Saturday and Sunday. Maximum discount is Rs. 250/ticket, upto 2 free tickets every calendar month"
+  ],
+  "movie_benefits": [
+    "'Buy 1 Get 1 Free' on movie/non-movie weekend tickets via BookMyShow"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "'Buy 1 Get 1 Free' on movie/non-movie weekend tickets via BookMyShow"
+  ],
+  "insurance_benefits": [
+    "Air Accident Cover: USD 125,000",
+    "Emergency Medical Expenses Cover: USD 31,250",
+    "Card Liability Cover: INR 900,000",
+    "Baggage Delay Cover: USD 625",
+    "Loss of Personal Documents Cover: USD 625",
+    "Hijacking Cover: USD 625",
+    "Air accident insurance cover worth $125,000",
+    "Emergency overseas hospitalization: $31,250",
+    "Travel Insurance Cover of up to $625 on baggage delay",
+    "Credit Liability Cover of up to ₹9 Lakh"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": [
+    "Access is not allowed to guest member"
+  ],
+  "reward_rate": "4 Reward Points for every ₹200 spent on eligible categories",
+  "forex_markup": "2%",
+  "fuel_surcharge_waiver": "Not Applicable",
+  "eligibility": [
+    "Indian national",
+    "Minimum age 21, maximum 60 for salaried, maximum 65 for self-employed",
+    "Net monthly income > ₹70,000 for salaried",
+    "ITR > ₹8.4 lakh annually for self-employed",
+    "For Salaried Individuals: Age: Minimum 21 and maximum 60 years. Income: Net Monthly Income > ₹70,000",
+    "For Self-Employed Individuals: Age: Minimum 21 and maximum 65 years. Income: ITR > ₹8.4 lakh annually",
+    "Salaried: Indian National, Age 21-60 years, Net Salary (Monthly) - ₹35,000",
+    "Self-Employed: Age 21-65 years, Annual ITR > ₹6,00,000"
+  ],
+  "income_requirements": [
+    "₹70,000 per month for salaried",
+    "₹8.4 lakh annually for self-employed",
+    "Salaried: ₹70,000 per month",
+    "Self-employed: ₹8.4 lakh annually",
+    "Salaried: Net Salary (Monthly) - ₹35,000",
+    "Self-Employed: Annual ITR > ₹6,00,000"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income proof: Salary slips (for salaried individuals), Income Tax Returns (ITR) Form 16, Bank statements"
+  ],
+  "charges": [
+    "Joining/renewal membership fee: ₹2,500 + applicable taxes",
+    "Joining/Renewal Membership Fee – ₹1,000/- + Applicable Taxes",
+    "Card reissuance fee of ₹199 for lost, stolen, or damaged card"
+  ],
+  "interest_rates": [
+    "Revolving credit at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Joining/renewal membership fee: ₹2,500 + applicable taxes",
+    "Card reissuance fee of ₹199 for lost, stolen, or damaged card"
+  ],
+  "spend_conditions": [
+    "Spend ₹3,00,000 or more in a year before renewal for fee waiver",
+    "Spend ₹60,000 or more per calendar quarter to continue enjoying lounge access",
+    "Minimum transaction value to be eligible for reward points is Rs. 150",
+    "Only transactions settled from the merchant will be eligible for Reward Points accrual"
+  ],
+  "benefit_conditions": [
+    "All the above insurance covers are available to the Primary card holder.",
+    "Liability on lost card will start from the Date of Dispatch of the card up to 30 days, whereas Air Accident/Emergency Medical Expenses will start from Date of Activation of the card (means first POS transaction/cash withdrawal by the cardholder).",
+    "Air Accident cover will be activated if the tickets are purchased using Diners Card.",
+    "Travel Insurance will be activated if the tickets are purchased using Diners Card.",
+    "Liability on lost card covered to an extent of INR 900,000 for 2 days prior to Date of Block and 30 days post the Date of Block.",
+    "Terrorism is specifically excluded under the policy.",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa.",
+    "Travel insurance related coverages are only valid for onboard journey i.e. coverages will not be applicable on return journey.",
+    "Travel Insurance provided shall be valid for International Travel only, subject to travel origination from India.",
+    "Maximum Trip Duration is restricted to 30 Days.",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded.",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company with whom the Bank has tied up.",
+    "The above features and benefits are valid up to 22 July, 2026.",
+    "Lounge access requires Rs. 60,000 eligible spends in previous calendar quarter",
+    "Milestone benefits require Rs. 1.5 lakh quarterly spends",
+    "Lounge access requires spends of ₹60,000 or more in the preceding calendar quarter",
+    "Transactions qualify to earn 5X rewards under this feature is based on: Merchant description: Swiggy/ Zomato (AND) MCC: 5411/ 5499/ 5811/ 5812/ 5814 (or) Terminal / merchant IDs (TIDs & MIDs) shared by the respective merchant partners",
+    "Primary or add on card holder should present their respective cards at the lounge while availing the benefit"
+  ],
+  "renewal_benefits": [
+    "Fee waiver if spend ₹3,00,000 or more in a year before renewal"
+  ],
+  "partner_programs": [
+    "Swiggy One, Times Prime, Priority Pass",
+    "Swiggy One",
+    "Times Prime",
+    "Marriott",
+    "Decathlon",
+    "Barbeque Nation",
+    "O2 Spa",
+    "Lakme Salon"
+  ],
+  "merchant_offers": [
+    "BookMyShow",
+    "Swiggy",
+    "Zomato"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Intimation of Claim to be provided within 60 days from the date of loss by the insured.",
+    "Documents to be submitted to HDFC ERGO within 120 days from the date of loss.",
+    "Contact details: For Emergency Medical Expenses - Toll Free: +800 08250825 (International Toll Free - accessible from outside India) / 01204507250 (Chargeable); Email: bankclaims@hdfcergo.com; Address: A&H Claims Inward Team, HDFC Ergo GIC Ltd., 6th Floor, Leela Business Park, Andheri Kurla Road, Andheri East. Mumbai 400059.",
+    "Offer is applicable for bookings via BookMyShow website and mobile app",
+    "Offer is valid on purchase of minimum 2 tickets",
+    "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month",
+    "Offer is valid for shows on Friday/Saturday/Sunday (irrespective of booking day)",
+    "Offer is valid on Movies, Events, Concerts, Plays, Sports & Activities, Excluding BMS Stream & F&B",
+    "Offer is not applicable on purchase of Gift Cards",
+    "Offer discount is applicable on ticket cost only and customers availing the offer will have to pay internet handling fee and/or any other charges as levied on each ticket",
+    "Offer is valid only for users coming directly to the BookMyShow website and mobile app not via individual cinema sites",
+    "Offer cannot be combined with any other offer/winpin/discount on BookMyShow",
+    "Tickets once bought online, shall be considered sold and cannot be cancelled, refunded or exchanged",
+    "Transactions with offer discount applied are not eligible for cancellation or refund",
+    "Once the booking is committed, the confirmation mail/SMS received from BookMyShow needs to be exchanged with the ticket available at the theatre",
+    "Cardholders shall not be entitled to compensation / benefits in any form whatsoever in lieu of the offer being availed",
+    "BookMyShow & HDFC BANK LIMITED reserves the right to disqualify any cardholder/s from the benefits of the program",
+    "If case of any fraudulent activity, prosecution will be carried according to the purpose of availing the benefits under the program",
+    "BookMyShow & HDFC BANK LIMITED reserves the right to modify/change all or any of the terms applicable to the program without assigning any reasons or without any prior intimation",
+    "BookMyShow & HDFC BANK LIMITED also reserves the right to discontinue the program without assigning any reasons or without any prior intimation whatsoever",
+    "Individual cinema rules are applicable",
+    "In addition to the above, this offer on the website is also subject to BookMyShow's general Terms of Use",
+    "In case of any disputes, BookMyShow’s decision will be final",
+    "List of participating lounges may change basis various factors such as closures, change in service provider or at the discretion of bank"
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions done by person known to the cardholder",
+    "Procuring a visa",
+    "Return journey"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\HDFC_Diners Privilege Old Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\fees_and_charges.pdf",
+    "https://customer-portal-assets.hdfcergo.com/assets/v2/docs/default-source/downloads/policy-wordings/others/payment-protection-package/payment-protection-package-427248269136.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\INSURANCE\\diners_privilege_insurance_policy.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\PRODUCT_GUIDE\\Diners-Privilege-Product-Feature-Change.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\TERMS\\diners-privilege-tnc-20261.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\TERMS\\diners-privilege-tnc-20262.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 1 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 2 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 3 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 4 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 5 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 6 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 7 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 8 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 9 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 10 of 13",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\TERMS\\diners_privilege_tnc1.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 11 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 12 of 13",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23 Page 13 of 13",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\TERMS\\diners_privilege_tnc2.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Information document/15 June 2023 Page 1 of 1",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Old Credit Card\\TERMS\\lounge-tnc.pdf"
+  ]
+}

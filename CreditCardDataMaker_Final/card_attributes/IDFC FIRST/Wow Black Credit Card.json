@@ -1,0 +1,266 @@
+{
+  "card_name": "Wow Black Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Secured (FD-backed)",
+  "joining_fee": 750,
+  "annual_fee": 750,
+  "fee_waiver_condition": "₹0 on ₹1.5L of annual spends",
+  "welcome_benefits": [
+    "₹500 off on first travel booking via IDFC FIRST Bank mobile app (min spend ₹5,000)",
+    "₹1,500 discount on flights, hotels, and buses via MakeMyTrip",
+    "3-month complimentary EazyDiner Prime Membership worth ₹1,095",
+    "10% discount on Mokobara website (one-time offer)",
+    "1-year complimentary Lenskart Gold Max Membership worth ₹800",
+    "5% cashback up to ₹1,000 on first EMI within 30 days",
+    "10% discount on Mokobara website"
+  ],
+  "reward_structure": [
+    "4X reward points on online, offline, and international spends",
+    "1X reward point on utility, railway spends, FASTag recharges, and insurance payments",
+    "No reward points on EMI, cash withdrawals, and fuel transactions",
+    {
+      "category": "Hotel bookings via FIRST Rewards Gallery",
+      "rate": "16.7% bonus + 4 points per ₹150 base earn"
+    },
+    {
+      "category": "Flight bookings via FIRST Rewards Gallery",
+      "rate": "10% bonus + 4 points per ₹150 base earn"
+    },
+    {
+      "category": "Online, offline, and international spends",
+      "rate": "4 points per ₹150"
+    },
+    {
+      "category": "Insurance premium, FASTag, Railway, and Utility bill payments",
+      "rate": "1 point per ₹150"
+    },
+    {
+      "category": "UPI transactions above ₹2,000",
+      "rate": "3 points per ₹150"
+    },
+    {
+      "category": "UPI transactions up to ₹2,000",
+      "rate": "1 point per ₹150"
+    }
+  ],
+  "reward_redemption_options": [
+    "1 Reward Point = ₹0.5 on travel bookings via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App",
+    "1 Reward Point = ₹0.25 everywhere else",
+    {
+      "option": "Travel bookings (hotel & flights) via FIRST Rewards Gallery",
+      "rate": "1 point = ₹0.5"
+    },
+    {
+      "option": "Everywhere else",
+      "rate": "1 point = ₹0.25"
+    }
+  ],
+  "reward_exclusions": [
+    "Fuel",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel, EMI transactions, and cash withdrawals",
+    "Fuel transactions",
+    "Transactions converted into EMI",
+    "Fee or Charges and corresponding GST",
+    "Loan on Card",
+    "Balance Transfer",
+    "Cash withdrawal transactions",
+    "Transactions below ₹150"
+  ],
+  "reward_caps": [
+    "1,00,000 RPs per month for 1RP=₹0.5 redemption",
+    "2,00,000 RPs per year for 1RP=₹0.5 redemption",
+    "8,000 Bonus Reward Points per month",
+    "Redemption of 1RP= ₹0.5 capped at 1,00,000 RPs per month and 2,00,000 RPs per year",
+    "Bonus Reward Points capped at 8,000 Reward Points per month",
+    {
+      "period": "Monthly",
+      "limit": "₹1,00,000"
+    },
+    {
+      "period": "Annual",
+      "limit": "₹2,00,000"
+    }
+  ],
+  "cashback_benefits": [
+    "5% cashback up to ₹1,000 on first EMI within 30 days"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "4 complimentary domestic lounge visits per year (1 per quarter)",
+    "Spend ₹20,000 in the current calendar month to activate the benefit in the next month",
+    "The Lounge - Domestic T1",
+    "The Lounge - International T2",
+    "Primus Lounge",
+    "080 Lounge",
+    "Bird Lounge",
+    "Travel Club",
+    "Earth Lounge",
+    "Blackberry Lounge",
+    "Encalm Lounge Domestic T1 Departure",
+    "Adani Lounge - Domestic T1",
+    "Pahun Lounge",
+    "Pearl Lounge",
+    "Travel Club - Domestic T2",
+    "Travel Club - Domestic T1-C",
+    "Adani Lounge - Domestic T1-B",
+    "Mandarin Lounge",
+    "Elysian Lounge",
+    "Premium Lounge"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Zero forex markup on international transactions",
+    "16.7% Bonus Reward Points on hotel bookings via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App",
+    "10% Bonus Reward Points on flight bookings via 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App",
+    "Trip Cancellation Cover: Reimbursement of up to ₹10,000 per year for non-refundable portion of hotel and flight cancellations",
+    "Trip Cancellation Cover: Reimbursement of up to ₹10,000 per year"
+  ],
+  "hotel_benefits": [
+    "1-year complimentary Little Emperors Travel Tier membership worth £299 per year",
+    "Little Emperors Hotel Club Membership (1-year complimentary membership worth £299 per year)"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Zero forex markup on international transactions"
+  ],
+  "dining_benefits": [
+    "Exclusive access and discounts across over 350 fine-dine restaurants in 16 cities via Mastercard Culinary Club",
+    "Exclusive access and discounts across over 350 fine-dine restaurants in 16 cities via Mastercard Culinary Club programme"
+  ],
+  "movie_benefits": [
+    "25% off up to ₹100 on movie tickets booked through District by Zomato, once every month"
+  ],
+  "golf_benefits": [
+    "4 complimentary golf rounds per calendar year (1 round per calendar month)",
+    "12 complimentary golf lessons per calendar year (1 lesson per calendar month)",
+    "50% off on golf rounds or lessons in Australia, Bangladesh, China, Hong Kong, Japan, Macao, New Zealand, South Korea, Sri Lanka, and Taiwan",
+    "4 complimentary golf rounds and 12 complimentary golf lessons per year across the globe"
+  ],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver up to ₹200 per month",
+    "Fuel Surcharge waiver"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Personal Accident Insurance of up to ₹2 Lakh",
+    "Trip Cancellation Cover: Reimbursement of up to ₹10,000 per year for non-refundable portion of hotel and flight cancellations",
+    "Personal Accident Insurance of up to ₹2 lakh",
+    "Lost Card Liability Protection of ₹25,000"
+  ],
+  "protection_benefits": [
+    "₹25,000 Lost Card Liability Protection",
+    "Roadside Assistance worth ₹1,399"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "5% cashback up to ₹1,000 on first EMI within 30 days"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4X reward points on online, offline, and international spends",
+  "forex_markup": 0,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver up to ₹200 per month",
+  "eligibility": [
+    "Age: 18 to 80 years",
+    "Indian citizen with a current and permanent residential address",
+    "Minimum Fixed Deposit (FD) of ₹20,000 with IDFC FIRST Bank"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Proof of identity",
+    "Proof of address",
+    "Fixed Deposit (FD) of at least ₹20,000",
+    "Proof of identity and address"
+  ],
+  "charges": [
+    "Joining fee: ₹750 + GST",
+    "Annual fee: ₹750 + GST (waived if annual spends reach ₹1.5L)",
+    "Cash advance fee: ₹199 + taxes per transaction",
+    "Annual fee: ₹750 + GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Cash advance fee: ₹199 + taxes per transaction",
+    "Interest-free cash withdrawals for up to 45 days",
+    "Over-Limit facility is not available on FIRST WOW! Black Credit Card"
+  ],
+  "spend_conditions": [
+    "Spend ₹20,000 in the current calendar month to activate domestic lounge benefits in the next month",
+    "Spend ₹20,000 in the current calendar month to activate lounge benefits in the next month",
+    "Bonus Reward Points only on full swipe transactions",
+    "No Bonus Reward Points on Cash + Points transactions"
+  ],
+  "benefit_conditions": [
+    "Bonus Reward Points capped at 8,000 per month",
+    "Reward Points credited by the 5th of the next calendar month post travel/check-in",
+    "Trip Cancellation Cover requires at least 1 transaction in the preceding calendar month",
+    "Bonus Reward Points capped at 8,000 Reward Points per month",
+    "Redemption of 1RP= ₹0.5 capped at 1,00,000 RPs per month and 2,00,000 RPs per year",
+    "Bonus Reward Points credited by 5th of next month after travel/check-in",
+    "Reward Points can be used up to 70% of booking value",
+    "No Bonus Reward Points for cancelled bookings"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Mastercard Culinary Club",
+    "Little Emperors Hotel Club",
+    "India Golf Program",
+    "APAC Golf Program",
+    "Mastercard Culinary Club programme",
+    "Little Emperors Hotel Club Membership"
+  ],
+  "merchant_offers": [
+    "25% off up to ₹100 on movie tickets via District by Zomato",
+    "10% discount on Mokobara website (one-time offer)",
+    "3-month complimentary EazyDiner Prime Membership worth ₹1,095",
+    "1-year complimentary Lenskart Gold Max Membership worth ₹800",
+    "25% off up to ₹100 on movie tickets booked through District by Zomato, once every month",
+    "10% discount on Mokobara website"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward Points have no expiry",
+    "Redemption of 1RP=₹0.5 is capped at 1,00,000 RPs per month and 2,00,000 RPs per year",
+    "CFAR (Cancel for Any Reason) cover is capped at ₹10,000 per policy period",
+    "Reward Points are evergreen with no expiry date",
+    "Reward Points can be redeemed only through the primary Credit Card",
+    "Reward Points can be redeemed for travel bookings via FIRST Rewards Gallery",
+    "Refunds processed within 5-7 business days",
+    "Refunds issued first in Reward Points, then remaining amount to card"
+  ],
+  "excluded_categories": [
+    "Fuel",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel, EMI transactions, and cash withdrawals",
+    "Fuel transactions",
+    "Fees and Charges",
+    "Loan on Card",
+    "Balance Transfer",
+    "Transactions below ₹150"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\IDFC FIRST_Wow Black Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\LOUNGE\\WOW-Black-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wow Black Credit Card\\TERMS\\WOW-Black-tnc-travel-and-shop.pdf"
+  ]
+}

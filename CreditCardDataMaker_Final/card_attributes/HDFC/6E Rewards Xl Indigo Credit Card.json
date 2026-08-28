@@ -1,0 +1,159 @@
+{
+  "card_name": "6E Rewards Xl Indigo Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Travel Credit Card",
+  "joining_fee": 1500,
+  "annual_fee": 1500,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Complimentary flight ticket worth ₹1,500",
+    "Complimentary 6E Prime Add-On (Priority check-in, choice of seat, or complimentary meal)"
+  ],
+  "reward_structure": [
+    "2% 6E Rewards on spends across Grocery, Dining & Entertainment",
+    "1% 6E Rewards on all other spends"
+  ],
+  "reward_redemption_options": [
+    "For flight and hotel bookings, can redeem up to a maximum of 50% of booking value through Reward Points/CashPoints",
+    "Redeem 6E Reward Points on IndiGo Website or IndiGo App where 1 6E Reward = 1 Rupee"
+  ],
+  "reward_exclusions": [
+    "Government related transactions will not earn Reward Points",
+    "Education related transactions will not earn Reward Points",
+    "Education payments made through third-party apps like CRED, Cheq, MobiKwik, etc. will not earn Reward Points"
+  ],
+  "reward_caps": [
+    "Reward points earned on Grocery transactions will be capped to 2000 per month (effective from 1st Apr 2023)",
+    "Reward Points earned on Utility transactions will be capped at 2000 Reward Points per calendar month (effective from 1st September 2024)",
+    "Reward Points earned on Telecom transactions will be capped at 2000 Reward Points per calendar month (effective from 1st September 2024)"
+  ],
+  "cashback_benefits": [
+    "Can earn cashback through redemption of reward points/CashPoints towards cashback",
+    "₹1,000 CashBack across 200+ brands on your Credit Card via Payzapp Transactions"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary flight ticket worth ₹1,500",
+    "Discounted convenience fees on IndiGo tickets"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Complimentary flight ticket worth ₹1,500",
+    "Complimentary 6E Prime Add-On (Priority check-in, choice of seat, or complimentary meal)"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "2% 6E Rewards on spends across Grocery, Dining & Entertainment",
+    "Dining Privileges with Good Food Trail Program at premium restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "2% 6E Rewards on spends across Grocery, Dining & Entertainment"
+  ],
+  "insurance_benefits": [
+    "Protection against fraudulent transactions made on your Credit Card"
+  ],
+  "protection_benefits": [
+    "Protection against fraudulent transactions made on your Credit Card"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Ability to convert large transactions to a SmartEMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 6E Reward = 1 Rupee",
+  "forex_markup": 2.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Salaried Applicants: Nationality: Indian; Age: Minimum 21 years, Maximum 60 years; Income: Gross monthly income greater than ₹1.2 lakh",
+    "Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years; Income: Income Tax Return (ITR) greater than ₹14.4 lakh per annum",
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed)",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ₹1.2 lakh",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ₹14.4 lakh per annum",
+    "Salaried: Gross monthly income above ₹50,000",
+    "Self-Employed: Annual ITR > ₹7,20,000"
+  ],
+  "income_requirements": [
+    "Gross monthly income > ₹1.2 lakh",
+    "ITR > ₹14.4 lakh per annum",
+    "Gross monthly income greater than ₹1.2 lakh (Salaried)",
+    "Income Tax Return (ITR) greater than ₹14.4 lakh per annum (Self-Employed)",
+    "For Salaried Applicants: Gross monthly income greater than ₹1.2 lakh",
+    "For Self-Employed Applicants: Income Tax Return (ITR) greater than ₹14.4 lakh per annum",
+    "Salaried: Gross monthly income above ₹50,000",
+    "Self-Employed: Annual ITR > ₹7,20,000"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR) Form 16, Bank statements"
+  ],
+  "charges": [
+    "Joining/ Renewal Membership Fee: ₹1,500 + Applicable Taxes"
+  ],
+  "interest_rates": [
+    "Available at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 months after prior written notice"
+  ],
+  "spend_conditions": [
+    "2% 6E Rewards on spends across Grocery, Dining & Entertainment",
+    "1% 6E Rewards on all other spends"
+  ],
+  "benefit_conditions": [
+    "Rewards earned will be transferred to the IndiGo account at the end of the month & can be only redeemed through IndiGo account on flight bookings and 6E Add-ons & services",
+    "Reward Points are valid for 2 years"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "6E Rewards program"
+  ],
+  "merchant_offers": [
+    "CashBack across 200+ brands on your Credit Card via Payzapp Transactions"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "If the Credit card is blocked due to hot listing i.e. lost, stolen, etc (or) Card is Returned i.e. not delivered due to address change, etc (or) resident card holder holding a Non-resident account (or) de-activation of card till card holder authorization and is not re-activated within 6 months from block placement - For such cases Reward Points accrued in the card will be nullified",
+    "If the Credit Card is not used for more than 365 days, Reward Points /CashPoints accrued will be nullified",
+    "The Bank reserves the right to cancel or suspend Reward Points /CashPoints accrued on the Credit Card if it is in arrears, restructured, suspension or default or if the Card Account is or is reasonably suspected to be operated fraudulently",
+    "Reward Points /CashPoints earned but not redeemed at the time of death of the Cardmember shall be forfeited",
+    "For Closed Cards: Reward points will be available for redemption only for 30 days from the date of card closure. Points will get lapsed post 30 days of card closure. Reward Points redemption is allowed only towards products/vouchers. Cashback redemptions are not allowed on closed cards",
+    "W.e.f Jan'23 Reward Points earned through transaction having Instant Discount / Cashback offered by HDFC Bank will be invalid & debited in 120 days of posting",
+    "Cashback credits will not be considered as payment for the last statement. Customers need to effect payment towards the previous statement outstanding",
+    "6E Rewards program membership will be discontinued on non-payment of membership fee within 90 days",
+    "Rewards earned will be transferred to the IndiGo account at the end of the month & can be only redeemed through IndiGo account on flight bookings and 6E Add-ons & services",
+    "Reward Points are valid for 2 years"
+  ],
+  "excluded_categories": [
+    "Government related transactions",
+    "Education related transactions",
+    "Education payments made through third-party apps"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\HDFC_6E Rewards Xl Indigo Credit Card_summary.txt",
+    "6E Rewards XL- IndiGo Credit Card Eligibility Criteria",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\FAQ\\Migration_FAQ_08_08_25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\FEES\\fees-and-charges1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\FEES\\fees-and-charges2.pdf",
+    "Page 21 of 39",
+    "Page 22 of 39",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\FEES\\fees-and-charges3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\FEES\\fees-and-charges4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\6E Rewards Xl Indigo Credit Card\\main.pdf"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "card_name": "Ashva Card Payment",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 2999,
+  "annual_fee": null,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Earn up to 7,500 Reward Points",
+    "Earn up to 7,500 Reward Points as welcome benefit",
+    "Earn up to 7,500 Reward Points as welcome benefit - Applicable once in a lifetime."
+  ],
+  "reward_structure": [
+    "Up to 60X Reward Points"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary airport lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining Fee: ■2,999 + GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "The fee is non-refundable"
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Extra information about the card will come here on the flip of that particular card."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva Card Payment\\IDFC FIRST_Ashva Card Payment_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva Card Payment\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva Card Payment\\main.pdf"
+  ]
+}

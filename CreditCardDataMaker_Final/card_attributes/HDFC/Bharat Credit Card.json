@@ -1,0 +1,141 @@
+{
+  "card_name": "Bharat Credit Card",
+  "card_network": null,
+  "card_type": [
+    "Credit Card",
+    "Travel Credit Card",
+    "Rewards Credit Card",
+    "Lifestyle Credit Card",
+    "Premium & Super Premium Credit Card"
+  ],
+  "joining_fee": "500 plus applicable taxes",
+  "annual_fee": "500 plus applicable taxes",
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "5% CashBack every month on spends on PayZapp, EasyEMI, and SmartBuy",
+    "5% CashBack every month on ticket bookings via IRCTC",
+    "5% CashBack monthly on fuel, grocery, bill payments, and mobile recharge",
+    "1% fuel surcharge waiver on minimum transaction of ■400",
+    "Maximum waiver of ■250 per statement cycle"
+  ],
+  "reward_redemption_options": [
+    "Redeem up to 70% of product/voucher value with points; pay the rest via Credit Card",
+    "Redeem reward points for cashback against the statement balance on request"
+  ],
+  "reward_exclusions": [
+    "No cashback on wallet loading, rent payments, or government transactions",
+    "No rewards/cashback on MCCs outside fuel, groceries, IRCTC, and recharges"
+  ],
+  "reward_caps": [
+    "Combined CashBack is capped at ■150 per month for the mentioned categories",
+    "Reward Points redemption is capped at 3,000 points per month"
+  ],
+  "cashback_benefits": [
+    "5% CashBack every month on spends on PayZapp, EasyEMI, and SmartBuy",
+    "5% CashBack every month on ticket bookings via IRCTC",
+    "5% CashBack monthly on fuel, grocery, bill payments, and mobile recharge",
+    "■1,000 CashBack on in-app shopping on 200+ brands"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Airport Lounge Access Credit Card"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Get up to 10% CashBack on Flight and Hotel bookings, Gift Vouchers and more via SmartBuy"
+  ],
+  "hotel_benefits": [
+    "Get up to 10% CashBack on Hotel bookings via SmartBuy"
+  ],
+  "airline_benefits": [
+    "Get up to 10% CashBack on Flight bookings via SmartBuy"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on minimum transaction of ■400",
+    "Maximum waiver of ■250 per statement cycle"
+  ],
+  "shopping_benefits": [
+    "■1,000 CashBack on in-app shopping on 200+ brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Stay protected against unauthorised use when you shop anywhere with EMV Chip Card technology"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Credit Card EMI Calculator",
+    "Loan On Credit Card"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 1,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried",
+    "Self-employed",
+    "Salaried individuals between 21 and 60 years old with gross monthly income > ₹12,000",
+    "Self-employed individuals between 21 and 65 years old with annual ITR > ₹2 lakh",
+    "Salaried: Minimum 21 years and maximum 60 years",
+    "Self-employed: Minimum 21 years and maximum 65 years"
+  ],
+  "income_requirements": [
+    "Gross Monthly Income > ₹12,000",
+    "ITR > ₹2 lakh per annum",
+    "Gross monthly income > ₹12,000 for salaried individuals",
+    "Annual ITR > ₹2 lakh for self-employed individuals",
+    "Salaried: Gross Monthly Income > ■12,000",
+    "Self-employed: ITR > ■2 lakh per annum"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining / Renewal Membership Fee – Rs. 500/- Plus Applicable Taxes"
+  ],
+  "interest_rates": [
+    "Revolving Credit is available at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Joining / Renewal Membership Fee – Rs. 500/- Plus Applicable Taxes"
+  ],
+  "spend_conditions": [
+    "Rewards/cashback eligibility is based on the transaction’s Merchant Category Code",
+    "Only eligible MCCs by RuPay for select categories earn 5% rewards"
+  ],
+  "benefit_conditions": [
+    "Recharges with mobile purchases or at mobile outlets aren’t eligible for 5% cashback",
+    "Unredeemed reward points expire after 2 years of accumulation"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "PayZapp",
+    "SmartBuy"
+  ],
+  "merchant_offers": [
+    "■1,000 CashBack on in-app shopping on 200+ brands"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "With effect from 1st February 2023, Reward Points redemption is capped at 3,000 points per month",
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 (Six) months after prior written notice sent on the email address and/or phone number and/or communication address, registered in the records of the Bank"
+  ],
+  "excluded_categories": [
+    "No cashback on wallet loading, rent payments, or government transactions",
+    "No rewards/cashback on MCCs outside fuel, groceries, IRCTC, and recharges"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Bharat Credit Card\\HDFC_Bharat Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Bharat Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Bharat Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Bharat Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Bharat Credit Card\\main.pdf"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "card_name": "Titanium Smart Traveler Credit Card",
+  "card_network": "Visa",
+  "card_type": "Credit Card",
+  "joining_fee": "₹ 250 (Waived on spends of ₹ 2,500 within 45 days of card setup)",
+  "annual_fee": "₹100 (from 2nd year onwards. Waived on spends of ₹ 50,000 in the preceding year)",
+  "fee_waiver_condition": "Waived on spends of ₹ 2,500 within 45 days of card setup for joining fee; Waived on spends of ₹ 50,000 in the preceding year for annual fee",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "8 points on every ₹ 200 spent on the credit card while traveling abroad",
+    "4 points for ever ₹ 200 spent on hotels, holiday packages, airlines, train and bus bookings in India",
+    "2 points on every ₹ 200 spent on the credit card in India",
+    "4 points for every ₹ 200 spent on hotels, holiday packages, airlines, train and bus bookings in India",
+    "8 points on every 200 spent on the credit card while traveling abroad",
+    "4 points for every 200 spent on hotels, holiday packages, airlines, train and bus bookings in India",
+    "2 points on every 200 spent on the credit card in India"
+  ],
+  "reward_redemption_options": [
+    "Axis EDGE REWARDS points for transactions and 500+ rewards and offers to redeem points",
+    "Axis EDGE REWARDS Catalogue",
+    "500+ rewards and offers to redeem points"
+  ],
+  "reward_exclusions": [
+    "No Axis EDGE REWARDS Points will be awarded on fuel spends, balance transfer, cash withdrawal and transactions converted to EMI",
+    "No reward points will be credited for rent, utilities and insurance payments",
+    "Fuel spends",
+    "Balance transfer",
+    "Cash withdrawal",
+    "Transactions converted to EMI",
+    "Rent",
+    "Utilities",
+    "Insurance payments"
+  ],
+  "reward_caps": [
+    "Maximum benefits up to ₹ 400* per statement cycle",
+    "Maximum benefits up to 400 per statement cycle (Wednesday Delight)"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary MasterCard Airport Lounge Access programme will not be applicable"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Fuel Surcharge Waiver",
+    "Convert Purchases to EMI",
+    "Axis EDGE REWARDS",
+    "Extra EDGE points on spends abroad",
+    "Emergency Card Replacement when overseas (through VISA)",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "4 points for every ₹ 200 spent on hotels",
+    "Instant savings of up to 15% on hotels via MakeMyTrip",
+    "4 points for every 200 spent on hotels in India",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "4 points for every ₹ 200 spent on airlines",
+    "Instant savings of up to 15% on flights via MakeMyTrip",
+    "4 points for every 200 spent on airlines in India",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "forex_benefits": [
+    "8 points on every ₹ 200 spent on the credit card while traveling abroad",
+    "Extra EDGE points on spends abroad"
+  ],
+  "dining_benefits": [
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program",
+    "Axis Bank Dining Delights Program",
+    "10% off on orders via Swiggy"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on all fuel transactions in India",
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday. Valid on transactions between ₹ 400 and ₹ 4,000 only",
+    "1% fuel surcharge waiver on all fuel transactions in India (Refunded for fuel transactions between ₹ 400 and ₹ 4000)",
+    "Refunded for fuel transactions between 400 and 4000"
+  ],
+  "shopping_benefits": [
+    "10% off up to ₹ 1000 on Tira",
+    "10% off up to 1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "Wednesday Delight: Valid on transactions between ₹ 400 and ₹ 4,000 only, Maximum benefits up to ₹ 400 per statement cycle",
+    "Wednesday Delight"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases to EMI on any transaction over ₹ 1,500",
+    "Convert purchases above ₹ 2500 into EMI",
+    "On any transaction over ₹ 1,500, contact the Bank to convert a big credit card purchase into EMIs",
+    "Convert purchases above 2500 into EMI",
+    "Convert purchases above 1500 into EMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "8 points per 200 abroad, 4 points per 200 travel in India, 2 points per 200 in India",
+  "forex_markup": "1.5% + taxes for each international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on all fuel transactions in India",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Standard Joining Fee: ₹ 250 (Waived on spends of ₹ 2,500 within 45 days of card setup)",
+    "Standard Annual Fee: ₹100 (from 2nd year onwards. Waived on spends of ₹ 50,000 in the preceding year)",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Fee for Cash Payment: ₹ 175/-",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹ 500 ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000 ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000 ₹ 1200 if total payment due is greater than ₹10,000",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹ 500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount, with a minimum fee of INR 500 and no maximum cap on the fee",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹ 400 and ₹ 4000)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction fee: – 1% on transaction will be applicable on each rental transaction done on MCC 6513",
+    "Standard Joining Fee: ₹ 250",
+    "Standard Annual Fee: ₹ 100",
+    "Standard Add-on Card Joining Fee: ₹ 100",
+    "Standard Add-on Card Annual Fee: Nil",
+    "Finance Charges: 3.75% per month (55.55% per annum)",
+    "Fee for Cash Payment: ₹ 175",
+    "Card Replacement: Nil",
+    "Emergency Card Replacement Fee when overseas: As per VISA GCAS",
+    "Duplicate Statement Fee: Waived",
+    "Overdue Penalty or Late Payment Fee: Nil if < ₹ 500; ₹ 500 if ₹ 501 - ₹ 5,000; ₹ 750 if ₹ 5,001 - ₹ 10,000; ₹ 1200 if > ₹ 10,000; Additional ₹ 100 on missing MAD for 2 consecutive cycles",
+    "Charge Slip Retrieval Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Cheque return or dishonour Fee: 2% of the payment amount (Min. ₹ 500)",
+    "Surcharge on Railway Tickets: As prescribed by IRCTC",
+    "Fuel Transaction Surcharge: 1% of transaction amount",
+    "Foreign Currency Transaction Fee: 3.50%",
+    "Mobile Alerts: Waived",
+    "Hotlisting Charges: Nil",
+    "Balance Enquiry Charges: Waived",
+    "Reward Redemption fee: Yes",
+    "Rent Transaction fee: 1% on MCC 6513",
+    "Dynamic Currency Conversion Markup: 1.5% + taxes",
+    "Convenience fee for cash payment at branches: ₹ 50",
+    "Joining Fee: 250",
+    "Annual Fee: 100",
+    "Add-on Card Joining Fee: 100 (before Feb 7, 2011) / Nil (after)",
+    "Add-on Card Annual Fee: Nil",
+    "Fee for Cash Payment: 175",
+    "Overdue Penalty or Late Payment Fee: Nil if < 500; 500 if 501-5000; 750 if 5001-10000; 1200 if > 10000",
+    "Over Limit Penalty: 2.5% of overlimit amount (Min. 500)",
+    "Cheque return or dishonour Fee: 2% of payment amount (Min. 500)",
+    "Fuel Transaction Surcharge: 1% (Refunded between 400 and 4000)",
+    "Convenience fee for cash payment at branches: 50"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Standard Joining Fee: ₹ 250 (Waived on spends of ₹ 2,500 within 45 days of card setup)",
+    "Standard Annual Fee: ₹100 (from 2nd year onwards. Waived on spends of ₹ 50,000 in the preceding year)",
+    "Fee for Cash Payment: ₹ 175/-",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹ 500 ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000 ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000 ₹ 1200 if total payment due is greater than ₹10,000",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹ 500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal Bank A/c out of Funds: 2% of the payment amount, with a minimum fee of INR 500 and no maximum cap on the fee",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹ 400 and ₹ 4000)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rent Transaction fee: – 1% on transaction will be applicable on each rental transaction done on MCC 6513",
+    "Overdue Penalty or Late Payment Fee",
+    "Over Limit Penalty",
+    "Cheque return or dishonour Fee",
+    "Overdue Penalty or Late Payment Fee: Nil if < 500; 500 if 501-5000; 750 if 5001-10000; 1200 if > 10000",
+    "Over Limit Penalty: 2.5% of overlimit amount (Min. 500)",
+    "Cheque return or dishonour Fee: 2% of payment amount (Min. 500)",
+    "Convenience fee for cash payment at branches: 50"
+  ],
+  "spend_conditions": [
+    "Spends of ₹ 2,500 within 45 days of card setup for joining fee waiver",
+    "Spends of ₹ 50,000 in the preceding year for annual fee waiver",
+    "Rent transactions (MCC 6513) and wallet load transactions (MCC 6540) excluded from annual fee waiver spends",
+    "Spends of 2500 within 45 days for joining fee waiver",
+    "Spends of 50000 in preceding year for annual fee waiver",
+    "Rent transactions (MCC 6513) and wallet load transactions (MCC 6540) not eligible for fee waiver spends"
+  ],
+  "benefit_conditions": [
+    "Maximum benefits up to ₹ 400* per statement cycle",
+    "Wednesday Delight: Valid on transactions between ₹ 400 and ₹ 4,000 only",
+    "Fuel surcharge waiver valid on transactions between ₹ 400 and ₹ 4000",
+    "Wednesday Delight valid on transactions between ₹ 400 and ₹ 4,000 only",
+    "EMI conversion on any transaction over ₹ 1,500",
+    "Valid on transactions between 400 and 4,000 only (Wednesday Delight)",
+    "Maximum benefits up to 400 per statement cycle (Wednesday Delight)",
+    "Purchases above 2500 for EMI conversion",
+    "Purchases above 1500 for EMI conversion"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Axis EDGE REWARDS",
+    "Dining Delights Program",
+    "Axis Bank Dining Delights Program",
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira"
+  ],
+  "merchant_offers": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹ 1000 on Tira",
+    "10% off up to 1000 on Tira",
+    "Wednesday Delight"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "No Axis EDGE REWARDS Points will be awarded on fuel spends, balance transfer, cash withdrawal and transactions converted to EMI",
+    "No reward points will be credited for rent, utilities and insurance payments",
+    "GST charged on fuel surcharge is non-refundable",
+    "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹ 10 instead of 1 percent with additional GST",
+    "Rent transactions ( MCC 6513 ) and wallet load transactions ( MCC 6540 ) will not be eligible for spends calculated in availing annual fee waiver",
+    "The fuel surcharge may be levied as ₹ 10 instead of 1 percent with additional GST",
+    "The fuel surcharge may be levied as ₹ 10 + GST instead of 1% + GST",
+    "Complimentary MasterCard Airport Lounge Access programme will not be applicable",
+    "Convenience fee of ₹ 50 per payment for cash payment of credit card bills at branches (effective 1st March 2012)",
+    "Rent transactions (MCC 6513) and wallet load transactions (MCC 6540) will not be eligible for spends calculated in availing annual fee waiver",
+    "No reward points are earned on fuel transactions",
+    "Complimentary MasterCard Airport Lounge Access programme will not be applicable for Titanium Credit Cards",
+    "Convenience fee of 50 per payment for cash payment at branches"
+  ],
+  "excluded_categories": [
+    "fuel spends",
+    "balance transfer",
+    "cash withdrawal",
+    "transactions converted to EMI",
+    "rent",
+    "utilities",
+    "insurance payments",
+    "Fuel spends",
+    "Balance transfer",
+    "Cash withdrawal",
+    "Transactions converted to EMI",
+    "Rent",
+    "Utilities",
+    "Insurance payments",
+    "Rent transactions (MCC 6513)",
+    "Wallet load transactions (MCC 6540)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\AXIS_Titanium Smart Traveler Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\TERMS\\credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\TERMS\\credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Titanium Smart Traveler Credit Card\\TERMS\\credit-card-member-agreement3.pdf"
+  ]
+}

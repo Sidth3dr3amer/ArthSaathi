@@ -1,0 +1,222 @@
+{
+  "card_name": "Classic",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "The fee will not be levied for the year on eligible spends of ₹10L in the previous card anniversary year.",
+  "welcome_benefits": [
+    "₹500 gift voucher from your favourite brand",
+    "Up to ₹1,000 cashback on your first EMI",
+    "₹500 gift voucher from choice of brands like - Amazon, Bigbasket, Uber and Lifestyle on spending ₹5,000 within 30 days of card generation",
+    "₹500 gift voucher from favourite brand",
+    "Up to ₹1,000 cashback on first EMI",
+    "₹500 gift voucher from choice of brands (Amazon, Bigbasket, Uber, Lifestyle) on spending ₹5,000 within 30 days",
+    "500 Welcome Gift voucher",
+    "Welcome voucher worth ₹500 on spending ₹5,000 or more within 30 days of card generation",
+    "Get 5% cash back up to ₹1,000 on the transaction value of first EMI done within 30 days of card generation"
+  ],
+  "reward_structure": [
+    "3X rewards on UPI spends",
+    "10X Reward Points",
+    "Earn 3X rewards on UPI spends",
+    "Up to 10X Reward Points on overall spending",
+    "3Rewardsx Rewards on incremental spends > ₹20,000 in a statement cycle",
+    "10X on online & offline spends on select categories",
+    "10X Reward Points on your Birthday",
+    "Instant Redemption at partner stores & online transactions",
+    "Redeem for Gift Vouchers of your choice",
+    "1X Reward on Utility bill payments, Insurance premium payment, FASTag Recharges and Railway Spends",
+    "Base Earn: up to 5% Reward points on purchases (assuming ₹20,000 milestone)",
+    "Bonus Reward Points on bookings via Platform: 33% on hotel bookings, 13% on flight bookings",
+    "Total Earn on bookings via Platform: up to 38% on hotel bookings, up to 18% on flight bookings"
+  ],
+  "reward_redemption_options": [
+    "Redeem via IDFC FIRST Mobile Banking App",
+    "Redeem via Redemption Portal",
+    "Redeem for Gift Vouchers of your choice",
+    "Redeem at 1 point = ₹0.25",
+    "Redeem up to 70% of booking value",
+    "Monthly redemption cap: 100,000 points",
+    "Annual redemption cap: 200,000 points"
+  ],
+  "reward_exclusions": [
+    "Not applicable on UPI, Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal",
+    "Reversed, cancelled, disputed transactions are excluded",
+    "Replacement Cards or Re-issued Cards",
+    "Fuel, EMI transactions & cash withdrawals",
+    "Bonus points not earned on cash + points transactions",
+    "Bonus points not earned on EMI or converted to EMI transactions",
+    "Bonus points only on full swipe transactions"
+  ],
+  "reward_caps": [
+    "₹1,000 cashback cap on first EMI",
+    "₹1,000 on the transaction value of first EMI",
+    "Bonus Reward Points cap: 8,000 points per calendar month",
+    "Redemption cap: 100,000 points per month, 200,000 points per year"
+  ],
+  "cashback_benefits": [
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days card generation",
+    "5% cashback up to ₹1,000 on first EMI transaction within 30 days of card generation",
+    "5% cash back up to ₹1,000 on the transaction value of first EMI done within 30 days of card generation"
+  ],
+  "milestone_benefits": [
+    "Eligibility for base earn assumes ₹20,000 spend in a statement cycle"
+  ],
+  "lounge_access": [
+    "Complimentary railway lounge visits",
+    "4 Complimentary Railway Lounge Accesses per quarter, on spending ₹20,000 in the previous month"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary railway lounge visits",
+    "ZERO convenience fees on flight bookings",
+    "Earn bonus reward points on hotel bookings"
+  ],
+  "hotel_benefits": [
+    "Earn bonus reward points on hotel bookings"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Dining discount of up to 20% across 1,500 restaurants"
+  ],
+  "movie_benefits": [
+    "25% off on movie tickets",
+    "25% discount on movie tickets up to ₹100 (valid once per month)"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver",
+    "1% Fuel Surcharge waiver up to ₹200 per month"
+  ],
+  "shopping_benefits": [
+    "Over 300+ merchant offers"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive insurance",
+    "Accident and lost card liability cover",
+    "24/7 Roadside assistance",
+    "Personal Accident cover",
+    "Lost Card Liability Cover"
+  ],
+  "protection_benefits": [
+    "Complimentary Roadside Assistance worth ₹1,399 *Applicable only on transaction values between ₹200 & ₹5,000"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert your transactions into EMI with ease and repay comfortably",
+    "Interest-free cash withdrawal for up to 45 days",
+    "Easy EMI conversion with interest‑free cash withdrawal for up to 45 days",
+    "Instantly convert your transactions into easy & convenient EMIs",
+    "Pay-off your other bank credit card balances with our Balance Transfer facility",
+    "Avail Instant Quick Cash for all your needs, Enjoy easy repayment & low interest rate",
+    "Convert your IDFC FIRST Bank Credit Card bill to easy EMIs with our Balance Conversion facility"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1X = 1 Reward point per ₹200 spent | 1 Reward point = ₹0.25",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1%",
+  "eligibility": [
+    "Spends of ₹5,000 within 30 days of card generation",
+    "Spends is only eligible for Primary Card Fulfilment",
+    "Spend ₹5,000 within 30 days of card generation to receive ₹500 voucher",
+    "First EMI conversion within 30 days eligible for 5% cashback up to ₹1,000",
+    "Card Members who meet the Eligibility Criteria"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance transaction fee: 199",
+    "Late payment charges: 15% of total amount due (minimum 100, maximum 1300)",
+    "Reward redemption fee: 99 per redemption transaction"
+  ],
+  "interest_rates": [
+    "Monthly Rate: 0.71% to 3.85%",
+    "Annual Rate: 8.5% to 46.2%",
+    "Lower Interest Rate* (APR) starting at 8.5% per annum",
+    "Interest-free ATM Cash Withdrawal for up to 45 days"
+  ],
+  "fees_and_penalties": [
+    "Cash advance fee: 199",
+    "Late payment charges: 15% of total amount due (min 100, max 1300)",
+    "Reward redemption fee: 99 per redemption"
+  ],
+  "spend_conditions": [
+    "₹5,000 spend within 30 days for voucher eligibility",
+    "First EMI conversion within 30 days for cashback eligibility",
+    "Categories not a part of 10X Threshold - Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends",
+    "Full swipe transactions required for Bonus Reward Points"
+  ],
+  "benefit_conditions": [
+    "Voucher redemption available up to 90 days after notification",
+    "Cashback credited within 90 days of offer end date",
+    "Valid for Primary Card Members only",
+    "Non-transferable, non-binding, and non-encashable",
+    "4 Complimentary Railway Lounge Accesses per quarter, on spending ₹20,000 in the previous month",
+    "25% discount on movie tickets up to ₹100 (valid once per month)",
+    "1% Fuel Surcharge waiver up to ₹200 per month",
+    "Complimentary Roadside Assistance worth ₹1,399 *Applicable only on transaction values between ₹200 & ₹5,000",
+    "Bonus points credited by 5th of the next calendar month after travel/check-in"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Over 300+ merchant offers",
+    "Get 500+ In-App Online discount offers",
+    "Enjoy up to 15% discount at 3,000+ Health and Wellness outlets",
+    "Dining discount of up to 20% across 1,500 restaurants"
+  ],
+  "limited_period_offers": [
+    "₹500 gift voucher on spending ₹5,000 within 30 days",
+    "Up to ₹1,000 cashback on first EMI within 30 days"
+  ],
+  "important_terms": [
+    "If any of the transactions are reversed/cancelled/foreclosed by the cardholder or merchant, that EMI transaction will be excluded",
+    "Similarly for any disputed transaction by the cardholder, that EMI transaction will be excluded",
+    "Excludes gold and jewellery transactions from EMI conversion",
+    "Excludes UPI, add‑on card, wallet load, EMI converted, ATM cash withdrawal from reward earnings",
+    "Reversed, cancelled, disputed transactions are excluded",
+    "Voucher needs to be redeemed at merchant on or before expiry date if any",
+    "No exchange or replacement of the Welcome Gift items",
+    "Bank reserves the right to substitute and/or change the brand options",
+    "Reward program not applicable on Fuel, EMI transactions & cash withdrawals",
+    "Refunds for both Reward Points and card payments processed within 7 business days of cancellation",
+    "Platform bookings limited to cardholder and immediate family members",
+    "Bank may claw back points if bookings are not genuine",
+    "Bonus Reward Points earned only on transactions completed without redemption of points"
+  ],
+  "excluded_categories": [
+    "Transactions done on gold and jewellery are not eligible for EMI conversion",
+    "Gold and jewellery for EMI conversion",
+    "UPI, add‑on card, wallet load, EMI converted, ATM cash withdrawal for reward points",
+    "Rental & Property Management, Government Services, Education, Wallet Load, Utility, Insurance, FASTag Recharges and Railway Spends"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\IDFC FIRST_Classic_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\summary.txt",
+    "MITC",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\OFFERS\\Welcome-Benefit-Claim-Process.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\PRODUCT_GUIDE\\Credit-Card-Basics-Power.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\PRODUCT_GUIDE\\IDFC-FIRST-Classic-Product-Guide-021.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\PRODUCT_GUIDE\\IDFC-FIRST-Classic-Product-Guide-022.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\Card-Member-Agreement6.pdf",
+    "Terms & Conditions for Bonus Reward Points earn and redemption on bookings via IDFC FIRST Bank Mobile App",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Classic\\TERMS\\first-classic-tnc-travel-and-shop.pdf"
+  ]
+}

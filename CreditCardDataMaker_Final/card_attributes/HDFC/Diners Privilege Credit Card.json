@@ -1,0 +1,316 @@
+{
+  "card_name": "Diners Privilege Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Credit Card",
+  "joining_fee": "1,000 plus applicable taxes",
+  "annual_fee": "1,000 plus applicable taxes",
+  "fee_waiver_condition": "Spend 3 lakh to enjoy a waiver on the renewal fee for the following year.",
+  "welcome_benefits": [
+    "Complimentary Annual memberships of Swiggy One and Times Prime on spending Rs 75,000 within the first 90 days of card issuance",
+    "Complimentary Annual Memberships of Swiggy One & Times Prime on achieving net retail spends of Rs 75,000 within 90 days of card issuance"
+  ],
+  "reward_structure": [
+    "4 Reward Points on every Rs.200 retail spends",
+    "20 Reward Points on every Rs. 200 spent on Swiggy and Zomato online food delivery orders",
+    "Up to 10X Reward Points on Spends Via Smartbuy",
+    "4 Reward Points for every ₹200 spent on eligible categories",
+    "5X Rewards on Swiggy and Zomato: Earn 5X Reward Points i.e. 20 reward points for every Rs. 150 spent on Swiggy, Zomato"
+  ],
+  "reward_redemption_options": [
+    "Flights and hotel bookings via Smartbuy at a value of 1 RP = Rs 0.5",
+    "Redeem Rewards Points on exclusive reward redemption catalogue for HDFC Bank Diners Club Privilege Credit Card 1 RP up to Rs 0.35",
+    "Cashback at a value of 1 RP = Rs 0.20",
+    "Redeem for travel, vouchers, cashback and more"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction"
+  ],
+  "reward_caps": [
+    "Additional 4X RP capped at 2500 Reward points per calendar month",
+    "16 reward points (4X) for every Rs. 150 spend on Swiggy & Zomato is capped at 2500 reward points per calendar month across both merchants combined"
+  ],
+  "cashback_benefits": [
+    "Cashback at a value of 1 RP = Rs 0.20"
+  ],
+  "milestone_benefits": [
+    "Rs. 1500 worth of voucher of top brands like Marriott Experience, Barbeque Nation, Lakme Salon, O2 Spa, Decathlon or Dominos on quarterly milestone spend of Rs. 1.5 Lakhs",
+    "Choose any one Rs. 1500 voucher from Marriott, Dominos, Decathlon, Barbeque Nation, O2 Spa or Lakme Salon upon net spends of Rs. 1,50,000 or more in a calendar quarter",
+    "Quarterly Milestone: Choose any one Rs. 1500 voucher from Marriott, Decathlon, Barbeque Nation, O2 Spa or Lakme Salon upon net spends of Rs. 1,50,000 or more in a calendar quarter",
+    "Lakme Salon Voucher (Rs 1,500)",
+    "O2 Spa Voucher (Rs 1,500)"
+  ],
+  "lounge_access": [
+    "2 Complimentary Airport lounge access every calendar quarter worldwide",
+    "Starting 01 July 2026, customer will be able to avail 3 Airport Lounge Access Vouchers in a calendar quarter on Rs. 60,000 eligible spends in previous calendar quarter (2 Domestic Lounge Vouchers & 1 International Lounge Voucher)",
+    "Domestic lounge access via vouchers on meeting quarterly spends criteria. April - June'26 spends will be considered for availing lounge access from July 1st, 2026.",
+    "International lounge access by downloading vouchers from SmartBuy on meeting quarterly spends criteria. April - June'26 spends will be considered for availing lounge access from July 1st, 2026.",
+    "Complimentary lounge access (2 Domestic + 1 International per calendar quarter)",
+    "Complimentary Lounge access is provided on a select list of participating lounges.",
+    "Domestic list of the participating lounges is updated on product page.",
+    "International list of participating lounges is to be referred on Diners Travel Tool App.",
+    "Lounge access is available to Primary & Add on Card holders basis shared benefit count.",
+    "Primary or add on card holder intending to access the benefit should present their respective cards at the lounge while availing the benefit.",
+    "Access is not allowed to guest member. If guest wants to accompany, the same will be charged by lounge service provider basis customer consent.",
+    "Any charges paid by customer with consent for any service not provided/not specified under this program will not be reversed or refunded."
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Priority Pass membership grants access to a vast network of airport lounges globally"
+  ],
+  "travel_benefits": [
+    "Travel Insurance provided for international travel subject to travel origination from India",
+    "Maximum Trip Duration restricted to 30 Days",
+    "Enjoy 2 domestic and 1 international lounge visits per calendar quarter by spending Rs. 60,000 in the previous quarter"
+  ],
+  "hotel_benefits": [
+    "Marriott Experience Voucher as part of quarterly milestone benefits"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign Currency Markup: Nominal 3.5% on all your foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Extra 10% off on Dineout bill on participating restaurants",
+    "5X Reward Points on online food orders on Swiggy, Zomato",
+    "5X Rewards on Swiggy and Zomato",
+    "Barbeque Nation Voucher as part of quarterly milestone benefits"
+  ],
+  "movie_benefits": [
+    "'Buy 1 Get 1 Free' on movie/non-movie weekend tickets via BookMyShow. Maximum discount is Rs. 250/ticket, up to 2 free tickets every calendar month",
+    "‘Buy One Get Free’ on BookMyShow Offer is applicable for shows on Friday, Saturday and Sunday. Maximum discount is Rs. 250/ticket, up to 2 free tickets every calendar month",
+    "Entertainment Benefits: 'Buy One Get Free' on BookMyShow"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "Decathlon Voucher as part of quarterly milestone benefits"
+  ],
+  "entertainment_benefits": [
+    "'Buy 1 Get 1 Free' on movie/non-movie weekend tickets via BookMyShow",
+    "Entertainment Benefits: 'Buy One Get Free' on BookMyShow"
+  ],
+  "insurance_benefits": [
+    "Air Accident: USD 125,000 cover for death within 12 months of accident",
+    "Emergency Medical Expenses: USD 31,250 cover for international travel outside India (excludes pre-existing illness)",
+    "Baggage Delay Cover: USD 625 for delay beyond 8 hours ($10 per hour)",
+    "Loss of Personal Documents: USD 625 for obtaining duplicate passport/documents (Sub-limit 10% per article)",
+    "Hijacking: USD 625 cover ($75 per 6 hours, deductible 12 hours)",
+    "Air accident insurance cover worth $125,000*",
+    "Emergency overseas hospitalization: $31,250*",
+    "Travel Insurance Cover of up to $625 on baggage delay",
+    "Credit Liability Cover of up to ■ 9 Lakh*"
+  ],
+  "protection_benefits": [
+    "Card Liability Cover: INR 900,000 for lost card liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Option to convert your big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 4,
+  "guest_lounge_access": "Not part of the program",
+  "reward_rate": 4,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": "Not Applicable",
+  "eligibility": [
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed)",
+    "For Salaried Applicants: Nationality - Indian, Age - Minimum 21 years, Maximum 60 years, Income - Gross monthly income greater than ₹35,000",
+    "For Self-Employed Applicants: Age - Minimum 21 years, Maximum 65 years, Income - Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "Salaried Applicants: Minimum 21 years, Maximum 60 years, Gross monthly income greater than ■35,000",
+    "Self-Employed Applicants: Minimum 21 years, Maximum 65 years, Income Tax Return (ITR) greater than ■6 lakh per annum",
+    "Salaried: Nationality: Indian National, Age: 21 – 60 years, Net Salary (Monthly) - ■35,000",
+    "Self-Employed: Age: 21 – 65 years, Annual ITR > ■6,00,000"
+  ],
+  "income_requirements": [
+    "Gross monthly income greater than ₹35,000 (Salaried)",
+    "Income Tax Return (ITR) greater than ₹6 lakh per annum (Self-Employed)",
+    "Gross monthly income greater than ₹35,000 for salaried applicants",
+    "Income Tax Return (ITR) greater than ₹6 lakh per annum for self-employed applicants",
+    "Salaried: Gross monthly income greater than ■35,000",
+    "Self-Employed: ITR greater than ■6 lakh per annum",
+    "Salaried: Net Salary (Monthly) - ■35,000",
+    "Self-Employed: Annual ITR > ■6,00,000"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Joining/Renewal Membership Fee – ■1,000/- + Applicable Taxes",
+    "Re-issuance fee for lost, stolen or damaged card: ₹199"
+  ],
+  "interest_rates": [
+    "Revolving Credit: Available at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Joining/Renewal Membership Fee – ■1,000/- + Applicable Taxes"
+  ],
+  "spend_conditions": [
+    "Air Accident cover activated if tickets are purchased using Diners Card",
+    "Travel Insurance activated if tickets are purchased using Diners Card",
+    "Spend ■3,00,000 or more in a year before renewal to get renewal fee waived",
+    "Spend ₹60,000 or more per calendar quarter to continue enjoying lounge access",
+    "Minimum transaction value to be eligible for reward points is Rs. 150 for 5X rewards on Swiggy and Zomato"
+  ],
+  "benefit_conditions": [
+    "Valid for International Travel only subject to travel origination from India",
+    "Maximum Trip Duration restricted to 30 Days",
+    "Features and benefits valid up to 22 July, 2026",
+    "Liability on lost card starts from Date of Dispatch up to 30 days",
+    "Liability on lost card covered to an extent of 900,000 for 2 days prior to Date of Block and 30 days post the Date of Block",
+    "2 domestic and 1 international lounge visits per calendar quarter by spending Rs. 60,000 in the previous quarter",
+    "Lounge access based on spends made in the preceding calendar quarter",
+    "Offer is applicable for shows on Friday, Saturday and Sunday for BookMyShow benefit",
+    "Offer is valid on purchase of minimum 2 tickets for BookMyShow benefit",
+    "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month for BookMyShow benefit",
+    "Transactions are tracked as per the posted/settled date from third party/merchant to the bank and the posting/settlement date will be considered as contribution to the spend accrual for any month.",
+    "List of participating lounges may change basis various factors such as closures, change in service provider or at the discretion of bank."
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived if you spend ■3,00,000 or more in a year before renewal"
+  ],
+  "partner_programs": [
+    "HDFC Ergo",
+    "SmartBuy",
+    "Diners Travel Tool App",
+    "BookMyShow",
+    "Swiggy",
+    "Zomato",
+    "Times Prime",
+    "Marriott",
+    "Decathlon",
+    "Barbeque Nation",
+    "O2 Spa",
+    "Lakme Salon",
+    "Smartbuy"
+  ],
+  "merchant_offers": [
+    "Extra 10% off on Dineout bill on participating restaurants",
+    "BookMyShow: Buy One Get Free on shows on Friday, Saturday and Sunday",
+    "Swiggy and Zomato: 5X Rewards",
+    "Marriott: Rs. 1500 voucher as part of quarterly milestone",
+    "Decathlon: Rs. 1500 voucher as part of quarterly milestone",
+    "Barbeque Nation: Rs. 1500 voucher as part of quarterly milestone",
+    "O2 Spa: Rs. 1500 voucher as part of quarterly milestone",
+    "Lakme Salon: Rs. 1500 voucher as part of quarterly milestone",
+    "Lakme Salon",
+    "O2 Spa"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Travel insurance coverage is only valid for onboard journey, not return journey",
+    "Travel insurance is not valid for procuring a visa",
+    "Intimation of Claim to be provided within 60 days from date of loss",
+    "Documents to be submitted to HDFC ERGO within 120 days from date of loss",
+    "For details and T&C, please click here",
+    "Reward Points earnings effective from 15th May, 2026",
+    "DCC markup revised to 1.75% effective from 15th May, 2026",
+    "Lounge access changes effective from the calendar quarter starting 1st July 2026",
+    "Offer is applicable for bookings via BookMyShow website and mobile app",
+    "Offer is valid on purchase of minimum 2 tickets",
+    "Maximum discount which can be availed is Rs. 250 per ticket and up to 2 free tickets per calendar month",
+    "Offer is valid for shows on Friday/Saturday/Sunday (irrespective of booking day)",
+    "Offer is valid on Movies, Events, Concerts, Plays, Sports & Activities, Excluding BMS Stream & F&B",
+    "Offer is not applicable on purchase of Gift Cards",
+    "Offer discount is applicable on ticket cost only and customers availing the offer will have to pay internet handling fee and/or any other charges as levied on each ticket",
+    "Offer is valid only for users coming directly to the BookMyShow website and mobile app not via individual cinema sites",
+    "Offer cannot be combined with any other offer/winpin/discount on BookMyShow",
+    "Tickets once bought online, shall be considered sold and cannot be cancelled, refunded or exchanged",
+    "Transactions with offer discount applied are not eligible for cancellation or refund",
+    "Once the booking is committed, the confirmation mail/SMS received from BookMyShow needs to be exchanged with the ticket available at the theatre",
+    "Cardholders shall not be entitled to compensation / benefits in any form whatsoever in lieu of the offer being availed",
+    "BookMyShow & HDFC BANK LIMITED reserves the right to disqualify any cardholder/s from the benefits of the program",
+    "BookMyShow & HDFC BANK LIMITED reserves the right to modify/change all or any of the terms applicable to the program without assigning any reasons or without any prior intimation",
+    "BookMyShow & HDFC BANK LIMITED also reserves the right to discontinue the program without assigning any reasons or without any prior intimation whatsoever",
+    "Individual cinema rules are applicable",
+    "In addition to the above, this offer on the website is also subject to BookMyShow's general Terms of Use",
+    "In case of any disputes, BookMyShow's decision will be final",
+    "Minimum transaction value to be eligible for reward points is Rs. 150 for 5X rewards on Swiggy and Zomato",
+    "Only transactions settled from the merchant will be eligible for Reward Points accrual",
+    "Transactions settled/posted during a calendar month will be considered for calculating accelerated reward points accrual in that month",
+    "For spends made under the 5X rewards eligible transactions, the incremental reward points (i.e. 4X points) shall be credited to the customer's card account in the 1st week of the subsequent calendar month",
+    "Transactions qualify to earn 5X rewards under this feature is based on Merchant description: Swiggy/ Zomato (AND) MCC: 5411/ 5499/ 5811/ 5812/ 5814 (or) Terminal / merchant IDs (TIDs & MIDs) shared by the respective merchant partners",
+    "If the transaction does not meet the stated condition, it will not qualify for the benefit",
+    "Reversal transactions, if any, shall be considered for the calculation of net spends and monthly cap in the calendar month in which reversal transaction is posted",
+    "The offer cannot be clubbed with any other promotions currently applicable",
+    "To be eligible for the offer, payment has to be done directly using HDFC Bank Diners Privilege Credit Card. Any wallet payments will not be eligible even if wallet is refilled using HDFC Bank Diners Privilege Credit Card",
+    "Welcome Benefit Period is defined as 90 days from card issuance or last upgrade/downgrade date",
+    "Both memberships will be unlocked on achievement of benefits criteria",
+    "Benefits will be unlocked within 48 hours on achievement of benefits criteria",
+    "Once the benefit is unlocked, cardholder can download the memberships within 90 days from the end of the Welcome Benefit Period",
+    "The benefits will be communicated to your HDFC bank registered Email ID within 24-48 hours of download of voucher",
+    "Membership validity will be mentioned in the communication received on email",
+    "Membership validity cannot be extended post expiry",
+    "Memberships redemption need to be done at respective website/portal depending on the brand/ Merchant",
+    "Memberships can be resent to registered email ID through 'Manage Order' section in Smartbuy",
+    "Cardholder can view their downloaded benefits under 'Track Benefits' section in Smartbuy",
+    "In case of any cancellation, refund or reversal of transaction. The spend aggregation & transaction count for the Welcome benefits will also be reversed / adjusted",
+    "Transactions are tracked as per the posted/settled date from third party/merchant to the bank and the posting/settlement date will be considered as contribution to the spend accrual",
+    "Calendar quarter is defined as Jan – Mar; Apr – Jun; Jul – Sep; Oct – Dec",
+    "Benefits will be unlocked within 48 hours on achievement of quarterly spends milestone",
+    "Once the benefit is unlocked, cardholder can download the voucher / benefits within 90 days from the end of that qualifying quarter",
+    "Select any one brand voucher. Only a single voucher of the selected brand with value Rs. 1500 will be shared",
+    "The benefits will be communicated on your HDFC bank registered Email ID within 24 hours of download of voucher",
+    "Voucher validity will be mentioned in the communication, post which the benefits expire",
+    "Voucher validity cannot be extended post expiry",
+    "Voucher redemption need to be done at store / online depending on the brand of choice of the cardholder",
+    "Vouchers can be resent to registered email ID through 'Manage Order' section in Unified Smartbuy Portal",
+    "Cardholder can view their downloaded benefits under 'Track Benefits' section in Unified Smartbuy Portal",
+    "In case of any cancellation, refund or reversal of transaction. The spends aggregation for the milestone benefits will also be reversed / adjusted",
+    "Transactions are tracked as per the posted/settled date from third party/merchant to the bank and the posting/settlement date will be considered as contribution to the spend accrual for any quarter",
+    "All offers are non-cashable, not extendable, and non-negotiable",
+    "HDFC Bank reserves the right to debit reward points from customer's card account at any time in case of cancelations/ reversal of transaction for which reward points were credited earlier.",
+    "Complimentary Lounge access is provided on a select list of participating lounges.",
+    "List of participating lounges may change basis various factors such as closures, change in service provider or at the discretion of bank.",
+    "Domestic list of the participating lounges is updated on product page.",
+    "International list of participating lounges is to be referred on Diners Travel Tool App.",
+    "Lounge access is available to Primary & Add on Card holders basis shared benefit count (If benefit is 2 visits per calendar quarter, those 2 visits would be combined for Primary & add on card holder). If for any card lounge access is unlimited, this would not be applicable.",
+    "Primary or add on card holder intending to access the benefit should present their respective cards at the lounge while availing the benefit.",
+    "Access is not allowed to guest member. If guest wants to accompany, the same will be charged by lounge service provider basis customer consent.",
+    "Any charges paid by customer with consent for any service not provided/not specified under this program will not be reversed or refunded."
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions done by person known to the cardholder",
+    "Pre-existing illness (for Emergency Medical Expenses)",
+    "Return journey (for Travel Insurance)",
+    "BMS Stream & F&B for BookMyShow offer",
+    "Fuel Spends",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction"
+  ],
+  "source_files_used": [
+    "Diners Club Privilege Credit Card Eligibility Criteria",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\HDFC_Diners Privilege Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\fees_and_charges.pdf",
+    "HDFC BANK LTD POLICY NO: 2999204800579203000",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\INSURANCE\\diners_privilege_insurance_policy.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\PRODUCT_GUIDE\\Diners-Privilege-Product-Feature-Change.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\TERMS\\diners-privilege-tnc-20261.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\TERMS\\diners-privilege-tnc-20262.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Features-TnC/ 06-23",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\TERMS\\diners_privilege_tnc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\TERMS\\diners_privilege_tnc2.pdf",
+    "HDFC Bank/Credit Cards/Diners Club Privilege/Information document/15 June 2023",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Privilege Credit Card\\TERMS\\lounge-tnc.pdf"
+  ]
+}

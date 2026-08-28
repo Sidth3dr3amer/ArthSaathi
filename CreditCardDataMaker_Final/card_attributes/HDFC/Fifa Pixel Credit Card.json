@@ -1,0 +1,483 @@
+{
+  "card_name": "Fifa Pixel Credit Card",
+  "card_network": [
+    "Visa",
+    "Rupee",
+    "VISA, RuPay",
+    "VISA"
+  ],
+  "card_type": "Credit Card",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "No joining fee. No renewal fee.",
+  "welcome_benefits": [
+    "1500+ FIFA World Cup 2026™ merchandise at an exclusive price of ₹1",
+    "10 Luxury Staycations (2N/3D couple staycation at 5-star properties)",
+    "20 Gaming Consoles to win",
+    "Masterclass & Meet-and-Greet with Michael Owen",
+    "1500+ FIFA World Cup 2026™ merchandise at an exclusive PIXEL Insider price of ₹1",
+    "10 Luxury Staycations (2N/3D couple staycation at 5-star properties across India)",
+    "20 Gaming Consoles to Win",
+    "Welcome Kit",
+    "Complimentary Lounge Access for 1 year"
+  ],
+  "reward_structure": [
+    "5% CashBack on selected brands",
+    "3% CashBack on choice of e-commerce platform",
+    "1% CashBack on all transactions",
+    "3% CashBack on choice of Ecommerce Platform",
+    "1% CashBack on UPI spends (for the RuPay variant)",
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "category": "UPI Spends",
+      "cap": "500 CashPoints per Calendar month"
+    },
+    {
+      "type": "Cashback",
+      "rate": "5%",
+      "categories": [
+        "Dining & Entertainment",
+        "Travel",
+        "Grocery",
+        "Electronics",
+        "Fashion"
+      ]
+    },
+    {
+      "type": "Cashback",
+      "rate": "3%",
+      "categories": [
+        "Amazon",
+        "Flipkart",
+        "PayZapp"
+      ]
+    },
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "categories": [
+        "All UPI transactions"
+      ]
+    },
+    "1 PIXEL = Rs. 1",
+    "Earn 1 PIXEL for every Rs. 100 spent",
+    {
+      "method": "UPI",
+      "points": 500
+    },
+    "Win Luxury Staycations by spending a minimum of Rs 999 on your HDFC Bank PIXEL VISA Credit Card"
+  ],
+  "reward_redemption_options": [
+    "PIXEL CashPoints can be redeemed to PayZapp Wallet",
+    "Used to purchase brand vouchers within PayZapp",
+    "PIXEL CashPoints can be redeemed to the PayZapp Wallet",
+    {
+      "type": "PIXEL CashPoints",
+      "redemption_value": "1000 PIXEL CashPoints = PayZapp Wallet voucher",
+      "validity": "2 years from accumulation"
+    },
+    "Redeem PIXELs for cashback",
+    "Use PIXELs for shopping",
+    "Redeem PIXELs for travel bookings",
+    "Cashback via cash points",
+    "Redemption via mobile app",
+    "Transfer to cash points",
+    "2 night stay for a couple at a 5 star hotel",
+    "All meals during the stay",
+    "Exclusive viewing of the Football World Cup match at the hotel",
+    "FIFA merchandise"
+  ],
+  "reward_exclusions": [
+    "ATM withdrawals",
+    "Fuel purchases",
+    "International transactions",
+    "Fuel transactions",
+    "EMI payments",
+    "Rent payments",
+    "E‑wallet loading",
+    "Government‑related transactions",
+    "Insurance transactions",
+    "Retail transaction converted to EMI",
+    "Travel related expenses to and from the destination",
+    "Flights, trains, road travel, baggage charges, or any other transportation costs"
+  ],
+  "reward_caps": [
+    "PIXEL CashPoints valid for 2 years from date of accumulation",
+    "PIXEL CashPoints are valid for 2 years from the date of accumulation",
+    {
+      "type": "Cashback",
+      "limit": "500 CashPoints per Calendar month"
+    },
+    "No annual cap on PIXELs earned",
+    "One winner per card"
+  ],
+  "cashback_benefits": [
+    "5% CashBack on selected brands (Dining & Entertainment, Travel, Grocery, Electronics, Fashion)",
+    "3% CashBack on Amazon, Flipkart or PayZapp",
+    "1% CashBack on all transactions",
+    "1% CashBack on UPI spends (for RuPay variant)",
+    "1% CashBack on UPI spends (for the RuPay variant)",
+    {
+      "rate": "1%",
+      "category": "UPI Spends",
+      "cap": "500 CashPoints per Calendar month"
+    },
+    {
+      "type": "5% Cashback",
+      "categories": [
+        "Dining & Entertainment",
+        "Travel",
+        "Grocery",
+        "Electronics",
+        "Fashion"
+      ]
+    },
+    {
+      "type": "3% Cashback",
+      "categories": [
+        "Amazon",
+        "Flipkart",
+        "PayZapp"
+      ]
+    },
+    {
+      "type": "1% Cashback",
+      "categories": [
+        "All UPI transactions"
+      ]
+    },
+    "5% cashback on all spends",
+    "10% cashback on select categories",
+    "Cashback via cash points"
+  ],
+  "milestone_benefits": [
+    "10 Luxury Staycations for top spenders",
+    "20 Gaming Consoles for top spenders",
+    "Complimentary lounge access",
+    "Free credit score check"
+  ],
+  "lounge_access": [
+    "Complimentary lounge access for 1 year"
+  ],
+  "airport_services": [
+    "Priority boarding",
+    "Exclusive check-in counters"
+  ],
+  "priority_pass_benefits": [
+    "Priority Pass access"
+  ],
+  "travel_benefits": [
+    "5% CashBack on Travel (MakeMyTrip, Uber)",
+    "Discounts on travel bookings",
+    "Complimentary travel insurance"
+  ],
+  "hotel_benefits": [
+    "10 Luxury Staycations (2N/3D couple staycation at 5-star properties)",
+    "Discounts on hotel bookings"
+  ],
+  "airline_benefits": [
+    "Discounts on airline tickets"
+  ],
+  "forex_benefits": [
+    "No foreign transaction fees"
+  ],
+  "dining_benefits": [
+    "Up to 10% off on restaurant bill payments via Swiggy Dineout",
+    "5% CashBack on Dining & Entertainment (BookMyShow, Zomato)",
+    "Upto 10% off on restaurant bill payments via Swiggy Dineout",
+    {
+      "type": "Discount",
+      "value": "10%",
+      "condition": "On restaurant bill payments via Swiggy Dineout (minimum spend not specified)"
+    },
+    "Discounts at partner restaurants"
+  ],
+  "movie_benefits": [
+    "Discounts at partner cinemas"
+  ],
+  "golf_benefits": [
+    "Discounts at partner golf courses"
+  ],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India (on a minimum transaction of ₹400 and a maximum transaction of ₹5,000. Maximum waiver of ₹250 per statement cycle).",
+    "1% fuel surcharge waiver at all fuel stations across India (on a minimum transaction of ₹400 and a maximum transaction of ₹5,000. Maximum waiver of ₹250 per statement cycle)",
+    {
+      "type": "Fuel Surcharge Waiver",
+      "value": "1%",
+      "condition": "On transactions between ₹400 and ₹5,000, max ₹250 per statement cycle"
+    },
+    "No fuel surcharge waiver"
+  ],
+  "shopping_benefits": [
+    "5% CashBack on Electronics (Croma, Reliance Digital)",
+    "5% CashBack on Fashion (Nykaa, Myntra)",
+    "5% CashBack on Grocery (Blinkit, Reliance Smart Bazaar)",
+    "Discounts at partner stores"
+  ],
+  "entertainment_benefits": [
+    "5% CashBack on Dining & Entertainment (BookMyShow, Zomato)",
+    "Discounts at partner entertainment venues"
+  ],
+  "insurance_benefits": [
+    "Travel insurance"
+  ],
+  "protection_benefits": [
+    "Purchase protection"
+  ],
+  "concierge_benefits": [
+    "Concierge services"
+  ],
+  "emi_benefits": [
+    "Convert transactions and outstanding balance into low-cost EMI with flexible tenure via PayZapp",
+    {
+      "type": "Pay in Parts",
+      "condition": "Flexible tenure via PayZapp app"
+    },
+    "Interest-free EMIs for 3 months",
+    "EMI processing fee: ₹199 + GST"
+  ],
+  "business_benefits": [
+    "Business travel benefits"
+  ],
+  "domestic_lounge_visits_per_year": "Complimentary lounge access for 1 year",
+  "international_lounge_visits_per_year": "Complimentary lounge access for 1 year",
+  "guest_lounge_access": "Complimentary lounge access for 1 year",
+  "reward_rate": "1%",
+  "forex_markup": "No foreign transaction fees",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salary account holders",
+    "Savings account holders",
+    "Valid PIXEL VISA Credit Card of HDFC Bank Ltd",
+    "Spends must be made between 05-06-2026 to 20-06-2026",
+    "Minimum spend of Rs 999"
+  ],
+  "income_requirements": [
+    "Minimum income requirement"
+  ],
+  "documents_required": [
+    "Proof of identity",
+    "Proof of address",
+    "KYC documents",
+    "Address proof",
+    "Photo ID",
+    "PAN card"
+  ],
+  "charges": [
+    "Annual fee: Rs. 250",
+    "Joining fee: Rs. 500",
+    "Joining fee: ₹500 + GST",
+    "Annual fee: ₹250 + GST",
+    "Foreign transaction fee: 3.5% of transaction value",
+    "Cash advance fee: 3.60% (Pixel Go) and 43.20% (Pixel Play) on outstanding balance",
+    "Late payment fee: ₹100 for ₹101-₹500, ₹500 for ₹501-₹5,000, ₹600 for ₹5,001-₹10,000, ₹800 for ₹10,001-₹25,000, ₹1,100 for ₹25,001-₹50,000, ₹1,300 for above ₹50,000",
+    "Interest on defaulted balance: 3.6% per month (43.2% annually) on outstanding balance",
+    "Late payment fee: ₹800",
+    "GST: 18% on fees",
+    "Reissuance fee for design change: ₹100 + GST (upto 19th May’26)",
+    "Reissuance fee for design change: ₹199 + GST (effective 20th May’26)"
+  ],
+  "interest_rates": [
+    "Interest-free EMIs for 3 months",
+    "3.6% per month (43.2% annually) on outstanding balance"
+  ],
+  "fees_and_penalties": [
+    {
+      "type": "Theme Change Fee",
+      "value": "₹100 + GST",
+      "condition": "For existing customers switching to FIFA theme"
+    },
+    "Late payment fee: Rs. 400",
+    "Cash advance fee: Rs. 5000",
+    "Card closure penalty: ₹500 per day",
+    "Joining fee: ₹500 + GST",
+    "Annual fee: ₹250 + GST",
+    "Foreign transaction fee: 3.5% of transaction value",
+    "Cash advance fee: 3.60% (Pixel Go) and 43.20% (Pixel Play) on outstanding balance",
+    "Late payment fee: ₹100 for ₹101-₹500, ₹500 for ₹501-₹5,000, ₹600 for ₹5,001-₹10,000, ₹800 for ₹10,001-₹25,000, ₹1,100 for ₹25,001-₹50,000, ₹1,300 for above ₹50,000",
+    "Interest on defaulted balance: 3.6% per month (43.2% annually) on outstanding balance",
+    "Late payment fee: ₹800",
+    "GST: 18%"
+  ],
+  "spend_conditions": [
+    "10 Luxury Staycations applicable on minimum spends of ₹999",
+    "Minimum spend required for rewards",
+    "UPI transaction must be ≥ ₹500 to earn 500 points",
+    "Transactions must be time stamped within the offer period",
+    "Excludes EMI transactions, ATM withdrawal, Wallet transfer transactions, Rent, Utility, Wallet, Education & Telecom transactions",
+    "Excludes Gaming, Betting and Gambling transactions",
+    "Excludes transactions falling under excluded Merchant Category Codes (MCCs)"
+  ],
+  "benefit_conditions": [
+    "1500+ merchandise available on 4th and 11th June at 6 PM on pixeldrops.razorpay.com",
+    "Luxury Staycations offer period: 5th June 2026 to 20th June 2026",
+    "Fuel surcharge waiver applicable on minimum transaction of ₹400 and maximum transaction of ₹5,000",
+    "Luxury Staycations & Gaming Consoles validity period: 15th May to 15th June 2026",
+    "Benefits valid for 1 year",
+    "Reward points expire 2 years from accrual",
+    "Negative cash point balance allowed up to 60 days",
+    "Offer is non-convertible to either cash or alternate products",
+    "Non-extendable, non-transferable and non-negotiable",
+    "Customer must remain a cardholder during the offer period",
+    "Offer is valid for Indian Citizens and residents only"
+  ],
+  "renewal_benefits": [
+    "Fee waiver for the first year"
+  ],
+  "partner_programs": [
+    "Swiggy Dineout",
+    "Amazon",
+    "Flipkart",
+    "PayZapp",
+    "Blinkit",
+    "Reliance Smart Bazaar",
+    "Croma",
+    "Reliance Digital",
+    "Nykaa",
+    "Myntra",
+    "MakeMyTrip",
+    "Uber",
+    "Zomato",
+    "BookMyShow",
+    "Partner discounts and offers",
+    "Offer is funded and sponsored by Visa"
+  ],
+  "merchant_offers": [
+    "10% off on restaurant bill payments via Swiggy Dineout",
+    "Discounts at partner merchants"
+  ],
+  "limited_period_offers": [
+    "1500+ FIFA World Cup 2026™ merchandise at ₹1",
+    "10 Luxury Staycations",
+    "20 Gaming Consoles",
+    "1500+ merchandise at an exclusive PIXEL Insider price of ₹1",
+    "10 Luxury Staycations (2N/3D couple staycation at 5-star properties across India)",
+    "20 Gaming Consoles to Win",
+    "Masterclass & Meet-and-Greet with Michael Owen",
+    "Limited period offers",
+    "Option to apply for the card design theme change to HDFC Bank FIFA World Cup 2026™ Visa Pixel Play Credit Card is available from 11th April’26 to 31st July’26",
+    {
+      "offer": "Official FIFA Merchandise Drops",
+      "details": "Two weekly offers (4th June’26 and 11th June’26) for FIFA Merchandise (Match balls and National Team Jerseys). First come, first served basis. ₹1 authentication payment required, which will be reversed upon successful authentication."
+    },
+    "Offer Period: 5th June 2026 – 20th June 2026"
+  ],
+  "important_terms": [
+    "T&C Apply",
+    "Activate your card within 37 days of issuance, or it will be closed in accordance with regulatory guidelines",
+    "Card must be activated within 37 days of issuance, or it will be closed in accordance with regulatory guidelines",
+    "No joining fee",
+    "No renewal fee",
+    "Cashback valid for 2 years from accumulation",
+    "Fuel surcharge waiver capped at ₹250 per statement cycle",
+    "Reward terms and conditions",
+    "Points may be revoked for fraud or default",
+    "Negative cash point balance up to 60 days",
+    "Points validity 2 years",
+    "Card may be blocked for security reasons resulting in point forfeiture",
+    "Joining fee waived if ₹20,000 spent in 90 days. Annual fee waived if ₹1,00,000 spent in a year.",
+    "Foreign transaction fee waived for transactions between ₹400-₹5,000.",
+    "Interest-free period: 20-50 days depending on the billing cycle.",
+    "Customers applying for HDFC Bank PIXEL Play Credit Card may opt to avail the card design theme of HDFC Bank PIXEL Play FIFA World Cup 2026™ Visa Credit Card",
+    "Design theme selection must be made within 3 days of card issuance",
+    "Default design theme 'ICE' will be applied if selection is not made within the stipulated time",
+    "Existing HDFC Bank Pixel Play Visa cardholders opting for design change will have their existing card re-issued with a new card number",
+    "Customer will be required to enable other transactions / card controls / set PIN via Pixel app (PayZapp) after re-issuance",
+    "Offer is non-convertible, non-extendable, non-negotiable, and non-transferable.",
+    "Offer lapses if the customer ceases to be a PIXEL VISA Credit Cardholder during the offer period.",
+    "HDFC Bank reserves the right to disqualify/exclude any merchant or customer for fraudulent activity.",
+    "Queries are valid only up to 15 days from the offer fulfillment date.",
+    "Offer is subject to all applicable laws and regulations.",
+    "HDFC Bank reserves the right to modify or withdraw the offer at any time.",
+    "Offer is a one-time special offer and does not affect the terms of the card member agreement.",
+    "Offer is announced weekly and can be availed only once during the offer period.",
+    "Disputes are subject to the exclusive jurisdiction of the competent courts in Chennai.",
+    "Offer is funded and sponsored by Visa for HDFC Bank PIXEL VISA Credit Card customers.",
+    "Valid only for Indian citizens and residents.",
+    "HDFC Bank staff is not eligible to participate.",
+    "HDFC Bank reserves the right to disqualify/exclude any merchant establishment and/or Customer/s from the Program if any fraudulent/ineligible activity is identified",
+    "All disputes shall be subject to the exclusive jurisdiction of the competent courts / tribunals in Chennai",
+    "HDFC Bank shall not be liable in any manner whatsoever if customers transaction fails due to technical issue"
+  ],
+  "excluded_categories": [
+    "P2P",
+    "P2PM",
+    "digital account opening",
+    "lending platform",
+    "cash withdrawal at merchant",
+    "cash withdrawal at ATM",
+    "ERUPI",
+    "IPO",
+    "Foreign Inward Remittances",
+    "Mutual Funds",
+    "ATM withdrawals",
+    "Fuel purchases",
+    "International transactions",
+    "Fuel",
+    "EMI",
+    "Rent",
+    "E‑wallet loading",
+    "Government transactions",
+    "Insurance",
+    "EMI transactions",
+    "ATM withdrawal",
+    "Wallet transfer transactions",
+    "Rent, Utility, Wallet, Education & Telecom transactions",
+    "Gaming, Betting and Gambling transactions",
+    "Transactions falling under excluded Merchant Category Codes (MCCs)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\HDFC_Fifa Pixel Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\FAQ\\pixel-rupay-credit-card-faqs1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-telugu1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\mitc-telugu2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-bengali1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-bengali2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-gujarati1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-gujarati2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-hindi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-hindi2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-kannada1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-kannada2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-malayalam1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-malayalam2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-manipuri1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-manipuri2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-punjabi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-1-1-punjabi2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-assamese1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-assamese2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-kashmiri1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-kashmiri2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-konkani1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-konkani2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-marathi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-marathi2.pdf",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-odia1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-odia2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-tamil1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-tamil2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-urdu1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\pixel-mitc-urdu2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\zapp-credit-card-mitc-version-1-051.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\MITC\\zapp-credit-card-mitc-version-1-052.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\pixel-play-credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\pixel-play-credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\pixel-play-credit-card-member-agreement3.pdf",
+    "Terms & Conditions for HDFC Bank PIXEL Play FIFA World Cup 2026™ Visa Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\terms-and-conditions-for-hdfc-bank-pixel-play-fifa-world-cup-visa-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\terms-and-conditions-pixel-play-credit-card-150420261.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\terms-and-conditions-pixel-play-credit-card-150420262.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\visa-merch-drops-tnc-pixel-credit-card-4th-june.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Fifa Pixel Credit Card\\TERMS\\visa-top-spenders-tnc-pixel-credit-card.pdf"
+  ]
+}

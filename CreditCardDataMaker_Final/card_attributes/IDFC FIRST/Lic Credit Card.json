@@ -1,0 +1,265 @@
+{
+  "card_name": "Lic Credit Card",
+  "card_network": null,
+  "card_type": "Co-branded",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "2,000 Rewards on spending first ₹10,000 within 30 days of card generation",
+    "5% cashback (up to ₹1000) on the transaction value of first EMI done within 30 days of card generation",
+    "Exciting merchant offers worth ₹1,500+",
+    {
+      "type": "Rewards Points",
+      "value": "2,500",
+      "condition": "Spend more than 5,000 (LIC Classic) or 10,000 (LIC Select) within 30 days of card setup"
+    },
+    "Earn 2000 Reward Points on spending first ₹10,000 within 30 days of card set up",
+    "5% Cashback up to ₹1000 on first EMI transaction done within 30 days of card set up"
+  ],
+  "reward_structure": [
+    "10X Rewards on LIC Insurance Premium",
+    "5X Rewards on Other Spends",
+    "Bonus 20% Reward Points on hotel bookings",
+    "Bonus 8% Reward Points on flight bookings",
+    "10X Reward Points on Essentials & other eligible spends",
+    "5X Reward Points that do not expire for 3 years",
+    "Reward Points on paying LIC policy premium",
+    {
+      "category": "Hotels",
+      "bonus_reward_points": "36%"
+    },
+    {
+      "category": "Flights",
+      "bonus_reward_points": "16%"
+    }
+  ],
+  "reward_redemption_options": [
+    "Redeem reward points for online purchases",
+    "Redeem against offers at https://firstrewards.in/",
+    "Pay with Reward Points for any online transaction & select merchant outlets",
+    {
+      "redemption_rate": "1 Point = ₹0.25",
+      "max_redemption_percentage": "70%"
+    }
+  ],
+  "reward_exclusions": [
+    "Fuel",
+    "Rental",
+    "Non-LIC Insurance spends",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel, Rental, Non-LIC Insurance spends, EMI transactions & Cash withdrawals",
+    "Fuel, Rental, ATM Cash withdrawals, Non-LIC Insurance payments and EMI Transactions"
+  ],
+  "reward_caps": [
+    "Up to 600 RP per month on Essentials",
+    "Up to 40% Reward Points on hotel & flight bookings",
+    "600 Reward Points per month on Essentials category spends",
+    {
+      "monthly_cap": "1,00,000",
+      "annual_cap": "2,00,000"
+    }
+  ],
+  "cashback_benefits": [
+    "5% cashback (up to ₹1000) on the transaction value of first EMI done within 30 days of card generation",
+    "5% cashback (up to ₹1000) on first EMI within 30 days of card generation",
+    {
+      "type": "Cashback",
+      "value": "5%",
+      "max_value": "1000",
+      "condition": "First EMI transaction (6 months tenure or above) within 30 days of card setup"
+    },
+    "5% Cashback up to ₹1000 on first EMI transaction done within 30 days of card set up"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "2 complimentary Domestic Airport Lounge access per quarter",
+    "4 complimentary Railway Lounge access per quarter",
+    "Complimentary Domestic Airport lounge access twice every calendar quarter subject to minimum spends of ₹20,000 in the previous month",
+    "Complimentary Railway lounge access 4 per calendar quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Bonus 20% Reward Points on hotel bookings",
+    "Bonus 8% Reward Points on flight bookings"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 15% discount on dining across 300+ cities"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waiver of 1%, at all fuel stations across India, up to ₹300/month",
+    "1% Fuel Surcharge Waiver Up to ₹300 per statement cycle for transactions between ₹200 to ₹5,000"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Personal Accident Cover of ₹5,00,000",
+    "Lost Card Liability Cover of ₹50,000",
+    "Purchase Protection Cover of ₹25,000",
+    "Credit Shield Cover of ₹25,000",
+    "Travel Insurance cover of ₹4,000 each on Loss or Delay of Checked-In Baggage, Loss of Passport & other documents and Delay in Flight",
+    "Air Accident cover of ₹1 Crore",
+    "Cover of ₹50,000 each on Lost card liability, Credit Shield & Purchase Protection",
+    "Travel insurance Cover of ₹4,000 each on Loss of Checked- In Baggage, delay of Checked-In Baggage, Loss of Passport & other documents and flight delay",
+    "Personal Accident Cover of ₹5L & Air Accident Cover of ₹1 Crore"
+  ],
+  "protection_benefits": [
+    "Complimentary Roadside Assistance worth ₹1,399",
+    "Complimentary Road-Side Assistance worth ₹1,399"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "5% cashback (up to ₹1000) on the transaction value of first EMI done within 30 days of card generation",
+    "5% cashback (up to ₹1000) on first EMI within 30 days of card generation",
+    {
+      "type": "Processing Fee",
+      "value": "1% of transaction value (min 99) + GST",
+      "condition": "EMI conversion"
+    },
+    {
+      "type": "Processing Fee",
+      "value": "199 + GST",
+      "condition": "EMI conversion on amazon.in"
+    },
+    {
+      "type": "Foreclosure Fee",
+      "value": "3% + GST",
+      "condition": "EMI cancellation"
+    },
+    "EMIfy your purchases, transactions and balances with flexible tenures of up to 24 months*",
+    "Transfer balances of all your other credit cards to your LIC IDFC FIRST Credit Card"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1X = 1 Reward point per ₹125 spent | 1 Reward point = ₹0.25",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1%, at all fuel stations across India, up to ₹300/month",
+  "eligibility": [
+    "LIC policyholders and savvy spenders alike",
+    {
+      "type": "Spend Milestone",
+      "value": "5,000 (LIC Classic) or 10,000 (LIC Select) within 30 days of card setup"
+    }
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash Advance Fee of only ₹199 per transaction",
+    "OVL Charges – 2.5% of the over-limit amount subject to a minimum charge of ₹550",
+    "Late Payment Fee - 15% of Total Amount Due (subject to a minimum of ₹100 and a maximum of ₹1300)",
+    "Cash Advance Fee of ₹199 per transaction"
+  ],
+  "interest_rates": [
+    "Low & Dynamic Interest rates starting at 9% per annum",
+    "Effective 20th February 2025, APR range will start from 8.5% per annum",
+    "Low and Dynamic Interest rates starting at 8.5%",
+    "0% Interest on ATM cash withdrawals for up to 45 days"
+  ],
+  "fees_and_penalties": [
+    "Cash Advance Fee of only ₹199 per transaction",
+    "OVL Charges – 2.5% of the over-limit amount subject to a minimum charge of ₹550",
+    "Late Payment Fee - 15% of Total Amount Due (subject to a minimum of ₹100 and a maximum of ₹1300)"
+  ],
+  "spend_conditions": [
+    "Rewards on LIC Insurance premium spends applicable only if paid through LIC Of India’s official website",
+    {
+      "type": "Joining Offer",
+      "condition": "Valid only for transactions within 30 days of card setup"
+    }
+  ],
+  "benefit_conditions": [
+    "Rewards on LIC Insurance premium spends will be applicable only if Insurance premium is paid through LIC Of India’s official website i.e. https://licindia.in",
+    "By booking through IDFC First Mobile app, earn 45/₹125 Bonus Reward Points on hotel bookings & 20/₹125 Bonus Reward Points over and above your base rewards",
+    "Reward points have a validity of 3 years",
+    "Reward points not applicable if Minimum Amount Due is not paid by the Payment Due Date",
+    {
+      "type": "Joining Offer",
+      "condition": "Applicable once per cardholder, only for primary card member"
+    },
+    {
+      "type": "EMI Offer",
+      "condition": "Not applicable for 3-month tenure, not eligible for reward points"
+    },
+    "Minimum spends of ₹20,000 in the previous month for Domestic Airport lounge access",
+    "Maximum of 5 LIC insurance premium payments in a statement cycle are eligible for Rewards"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Book travel through IDFC FIRST Mobile App"
+  ],
+  "merchant_offers": [
+    "Exciting merchant offers worth ₹1,500+",
+    "Earn 2000 Reward Points on spending first ₹10,000 within 30 days of card set up",
+    "5% Cashback up to ₹1000 on first EMI transaction done within 30 days of card set up",
+    "Up to 15% discount on dining across 300+ cities"
+  ],
+  "limited_period_offers": [
+    "5% cashback (up to ₹1000) on the transaction value of first EMI done within 30 days of card generation",
+    "Get 2,000 Rewards on spending first ₹10,000 within 30 days of card generation",
+    "5% cashback (up to ₹1000) on first EMI within 30 days of card generation"
+  ],
+  "important_terms": [
+    "Rewards earned on LIC IDFC FIRST Bank Credit Cards have a validity of 3 years",
+    "Reward program not applicable on Fuel, Rental, Non-LIC Insurance spends, EMI transactions & Cash withdrawals",
+    "Rewards on LIC Insurance premium spends will be applicable only if Insurance premium is paid through LIC Of India’s official website i.e. https://licindia.in",
+    "By booking through IDFC First Mobile app, earn 45/₹125 Bonus Reward Points on hotel bookings & 20/₹125 Bonus Reward Points over and above your base rewards",
+    "Reward points not applicable on Add-on card transactions, wallet load, EMI converted transactions & ATM cash withdrawal",
+    "Transactions reversed/cancelled/disputed by the cardholder or merchant will be excluded",
+    {
+      "type": "Joining Offer",
+      "term": "Valid only on LIC Classic and LIC Select Credit Cards"
+    },
+    {
+      "type": "EMI Offer",
+      "term": "Not applicable on jewelry and fuel transactions, cash withdrawals cannot be converted to EMI"
+    },
+    "1X = 1 Reward Point per ₹125 | 1 Reward Point = ₹0.25",
+    "Minimum transaction value of ₹125 is required to be eligible to earn reward points",
+    "Spends on Essentials Category will be identified basis the merchant category code as received in the transaction data",
+    "Reward points are not applicable on Fuel, Rental, ATM Cash withdrawals, Non-LIC Insurance payments and EMI Transactions",
+    "Rewards on LIC Insurance Premium payments shall be applicable only on transactions done at LIC of India’s official website https://licindia.in",
+    "Maximum of 5 LIC insurance premium payments in a statement cycle are eligible for Rewards",
+    "Cardholder is allowed to pay the premium for LIC Policies of themselves and their family members",
+    "LIC CSL and IDFC FIRST Bank will bear the final authority regarding the applicability of rewards for transactions done at LIC Merchant Ids"
+  ],
+  "excluded_categories": [
+    "Fuel",
+    "Rental",
+    "Non-LIC Insurance spends",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Fuel, Rental, Non-LIC Insurance spends, EMI transactions & Cash withdrawals",
+    "Jewelry",
+    "Fuel, Rental, ATM Cash withdrawals, Non-LIC Insurance payments and EMI Transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\IDFC FIRST_Lic Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\LOUNGE\\LIC-Select-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\OFFERS\\LIC-Joining-Offers-01.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\PRODUCT_GUIDE\\Credit-Card-Basics-for-LIC.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\PRODUCT_GUIDE\\LIC-Select-Product-Guide-11.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\PRODUCT_GUIDE\\LIC-Select-Product-Guide-12.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Lic Credit Card\\TERMS\\LIC-Select-TnC-Travel-and-Shop.pdf"
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "card_name": "Business Multiplier Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Metal",
+  "joining_fee": "₹1,000+GST",
+  "annual_fee": "₹1,000+GST",
+  "fee_waiver_condition": "Waived off on ₹5 lakh annual spends",
+  "welcome_benefits": [
+    "Complimentary UPI-enabled FIRST Digital Credit Card worth ₹199 + GST",
+    "Zero Forex Mark-up"
+  ],
+  "reward_structure": [
+    "10 Reward Points per ₹200 spent on business payments up to ₹1 lakh per month",
+    "5 Reward Points per ₹200 spent on business payments exceeding ₹1 lakh per month",
+    "3 Reward Points per ₹200 on UPI transactions above ₹2,000",
+    "1 Reward Point per ₹200 on UPI transactions up to ₹2,000 (utility and insurance)",
+    "30% additional reward points on travel bookings via the Bank app",
+    "Bonus reward points: 17.5% extra on hotel bookings and 17.5% extra on flight bookings (per ₹150 spent)",
+    "10 Reward Points on transactions up to ₹1 lakh per month",
+    "5 Reward Points on transactions exceeding ₹1 lakh per month",
+    "3 Reward Points on UPI transactions exceeding ₹2,000",
+    "1 Reward Point on UPI transactions below ₹2,000",
+    "10 Reward Points per ₹200 up to ₹1,00,000 per statement cycle",
+    "5 Reward Points per ₹200 on spends above ₹1,00,000 per statement cycle",
+    "10 Reward Points per ₹150 on Flight and Hotel bookings via IDFC FIRST Bank Mobile App",
+    "33% Bonus Reward Points on hotel bookings via IDFC FIRST Bank App",
+    "20% Bonus Reward Points on flight bookings via IDFC FIRST Bank App",
+    "Up to 3X Reward Points on vendor/bill payments through UPI",
+    "1X Reward Points on UPI payments above ₹2,000",
+    "1X Reward Points on UPI payments below ₹2,000",
+    "1X Reward Points on utility & insurance spends"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "Fuel",
+    "Insurance",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Rental and Property Management transactions",
+    "Utility spends",
+    "Utility Spends",
+    "Rental & property management transactions"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Domestic lounge access: 1 visit per quarter on spend of ₹20,000 in previous month",
+    "International lounge access: 1 visit per quarter on spend of ₹20,000 in previous month",
+    "1 domestic and 1 international lounge access per quarter on spend of ₹20,000 in the previous month",
+    "Encalm Lounge - Domestic Departure T1",
+    "Encalm Lounge - International Departure T1",
+    "Adani Lounge - Domestic T1",
+    "Primus Lounge",
+    "Pahun Lounge",
+    "Pearl Lounge",
+    "Travel Club Pearl Lounge",
+    "Oberoi Lounge - International T2",
+    "Aviserve West - Arrival T2",
+    "Travel Club - Domestic T1-C",
+    "Adani Lounge - Domestic T1-B",
+    "Mandarin Lounge",
+    "Encalm Lounge - Domestic Departure T3",
+    "Encalm Lounge - International Departure T3",
+    "Encalm Lounge - Domestic Departure T2",
+    "Zesto Executive Lounge",
+    "Elysian Lounge",
+    "Elysian Lounge (Upcoming)",
+    "The Lounge - International T2",
+    "Premium Lounge",
+    "Complimentary lounge access on minimum spends of ₹20,000 in the previous calendar month",
+    "Complimentary global lounge access"
+  ],
+  "airport_services": [
+    "DreamFolks lounge card for global airport lounge access"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Travel insurance coverage up to ₹25,000 (hotel and flight cancellations)",
+    "Cancellation for Any Reason (CFAR) insurance up to ₹25,000, max two claims per year",
+    "30% extra reward points on travel bookings via the Bank app",
+    "Comprehensive travel protection of up to ₹25,000 on hotel and flight cancellations, up to two times per year",
+    "Bonus Reward Points on hotel bookings (17.5%) and flight bookings (17.5%)",
+    "Travel insurance worth ₹25,000 for 2 claims per year"
+  ],
+  "hotel_benefits": [
+    "Bonus reward points: 17.5% extra on hotel bookings",
+    "33% Bonus Reward Points on hotel bookings"
+  ],
+  "airline_benefits": [
+    "Bonus reward points: 17.5% extra on flight bookings",
+    "20% Bonus Reward Points on flight bookings"
+  ],
+  "forex_benefits": [
+    "Zero Forex markup on international transactions",
+    "Save 4%–5% on every international payment",
+    "Zero Forex Markup for Global Business Payments",
+    "Zero Forex Mark-up on international spends"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waiver up to ₹400 per statement cycle",
+    "No utility surcharge on monthly fuel purchases up to ₹30,000 via mobile app",
+    "No utility surcharge on monthly fuel purchases of up to ₹30,000 done via IDFC FIRST Bank mobile app",
+    "24/7 roadside assistance cover of up to ₹1,399, four times every year",
+    "1% surcharge waiver on fuel transactions between ₹200 and ₹5,000, up to ₹5,000 per statement cycle",
+    "Fuel fees levied above ₹20,000 per statement cycle, fuel surcharge waiver up to ₹2,000 per statement cycle",
+    "Fuel surcharge waiver up to ₹400 per month",
+    "Fuel fees levied above ₹30,000 per month with surcharge waiver up to ₹400"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Travel insurance up to ₹25,000",
+    "Cancellation insurance up to ₹25,000",
+    "Roadside assistance cover up to ₹1,399, four times a year",
+    "Comprehensive travel protection of up to ₹25,000 on hotel and flight cancellations, up to two times per year",
+    "Travel insurance worth ₹25,000 for 2 claims per year"
+  ],
+  "protection_benefits": [
+    "Low interest rate of 12% p.a.",
+    "Free credit period up to 45 days"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert high-value business purchases into EMIs via POS, online, or mobile app",
+    "Up to 45 days of interest-free period"
+  ],
+  "business_benefits": [
+    "Multiple add-on cards: up to 5 at ₹250+GST each",
+    "Extended interest‑free credit period up to 45 days",
+    "Earn up to 10 reward points for GST and other tax payments",
+    "100% cash withdrawal against credit limit",
+    "Credit limit equals 100% of fixed deposit amount",
+    "No income proof required",
+    "Earn interest on fixed deposit while using the card",
+    "12% Annual Interest Rate",
+    "Up to five add-on cards at ₹250 each",
+    "100% cash withdrawal",
+    "Earn Rewards on tax payments (up to 10 Reward points for every online GST and other tax transaction)",
+    "Separate daily business and personal expenses",
+    "Vendor/bill payments through UPI earn up to 3X reward points",
+    "No utility surcharge up to ₹30,000 per month through IDFC FIRST Bank App"
+  ],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": 4,
+  "guest_lounge_access": [],
+  "reward_rate": null,
+  "forex_markup": "0%",
+  "fuel_surcharge_waiver": "Up to ₹400 per statement cycle",
+  "eligibility": [
+    "Businesses with registered GST",
+    "Minimum fixed deposit of ₹50,000",
+    "PAN, Aadhaar and GST number required",
+    "Create or link a minimum fixed deposit of ₹50,000",
+    "Sole proprietor or a self-employed individual",
+    "Minimum Fixed Deposit of ₹50,000"
+  ],
+  "income_requirements": [
+    "No income proof required"
+  ],
+  "documents_required": [
+    "Aadhaar number",
+    "Physical PAN Card for video KYC",
+    "Registered GST number",
+    "PAN",
+    "Aadhaar",
+    "GST number"
+  ],
+  "charges": [
+    "Joining Fee: ₹1,000+GST",
+    "Annual Fee: ₹1,000+GST (waived on spend of ₹5 lakh per year)",
+    "Add‑on card fee: ₹250+GST each",
+    "Joining Fees ₹1,000 + GST",
+    "Annual Fees ₹1,000 + GST",
+    "Late Payment Fee: ₹199 per occurrence",
+    "Late Payment Charges: 3% of total amount due (minimum ₹300, maximum ₹1,250)",
+    "Reward Redemption Fee: ₹99 per redemption transaction",
+    {
+      "type": "Cash Advance Fees",
+      "amount": 199
+    },
+    {
+      "type": "Late Payment Charges",
+      "amount": "3% of due amount (min ₹300, max ₹1250)"
+    },
+    {
+      "type": "Over-Limit Fee",
+      "amount": "2.5% of over-limit amount (min ₹550)"
+    }
+  ],
+  "interest_rates": [
+    "12% per annum (flat)",
+    "12% per annum (1% monthly)",
+    "Monthly Rate: 3.99%",
+    "Annual Rate: 47.88%",
+    "12% p.a.",
+    {
+      "type": "Overdue Interest",
+      "rate": "36% per annum"
+    },
+    {
+      "type": "Overdue Interest (after 18 days)",
+      "rate": "47.88% per annum"
+    }
+  ],
+  "fees_and_penalties": [
+    "Late Payment Fee: ₹199",
+    "Late Payment Charges: 3% of total amount due (min ₹300, max ₹1,250)",
+    "Fuel Surcharge Waiver as per fuel benefits",
+    "Reward Redemption Fee: ₹99 per redemption",
+    "Annual fee ₹0",
+    {
+      "type": "Annual Fee",
+      "amount": 999
+    },
+    {
+      "type": "Cash Advance Fees",
+      "amount": 199
+    },
+    {
+      "type": "Late Payment Charges",
+      "amount": "3% of due amount (min ₹300, max ₹1250)"
+    },
+    {
+      "type": "Over-Limit Fee",
+      "amount": "2.5% of over-limit amount (min ₹550)"
+    }
+  ],
+  "spend_conditions": [
+    "Annual fee waiver on total eligible spends ≥ ₹5 lakh in a card anniversary year",
+    "Lounge access eligibility: spend ₹20,000 in the previous calendar month",
+    "Fee waiver on eligible spends of ₹1,00,000 in the previous card anniversary",
+    "Net spends exclude fuel transactions, instalments, fees, charges, GST, cash withdrawals and transaction reversals",
+    "Minimum spends of ₹20,000 in the previous calendar month for lounge access",
+    "No utility surcharge up to ₹30,000 per month through app",
+    "Fuel surcharge waiver up to ₹400 per month for fuel spend above ₹30,000"
+  ],
+  "benefit_conditions": [
+    "Fuel surcharge waiver up to ₹400 per statement cycle",
+    "Travel insurance and cancellation coverage up to ₹25,000 each, max two claims per year",
+    "Annual fee waived on ₹5L annual spends",
+    "Lounge access on spend of ₹20,000 in the previous month",
+    "Fee waiver condition as described above"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "IDFC FIRST Bank Mobile App"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward Points not applicable on Fuel, Insurance, EMI transactions & Cash withdrawals, Rental and Property Management transactions, Utility Spends",
+    "Reward Points are evergreen with no expiry date",
+    "MITC effective from 18th June 2026"
+  ],
+  "excluded_categories": [
+    "Fuel",
+    "Insurance",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Rental and Property Management transactions",
+    "Utility spends",
+    "Utility Spends",
+    "Rental & property management transactions"
+  ],
+  "source_files_used": [
+    "User provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\IDFC FIRST_Business Multiplier Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\LOUNGE\\Lounge-List.pdf",
+    "MITC",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\PRODUCT_GUIDE\\Business-Multiplier-Product-Guide.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\PRODUCT_GUIDE\\GST-User-Guide-Credit-card-Payment-005-jan141.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\PRODUCT_GUIDE\\GST-User-Guide-Credit-card-Payment-005-jan142.pdf",
+    "Ver_BC_CMA_FEB25",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601211.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601212.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601213.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601214.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601215.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement-0601216.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Multiplier Credit Card\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

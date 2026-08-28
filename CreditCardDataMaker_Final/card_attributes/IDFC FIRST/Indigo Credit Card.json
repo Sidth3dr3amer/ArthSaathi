@@ -1,0 +1,232 @@
+{
+  "card_name": "Indigo Credit Card",
+  "card_network": "Mastercard & RuPay",
+  "card_type": "Dual Credit Card",
+  "joining_fee": 4999,
+  "annual_fee": 4999,
+  "fee_waiver_condition": "FD-backed variant with ₹1,00,000 FD",
+  "welcome_benefits": [
+    "5000 IndiGo BluChips voucher on joining fee payment",
+    "3000 IndiGo BluChips voucher on ₹1L spends within 90 days",
+    "3 months complimentary Eazydiner prime membership worth ₹1095",
+    "Postcard hotels stay voucher worth ₹3,000",
+    "3000 IndiGo BluChips voucher on 1L spends within 90 days",
+    "Additional voucher of 5,000 IndiGo BluChip on spends of ₹15k in first 30 days*",
+    "5000 IndiGo BluChips + Complimentary IndiGo meal voucher (joining fee payment benefits)",
+    "3-month EazyDiner Prime membership",
+    "The Postcard Hotels stay voucher (worth ₹3,000)",
+    "Activation Benefits: Spend ₹1,00,000 within 90 days of card issuance and earn Voucher of 3000 IndiGo BluChips"
+  ],
+  "reward_structure": [
+    "6 IndiGo BluChips per ₹100 on flights booked via IndiGo website/app",
+    "0.5 IndiGo BluChips per ₹100 on UPI spends",
+    "0.5 IndiGo BluChips per ₹100 on Insurance, Rent, Utility, Wallet spends",
+    "3 IndiGo BluChips per ₹100 on other spends",
+    "6 IndiGo BluChips on every ₹100 spent on flights booked via IndiGo website or mobile app",
+    "0.5 BluChips on every ₹100 spent on UPI",
+    "0.5 IndiGo BluChips on every ₹100 on Insurance, Rent, Utility, Wallet spends",
+    "3 IndiGo BluChips on every ₹100 spent on other categories",
+    "6 IndiGo BluChips + up to 16 IndiGo BluChips per ₹100 on IndiGo spends",
+    "3 IndiGo BluChips per ₹100 spent across other categories",
+    "0.5 IndiGo BluChips per ₹100 spent on fuel, insurance, utilities, rent, and wallet loads",
+    "0.5 IndiGo BluChips per ₹100 spent on UPI"
+  ],
+  "reward_redemption_options": [
+    "Redeem IndiGo BluChips for IndiGo flights",
+    "Redeem IndiGo BluChip Vouchers for booking flights",
+    "Redeem IndiGo Meal Vouchers for add-on meals",
+    "Redeem for IndiGo flights via IndiGo website and mobile app"
+  ],
+  "reward_exclusions": [
+    "Cash transactions",
+    "EMI transactions",
+    "Transactions converted to EMI",
+    "Cash withdrawals"
+  ],
+  "reward_caps": [
+    "Up to 16 additional IndiGo BluChips based on IndiGo Loyalty Program tier",
+    "Up to 25,000 IndiGo BluChips per year via annual spend milestones"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "5000 IndiGo BluChips voucher on crossing ₹2L, ₹5L, ₹8L, ₹10L, and ₹12L annually",
+    "Vouchers of up to 25,000 IndiGo BluChips every year on crossing ₹2L, ₹5L, ₹8L, ₹10L, and ₹12L annually",
+    "Spend ₹2,00,000 – earn 5,000 IndiGo BluChips",
+    "Spend ₹5,00,000 – earn 5,000 IndiGo BluChips",
+    "Spend ₹8,00,000 – earn 5,000 IndiGo BluChips",
+    "Spend ₹10,00,000 – earn 5,000 IndiGo BluChips",
+    "Spend ₹12,00,000 – earn 5,000 IndiGo BluChips",
+    "Hit key annual spends milestone and earn up to 25,000 IndiGo BluChips each year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Low forex markup of 1.49%",
+    "Reimbursement on non-refundable flights or hotels up to ₹25,000 every year",
+    "Reimbursement on non-refundable flights or hotels, up to ₹25,000 every year",
+    "Trip Cancellation Cover up to ₹25,000 per year (2 claims per year)",
+    "Air Accident Insurance up to ₹1,00,00,000",
+    "Personal Accident Cover up to ₹10,00,000",
+    "Lost Card Liability Cover up to ₹50,000",
+    "Travel Insurance benefits worth $1,200"
+  ],
+  "hotel_benefits": [
+    "The Postcard Hotels stay voucher (worth ₹3,000)"
+  ],
+  "airline_benefits": [
+    "IndiGo BluChips redemption for flights",
+    "IndiGo BluChips earning on flights booked via IndiGo website or mobile app"
+  ],
+  "forex_benefits": [
+    "Low forex markup of 1.49%"
+  ],
+  "dining_benefits": [
+    "Fine-dine offers at 350+ restaurants",
+    "3-month EazyDiner Prime membership"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "12 complimentary rounds of green fees per calendar year",
+    "12 complimentary golf lessons per calendar year",
+    "4 complimentary rounds of green fees for guests per calendar year",
+    "4 golf rounds + 12 lessons every year"
+  ],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on fuel transactions between ₹200 and ₹5,000"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Trip Cancellation Cover up to ₹25,000 per year",
+    "Air Accident Insurance up to ₹1,00,00,000",
+    "Personal Accident Cover up to ₹10,00,000",
+    "Lost Card Liability Cover up to ₹50,000"
+  ],
+  "protection_benefits": [
+    "Lost Card Liability Cover up to ₹50,000"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 1.49,
+  "fuel_surcharge_waiver": "1% on eligible fuel transactions",
+  "eligibility": [
+    "Credit check eligibility for joining fee variant",
+    "FD-backed variant with ₹1,00,000 FD",
+    "FD-backed variant requires a fixed deposit of ₹1,00,000"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN",
+    "Income proof",
+    "Aadhaar e-KYC",
+    "Video-KYC"
+  ],
+  "charges": [
+    "Cash Advance Fee of ₹199 + GST per transaction",
+    "Cash Advance Fee of ₹199/- + GST per transaction",
+    {
+      "type": "Joining Fee",
+      "amount": 4999
+    },
+    {
+      "type": "Annual Fee",
+      "amount": 4999
+    },
+    {
+      "type": "Add-on Card Fee",
+      "amount": 499
+    },
+    {
+      "type": "Cash Advance Transaction Fee",
+      "amount": 199
+    },
+    {
+      "type": "Late Payment Charge",
+      "description": "15% of total amount due, minimum ₹100, maximum ₹1300"
+    },
+    {
+      "type": "Reward Redemption Fee",
+      "amount": 99,
+      "description": "per redemption transaction"
+    },
+    {
+      "type": "Card Replacement Fee",
+      "amount": 199,
+      "description": "applies per card individually"
+    }
+  ],
+  "interest_rates": [
+    "Starting from 8.5% to 46.2% per annum"
+  ],
+  "fees_and_penalties": [
+    "Late payment charges applicable",
+    "Late payment charges as per MITC document",
+    "Late payment charges @15% of total amount due (min ₹100, max ₹1300)",
+    "Cash advance fee ₹199 per transaction",
+    "Reward redemption fee ₹99 per redemption",
+    "Card replacement fee ₹199 per card"
+  ],
+  "spend_conditions": [
+    "Spend ₹1,00,000 within 90 days of card issuance to earn activation voucher",
+    "Annual spend milestones as listed in milestone benefits"
+  ],
+  "benefit_conditions": [
+    "Joining fee benefits only for joining fee variant",
+    "Milestone benefits renew every year",
+    "Joining fee benefits not applicable for FD backed IndiGo IDFC FIRST Credit Card",
+    "Add‑on cards can be RuPay or Mastercard, up to 3 per primary account"
+  ],
+  "renewal_benefits": [
+    "Voucher of 5000 IndiGo BluChips",
+    "A complimentary IndiGo meal voucher"
+  ],
+  "partner_programs": [
+    "IndiGo BluChip Loyalty Program",
+    "RuPay exclusive partner offers",
+    "Mastercard global acceptance in 200+ countries",
+    "EazyDiner",
+    "Postcard Hotels"
+  ],
+  "merchant_offers": [
+    "Fine-dine offers at 350+ restaurants",
+    "4 golf rounds + 12 lessons annually"
+  ],
+  "limited_period_offers": [
+    "Additional 5000 IndiGo BluChip voucher on spends of ₹15k in first 30 days",
+    "Additional voucher of 5,000 IndiGo BluChip on spends of ₹15K in first 30 days (Offer Period: 1st June 2026 to 30th June 2026)"
+  ],
+  "important_terms": [
+    "Credit limit shared across both cards",
+    "Single statement for transactions on both cards",
+    "GST not applicable on this card",
+    "Most important terms & conditions Card membership agreement",
+    "Joining fee benefits not applicable for FD backed card"
+  ],
+  "excluded_categories": [
+    "Cash withdrawals",
+    "EMI transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\IDFC FIRST_Indigo Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\summary.txt",
+    "MITC",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\PRODUCT_GUIDE\\IndiGo-Product-Guide.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Indigo Credit Card\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

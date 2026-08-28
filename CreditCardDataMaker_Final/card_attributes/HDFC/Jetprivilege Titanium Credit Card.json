@@ -1,0 +1,119 @@
+{
+  "card_name": "Jetprivilege Titanium Credit Card",
+  "card_network": "VISA",
+  "card_type": "Co-branded",
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "On annual spends of ■2,00,000 or more",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "2 InterMiles on every ■150 spent on retail spends",
+    "4 InterMiles on every ■150 spent on every flight and hotel booked here"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "Cash advances",
+    "Fuel transactions",
+    "Fees and other charges",
+    "EasyEMI and e-wallet loading transactions"
+  ],
+  "reward_caps": [
+    "InterMiles accrued for Insurance transactions will have a maximum cap of 2,000 per day"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Airport lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "5% discount* on Etihad Airways Economy Class tickets booked here",
+    "2.5X bonus InterMiles for Etihad Airways tickets booked here"
+  ],
+  "hotel_benefits": [
+    "4 InterMiles on every ■150 spent on every flight and hotel booked here"
+  ],
+  "airline_benefits": [
+    "5% discount* on Etihad Airways Economy Class tickets booked here",
+    "2.5X bonus InterMiles for Etihad Airways tickets booked here"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "A convenience fee of 1% will replace a fuel surcharge of 2.5% plus service tax"
+  ],
+  "shopping_benefits": [
+    "2 InterMiles on every ■150 spent on retail spends"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Stay protected against unauthorised use when you shop anywhere with EMV Chip Card technology",
+    "Zero liability on fraudulent transactions if reported immediately to our 24-hour call centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried Indian national: Age between 21 and 60 years",
+    "Self-employed Indian national: Age between 21 and 65 years",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years",
+    "For self-employed Indian national: Age: Minimum 21 years and maximum 65 years",
+    "Salaried Indian national, age 21-60 years",
+    "Self-employed Indian national, age 21-65 years"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining Membership Fee: ■500 + Applicable Taxes",
+    "Membership Renewal Fee 2nd year onwards: ■500+ Applicable Taxes per year"
+  ],
+  "interest_rates": [
+    "Lowest Revolving Credit at an interest rate of 1.99% per month"
+  ],
+  "fees_and_penalties": [
+    "Joining Membership Fee: ■500 + Applicable Taxes",
+    "Membership Renewal Fee 2nd year onwards: ■500+ Applicable Taxes per year"
+  ],
+  "spend_conditions": [
+    "Only retail purchases above ■150 qualify for InterMiles"
+  ],
+  "benefit_conditions": [
+    "InterMiles, once credited, cannot be converted to Reward Points"
+  ],
+  "renewal_benefits": [
+    "Get your JetPrivilege HDFC Bank Co-brand Credit Card plastic on the VISA franchisee upon the renewal of your existing MasterCard variant"
+  ],
+  "partner_programs": [
+    "JetPrivilege"
+  ],
+  "merchant_offers": [
+    "Discount voucher worth ■250 on return flights booked here"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "InterMiles Accrual Programme: Only retail purchases above ■150 qualify for InterMiles. Cash advances, fuel transactions, fees, and other charges do not accrue any InterMiles. EasyEMI and e-wallet loading transactions will not accrue InterMiles. InterMiles accrued will be reversed if a retail transaction is converted into SmartEMI. InterMiles accrued for Insurance transactions will have a maximum cap of 2,000 per day."
+  ],
+  "excluded_categories": [
+    "Cash advances",
+    "Fuel transactions",
+    "Fees and other charges",
+    "EasyEMI and e-wallet loading transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Jetprivilege Titanium Credit Card\\HDFC_Jetprivilege Titanium Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Jetprivilege Titanium Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Jetprivilege Titanium Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Jetprivilege Titanium Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Jetprivilege Titanium Credit Card\\main.pdf"
+  ]
+}

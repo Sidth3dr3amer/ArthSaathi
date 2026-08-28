@@ -1,0 +1,258 @@
+{
+  "card_name": "Hello Cashback Credit Card",
+  "card_network": "RuPay",
+  "card_type": "FD-backed Assured Credit Card",
+  "joining_fee": 0,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Spend ₹2,00,000 or more in a year and get 100% annual fee reversed. Spend ₹1,00,000 - ₹2,00,000 in a year and get 50% annual fee reversed.",
+  "welcome_benefits": [
+    "Introductory offer: ₹0 joining fee",
+    "Up to 5% Cashback benefit",
+    "1% Cashback on UPI spends",
+    "Access funds without breaking your FD",
+    "Up to 6% Cashback on Travel bookings"
+  ],
+  "reward_structure": [
+    "3% Cashback on online spends up to ₹10,000",
+    "5% Cashback on incremental online spends above ₹10,000",
+    "1% Cashback on UPI spends done via IDFC FIRST Bank App",
+    "1% Cashback on in-store card swipe",
+    "1% Cashback on essential categories (Utility, Rent, Jewellery, Wallet load, Insurance, Education, Gift Card, Government Services, FASTag, and Railway)",
+    "Bonus 1% Cashback on hotel & flight booking done via IDFC FIRST Bank App",
+    "Online spends <= ₹10,000: 3%",
+    "Online spends > ₹10,000 (incremental): 5%",
+    "Offline spends: 1%",
+    "UPI spends on IDFC FIRST Bank Mobile App: 1%",
+    "Essential spends (FASTag, Railway, Utility, Rental, Jewellery, Wallet, Insurance, Education, Gift Card, Government Services): 1%",
+    "Travel bookings via IDFC FIRST Bank Mobile App: Bonus 1%",
+    "Apparel purchase: 3% cashback",
+    "Restaurant bill: 1% cashback",
+    "Flight booking: 3% cashback",
+    "Rent payment: 1% cashback",
+    "Bonus Cashback: 1% of transaction amount for travel"
+  ],
+  "reward_redemption_options": [
+    "Cashback credited to Card account one day after Payment due date (PDD) and adjusted against outstanding balance of next statement",
+    "Cashback credited to card account"
+  ],
+  "reward_exclusions": [
+    "Fuel",
+    "ATM Cash withdrawals",
+    "EMI",
+    "UPI transactions done through other UPI apps (GPay, PhonePe, Paytm, etc.)",
+    "ATM cash withdrawals",
+    "EMIs",
+    "Fuel spends",
+    "UPI spends via other third-party applications",
+    "Cashback cannot be transferred",
+    "Cashback cannot be combined with other Credit Card accounts"
+  ],
+  "reward_caps": [
+    "Cashback on online spends capped at ₹1,000 in a statement cycle",
+    "Total Cashback capped at ₹1,500 in a statement cycle",
+    "Maximum cashback on online spends per statement: ₹1,000",
+    "Maximum total cashback per statement: ₹1,500"
+  ],
+  "cashback_benefits": [
+    "3% Cashback on online spends up to ₹10,000",
+    "5% Cashback on incremental online spends above ₹10,000",
+    "1% Cashback on UPI spends done via IDFC FIRST Bank App",
+    "1% Cashback on in-store card swipe",
+    "1% Cashback on essential categories (Utility, Rent, Jewellery, Wallet load, Insurance, Education, Gift Card, Government Services, FASTag, and Railway)",
+    "Bonus 1% Cashback on hotel & flight booking done via IDFC FIRST Bank App",
+    "Online spends <= ₹10,000: 3%",
+    "Online spends > ₹10,000 (incremental): 5%",
+    "Offline spends: 1%",
+    "UPI spends on IDFC FIRST Bank Mobile App: 1%",
+    "Essential spends (FASTag, Railway, Utility, Rental, Jewellery, Wallet, Insurance, Education, Gift Card, Government Services): 1%",
+    "Travel bookings via IDFC FIRST Bank Mobile App: Bonus 1%",
+    "Apparel purchase: 3% cashback",
+    "Restaurant bill: 1% cashback",
+    "Flight booking: 3% cashback",
+    "Rent payment: 1% cashback",
+    "Bonus Cashback: 1% of transaction amount for travel"
+  ],
+  "milestone_benefits": [
+    "Spend ₹2,00,000 or more in a year and get 100% annual fee reversed",
+    "Spend ₹1,00,000 - ₹2,00,000 in a year and get 50% annual fee reversed",
+    "Annual Fee reversal: On Spends of ₹ 2,00,000 or more in a Card Anniversary Year, Annual Fee of ₹ 1,000 + GST will be reversed",
+    "On Spends between ₹ 1,00,000 (including) & ₹ 2,00,000 in a Card Anniversary Year, Annual Fee of ₹ 500 + GST will be reversed"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Bonus 1% Cashback on hotel & flight booking done via IDFC FIRST Bank App"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "1% cashback on restaurant bills"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver up to ₹100 per statement cycle",
+    "1% Fuel Surcharge reversal up to ₹100 per Statement Cycle for Fuel spends between ₹200 to ₹5,000"
+  ],
+  "shopping_benefits": [
+    "3% cashback on apparel purchases"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Personal accident cover of ₹2,00,000",
+    "Lost card liability cover of ₹25,000",
+    "Credit Shield of ₹50,000",
+    "Purchase Protection of ₹25,000",
+    "Card Liability Cover: INR 25,000",
+    "Personal Accident: INR 200,000",
+    "Credit Shield: INR 50,000",
+    "Purchase Protection: INR 25,000",
+    "Travel Insurance"
+  ],
+  "protection_benefits": [
+    "Complimentary Roadside Assistance worth ₹1,399 (up to 4 times a year)",
+    "Zero Card Liability Cover (Lost Card Liability, Counterfeit/Skimming/Online Fraud Protection)",
+    "Complimentary Road Side Assistance (RSA) all over India, up to 4 times in a year worth ₹1,399"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% Fuel surcharge waiver up to ₹100 per statement cycle",
+  "eligibility": [
+    "Age Limit Criteria: 18 to 80 years",
+    "Indian resident citizen with a current and permanent residential address in India",
+    "Create and maintain a minimum fixed deposit of ₹10,000",
+    "Cashback posted only if Minimum Amount Due is paid on or before Payment Due Date",
+    "Cardholder must have a valid and good standing account"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining fees: ₹0 (Introductory Offer)",
+    "Annual Fees: ₹1,000",
+    "Cash withdrawal interest: 0% for up to 45 days",
+    "Cash withdrawal fees: ₹199+GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining fees: ₹0 (Introductory Offer)",
+    "Annual Fees: ₹1,000",
+    "Cash withdrawal interest: 0% for up to 45 days",
+    "Cash withdrawal fees: ₹199+GST",
+    "Reimbursement up to ₹1,000 whichever is less if service not provided"
+  ],
+  "spend_conditions": [
+    "Online spends done on essential categories and fuel will not count towards the ₹10,000 online spends milestone",
+    "All spends qualify for Cashback except fuel, ATM Cash withdrawals, EMI, UPI spends done through other UPI apps (GPay, PhonePe, Paytm etc.)",
+    "ATM cash withdrawals",
+    "EMIs",
+    "Fuel spends",
+    "UPI spends via other third-party applications",
+    "Spends eligible for Annual Fee reversal will include all the purchases made by the Cardholder excluding ATM Cash withdrawals, monthly EMIs, Balance transfer transactions, fee and charges."
+  ],
+  "benefit_conditions": [
+    "Cashback will be posted in Card Account only when the Minimum Amount Due (MAD) has been realised on or before the Payment Due Date (PDD)",
+    "Roadside assistance can be availed up to 4 times in a year",
+    "Personal accident cover of ₹2,00,000, valid on making at least one transaction on Hello Cashback Credit Card in the last 30 days",
+    "Lost card liability cover of ₹25,000 valid on making at least one transaction on Hello Cashback Credit Card in the last 30 days",
+    "Cashback posted 1 day after Payment Due Date upon payment of Minimum Amount Due",
+    "Cashback will be debited if net cashback is negative",
+    "Refunded or reversed transactions will have cashback debited",
+    "All insurance benefits will be applicable only in case the said IDFC FIRST Bank Credit Card has been used at least once for a Purchase or ATM withdrawal transaction in the last 30 days prior to the happening of the unforeseen event.",
+    "Travel insurance covers international travel only and only when the ticket is purchased using the said IDFC FIRST Bank Credit Card.",
+    "Cashback earned are non-transferable",
+    "Cashback cannot be combined with other Credit Card accounts",
+    "Bank may cancel card or withhold cashback for misuse",
+    "Bank may clawback cashback"
+  ],
+  "renewal_benefits": [
+    "Spend ₹2,00,000 or more in a year and get 100% annual fee reversed",
+    "Spend ₹1,00,000 - ₹2,00,000 in a year and get 50% annual fee reversed"
+  ],
+  "partner_programs": [
+    "UPI enabled and auto linked to IDFC FIRST Bank App",
+    "Travel bookings via IDFC FIRST Bank Mobile App (Bonus Cashback 1%)"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Joining Fee: ₹0 (Introductory Offer)"
+  ],
+  "important_terms": [
+    "Fixed deposits opened for Hello Cashback Credit Card shall be single held and shall be on auto renewal, reinvest mode unless terminated and cancelled",
+    "A lien will be marked on the entire amount of the FD",
+    "The Fixed Deposits opened/placed by HUFs, Partnership firms/society/trust, minors or opened jointly by applicant/s, Tax Saver, or Flexi-Deposits (Auto-sweep Fixed Deposits) are not eligible for the Hello Cashback Credit Card",
+    "Over-Limit facility is not available",
+    "Cashback posted 1 day after Payment Due Date upon payment of Minimum Amount Due",
+    "Maximum cashback on online spends per statement is ₹1,000",
+    "Maximum total cashback per statement is ₹1,500",
+    "Cashback will be debited if net cashback is negative",
+    "Refunded or reversed transactions will have cashback debited",
+    "Cashback not earned on excluded categories",
+    "Spends eligible for Annual Fee reversal will include all the purchases made by the Cardholder excluding ATM Cash withdrawals, monthly EMIs, Balance transfer transactions, fee and charges.",
+    "All insurance benefits will be applicable only in case the said IDFC FIRST Bank Credit Card has been used at least once for a Purchase or ATM withdrawal transaction in the last 30 days prior to the happening of the unforeseen event.",
+    "Travel insurance covers international travel only and only when the ticket is purchased using the said IDFC FIRST Bank Credit Card.",
+    "The insurance claim proceeds may be placed in escrow by the Insurance Company at the direction of IDFC FIRST Bank until satisfactory discharge of all outstanding liabilities on the Card by the Card Member.",
+    "In the event of the Card facility being terminated, for whatever reason, all such insurance benefits shall automatically, and ipso facto cease to be available from such date of cessation of membership.",
+    "IDFC FIRST Bank may at any time (at its sole discretion without giving any prior notice thereof) modify, suspend, withdraw or cancel these insurance benefits and there will be no binding obligation on IDFC FIRST Bank to continue these benefits.",
+    "Fair usage restrictions prohibit resale, commercial, money laundering, anti-social activities, and undue advantage of cashback",
+    "Bank reserves right to cancel card and withhold cashback for misuse",
+    "Bank may clawback cashback from account or fixed deposits",
+    "Bank may modify or terminate offers with or without notice"
+  ],
+  "excluded_categories": [
+    "Fuel",
+    "ATM Cash withdrawals",
+    "EMI",
+    "UPI transactions done through other UPI apps (GPay, PhonePe, Paytm, etc.)",
+    "ATM cash withdrawals",
+    "EMIs",
+    "Fuel spends",
+    "UPI spends via other third-party applications",
+    "ATM Cash withdrawals, monthly EMIs, Balance transfer transactions, fee and charges (for Annual Fee reversal)",
+    "PIN based transactions (for Lost Card Liability)",
+    "Fraudulent transactions done by person known to the cardholder (for Card Liability Cover)",
+    "All Losses arising from breach of 2nd level authorizations (for Card Liability Cover)",
+    "Claim due to deliberate breach of law (for Card Liability Cover)",
+    "Gross Negligence (for Card Liability Cover)",
+    "Any failed/ duplicate/ declined transactions by host website/ authorized bank (for Card Liability Cover)",
+    "Any losses arising due to server hacking or data breach (for Card Liability Cover)",
+    "Death due to participation in dangerous sports activities, attempted suicide, self injury, or under influence of intoxicating liquor or drugs or any kind of natural death (for Personal Accident)",
+    "Pilots, Armed Forces, Police, Air crew (for Personal Air Accident)",
+    "Jewellery, perishable items (for Purchase Protection)",
+    "Earthquake, Terrorism (for Purchase Protection)",
+    "Mysterious disappearance (for Purchase Protection)",
+    "Purchasing goods or services for resale",
+    "Commercial or business-related transactions",
+    "Money laundering or speculative activities",
+    "Unlawful or non-bonafide personal purposes",
+    "Exploitation for commercial gain",
+    "Round tripping to gain cashback",
+    "Undue advantage of cashback feature"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\IDFC FIRST_Hello Cashback Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Card-Member-Agreement6.pdf",
+    "Hello Cashback Credit Card – Product Feature Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Hello-Cashback-Terms-and-Conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Hello-Cashback-Terms-and-Conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Hello Cashback Credit Card\\TERMS\\Hello-Cashback-Terms-and-Conditions3.pdf"
+  ]
+}

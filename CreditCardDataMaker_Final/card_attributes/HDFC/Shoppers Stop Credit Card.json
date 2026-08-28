@@ -1,0 +1,241 @@
+{
+  "card_name": "Shoppers Stop Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 299,
+  "annual_fee": 299,
+  "fee_waiver_condition": "1% fuel surcharge waiver on minimum transaction of ₹400 & maximum transaction of ₹5000. Maximum waiver of ₹500 per statement cycle",
+  "welcome_benefits": [
+    "Shoppers Stop welcome voucher",
+    "Shoppers Stop First Citizen membership",
+    "Welcome Voucher worth ₹500",
+    "Shoppers Stop Silver Edge Membership worth ₹350",
+    "Complimentary Shoppers Stop Silver Edge membership worth Rs. 350",
+    "Rs 500 worth of Shoppers Stop voucher redeemable on any transaction at Shoppers Stop store"
+  ],
+  "reward_structure": [
+    "Reward points earned on all retail transactions (online & POS) except wallet loading, EMI transactions, account fees and payment, purchase of jewelry/gold coins or equivalents",
+    "Mass variant point value: Product Catalogue up to 0.25, Cash Back 0.2, Airmiles 0.25, Unified SmartBuy 0.2",
+    "Premium variant point value: Product Catalogue up to 0.35, Cash Back 0.2, Airmiles up to 0.5, Unified SmartBuy 0.5",
+    "3% Reward Points on Shoppers Stop purchases",
+    "1% Reward Points on all other spends",
+    "3% Reward Points on Shoppers Stop spends (min transaction of INR 150, monthly cap of 500 RP)",
+    "1% Reward Points on Non-Shoppers Stop spends (min transaction of INR 150, monthly cap of 1000 RP)"
+  ],
+  "reward_redemption_options": [
+    "Redeem points on HDFC Bank’s Reward redemption portal SmartBuy or Netbanking portal",
+    "Shoppers Stop voucher",
+    "Product Catalogue",
+    "Cash Back",
+    "Airmiles",
+    "Unified SmartBuy (Flights/Hotels)",
+    "Product Catalogue (0.25 per point)",
+    "Cash Back (0.20 per point)",
+    "Airmiles (0.25 per point)",
+    "Unified SmartBuy (Flights/Hotels) (0.20 per point)",
+    "1 Reward Point = ₹1 when redeemed against Shoppers Stop vouchers",
+    "1 Reward Point = ₹0.2 against statement balance",
+    "1 Reward Point = ₹0.25 Cash Back",
+    "1 Reward Point = ₹0.25 Airmiles",
+    "1 Reward Point = ₹0.2 Unified SmartBuy (Flights/Hotels)"
+  ],
+  "reward_exclusions": [
+    "Wallet loading",
+    "EMI Transactions",
+    "Account Fees and Payment",
+    "Purchase of jewelry/gold coins or equivalents",
+    "No Reward Points accrual on Rental and Government category payments",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Fuel",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travelers’ cheques",
+    "Insurance"
+  ],
+  "reward_caps": [
+    "Reward Points on Grocery spends capped at 1,000 points per month per customer",
+    "500 Reward Points under the 3% Reward Points feature on Shoppers Stop Spends per month",
+    "1000 Reward Points on Non-Shoppers Stop spends per month",
+    "Weekend offer capped to maximum once in a month and 5 times in a year",
+    "Redemption for flights & hotels bookings capped per calendar month at 50,000",
+    "Reward points redemption for Reward Point redemption capped per calendar month to 50,000 rewards points"
+  ],
+  "cashback_benefits": [
+    "3% cashback on Shoppers Stop purchases",
+    "1% cashback on other spends",
+    "Minimum amount required for cashback redemption: Rs 500",
+    "3% Reward Points on Shoppers Stop spends",
+    "1% Reward Points on Non-Shoppers Stop spends"
+  ],
+  "milestone_benefits": [
+    "Weekend offer on single purchase of ₹15,000 or more"
+  ],
+  "lounge_access": [
+    "Airport Lounge access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver up to ₹250 per statement cycle",
+    "1% fuel surcharge waiver on minimum transaction of ₹400 & maximum transaction of ₹5000. Maximum waiver of ₹500 per statement cycle"
+  ],
+  "shopping_benefits": [
+    "Save more on every spend at Shoppers Stop",
+    "Weekend shopping offers",
+    "3% Reward Points on Shoppers Stop purchases",
+    "Welcome Voucher worth ₹500",
+    "Silver Edge Membership worth ₹350",
+    "Weekend offer on purchases of ₹15,000 or more",
+    "3% Reward Points on Shoppers Stop spends"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Zero Lost Card Liability for fraudulent transactions"
+  ],
+  "protection_benefits": [
+    "Protection against fraudulent transactions"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Ability to convert large transactions to SmartEMI",
+    "Up to 50 days interest‑free credit from date of purchase",
+    "Smart EMI options for 9 to 36 months"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 1,
+  "fuel_surcharge_waiver": 250,
+  "eligibility": [
+    "Salaried Indian nationals: age 21-60 years, net monthly income > ₹20,000",
+    "Self-employed Indian nationals: age 21-65 years, annual Income Tax Return (ITR) > ₹6 lakh",
+    "Salaried Indian national: Age 21-60 years",
+    "Self employed Indian national: Age 21-65 years",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years; Net Monthly Income > ₹20,000",
+    "For self employed Indian national: Age: Minimum 21 years and maximum 65 years; Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Individuals above the age of 21 years",
+    "Salaried: Age 21‑60 years, Monthly income ≥ ₹20,000",
+    "Self‑Employed: Age 21‑65 years, Annual ITR > ₹6,00,000"
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹20,000 for salaried applicants",
+    "Annual ITR > ₹6 lakh for self-employed applicants",
+    "Salaried: Net Monthly Income > ₹20,000",
+    "Self employed: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "For salaried Indian nationals: Net Monthly Income > ₹20,000",
+    "For self-employed Indian nationals: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Monthly income ≥ ₹20,000 (salaried)",
+    "Annual ITR > ₹6,00,000 (self‑employed)"
+  ],
+  "documents_required": [
+    "Identity Proof (Passport, Aadhaar card, Voter ID, Driving licence, PAN card)",
+    "Passport size photographs",
+    "Address Proof (Utility bills, Rental agreement)",
+    "Income Proof (Salary slips, Income Tax Returns, Form 16, Bank statements)"
+  ],
+  "charges": [
+    "Joining/Renewal Membership Fee – ₹299 + applicable taxes",
+    "1% fee on rental transactions from the 2nd rental transaction each calendar month",
+    "1% markup on all International DCC transactions"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining/Renewal Membership Fee – ₹299 + taxes",
+    "1% fee on rental transactions after first rental per month",
+    "1% markup on International DCC transactions",
+    "₹50 redemption fee for rewards redemption towards statement credit (CashBack) effective 1st August 2024",
+    "₹99+Taxes towards redemption handling charges for redemption via reward catalogue"
+  ],
+  "spend_conditions": [
+    "Weekend offer applicable on single purchase of ₹15,000 or more",
+    "Fuel surcharge waiver up to ₹250 per statement cycle",
+    "3% Reward Points only on online/offline transactions done on Shoppers Stop stores or website",
+    "1% Reward Points on Non-Shoppers Stop spends with exclusions"
+  ],
+  "benefit_conditions": [
+    "Welcome voucher redeemable on any transaction at Shoppers Stop store via the card",
+    "Silver Edge membership provided automatically",
+    "Weekend offer assumes 5 weekend visits per year with bill value ≥ ₹15,000 each",
+    "Reward Points posted on calendar month basis",
+    "Reward Points validity of 2 years",
+    "Minimum 500 Reward Points required for redemption against statement balance",
+    "Weekend offer capped to maximum once in a month and 5 times in a year",
+    "Redemption for flights and hotels via SmartBuy capped at 50% of booking value"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Shoppers Stop First Citizen Program",
+    "Shoppers Stop",
+    "UPI scan‑and‑pay transactions",
+    "Shoppers Stop Silver Edge membership"
+  ],
+  "merchant_offers": [
+    "Weekend shopping offers",
+    "Weekend offer on single purchase of ₹15,000",
+    "Reward Points redemption options across product catalogue, cash back, airmiles, and travel bookings"
+  ],
+  "limited_period_offers": [
+    "Weekend offer on purchases of ₹15,000 or more",
+    "Welcome voucher worth ₹500",
+    "Earn Rs.500 per month for a single purchase of Rs.15,000 or above on Shoppers Stop over the weekend"
+  ],
+  "important_terms": [
+    "Reward Points valid for 2 years",
+    "Zero Lost Card Liability for fraudulent transactions",
+    "Interest‑free period up to 50 days from date of purchase",
+    "SmartEMI conversion available",
+    "Fees and charges as per card agreement",
+    "Reward Points are posted on calendar month basis",
+    "Reward Points validity of 2 years",
+    "Minimum 500 Reward Points required for redemption against statement balance",
+    "Weekend offer capped to maximum once in a month and 5 times in a year",
+    "Redemption for flights and hotels via SmartBuy capped at 50% of booking value"
+  ],
+  "excluded_categories": [
+    "Rental and Government category payments",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Fuel",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travelers’ cheques",
+    "Insurance"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\HDFC_Shoppers Stop Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\FAQ\\ss-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\TERMS\\card-member-agreement-shoppers-stop1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\TERMS\\card-member-agreement-shoppers-stop2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\TERMS\\card-member-agreement-shoppers-stop3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Shoppers Stop Credit Card\\TERMS\\SS-T-and-C-latest.pdf"
+  ]
+}

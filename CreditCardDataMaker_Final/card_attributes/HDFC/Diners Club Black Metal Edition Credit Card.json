@@ -1,0 +1,263 @@
+{
+  "card_name": "Diners Club Black Metal Edition Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Premium",
+  "joining_fee": "10,000 plus Applicable Taxes",
+  "annual_fee": "10,000 plus Applicable Taxes",
+  "fee_waiver_condition": "Spend 8 lakh or more in a year before the renewal date to get the renewal fee waived.",
+  "welcome_benefits": [
+    "Club Marriott membership",
+    "Swiggy One (3 months)",
+    "Amazon Prime memberships"
+  ],
+  "reward_structure": [
+    "10X reward points on hotels via SmartBUY",
+    "5X reward points on flights via SmartBUY",
+    "2X reward points on weekend dining",
+    "1X reward points on shopping via SmartBUY",
+    "1X reward points on all other spends via SmartBUY",
+    "Reward Points are earned on transactions amounts in multiple of ₹150",
+    "Reward points are valid for 3 years",
+    "Insurance transactions capped at 5000 per day (till 30 June 2025)",
+    "Insurance transactions capped at 5000 per month (from 1 July 2025)",
+    "Grocery transactions capped at 2000 Reward Points per month",
+    "Utility transactions capped at 2000 Reward Points per calendar month",
+    "Telecom transactions capped at 2000 Reward Points per calendar month",
+    "Maximum reward points per statement cycle is 75,000"
+  ],
+  "reward_redemption_options": [
+    "SmartBuy",
+    "NetBanking",
+    "Cashback redemption (Minimum amount Rs 500)",
+    "Flights & hotels bookings redemption capped at 75,000 reward points per calendar month",
+    "Cashback redemption capped at 50,000 reward points per calendar month",
+    "Flights & hotels bookings: Can redeem up to 70% of booking value",
+    "Product/Voucher redemption: Can redeem up to 100% of value"
+  ],
+  "reward_exclusions": [
+    "EasyEmi and e-wallet loading transactions",
+    "Retail transactions converted into SmartEMI",
+    "Online Skill-Based gaming transactions (from 1 July 2025)",
+    "Rent payments",
+    "Government related transactions"
+  ],
+  "reward_caps": [
+    "70% of booking value for flights and hotels",
+    "Insurance transactions: 5000 per day (till 30 June 2025)",
+    "Insurance transactions: 5000 per month (from 1 July 2025)",
+    "Flights & hotels redemption: 75,000 per calendar month",
+    "Cashback redemption: 50,000 per calendar month",
+    "Grocery: 2000 per month",
+    "Utility: 2000 per calendar month",
+    "Telecom: 2000 per calendar month",
+    "Total points per statement cycle: 75,000"
+  ],
+  "cashback_benefits": [
+    "Minimum amount for cashback redemption is Rs 500",
+    "Cashback redemption capped at 50,000 reward points per calendar month"
+  ],
+  "milestone_benefits": [
+    "10,000 bonus reward points per quarter on spends of ₹4 lakhs or more"
+  ],
+  "lounge_access": [
+    "Unlimited lounge access to 1,300+ lounges in India and abroad",
+    "Domestic: Can avail lounge access by swiping credit card at lounge terminal",
+    "International: Can use credit card to avail lounge access outside India",
+    "International: Visits exceeding complimentary limit charged at prevailing rate"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "2% on all foreign currency spends",
+    "Up to 10X reward points on spending via SmartBuy"
+  ],
+  "hotel_benefits": [
+    "10X reward points on hotel bookings via SmartBUY"
+  ],
+  "airline_benefits": [
+    "5X reward points on flight bookings via SmartBUY"
+  ],
+  "forex_benefits": [
+    "2% on all foreign currency spends"
+  ],
+  "dining_benefits": [
+    "2X reward points on weekend dining",
+    "40% off on dining with Swiggy Dineout"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "6 complimentary golf games per quarter",
+    "6 complimentary golf games every quarter within India and across the world",
+    "100% green fee waiver on golf courses worldwide on weekdays and weekends",
+    "24-hour access to Golf Concierge Assistance services for booking/cancellation"
+  ],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "1X reward points on shopping via SmartBUY"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Air Accident Cover: USD 250,000",
+    "Emergency Medical Expenses: USD 62,500",
+    "Card Liability Cover: INR 900,000",
+    "Baggage Delay Cover: USD 688",
+    "Loss of Personal Documents Cover: USD 688",
+    "Hijacking Cover: USD 688",
+    "Air accident insurance worth ₹2 crore",
+    "Emergency overseas hospitalization cover of ₹50 lakh",
+    "Travel insurance cover of up to ₹55,000 on baggage delay beyond 8 hours for international flights (capped to $10/hour)"
+  ],
+  "protection_benefits": [
+    "Credit liability cover of up to ₹9 lakh"
+  ],
+  "concierge_benefits": [
+    "24x7 Concierge services",
+    "24 hours dedicated customer care number available at https://www.hdfc.bank.in/Infinia"
+  ],
+  "emi_benefits": [
+    "SmartEMI option to convert large transactions to EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 2,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Salaried Applicants: Net Income (Monthly) > ₹2.5 lakh per month",
+    "Self-Employed Applicants: Income Tax Return (ITR) greater than ₹30 lakh per annum",
+    "Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Net Income (Monthly) > ₹2.5 lakh per month",
+    "Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ₹30 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian; Age: Minimum 21 years, Maximum 60 years; Income: Net Income (Monthly) > ₹2.5 lakh per month",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years; Income: Income Tax Return (ITR) greater than ₹30 lakh per annum",
+    "Salaried: Age 21-60 years, Net Income > ₹2.5 lakh per month",
+    "Self-employed: Age 21-65 years, Net Income > ₹30 lakh per annum",
+    "Eligible primary HDFC Bank Diners Primary Credit Cardholders"
+  ],
+  "income_requirements": [
+    "Salaried: ₹2.5 lakh per month",
+    "Self-Employed: ₹30 lakh per annum",
+    "Salaried: Net Income (Monthly) > ₹2.5 lakh",
+    "Self-Employed: ITR > ₹30 lakh per annum",
+    "Net Income (Monthly) > ₹2.5 lakh",
+    "Income Tax Return (ITR) > ₹30 lakh per annum",
+    "Salaried: > ₹2.5 lakh per month",
+    "Self-employed: > ₹30 lakh per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving license, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (self-employed), Form 16, Bank statements",
+    "Valid Government issued identification proof",
+    "Valid golf handicap certificate for international bookings"
+  ],
+  "charges": [
+    "Annual fee: ₹10,000 plus applicable taxes",
+    "Cancellation fee of INR 500 per person for domestic bookings if cancelled less than ONE clear day before tee-off",
+    "Cancellation fee of INR 500 per person for international bookings if cancelled less than four clear days before tee-off",
+    "Administration fee of Rs. 500 plus applicable taxes for any change requests made after confirmation of booking"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Annual fee: ₹10,000 plus applicable taxes",
+    "Foreign currency markup: 2%",
+    "Cancellation fee of INR 500 per person for domestic bookings if cancelled less than ONE clear day before tee-off",
+    "Cancellation fee of INR 500 per person for international bookings if cancelled less than four clear days before tee-off",
+    "Administration fee of Rs. 500 plus applicable taxes for any change requests made after confirmation of booking"
+  ],
+  "spend_conditions": [
+    "Spend ₹4 lakh or more in a calendar quarter to get 10,000 bonus reward points",
+    "Spend ₹8 lakh in 12 months to waive renewal fee for the next renewal year"
+  ],
+  "benefit_conditions": [
+    "All insurance covers are available to the Primary cardholder.",
+    "Liability on lost card will start from the Date of Dispatch of the card up to 30 days.",
+    "Air Accident/ Emergency Medical Expenses will start from the Date of Activation of the card (means first POS transaction/cash withdrawal by the cardholder).",
+    "Air Accident cover will be activated if the tickets are purchased using Diners Card.",
+    "Travel Insurance will be activated if the tickets are purchased using Diners Card.",
+    "Liability on lost card covered to an extent of INR 900,000 for 2 days prior to Date of Block and 30 days post the Date of Block.",
+    "Terrorism is specifically excluded under the policy.",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa.",
+    "Travel insurance related coverages are only valid for onboard journey i.e. coverages will not be applicable on return journey.",
+    "Travel Insurance provided shall be valid for International Travel only, subject to travel origination from India.",
+    "Maximum Trip Duration is restricted to 30 Days.",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded.",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company with whom the Bank has tied up.",
+    "The above features and benefits are valid up to 22 July, 2026.",
+    "Welcome benefits: Spend ₹1.5 lakh or more in first 90 days",
+    "Milestone benefits: Spend ₹4 lakh or more in a calendar quarter",
+    "Must have a valid golf handicap to avail the Green Fee offer",
+    "Authentication transaction at golf course is mandatory",
+    "Must book through Golf Concierge and not directly with golf clubs"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived if spend ₹8 lakh in 12 months"
+  ],
+  "partner_programs": [
+    "Club Marriott",
+    "Swiggy One",
+    "Amazon Prime"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Intimation of Claim to be provided within 60 days from the date of loss by the insured.",
+    "Documents to be submitted to HDFC ERGO within 120 days from the date of loss.",
+    "Reward points can be redeemed up to 70% of booking value for flights and hotels",
+    "Foreign currency markup of 2% applies",
+    "Reward points valid for 3 years",
+    "Max reward points per statement cycle is 75,000",
+    "Rent and Government related transactions do not earn points",
+    "Online Skill-Based gaming transactions will not earn points (from 1 July 2025)",
+    "Golf benefits are exclusive and non-transferable",
+    "Must follow all local club rules and limits of access",
+    "HDFC Bank does not underwrite or warrant services by golf courses",
+    "Individuals using the program accept the Terms and Conditions"
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions done by person known to the cardholder",
+    "Travel insurance not valid for procuring a visa",
+    "Travel insurance not applicable on return journey",
+    "Travel insurance not valid for domestic travel",
+    "EasyEmi and e-wallet loading",
+    "Rent payments",
+    "Government related transactions",
+    "Online Skill-Based gaming (from 1 July 2025)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\HDFC_Diners Club Black Metal Edition Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\summary.txt",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\fees_and_charges.pdf",
+    "https://customer-portal-assets.hdfcergo.com/assets/v2/docs/default-source/downloads/policy-wordings/others/payment-protection-package/payment-protection-package-427248269136.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\INSURANCE\\insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\MITC\\mitc-in-english1.pdf",
+    "Page 11 of 47",
+    "Page 12 of 47",
+    "Page 13 of 47",
+    "Page 14 of 47",
+    "Page 15 of 47",
+    "Page 16 of 47",
+    "Page 17 of 47",
+    "Page 18 of 47",
+    "Page 19 of 47",
+    "Page 20 of 47",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\MITC\\mitc-in-english2.pdf",
+    "Page 21 of 47",
+    "Page 22 of 47",
+    "Page 23 of 47",
+    "Page 24 of 47",
+    "Page 25 of 47",
+    "Page 26 of 47",
+    "Page 27 of 47",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\TERMS\\diners-club-golf-t-and-c.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Black Metal Edition Credit Card\\TERMS\\lounge-tnc.pdf"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "card_name": "Titanium Times Card Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Spend 1.5 lakh in a year to waive renewal membership fee; LTF cardholders meeting criteria after July 22 get first year waiver",
+  "welcome_benefits": [
+    "Welcome vouchers worth 5,000 across shopping, apparel, dining, and more",
+    "Complimentary Annual Times Prime Membership (upon activation within 30 days)"
+  ],
+  "reward_structure": [
+    "2 Reward Points for every 150 retail spend",
+    "5 Reward Points for every 150 spent at restaurants on weekdays",
+    "Daily cap of 2,000 Reward Points for insurance transactions",
+    "Reward Points capped at 1,000 points per month for grocery transactions",
+    "Reward Points not earned on fuel transactions",
+    "EasyEMI and e-wallet loading transactions do not earn Reward Points"
+  ],
+  "reward_redemption_options": [
+    "Offset outstanding balance (minimum redemption 500)",
+    "Redeem through MyRewards Catalogue",
+    "Redemption rate: 1 Reward Point = 0.1"
+  ],
+  "reward_exclusions": [
+    "Fuel transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "Retail transactions converted into SmartEMI",
+    "Hotel MCC transactions do not qualify for bonus points",
+    "Only Restaurant MCC transactions by Visa/MasterCard earn bonus points"
+  ],
+  "reward_caps": [
+    "Daily cap of 2,000 points for insurance transactions",
+    "Monthly cap of 1,000 points for grocery transactions"
+  ],
+  "cashback_benefits": [
+    "Up to 5% CashBack on utility bills/shopping"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [
+    "Up to 20% off on online and offline shopping, wellness, and hotel stays at selected partners"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    {
+      "description": "10% instant discount up to ₹1500 on restaurant bills via PayEazy on EazyDiner",
+      "conditions": "Valid for EazyDiner customers in India only"
+    },
+    "Extra discount of 1,500 on Eazydiner via PayEazy (up to 10% of bill)"
+  ],
+  "movie_benefits": [
+    {
+      "description": "25% discount on actual movie ticket price (excluding convenience fee) on BookMyShow",
+      "conditions": [
+        "Maximum of 4 discounted tickets per card per month",
+        "Maximum discount of Rs 350 per transaction",
+        "Daily quota limit applies",
+        "Discount of Rs 50 on Food and Beverage can be availed only once per user"
+      ]
+    },
+    "25% off on movie tickets via BookMyShow, up to 350 per transaction"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions between 400 and 4,000; maximum waiver 250 per month"
+  ],
+  "shopping_benefits": [
+    "Up to 20% off on online and offline shopping at selected partners",
+    "Exclusive city-wise offers daily"
+  ],
+  "entertainment_benefits": [
+    "25% off movie tickets via BookMyShow"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert big purchases into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1%",
+  "fuel_surcharge_waiver": "1% waiver up to 250 per month on transactions 400-4,000",
+  "eligibility": [
+    "Salaried Indian nationals: age 21-60, net monthly income > ₹25,000",
+    "Self-employed Indian nationals: age 21-65, annual income > ₹6 lakh",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Net monthly income> ₹25,000 and above.",
+    "For self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Annual income >₹6 lakh and above.",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years.",
+    "For self-employed Indian national: Age: Minimum 21 years and maximum 65 years.",
+    "Cardholders must complete 3 transactions in a calendar quarter to qualify for Times Prime Membership",
+    "Not applicable to Life Time Free Card holders from the 2nd year onwards"
+  ],
+  "income_requirements": [
+    "Net monthly income > ₹25,000 for salaried applicants",
+    "Annual income > ₹6,00,000 for self-employed applicants",
+    "For salaried: Net monthly income> ₹25,000 and above.",
+    "For self-employed: Annual income >₹6 lakh and above.",
+    "For salaried Indian national: Net monthly income> ₹25,000 and above.",
+    "For self-employed Indian national: Annual income > ₹6 lakh and above."
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/Renewal Membership Fee 500 plus applicable taxes",
+    "1% fee to rental transactions from the second rental transaction of the month"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "1% fee to rental transactions from second rental transaction of the month"
+  ],
+  "spend_conditions": [
+    "Spend 1.5 lakh in a year to waive renewal membership fee",
+    "Make 3 transactions in a calendar quarter to qualify for Times Prime membership",
+    "Activate card within 30 days to receive welcome benefits"
+  ],
+  "benefit_conditions": [
+    "Times Prime Membership is valid for one year upon claiming within 90 days of eligibility",
+    "Only one membership per bank-registered mobile number",
+    "Membership can be extended by completing 3 transactions in the calendar quarter prior to expiry",
+    "Times Prime membership requires 3 transactions in a quarter",
+    "Membership fee waiver for LTF cardholders meeting criteria after July 22"
+  ],
+  "renewal_benefits": [
+    "Waiver of renewal membership fee upon spending 1.5 lakh in a year"
+  ],
+  "partner_programs": [
+    {
+      "name": "Times Prime Membership",
+      "description": "All-in-one lifestyle membership with premium offers across dining, travel, shopping, and entertainment",
+      "benefits": [
+        "Access to 20+ subscriptions and special offers in 25+ popular brands",
+        "Complimentary annual membership on eligibility criteria fulfillment"
+      ]
+    },
+    "Times Prime Membership includes Gaana Plus, TOI+, Myntra, SonyLIV, Chaayos & Uber",
+    "BookMyShow",
+    "Eazydiner",
+    "selected shopping partners"
+  ],
+  "merchant_offers": [
+    {
+      "merchant": "BookMyShow",
+      "offer": "25% discount on movie tickets (excluding convenience fee)"
+    },
+    {
+      "merchant": "EazyDiner",
+      "offer": "10% instant discount up to ₹1500 on restaurant bills via PayEazy"
+    },
+    "Up to 20% off on shopping, wellness, hotel stays at selected partners",
+    "Extra discount of 1,500 on Eazydiner",
+    "25% off movie tickets up to 350 per transaction"
+  ],
+  "limited_period_offers": [
+    "BookMyShow movie ticket discount currently paused"
+  ],
+  "important_terms": [
+    "Times Prime Membership is not applicable to Life Time Free Card holders from the 2nd year onwards",
+    "Only one membership per bank-registered mobile number",
+    "Membership must be claimed within 90 days of eligibility",
+    "Card inactive for 6 months may be cancelled after notice",
+    "BookMyShow offer paused",
+    "Eligibility for Times Prime membership requires 3 transactions in a quarter",
+    "LTF cardholders receive first year membership waiver if criteria met"
+  ],
+  "excluded_categories": [
+    "Fuel transactions (no reward points)",
+    "Hotel MCC transactions (no bonus points)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\HDFC_Titanium Times Card Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\FAQ\\hdfc-bank-titanium-times-credit-card-frequently-asked-questions-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Titanium Times Card Credit Card\\main.pdf"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "card_name": "Wealth",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 499,
+  "annual_fee": 499,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "₹500 gift voucher from your favourite brands",
+    "Up to ₹1,000 cashback on your first EMI transaction",
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days of card generation",
+    "Welcome Gift Voucher worth 500"
+  ],
+  "reward_structure": [
+    "Up to 3X Reward Points on UPI Spends",
+    "Up to 25% reward points",
+    "10 reward points on Dining, Travel, and International purchases.",
+    "3 reward points on eligible spends up to ₹20,000 in a monthly statement cycle."
+  ],
+  "reward_redemption_options": [
+    "Redeem via IDFC FIRST Mobile Banking App",
+    "Redeem via Redemption Portal",
+    "1 Reward Point = ₹0.25",
+    "Bonus Reward Points on Flights & Hotel bookings via the Platform: 20% on hotel bookings, 10% on flight bookings"
+  ],
+  "reward_exclusions": [
+    "Replacement Cards or Re-issued Cards excluded from receiving any Welcome Voucher",
+    "Welcome Voucher is non-transferable, non-binding and non-encashable",
+    "Fuel transactions (Fuel Surcharge waiver will be provided)",
+    "Transactions converted into EMI",
+    "Fee or Charges and the corresponding GST",
+    "Loan on Card",
+    "Balance Transfer",
+    "Cash withdrawal transactions",
+    "Transactions whose value is below ₹200"
+  ],
+  "reward_caps": [
+    "A Card Member will be entitled to only one Welcome Voucher linked to the card billing account during the Programme Period",
+    "Annual Capping on Redeemable Reward Points: 2,00,000",
+    "Monthly Capping on Redeemable Reward Points: 1,00,000"
+  ],
+  "cashback_benefits": [
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days of card generation"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary airport lounge privileges",
+    "1 complimentary visit to Indian Airport lounge, and 1 complimentary visit to Global Airport lounge every quarter"
+  ],
+  "airport_services": [
+    "Airport Meet and Greet Service"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Free trip cancellation cover of up to ₹10,000",
+    "Comprehensive travel insurance cover",
+    "24/7 Roadside assistance",
+    "Airport transfer discounts",
+    "Luxury hotel benefits",
+    "Bonus Reward Points on Flights & Hotel bookings via the Platform: 20% on hotel bookings, 10% on flight bookings"
+  ],
+  "hotel_benefits": [
+    "Get a free stay at ITC Hotels",
+    "Get a free stay at Elivaas Airport",
+    "Luxury hotel benefits",
+    "Bonus Reward Points on Flights & Hotel bookings via the Platform: 20% on hotel bookings"
+  ],
+  "airline_benefits": [
+    "Complimentary railway lounge visits"
+  ],
+  "forex_benefits": [
+    "Forex markup of just 1.5% (+GST) on your international spends"
+  ],
+  "dining_benefits": [
+    "Curated Dining Deals"
+  ],
+  "movie_benefits": [
+    "Buy-1-Get-1 movie ticket offer"
+  ],
+  "golf_benefits": [
+    "Premium golf privileges"
+  ],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver",
+    "Fuel Surcharge waiver provided"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive insurance",
+    "Comprehensive travel insurance cover",
+    "Personal Accident Cover (Sum Insured: ₹50,000)",
+    "Air Accident Cover (Sum Insured: ₹5,00,000)",
+    "Credit Shield Cover (Sum Insured: ₹50,000)",
+    "Purchase Protection Cover (Sum Insured: ₹1,00,00,000)",
+    "Travel Insurance Cover (Sum Insured: ₹2,50,00,000)"
+  ],
+  "protection_benefits": [
+    "Accident and lost card liability cover",
+    "Lost Card Liability Cover (Sum Insured: ₹50,000)",
+    "Counterfeit/Skimming/Online Fraud Protection (Sum Insured: ₹50,000)"
+  ],
+  "concierge_benefits": [
+    "Personalised concierge at your fingertips"
+  ],
+  "emi_benefits": [
+    "Up to ₹1,000 cashback on your first EMI transaction",
+    "5% cashback of up to ₹1,000 on your first EMI transaction within the first 30 days of card generation"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": [
+    "1 complimentary visit to Global Airport lounge every quarter"
+  ],
+  "reward_rate": "1 Reward Point = ₹0.25",
+  "forex_markup": "1.5%",
+  "fuel_surcharge_waiver": "1%",
+  "eligibility": [
+    "Card Members who meet the Eligibility Criteria"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [],
+  "interest_rates": [],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "3 reward points on Rent, Government, Wallet Load and Education",
+    "1 reward point on Insurance, Utilities, Railway, and Fastag"
+  ],
+  "benefit_conditions": [
+    "Minimum 1 transaction in a month (Purchase/ATM Withdrawal)",
+    "Claim must be reported within 90 days for Personal Accident/Air Accident",
+    "Claim documents must be submitted within 60 days for Personal Accident/Air Accident",
+    "Claim must be reported within 30 days for other insurance covers",
+    "Claim documents must be submitted within 30 days for other insurance covers",
+    "Welcome Voucher is valid for Programme Period",
+    "Brand options for redemption can change at any time at Bank's discretion",
+    "Voucher needs to be redeemed at merchant on or before expiry date",
+    "Reward Points can be redeemed to pay up to 70% of the total booking value (incl. tax); rest is to be paid via IDFC FIRST Bank Credit Card",
+    "Bonus Reward Points will be applicable only on full swipe transactions on your IDFC FIRST Bank Credit Card. Any EMI transactions or transactions converted to EMI will not earn Bonus Reward Points."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Over 300+ merchant offers"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Insurance benefits require at least one transaction in the last 30 days",
+    "Insurance claims are processed by New India Assurance and Marsh India",
+    "IDFC FIRST Bank is not responsible for processing claims",
+    "Welcome Voucher is non-transferable, non-binding and non-encashable",
+    "Bank reserves the right to modify/change all or any of the terms applicable to the Benefit/Period without assigning any reasons or without any prior information",
+    "Bank also reserves the right to discontinue the Benefit/Offer without assigning any reasons or without any prior action",
+    "Reward Points will be valid for 24 months from the date they are credited.",
+    "Bonus Reward Points will be credited by the 5th of the next calendar month post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active.",
+    "In case of booking cancellations, refunds for both Reward Points & payments done via credit card will be processed and credited to source account within 7 business days from the date of cancellation."
+  ],
+  "excluded_categories": [
+    "Dangerous sports activities",
+    "Attempted suicide, self-injury",
+    "Intoxicating liquor or drugs",
+    "Natural death",
+    "Terrorism",
+    "On-duty pilots, armed forces, police, air crew",
+    "Jewelry, perishable items",
+    "Earthquake, mysterious disappearance",
+    "Gross negligence",
+    "Deliberate breach of law",
+    "Bank server hacking or data breaching",
+    "Replacement Cards or Re-issued Cards",
+    "Fuel transactions",
+    "Transactions converted into EMI",
+    "Fee or Charges and the corresponding GST",
+    "Loan on Card",
+    "Balance Transfer",
+    "Cash withdrawal transactions",
+    "Transactions whose value is below ₹200"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\IDFC FIRST_Wealth_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V21.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V22.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\LOUNGE\\Wealth-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\OFFERS\\Welcome-Benefit-Claim-Process.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\PRODUCT_GUIDE\\Credit-Card-Basics-Power.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\REWARDS\\Wealth-CC-Rewards-Structure-TnC-28-05-25-copy.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Wealth\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

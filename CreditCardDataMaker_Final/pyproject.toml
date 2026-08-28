@@ -1,0 +1,20 @@
+[project]
+name = "creditcarddatamaker-final"
+version = "1.0.0"
+description = "Credit-card knowledge pipeline: bank sitemap -> PDF corpus -> LLM attribute extraction -> recommendation engine."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "cerebras-cloud-sdk>=1.67.0",
+    "groq>=0.37.1",
+    "openai>=2.41.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "pdfplumber>=0.11.9",
+    "pydantic>=2.10.0",
+    "pypdf>=6.13.2",
+    "python-dotenv>=1.2.2",
+    "reportlab>=4.5.1",
+    "requests>=2.34.2",
+]

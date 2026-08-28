@@ -1,0 +1,238 @@
+{
+  "card_name": "Marriott Bonvoy Credit Card",
+  "card_network": null,
+  "card_type": "Travel Credit Card",
+  "joining_fee": 3000,
+  "annual_fee": 3000,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "1 Free Night Award (valued at 15,000 Marriott Bonvoy Points)",
+    "10 Elite Night Credits",
+    "Silver Elite Status"
+  ],
+  "reward_structure": [
+    "8 points per Rs. 150 spent at hotels participating in Marriott Bonvoy",
+    "4 points per Rs. 150 spent on Travel, Dining & Entertainment",
+    "2 points per Rs. 150 spent on all other applicable purchases",
+    {
+      "type": "Marriott Bonvoy Points",
+      "earning": "Earned through Eligible Spends on the card",
+      "redemption": "Redeemed as per Marriott Bonvoy Program Rules"
+    }
+  ],
+  "reward_redemption_options": [
+    "Redeem Marriott Bonvoy points to book a stay at properties participating in Marriott Bonvoy",
+    "Redeem for Marriott Bonvoy Moments™ experiences, travel, and more",
+    "Redeemed as per Marriott Bonvoy Program Rules"
+  ],
+  "reward_exclusions": [
+    "EMI payments",
+    "Fuel payments",
+    "Wallet loading transactions",
+    "Gift card purchases",
+    "Prepaid card loading",
+    "Rental transactions",
+    "Voucher purchases",
+    "Cash advances or withdrawals",
+    "Payment of outstanding balances",
+    "Payment of the Annual Membership Fee",
+    "Government related transactions",
+    "Any other non-spend charges as specified by the Bank"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "1 Free Night Award on Eligible Spend of INR 6 lakhs in an Anniversary Year",
+    "1 Free Night Award on Eligible Spend of INR 9 lakhs in an Anniversary Year",
+    "1 Free Night Award on Eligible Spend of INR 15 lakhs in an Anniversary Year"
+  ],
+  "lounge_access": [
+    "24 Airport lounge access to all the Diners Lounges in India and worldwide for primary and add-on card members.",
+    "12 Complimentary access within India (both at domestic and international terminals).",
+    "12 Complimentary access outside India.",
+    "12 Complimentary access within India (both at domestic and international terminals) using the Marriott Bonvoy® HDFC Bank Credit Card each year",
+    "Complimentary access outside India every year"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Delay or loss of checked-in baggage cover of up to $250",
+    "Loss of travel documents cover of up to $250",
+    "Flight delay cover of up to $250",
+    "Air accidental cover of up to $12,500",
+    "Emergency medical expenses up to $18,750"
+  ],
+  "hotel_benefits": [
+    "Earn 8 points on every Rs.150 spent at hotels participating in Marriott Bonvoy"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "4 points per Rs. 150 spent on Dining"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "2 Complimentary golf lessons per quarter at select Driving ranges in India",
+    "2 Complimentary Golf course access per quarter at select premium golf courses in India and golf courses internationally",
+    "Access to Golf Concierge Assistance services",
+    "Get access to 2 Complimentary golf lessons per quarter at select Driving ranges in India",
+    "Get 2 Complimentary Golf course access per quarter at select premium golf courses in India and golf courses internationally",
+    "Get access to Golf Concierge Assistance services, available 9 a.m to 9 p.m everyday"
+  ],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "4 points per Rs. 150 spent on Entertainment"
+  ],
+  "insurance_benefits": [
+    "Delay or loss of checked-in baggage cover of up to $250",
+    "Loss of travel documents cover of up to $250",
+    "Flight delay cover of up to $250",
+    "Air accidental cover of up to $12,500",
+    "Emergency medical expenses up to $18,750",
+    "Credit shield of up to INR100,000",
+    "Loss liability cover of up to INR 900,000"
+  ],
+  "protection_benefits": [
+    "Protection against fraudulent transactions made on your Credit Card"
+  ],
+  "concierge_benefits": [
+    "Avail of Concierge Services from 9:00 AM to 9:00 PM by calling toll free: 18003093100 or email: support@marriotthdfcbank.com"
+  ],
+  "emi_benefits": [
+    "Ability to convert large transactions to a SmartEMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 12,
+  "international_lounge_visits_per_year": 12,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Salaried Indian nationals: Age 21-60 years, Net monthly income > ₹1 lakh",
+    "Self-employed Indian nationals: Age 21-65 years, Annual income > ₹15 lakh (per ITR)",
+    "For Salaried Indian nationals: Minimum age 21 years and maximum age 60 years.",
+    "For Self-employed Indian nationals: Minimum age 21 years and maximum age 65 years.",
+    "Salaried: Nationality - Indian, Age - 21 – 60 years, Net Monthly Income > Rs 1,00,000",
+    "Self Employed: Age - 21 – 65 years, Annual ITR > Rs 15 lakh per annum"
+  ],
+  "income_requirements": [
+    "Net monthly income > ₹1 lakh for salaried applicants",
+    "Annual income > ₹15 lakh for self-employed applicants",
+    "For Salaried Indian nationals: Net Monthly Income > ₹1 lakh.",
+    "For Self-employed Indian nationals: Income Tax Return (ITR) > ₹15 lakh per annum.",
+    "For Salaried Indian nationals: Net monthly income exceeding ₹1 lakh.",
+    "For Self-employed Indian nationals: Annual income exceeding ₹15 lakh as per Income Tax Return (ITR).",
+    "Salaried: Net Monthly Income > Rs 1,00,000",
+    "Self Employed: Annual ITR > Rs 15 lakh per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar Card, Voter ID, Driving Licence, PAN Card",
+    "Address Proof: Latest Utility bills (electricity, water, gas or telephone), Rental Agreement",
+    "Income Proof: Latest Salary slips (for salaried individuals), Income Tax Returns (self-employed ITR), Form 16, Bank Statements"
+  ],
+  "charges": [
+    "3,000 plus applicable taxes",
+    "Joining/ Renewal Membership Fee of Rs 3,000 + Applicable Taxes"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining/renewal membership fee: 3,000 plus applicable taxes that will be debited on the 45th day from the date of card issuance"
+  ],
+  "spend_conditions": [
+    "1 Free Night Award and 10 Elite Night Credits on eligible spend transaction of Rs.500 or fee levy on the card"
+  ],
+  "benefit_conditions": [
+    "To use the Participating Airport Lounge, customer's card must be validated at point of entry by swiping a transaction of a nominal charge.",
+    "If customer has exceeded the quota of complimentary airport lounge accesses as per the Product feature the transaction will get declined.",
+    "The Primary Card and Add on Card both need to present their individual cards at the time of entry.",
+    "All usage of the Participating Airport Lounges under the Program is conditional upon presentation of a valid eligible Card.",
+    "Additional charge may occur for meal/food/drink items (especially Alcoholic Drinks) as well as for services like Nap, Massage Service and Spa.",
+    "Participating Airport Lounges may reserve the right to enforce a maximum stay policy (usually 2 - 3 hours) to prevent overcrowding.",
+    "The offer is not transferable, non-negotiable and cannot be encashed.",
+    "HDFC Bank shall not be liable under any circumstances for the services provided at and by the Participating Lounge.",
+    "Each Free Night Award (valid for 12 months) can be redeemed for a one-night stay, inclusive of room rate and applicable taxes, at hotels participating in Marriott Bonvoy® with a redemption level up to 15,000 Marriott Bonvoy® Points",
+    "Golf course access/ golf lesson programme is not a golf club membership",
+    "Acceptance of requests for bookings for golf lessons and golf games are subject to availability and will be accepted at the discretion of the golf clubs / golf instructors",
+    "Any requests for changes to confirmed booking times are subject to availability and will be accepted at the discretion of the golf clubs / golf instructors",
+    "Cardmembers will not be granted access to the golf clubs unless the booking is routed and processed via the Golf Concierge Service",
+    "Golf Clubs / Golf Instructors will not entertain any direct correspondence/enquiries and/or attempts for bookings directly from the Cardmembers",
+    "HDFC Bank reserves the right to change/replace the golf clubs and golf learning facilities at which golf benefits are being offered without notice",
+    "Golf Rates quoted may not be inclusive of taxes and are subject to change without notice",
+    "The HDFC Bank golf course access programme is valid for golf course access only",
+    "Cardmembers and their guests must follow all local club/local establishment usage rules including limits of access to use club facilities as applicable to Green Fee players",
+    "The HDFC Bank golf course access programme cannot be used by Cardmembers or their guests in conjunction with any other promotional golf programme or any other special golf programme",
+    "HDFC Bank & GolfLAN.com do not underwrite or warrant the services performed by the golf courses/golf learning facilities/golf instructors and shall not be liable in any manner whatsoever for any deficiency, delay or imperfection in such services or for any loss or damage that may be suffered, or for any personal injury to a customer directly or indirectly by use or non-use of the services provided by the golf club/golf learning facility/golf instructor",
+    "All payments for guests and any other charges requiring pre-payment must be made at the time of confirmation of the booking and be charged to the Cardmember's Marriott Bonvoy® HDFC Bank Credit Card",
+    "Cardmembers and their guests will still need to pay for range balls, for-caddy fee, insurance and hire of equipment directly at the club, where applicable",
+    "The Golf and other benefits offered to the Cardmember are exclusive and are non-transferable and a Cardmember may not permit any other person to avail of or use the golf benefits on his /her behalf",
+    "Minimum Player Conditions: Weekdays - minimum of 2 (Two) golfers per flight: Weekends/Holidays – minimum of 3 golfers per flight",
+    "The number of slots available for complimentary golf sessions is limited and is available on a first-come-first served basis",
+    "A Cardmember shall be permitted to book a maximum of 14 days in advance and can hold only one booking at a time",
+    "Should the golf game be suspended or cancelled after commencing the round due rain, inclement weather or for any other reason there will be no refund of Guest charges or any other pre-paid charges",
+    "Weekend rates apply for golf games booked on a Saturday/ Sunday/Restricted Holiday/Public Holiday as applicable",
+    "Cardmembers may be allowed to play in the same flight with a Club Member/other Green Fee paying guests subject to fulfilment of the minimum flight conditions and the Club Member/other Green Fee paying guest having already made the booking prior to the Cardmembers' request",
+    "If a Cardmember is joining a Club Member he/she will not be entitled to take along guests for that round",
+    "A club member cannot make a booking directly at the club and transfer the confirmed tee-time over to the Cardmember and vice-versa",
+    "Tournament dates at courses are blackout dates",
+    "The HDFC golf access programme is valid for golf course access only to individual golfers and is not valid for any Group Bookings, unless specified so",
+    "HDFC Bank and participating Establishment(s) reserve their absolute rights to alter/withdraw any of the terms and conditions of the offer or complete offer at any time without prior notice"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Marriott Bonvoy Program"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Joining/renewal membership fee: 3,000 plus applicable taxes that will be debited on the 45th day from the date of card issuance, starting from December 01, 2023",
+    "To use the Participating Airport Lounge, customer's card must be validated at point of entry by swiping a transaction of a nominal charge.",
+    "If customer has exceeded the quota of complimentary airport lounge accesses as per the Product feature the transaction will get declined.",
+    "The Primary Card and Add on Card both need to present their individual cards at the time of entry.",
+    "All usage of the Participating Airport Lounges under the Program is conditional upon presentation of a valid eligible Card.",
+    "Additional charge may occur for meal/food/drink items (especially Alcoholic Drinks) as well as for services like Nap, Massage Service and Spa.",
+    "Participating Airport Lounges may reserve the right to enforce a maximum stay policy (usually 2 - 3 hours) to prevent overcrowding.",
+    "The offer is not transferable, non-negotiable and cannot be encashed.",
+    "HDFC Bank shall not be liable under any circumstances for the services provided at and by the Participating Lounge.",
+    "Marriott Bonvoy Points and Award Redemptions may not be exchanged or redeemed by a member for cash, prizes, or credit",
+    "Points posted from a transfer or earned from Credit Cards may not be redeemable for certain Award Redemptions",
+    "Points are governed by Marriott Bonvoy Program Rules",
+    "Bank has no control over Marriott Bonvoy Program",
+    "Bank is not liable for issues arising from Marriott Bonvoy Points utilization"
+  ],
+  "excluded_categories": [
+    "EMI payments",
+    "Fuel payments",
+    "Wallet loading transactions",
+    "Gift card purchases",
+    "Prepaid card loading",
+    "Rental transactions",
+    "Voucher purchases",
+    "Cash advances or withdrawals",
+    "Payment of outstanding balances",
+    "Payment of the Annual Membership Fee",
+    "Government related transactions",
+    "Any other non-spend charges as specified by the Bank"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\HDFC_Marriott Bonvoy Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\LOUNGE\\lounge-terms-and-condition.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\PRODUCT_GUIDE\\product-feature-related-queries1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\PRODUCT_GUIDE\\product-feature-related-queries2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\TERMS\\card-member-agreement-marriott1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\TERMS\\card-member-agreement-marriott2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\TERMS\\card-member-agreement-marriott3.pdf",
+    "GOLF ACCESS TERMS AND CONDITIONS- MARRIOTT BONVOY® HDFC BANK CREDIT CARD",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Marriott Bonvoy Credit Card\\TERMS\\golf-access-terms-and-conditions.pdf"
+  ]
+}

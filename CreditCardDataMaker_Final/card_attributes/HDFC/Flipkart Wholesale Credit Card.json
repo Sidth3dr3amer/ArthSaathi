@@ -1,0 +1,178 @@
+{
+  "card_name": "Flipkart Wholesale Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 0,
+  "annual_fee": 499,
+  "fee_waiver_condition": "Annual fee waived if spend amount per annum in the previous year is more than or equal to Rs.3 Lakh",
+  "welcome_benefits": [
+    "Rs.500 cashback per transaction on first 3 purchases within first 90 days of carding, min. txn of Rs.2000 each (equivalent to Rs.1500 per customer) and spends limited to Flipkart Wholesale Online Platforms only",
+    "₹500 CashBack per transaction on first 3 purchases within 90 days of on-boarding, (Min.txn of ₹2,000 each and spends limited to Flipkart Wholesale online platforms only)"
+  ],
+  "reward_structure": [
+    "5% cashback on Flipkart Wholesale Online Spends, capped at Rs.2000 per month",
+    "5% cashback on Telecom, Utility, Govt & Tax Payments up to Rs.250/statement",
+    "1% cashback on all other spends, with 25,000 capping per month",
+    "5% CashBack on Flipkart Wholesale Online Spends capped at ₹2000 per month",
+    "5% CashBack on Telecom, Utility, Govt & Tax Payments up to ₹250 per month",
+    "1% CashBack on all other spends will be capped at 25,000 per month"
+  ],
+  "reward_redemption_options": [
+    "Cashback accrued per calendar month will be auto redeemed in the statement of the successive month",
+    "CashBack accrued per calendar month auto redeemed in successive statements"
+  ],
+  "reward_exclusions": [
+    "Cashback not available on direct EMI purchases",
+    "Fuel and wallet spends are excluded from 1% cashback",
+    "Rent payment and Education related transactions will not earn reward points",
+    "Reward points earned on Grocery transactions will be capped to 1,000 per month"
+  ],
+  "reward_caps": [
+    "Maximum capping for 5% cashback on Flipkart Wholesale Online Spends is Rs.2000 per month",
+    "Maximum capping for Launch Offer - Additional 5% cashback on Flipkart Wholesale Online Spends is Rs.3000 per month",
+    "Maximum capping for 5% cashback on Telecom, Utility, Govt & Tax Payments is Rs.250 per month",
+    "Maximum capping for 1% cashback on all other spends is Rs.25,000 per month",
+    "Redemption of Travel Reward Points will be capped at 50,000 points per month",
+    "1% Fees to be charged on Rental transactions - from the 2nd rental transaction done every calendar month"
+  ],
+  "cashback_benefits": [
+    "5% cashback on Flipkart Wholesale Online Spends",
+    "5% cashback on Telecom, Utility, Govt & Tax Payments",
+    "1% cashback on all other spends",
+    "5% CashBack on Flipkart Wholesale Online Spends, capped at ₹2,000 per month",
+    "5% CashBack on Telecom, Utility, Govt and Tax Payments up to ₹250 per month",
+    "1% fuel surcharge waiver with minimum transaction of ₹400 & maximum waiver of ₹250 per statement cycle"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Unlimited airport lounge access to 1000 plus lounges in India for both primary and add-on card members"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "1% Mark-Up charges to be applied on all DCC transactions"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge Waiver at all fuel stations across India up to Rs. 250 per month",
+    "1% fuel surcharge waiver with minimum transaction of ₹400 & maximum waiver of ₹250 per statement cycle"
+  ],
+  "shopping_benefits": [
+    "Exclusive SmartBuy Business portal for all Business cardholders"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Zero liability on fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre"
+  ],
+  "protection_benefits": [
+    "Lost card liability: Zero liability on any fraudulent transactions made on your Credit Card if reported immediately to the 24-hour call centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI Benefit: Convert big spends into EMI after purchase",
+    "Option to convert big spends into EMI after purchase available on Flipkart Wholesale HDFC Bank Credit Card"
+  ],
+  "business_benefits": [
+    "Exclusive SmartBuy Business portal for all Business cardholders"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1%",
+  "fuel_surcharge_waiver": "1% Fuel Surcharge Waiver at all fuel stations across India up to Rs. 250 per month",
+  "eligibility": [
+    "For Self-Employed Applicants",
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 65 years",
+    "Income: Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "Self-employed customers aged between 21 - 65 years",
+    "ITR > Rs. 6 lakh per annum",
+    "For Self-Employed: Nationality: Indian national",
+    "Age: Minimum: 21 years, Maximum: 65 years",
+    "Income: Annual ITR > ₹6 lakh"
+  ],
+  "income_requirements": [
+    "Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "ITR > Rs. 6 lakh per annum",
+    "Annual ITR > ₹6 lakh"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Annual Fee - ₹499 /- + Applicable Taxes",
+    "1% Fees to be charged on Rental transactions - from the 2nd rental transaction done every calendar month",
+    "1% Mark-Up charges to be applied on all DCC transactions"
+  ],
+  "interest_rates": [
+    "Interest Free Credit Period of up to 50 days",
+    "Available at a nominate interest rate. (Check Fees and Charges section for more details)"
+  ],
+  "fees_and_penalties": [
+    "No Joining Fee",
+    "Annual Fee - ₹499 /- + Applicable Taxes",
+    "Know more about the joining/renewal fees and other charges here."
+  ],
+  "spend_conditions": [
+    "Cashbacks are calculated on spends made within the calendar month cycle",
+    "Only the mentioned categories basis the Merchant IDs / Terminal IDs in the list shared by Flipkart Wholesale Partner shall be applicable for relevant cashbacks."
+  ],
+  "benefit_conditions": [
+    "Cashback not available on direct EMI purchases",
+    "Fuel and wallet spends are excluded from 1% cashback",
+    "Unredeemed Reward Points will expire/lapse after 2 years of accumulation",
+    "Reward points earned on Grocery transactions will be capped to 1,000 per month",
+    "Redemption of Travel Reward Points will be capped at 50,000 points per month"
+  ],
+  "renewal_benefits": [
+    "Annual fee waived if spend amount per annum in the previous year is more than or equal to Rs.3 Lakh",
+    "Get renewal membership fee waived off by spending ₹3,00,000 and above in the previous year."
+  ],
+  "partner_programs": [
+    "PayZapp Offer on select merchants like Swiggy, Zomato, Grofers, BigBasket, Myntra, Dominos etc.",
+    "SmartBuy Offer on Travel, Ecom Shopping"
+  ],
+  "merchant_offers": [
+    "Only the mentioned categories basis the Merchant IDs / Terminal IDs in the list shared by Flipkart Wholesale Partner shall be applicable for relevant cashbacks."
+  ],
+  "limited_period_offers": [
+    "₹500 CashBack per transaction on first 3 purchases within 90 days of on-boarding, (Min.txn of ₹2,000 each and spends limited to Flipkart Wholesale online platforms only)"
+  ],
+  "important_terms": [
+    "Cashback accrued per calendar month will be auto redeemed in the statement of the successive month",
+    "Cashback posted will be reversed if a transaction is reversed",
+    "Fuel surcharge waiver of 1% between Rs.400 to Rs.2000 is given to the customer up to a maximum of Rs.250 per statement",
+    "Unredeemed Reward Points will expire/lapse after 2 years of accumulation",
+    "Reward points earned on Grocery transactions will be capped to 1,000 per month",
+    "Redemption of Travel Reward Points will be capped at 50,000 points per month",
+    "1% Fees to be charged on Rental transactions - from the 2nd rental transaction done every calendar month",
+    "1% Mark-Up charges to be applied on all DCC transactions"
+  ],
+  "excluded_categories": [
+    "Direct EMI purchases",
+    "Fuel and wallet spends",
+    "Rent payment and Education related transactions will not earn reward points"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\HDFC_Flipkart Wholesale Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\eligibility.pdf",
+    "Flipkart Wholesale HDFC Bank CoBrand Credit Card FAQ Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\FAQ\\FAQ-flipkart-wholesale-card-03jan2025.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Flipkart Wholesale Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards5.pdf"
+  ]
+}

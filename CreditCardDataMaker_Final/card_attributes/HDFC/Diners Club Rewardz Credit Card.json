@@ -1,0 +1,155 @@
+{
+  "card_name": "Diners Club Rewardz Credit Card",
+  "card_network": "Diners Club",
+  "card_type": [
+    "Travel Credit Card",
+    "Rewards Credit Card",
+    "Lifestyle Credit Card",
+    "Premium & Super Premium Credit Card"
+  ],
+  "joining_fee": "1,000 plus applicable taxes",
+  "annual_fee": "1,000 plus applicable taxes",
+  "fee_waiver_condition": "Renewal fee waiver on spending 1 lakh or more in a year before your renewal date",
+  "welcome_benefits": [
+    "1,000 Reward Points on card activation"
+  ],
+  "reward_structure": [
+    "3 Reward Points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "SmartBuy (Flight and hotel bookings)",
+    "AirMiles conversion (0.30 AirMile)",
+    "Products Catalogue and vouchers (up to ₹0.25)",
+    "CashBack (up to ₹0.15)",
+    "Redeem Reward Points for booking Air Tickets / Hotels across 150+ Airlines and Choice of hotels (Domestic & International) at www.hdfcbankdinersclub.com",
+    "Redeem Reward Points on SmartBuy or NetBanking",
+    "Redeem Reward Points for up to 70% of flight and hotel bookings"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Reward Points earned are capped at 15,000 in a statement cycle"
+  ],
+  "cashback_benefits": [
+    "Earn up to 5% CashBack for spends via SmartBuy",
+    "CashBack redemption up to ₹0.15 per point"
+  ],
+  "milestone_benefits": [
+    "1,000 Reward Points on renewal"
+  ],
+  "lounge_access": [
+    "Unlimited airport lounge access to 1,000 plus lounges in India for both primary and add-on card members"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Redeem Reward Points for booking Air Tickets / Hotels across 150+ Airlines and Choice of hotels (Domestic & International)"
+  ],
+  "hotel_benefits": [
+    "Redeem Reward Points for booking Air Tickets / Hotels across 150+ Airlines and Choice of hotels (Domestic & International)"
+  ],
+  "airline_benefits": [
+    "Redeem Reward Points for booking Air Tickets / Hotels across 150+ Airlines and Choice of hotels (Domestic & International)",
+    "AirMile Partners: Jet Airways (JPMiles) or Singapore Airlines (KrisFlyer Miles)"
+  ],
+  "forex_benefits": [
+    "Low markup on foreign currency transactions of just 3%"
+  ],
+  "dining_benefits": [
+    "Dining privileges"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waivers"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "24 x 7 Global Personal Concierge Service for travel needs"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": "Unlimited",
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": "for both primary and add-on card members",
+  "reward_rate": "3 Reward Points for every ₹200 spent",
+  "forex_markup": "3%",
+  "fuel_surcharge_waiver": "Fuel surcharge waivers",
+  "eligibility": [
+    "Minimum 21 years and maximum 60 years (Salaried)",
+    "Minimum 21 years and maximum 65 years (Self-employed)",
+    "Indian national",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Net Monthly Income: > ₹30,000.",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Income Tax Return (ITR): > ₹3.6 lakh per annum.",
+    "Minimum age: 21 years",
+    "Maximum age: 60 years (salaried), 65 years (self-employed)",
+    "Net monthly income > ₹30,000 (salaried)",
+    "Income Tax Return (ITR) > ₹3.6 lakh per annum (self-employed)"
+  ],
+  "income_requirements": [
+    "Net Monthly Income: > ₹30,000 (Salaried)",
+    "Income Tax Return (ITR): > ₹3.6 lakh per annum (Self-employed)",
+    "Net Monthly Income: > ₹30,000",
+    "Income Tax Return (ITR): > ₹3.6 lakh per annum",
+    "Salaried: Net monthly income > ₹30,000",
+    "Self-employed: ITR > ₹3.6 lakh per annum"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Cash Advance fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Interest: 3.6% per month on outstanding amounts past due date",
+    "Joining/Renewal Membership Fee: ₹1,000 plus Applicable Taxes",
+    "Card re-issuance fee: ₹199 for non-metal card variants",
+    "Dynamic Currency Conversion (DCC) markup fee: 1.75%"
+  ],
+  "interest_rates": [
+    "3.6% per month on outstanding amounts past due date"
+  ],
+  "fees_and_penalties": [
+    "Joining/Renewal membership fee: 1,000 plus applicable taxes",
+    "Renewal fee waiver on spending 1 lakh or more in a year before your renewal date",
+    "Cash Advance fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Interest: 3.6% per month on outstanding amounts past due date",
+    "Card re-issuance fee: ₹199 for non-metal card variants",
+    "Dynamic Currency Conversion (DCC) markup fee: 1.75%"
+  ],
+  "spend_conditions": [
+    "On annual spends of ₹1 Lakh, get ₹1,000 renewal fee waived off",
+    "Reward Points accrued on spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [
+    "Redeem Reward Points for up to 70% of flight and hotel bookings"
+  ],
+  "renewal_benefits": [
+    "1,000 Reward Points on renewal"
+  ],
+  "partner_programs": [
+    "Jet Airways (JPMiles)",
+    "Singapore Airlines (KrisFlyer Miles)"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Sourcing of this Credit Card has been stopped",
+    "Reward Points earned are capped at 15,000 in a statement cycle",
+    "We are currently not accepting new applications",
+    "Updates effective from 15th May 2026"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\HDFC_Diners Club Rewardz Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\fees_and_charges.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\main.pdf",
+    "UPDATES ON YOUR CREDIT CARD REWARDS, FEES & CHARGES",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\TERMS\\terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\TERMS\\terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\TERMS\\terms-and-conditions3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Rewardz Credit Card\\TERMS\\terms-and-conditions4.pdf"
+  ]
+}

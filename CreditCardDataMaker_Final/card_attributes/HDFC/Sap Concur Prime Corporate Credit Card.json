@@ -1,0 +1,117 @@
+{
+  "card_name": "Sap Concur Prime Corporate Credit Card",
+  "card_network": null,
+  "card_type": "Corporate",
+  "joining_fee": null,
+  "annual_fee": "Varies based on offer",
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3 Reward Points for every ₹150 spent (Maximum of 6,000 reward points per statement cycle)"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points against airline ticket and hotel bookings at 1 Reward Point = ₹0.30",
+    "Redeem Reward Points for miles against leading International and Domestic airlines, hotels, and catalogue options"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Maximum of 6,000 reward points per statement cycle"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "2 complimentary lounge access per quarter"
+  ],
+  "airport_services": [
+    "Complimentary Wi-fi access on ground and in air with Boingo Wifi at over 1 million hotspots in 100 countries"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary Wi-fi access on ground and in air with Boingo Wifi at over 1 million hotspots in 100 countries",
+    "Accidental air death cover of ₹1 crore",
+    "Credit liability cover of up to ₹9 lakh",
+    "Emergency medical expenses protection worth up to ₹1 lakh",
+    "Cover of ₹15,000 on flight delays, loss of checked baggage, and missing international flights"
+  ],
+  "hotel_benefits": [
+    "Redeem Reward Points for hotel bookings"
+  ],
+  "airline_benefits": [
+    "Redeem Reward Points for airline ticket bookings",
+    "Frequent flyer registration needed for Airmiles redemption"
+  ],
+  "forex_benefits": [
+    "3.5% on all your foreign currency spends"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver on fuel transactions between ₹400 to ₹10,000 across all petrol pumps (Maximum waiver capped at ₹1,000 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Corporate Liability Waiver Insurance",
+    "Accidental air death cover of ₹1 crore",
+    "Credit liability cover of up to ₹9 lakh",
+    "Emergency medical expenses protection worth up to ₹1 lakh",
+    "Cover of ₹15,000 on flight delays, loss of checked baggage, and missing international flights"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [
+    "Corporate liability waiver Insurance to protect against the risk of employee fraud with a card level cover of ₹2.5 lakh and corporate level cover of ₹50 lakh",
+    "Easy accessible online reporting tool",
+    "Customised reports on expense spend categories and behaviour",
+    "Detailed transaction information at the employee level",
+    "Consolidated reports for transactions across the globe",
+    "Integration with existing accounting systems",
+    "Paperless claims and faster and more efficient processing",
+    "Simplified reconciliation and compliance tasks"
+  ],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 8,
+  "guest_lounge_access": null,
+  "reward_rate": "3 reward points for every ₹150 spent",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1%",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence",
+    "PAN card",
+    "Passport size photograph",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [],
+  "interest_rates": [
+    "Up to 50 days of interest free Credit period from the date of purchase (Subject to submission of the charge by the Merchant)"
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward points are valid for up to 2 years. Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "Frequent flyer registration is needed before attempting Airmiles redemption in NetBanking",
+    "Enable your Credit Card for International usage and upgrade your international daily limit, effortlessly, through NetBanking"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\HDFC_Sap Concur Prime Corporate Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\INSURANCE\\hdfc-agro-general-insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\MITC\\mitc-ccc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Prime Corporate Credit Card\\MITC\\mitc-ccc2.pdf"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "card_name": "Visa Signature Credit Card",
+  "card_network": "Visa",
+  "card_type": "Credit Card",
+  "joining_fee": null,
+  "annual_fee": null,
+  "fee_waiver_condition": "First-year membership fee waiver on spending ■15,000 within the initial 90 days. Renewal fee waiver on spending ■75,000 within one year to qualify for renewal.",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "2 Reward Points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Save up to ₹8,300 yearly on lounge access (Priority Pass, ₹99 value)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Save on fuel costs, assuming ₹6,000 spent monthly on fuel annually"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Salaried individuals must be between 21 and 60 years old",
+    "Self-employed individuals must be between 21 and 65 years old",
+    "Salaried employee Age: Minimum 21 years and maximum 60 years.",
+    "Self-employed Age: Minimum 21 years and maximum 65 years.",
+    "Minimum age 21 years for all applicants.",
+    "For salaried employee Age: Minimum 21 years and maximum 60 years.",
+    "For self-employed Age: Minimum 21 years and maximum 65 years"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fees of 2.5%, with a minimum of ■ 500, is applied to all cash withdrawals.",
+    "Cash advance fee: 2.5%, with a minimum of ₹500, applicable on all cash withdrawals"
+  ],
+  "interest_rates": [
+    "3.49% interest charged on any remaining balance carried beyond the due date of the bill.",
+    "Interest: 3.49% will be charged on any outstanding amount carried beyond the bill due date"
+  ],
+  "fees_and_penalties": [
+    "Annual fee: First-year membership fee waiver on spending ■15,000 within the initial 90 days. Renewal fee waiver on spending ■75,000 within one year to qualify for renewal."
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms and Conditions apply"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\HDFC_Visa Signature Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Visa Signature Credit Card\\MITC\\most-important-terms-and-conditions.pdf"
+  ]
+}

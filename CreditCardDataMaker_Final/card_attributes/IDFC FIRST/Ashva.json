@@ -1,0 +1,364 @@
+{
+  "card_name": "Ashva",
+  "card_network": "Visa",
+  "card_type": "Metal Credit Card",
+  "joining_fee": "₹2,999 + GST",
+  "annual_fee": "₹2,999 + GST",
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Earn 7,500 Reward Points worth up to ₹3,000 as Joining Fee Payment Benefit",
+    "Annual Fee Payment Benefit worth up to ₹3,000",
+    "Earn 7,500 Reward Points worth up to ₹3,000 as part of the Joining Fee Payment Benefit"
+  ],
+  "reward_structure": [
+    "30X Reward Points on Hotel bookings via Travel and Shop section",
+    "15X Reward Points on Flight bookings via Travel and Shop section",
+    "Up to 10X Reward Points on incremental spends above ₹20,000 in a statement cycle",
+    "Base earn: 1 Reward Point per ₹150 spent",
+    "Milestone 1: 2,500 points on successful realization of joining fee",
+    "Milestone 2: 2,500 points on net spends of ₹20,000 in 2nd statement cycle",
+    "Milestone 3: 2,500 points on net spends of ₹20,000 in 3rd statement cycle",
+    "Joining Fee Payment Benefit: 7,500 points",
+    "30X Bonus Reward Points on Hotel Bookings via IDFC FIRST Bank Mobile App",
+    "15X Bonus Reward Points on Flight Bookings via IDFC FIRST Bank Mobile App",
+    {
+      "type": "10X Rewards",
+      "condition": "Spends above ₹20,000 per month"
+    },
+    "10 reward points per ₹150 on eligible incremental spends above ₹20,000 in a statement cycle.",
+    "5 reward points per ₹150 on eligible spends up to ₹20,000 in a statement cycle.",
+    "5 reward points per ₹150 on international transactions with eligible international transactions contributing towards ₹20,000 monthly statement spends calculations to earn 10 reward points per ₹150.",
+    "3 reward points per ₹150 on Rent, Government, Wallet Load and Education.",
+    "1 reward point per ₹150 on Fastag, Railways, Insurance and Utilities.",
+    "3 reward points per ₹150 spent on UPI transactions valued above ₹2,000.",
+    "1 reward point per ₹150 spent on UPI transactions valued up to ₹2,000 and on insurance and utilities transactions."
+  ],
+  "reward_redemption_options": [
+    "₹0.40 per Reward Point for hotel and flight bookings via Travel and Shop section",
+    "1 Reward Point = ₹0.40 for hotel and flight bookings via 'Travel and Shop' Section on IDFC FIRST Bank Mobile App",
+    "1 Reward Point = ₹0.4 on travel bookings (hotel & flights only) done via Travel & Shop section on IDFC FIRST Bank Mobile app.",
+    "1 Reward Point = ₹0.25 everywhere else."
+  ],
+  "reward_exclusions": [
+    "Cash withdrawals",
+    "Fees",
+    "Charges",
+    "GST",
+    "Cash withdrawals, fees, charges, and GST are not eligible for rewards",
+    "Fuel transactions (Fuel Surcharge waiver will be provided).",
+    "Transactions converted into EMI.",
+    "Fee or Charges and the corresponding GST.",
+    "Loan on Card.",
+    "Balance Transfer.",
+    "Cash withdrawal transactions.",
+    "Transactions whose value is below ₹150."
+  ],
+  "reward_caps": [
+    "Reward Points will be earned for spends up to your credit limit per billing cycle",
+    "Monthly Capping on Redeemable Reward Points: 1,00,000.",
+    "Annual Capping on Redeemable Reward Points: 2,00,000."
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Milestone 1 – 2,500 points",
+    "Milestone 2 – 2,500 points",
+    "Milestone 3 – 2,500 points",
+    "Earn 2,500 Reward Points on successful realization of the joining fee",
+    "Earn 2,500 Reward Points on net spends of ₹20,000 or more in the 2nd statement cycle",
+    "Earn 2,500 Reward Points on net spends of ₹20,000 or more in the 3rd statement cycle",
+    "Spend minimum ₹8,00,000 in the previous card anniversary year and get 7,500 Reward Points (Worth up to ₹3,000)"
+  ],
+  "lounge_access": [
+    "Complimentary airport lounge access 4 times per quarter in India",
+    "Complimentary airport lounge access 2 times per quarter overseas",
+    "Complimentary railway lounge visits 4 times per quarter",
+    "Complimentary access to airport lounges 4 times in India & 2 times overseas, every quarter",
+    "4 complimentary railway lounge visits per quarter",
+    "Up to 4 complimentary airport lounge visits per quarter (domestic and international terminals) in India",
+    "Up to 2 complimentary visits per quarter to select Global Airport Terminals (shared between primary and add‑on cardholders)",
+    "Up to 4 complimentary railway lounge visits per quarter in India",
+    "One guest per railway lounge visit at no extra cost (guest must present valid ticket/ID)",
+    "Child entry for children below two years at participating lounges",
+    "Complimentary railway lounge access in India"
+  ],
+  "airport_services": [
+    "Airport Meet and Greet Service",
+    "Airport transfer discounts",
+    "Roadside assistance"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Trip cancellation protection up to ₹25,000 twice a year",
+    "Cancel for Any Reason cover up to ₹25,000 twice a year",
+    "Comprehensive travel insurance up to USD 1,200",
+    "Fuel surcharge waiver 1% up to ₹300",
+    "Free trip cancellation protection up to ₹25,000, twice a year",
+    "Cancel for Any Reason cover with reimbursement of up to ₹25,000 twice a year on non-refundable portion of the booking",
+    "Roadside assistance 24/7",
+    "Comprehensive travel insurance coverage up to USD 1200",
+    "Bonus 30 reward points / ₹150 on hotels.",
+    "Bonus 10 reward points / ₹150 on flights."
+  ],
+  "hotel_benefits": [
+    "Flat discount ₹5,000 on hotel bookings of minimum ₹25,000",
+    "Free stay at ITC Hotels",
+    "Free stay at Elivaas",
+    "Luxury hotel benefits at 900+ hotels",
+    "Flat discount of ₹5000 on a minimum booking of ₹25,000 at The Postcard Hotels & Resorts",
+    "Exclusive benefits and discounts at 900+ luxury hotels around the world",
+    "Bonus 30 reward points / ₹150 on hotels.",
+    {
+      "description": "Instant discount of ₹5,000 on Ashva and Mayura Credit Cards",
+      "conditions": [
+        "Applicable for Ashva and Mayura Credit Cards customers only",
+        "Subject to availability of rooms",
+        "Cannot be combined with any other offer",
+        "Applicable once per month per card",
+        "Valid from 10th March, 2025 till 10th February, 2027",
+        "Exclusive of applicable government taxes and service charge",
+        "Bookings can be made from The Postcard Hotel's website or by calling +91 79995 55222 or emailing book@postcardresorts.com",
+        "Cardmember needs to stay at the property to avail the offer",
+        "Valid for all hotels as seen on The Postcard Hotel website"
+      ],
+      "promo_code": "IDFCVIP",
+      "minimum_purchase": "₹25,000"
+    }
+  ],
+  "airline_benefits": [
+    "Bonus 10 reward points / ₹150 on flights."
+  ],
+  "forex_benefits": [
+    "Low forex markup of 1% + GST on international transactions",
+    "Low forex markup of 1% (+GST) on international spends"
+  ],
+  "dining_benefits": [
+    "Up to 20% off total bill at participating restaurants"
+  ],
+  "movie_benefits": [
+    "Buy one get one free movie tickets with minimum discount of ₹400, twice a month",
+    "Buy one, get one free movie tickets with a minimum discount of ₹400, twice a month",
+    "Buy one ticket and get up to ₹400 off on the second ticket on District app by Zomato using Ashva Credit Card.",
+    "You can use this offer to avail two free tickets during a month."
+  ],
+  "golf_benefits": [
+    "2 complimentary golf rounds/lessons every month when spend over ₹20,000 in a month",
+    "2 complimentary golf rounds/lessons every month when you spend over ₹20,000 in a month",
+    "Avail up to two (2) complimentary golf rounds or golf lessons every month for every ₹20,000 of monthly statement spends using your Ashva Credit Card.",
+    "Eligible spends for Complimentary Golf Round/Golf lesson: ₹20,000 and ₹40,000 and above.",
+    "Complimentary benefits are valid for 60 days from the day it is updated in the online account.",
+    "Cardholders can view the complimentary benefits earned in a calendar month by the 1st of next month in their online account.",
+    "Only one booking per day per cardholder can be confirmed.",
+    "Card member must be in possession of a valid Handicap Certificate (Maximum Handicap: 24 for Men | 36 for Ladies) at the time of registration.",
+    "The list of Golf Clubs included in the program are subject to change without any prior notice.",
+    "Golf Courses will not be accessible on tournament days and other holidays when it is closed for guests.",
+    "Golf course terms and conditions apply and are subject to change.",
+    "Access to the golf clubs cannot be used in conjunction with any other promotional golf program or to participate in any private event, tournament or any other special golf day arrangement.",
+    "The Golf Rates are subject to change as golf courses periodically revise their rates.",
+    "Tips & Gratuities (caddies, guide, drivers etc) are not included as a part of the program.",
+    "The rates for weekday and weekend differ.",
+    "The inclusions provided in the golf round will be subject to change.",
+    "Golf Clubs may at any time change the inclusions for the Golf Rounds and any additional services need to be paid for directly to the Golf Club."
+  ],
+  "fuel_benefits": [
+    "Fuel surcharge waiver 1% up to ₹300",
+    "1% waiver of up to ₹300 on fuel surcharges across India"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "Movie ticket BOGO offers",
+    "Golf rounds"
+  ],
+  "insurance_benefits": [
+    "Accident and lost card liability cover ₹50,000",
+    "Comprehensive travel insurance up to USD 1,200",
+    "Air and personal accident cover",
+    "Lost Card Liability Cover of ₹50,000"
+  ],
+  "protection_benefits": [
+    "Accident and lost card liability cover ₹50,000",
+    "Travel insurance up to USD 1,200"
+  ],
+  "concierge_benefits": [
+    "Personalized assistance for travel needs",
+    "Personalized assistance for all travel needs"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 16,
+  "international_lounge_visits_per_year": 8,
+  "guest_lounge_access": "Up to 2 complimentary visits per quarter to select Global Airport Terminals (shared) and one guest per railway lounge visit at no extra cost",
+  "reward_rate": "Up to 40X Reward Points",
+  "forex_markup": "1% + GST",
+  "fuel_surcharge_waiver": "1% waiver up to ₹300",
+  "eligibility": [
+    "This program is applicable only for the Primary Cardholders of the eligible Ashva Credit Card holder as per the benefits specified.",
+    "Present Ashva Credit Card and a valid same/next day ticket or boarding pass",
+    "Cardholder must be the primary cardholder",
+    "Card must be issued in India"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining fee: ₹2,999 + GST (primary card)",
+    "Annual fee: ₹2,999 + GST (primary card)",
+    "Add‑on card joining fee (Metal): ₹2,000 + GST",
+    "Add‑on card joining fee (Plastic): ₹1,500 + GST",
+    "Add‑on card annual fee (both variants): ₹1,000 + GST",
+    "Joining fee ₹2,999 + GST",
+    "Annual Fee ₹2,999 + GST (2nd year onwards)",
+    "Paying a Card Validation Fee of ₹2 using the Ashva Credit Card.",
+    "INR 2 nominal authorization charge for airport lounge access",
+    "INR 2 nominal authorization charge for spa access",
+    {
+      "type": "card_replacement_fee",
+      "value": 1500
+    },
+    "Annual Fee: ₹2,999 +GST"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "Spend ₹20,000 in a month to earn up to 10X Reward Points on incremental spends",
+    "Spend ₹20,000 in a month to qualify for 2 complimentary golf rounds/lessons",
+    "Spend ₹8 Lakhs in the previous card anniversary year to earn 7,500 Reward Points",
+    "Minimum ₹8 Lakhs in the previous card anniversary year to get 7,500 Reward Points",
+    "Spend at least ₹20,000 in a monthly statement cycle using your Ashva Credit Card.",
+    "Minimum monthly spend of INR 20,000",
+    "This program is only applicable on monthly spends of ₹20,000",
+    "Spends and cash withdrawal between the 1st and last day of a calendar month shall be considered for access in the next month",
+    "Fee, charges and EMI amortization and the corresponding GST will not be considered for lounge and spa benefit",
+    "Only net spends will be considered for annual fee payment benefit",
+    "Fee, charges, and the corresponding GST are not considered",
+    "The transactions which get refunded or reversed are not considered",
+    "Cash withdrawal is not considered"
+  ],
+  "benefit_conditions": [
+    "Reward Points earned only on spends up to credit limit per billing cycle",
+    "Reward Points not earned on cash withdrawals, fees, charges, GST",
+    "Joining Fee Payment Benefit offered once per customer",
+    "Spend ₹20,000 in the current calendar month to avail the benefit in the next month",
+    "Each complimentary benefit is valid for a period of 60 days from the day it is updated in the online account and will need to be consumed within 60 days.",
+    "The complimentary benefits(s) will be visible in the Cardholder’s online account as per the eligibility criteria.",
+    "The eligible cardholders can view the complimentary benefits(s) earned in a calendar month by the 1st of next month in their online account at idfcfirst.truztee.com.",
+    "Cardholders will need to sign in to the golf program account online at idfcfirst.truztee.com using the provided credentials.",
+    "The booking confirmation details to the golf facility must be received within the timelines mentioned in the payment due email sent to the cardholder.",
+    "Spend and cash withdrawal between 1st and last day of calendar month considered for next month access",
+    "Fair usage policy applies; access may be restricted based on capacity, flight delays, or behavior",
+    "Child entry limited to children below two years and requires confirmation at lounge entry",
+    "Alcoholic beverages are not part of the lounge offer",
+    "Complimentary access to the railway lounge includes two hours of lounge stay, one buffet meal, unlimited tea and coffee, free Wi-Fi, and access to newspapers and magazines",
+    "Access to the lounge will be granted upon successful authorization of the card",
+    "After 2 hours of lounge stay, the lounge reserves the right to charge the cardholder for respective services",
+    "Children below 2 years of age can enjoy complimentary lounge access, but any consumption of services or food and beverages may result in charges",
+    "It is mandatory that the annual fee of the card i.e. ₹2999 +GST is paid by the customer",
+    "Use Promo code IDFCASHVA to book 2 movie tickets using an Ashva Credit Card and get a 100% Instant Discount for one ticket up to ₹400.",
+    "Offer is applicable on booking of a minimum of two movie tickets.",
+    "Offer will only be valid twice per user per card for every calendar month.",
+    "Maximum discount that can be earned by a user in a month for two tickets is ₹800 in the split of up to two transactions.",
+    "This promo code is only applicable on District app.",
+    "The Promo code can be used to book movie tickets for any show-date.",
+    "The offer is valid on cards with the following BIN values only: 44052330.",
+    "Bonus Reward Points will be applicable only on transactions which are completed without redemption of Rewards points i.e., Cash + Points transactions are not eligible for Bonus Reward Points.",
+    "Bonus Reward Points will be credited by the 5th of the next calendar month post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active.",
+    "Bonus Reward Points will be applicable only on full swipe transactions on your Ashva Credit Card.",
+    "Reward Points can be utilised to pay up to 70% of the total booking value (incl. tax); rest is to be paid via Ashva Credit Card from which the Reward Points are being utilised for making a hotel or flight booking via 'Travel & Shop' section on IDFC FIRST Bank Mobile App.",
+    "In case of booking cancellations, refunds for both Reward Points & Cash will be processed and credited to source account within 5-7 business days from the date of cancellation.",
+    "In the case of a refund on a booking which was done using reward points and credit card, the refund is first issued in the form of reward points (up to the amount used in the transaction), and any remaining refundable amount is then credited back to the original payment source (i.e., the credit card).",
+    "Bonus reward points will not be credited for any bookings that are subsequently cancelled, regardless of the reason for cancellation.",
+    "All standard Credit Card Terms & Conditions and the Travel Specific Terms & Conditions (as amended from time to time) mentioned on the platform would apply."
+  ],
+  "renewal_benefits": [
+    "Annual Fee Payment Benefit worth up to ₹3,000",
+    "Spend minimum ₹8,00,000 in the previous card anniversary year and get 7,500 Reward Points (Worth up to ₹3,000)"
+  ],
+  "partner_programs": [
+    "Golftripz",
+    "IDFC FIRST Bank",
+    "DreamFolks",
+    "Elite Assist"
+  ],
+  "merchant_offers": [
+    "₹5,000 discount on hotel bookings ≥₹25,000",
+    "Up to 20% off at participating restaurants",
+    "Buy one get one free movie tickets with minimum ₹400 discount"
+  ],
+  "limited_period_offers": [
+    "Access available until 30 November 2025; discontinued starting 1 December 2025"
+  ],
+  "important_terms": [
+    "Reward Points earned for spends up to credit limit per billing cycle only",
+    "Cash withdrawals, fees, charges, GST excluded from rewards",
+    "Joining Fee Payment Benefit offered once per customer",
+    "The Joining Fee Payment Benefit is offered once per customer on the Ashva Credit Card",
+    "If you have previously held the Ashva Credit Card, you will not be eligible for this benefit again",
+    "The program is subject to the terms and conditions of the golf club or learning facility.",
+    "The program is subject to change without prior notice.",
+    "The Service Provider bears no liability for any action, claims, demands, losses, damages, cost, charges and expenses which the client may suffer, sustain or incur.",
+    "The Service Provider is not liable or in default of providing the golf services if such performance is prevented by adverse conditions, which is beyond its control.",
+    "The Service Provider is not liable for any damage to the golf course or any such violations. The card members will be solely responsible for any damage to the golf course.",
+    "Fair usage policy governs lounge and spa access",
+    "Access is non‑transferable and subject to authorization",
+    "Charges for additional guests or services may apply",
+    "Program terms may change without prior notice",
+    "The program can be modified, amended, changed, or revoked at any time",
+    "Lounge access is provided on a first-come-first-serve basis",
+    "Cardholders must present their credit card and a valid train ticket at the entrance of the lounges",
+    "The lounge operator is not responsible for the merchantability of the services provided in the lounge",
+    "Lounge access is available to both primary cardholders",
+    "Access to the lounge is granted upon successful authorization of the card and only be used again after 24 hours from the last access",
+    "An Ashva cardholder can avail only one of the benefits i.e. 7,500 reward points by spending ₹8,00,000 in the previous card anniversary year",
+    "All reward point terms and conditions are applicable for reward points pertaining to annual fee payment benefit",
+    "Orbgen Technologies Pvt Ltd. and IDFC FIRST Bank reserve the right to disqualify any cardholder/s from the benefits of the program.",
+    "Orbgen Technologies Pvt Ltd. and IDFC FIRST Bank reserve the absolute right to withdraw and/or alter any terms and conditions of the offer at any time.",
+    "Cardholders shall not be entitled to compensation/benefits in any form whatsoever in lieu of the offer being availed.",
+    "Incase of any disputes, Orbgen Technologies Pvt Ltd. and IDFC FIRST Bank’s decision will be final.",
+    "Reward Points on FIRST Digital Rupay Credit Card Spends - Spends on FIRST Digital Rupay Credit Card associated with Ashva Credit Card will be counted for calculation towards statement milestone of ₹20,000 to earn 10 reward points per ₹150 spent on Ashva Credit Card but will earn only the below mentioned reward points.",
+    "Rewards will be earned for spends up to your credit limit per billing cycle. Additional spends beyond this will not be eligible for reward points.",
+    "Reward Points for transactions completed in a statement cycle will be credited on the statement generation date. If the customer does not pay at least the Minimum Amount Due (MAD) by the payment due date for that statement, the Reward Points earned for that cycle will be reversed and debited."
+  ],
+  "excluded_categories": [
+    "Cash withdrawals",
+    "Fees",
+    "Charges",
+    "GST",
+    "Cash withdrawals, fees, charges, and GST are not eligible for rewards",
+    "Alcoholic beverages",
+    "Fee, charges, and the corresponding GST",
+    "The transactions which get refunded or reversed",
+    "Cash withdrawal",
+    "Fuel transactions (Fuel Surcharge waiver will be provided).",
+    "Transactions converted into EMI.",
+    "Fee or Charges and the corresponding GST.",
+    "Loan on Card.",
+    "Balance Transfer.",
+    "Cash withdrawal transactions.",
+    "Transactions whose value is below ₹150."
+  ],
+  "source_files_used": [
+    "Provided Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\IDFC FIRST_Ashva_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\GOLF\\Golf.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V21.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V22.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\LOUNGE\\Airport-Lounge.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\LOUNGE\\Ashva-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\LOUNGE\\Railway-Lounge.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\OFFERS\\Ashva-Credit-Card-Annual-Fee-Payment-Benefit-Offer-29-08-25-02.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\OFFERS\\Ashva-Movie-offer-Metal-Card-27-05-25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\PRODUCT_GUIDE\\Credit-Card-Basics-Power.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\REWARDS\\Ashva-CC-Rewards-Structure-TnC-28-05-25.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Ashva\\TRAVEL\\Postcard-Hotel-Ashva-and-Mayura.pdf"
+  ]
+}

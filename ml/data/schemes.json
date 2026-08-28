@@ -1,0 +1,304 @@
+{
+  "_meta": {
+    "description": "Seed dataset of Indian central government schemes for the Benefits Council.",
+    "source": "Hand-curated from public scheme documentation.",
+    "last_verified": "2026-08",
+    "warning": "Benefit amounts, income ceilings and age bands change with budget cycles. Verify against the official portal before presenting figures to a real user or in a submission.",
+    "rule_semantics": {
+      "occupation": "profile.occupation must be in this list (omit = any)",
+      "job_type": "profile.job_type must be in this list (omit = any)",
+      "age_min / age_max": "inclusive bounds on profile.age",
+      "gender": "profile.gender must be in this list",
+      "social_category": "profile.social_category must be in this list",
+      "residence": "profile.residence must match",
+      "land_holding_max_ha": "profile.land_holding_ha must be <= this",
+      "annual_income_max": "profile.annual_household_income must be <= this",
+      "monthly_income_max": "profile.monthly_income must be <= this",
+      "requires": "every named boolean profile flag must be true",
+      "excluded_if": "any named boolean profile flag being true disqualifies"
+    }
+  },
+  "schemes": [
+    {
+      "scheme_id": "PM-KISAN",
+      "name": "Pradhan Mantri Kisan Samman Nidhi",
+      "ministry": "Agriculture & Farmers Welfare",
+      "category": "income_support",
+      "summary": "Direct income support to landholding farmer families.",
+      "benefit": {"type": "cash_transfer", "amount": 6000, "frequency": "annual", "installments": 3},
+      "eligibility": {
+        "occupation": ["farmer"],
+        "land_holding_max_ha": 2,
+        "age_min": 18,
+        "requires": ["has_bank_account", "aadhaar_linked"],
+        "excluded_if": ["is_income_tax_payer", "is_govt_employee"]
+      },
+      "documents": ["Aadhaar", "Land records", "Bank account"],
+      "url": "https://pmkisan.gov.in"
+    },
+    {
+      "scheme_id": "PMFBY",
+      "name": "Pradhan Mantri Fasal Bima Yojana",
+      "ministry": "Agriculture & Farmers Welfare",
+      "category": "insurance",
+      "summary": "Crop insurance against yield loss from natural calamity, pest and disease.",
+      "benefit": {"type": "insurance", "amount": 200000, "frequency": "per_season", "note": "Sum insured varies by crop and area; premium 2% kharif / 1.5% rabi."},
+      "eligibility": {"occupation": ["farmer"], "age_min": 18, "requires": ["has_bank_account"]},
+      "documents": ["Aadhaar", "Land records", "Sowing certificate"],
+      "url": "https://pmfby.gov.in"
+    },
+    {
+      "scheme_id": "KCC",
+      "name": "Kisan Credit Card",
+      "ministry": "Agriculture & Farmers Welfare",
+      "category": "credit",
+      "summary": "Short-term crop credit at subsidised interest, effectively 4% with prompt repayment.",
+      "benefit": {"type": "credit_line", "amount": 300000, "frequency": "revolving", "interest_rate": 4},
+      "eligibility": {"occupation": ["farmer"], "age_min": 18, "age_max": 75, "requires": ["has_bank_account"]},
+      "documents": ["Aadhaar", "Land records", "Photograph"],
+      "url": "https://www.myscheme.gov.in"
+    },
+    {
+      "scheme_id": "PMJJBY",
+      "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "ministry": "Finance",
+      "category": "insurance",
+      "summary": "Renewable one-year term life cover at a very low premium.",
+      "benefit": {"type": "insurance", "amount": 200000, "frequency": "annual", "premium": 436},
+      "eligibility": {"age_min": 18, "age_max": 50, "requires": ["has_bank_account"]},
+      "documents": ["Aadhaar", "Bank account", "Consent form"],
+      "url": "https://jansuraksha.gov.in"
+    },
+    {
+      "scheme_id": "PMSBY",
+      "name": "Pradhan Mantri Suraksha Bima Yojana",
+      "ministry": "Finance",
+      "category": "insurance",
+      "summary": "Accidental death and disability cover for a nominal annual premium.",
+      "benefit": {"type": "insurance", "amount": 200000, "frequency": "annual", "premium": 20},
+      "eligibility": {"age_min": 18, "age_max": 70, "requires": ["has_bank_account"]},
+      "documents": ["Aadhaar", "Bank account", "Consent form"],
+      "url": "https://jansuraksha.gov.in"
+    },
+    {
+      "scheme_id": "APY",
+      "name": "Atal Pension Yojana",
+      "ministry": "Finance",
+      "category": "pension",
+      "summary": "Guaranteed monthly pension from age 60, contribution scaled to entry age.",
+      "benefit": {"type": "pension", "amount": 60000, "frequency": "annual", "note": "Pension of Rs 1,000-5,000/month from 60."},
+      "eligibility": {"age_min": 18, "age_max": 40, "requires": ["has_bank_account"], "excluded_if": ["is_income_tax_payer"]},
+      "documents": ["Aadhaar", "Bank account", "Nominee details"],
+      "url": "https://npscra.nsdl.co.in"
+    },
+    {
+      "scheme_id": "PMJAY",
+      "name": "Ayushman Bharat PM Jan Arogya Yojana",
+      "ministry": "Health & Family Welfare",
+      "category": "health",
+      "summary": "Cashless secondary and tertiary hospitalisation cover per family per year.",
+      "benefit": {"type": "insurance", "amount": 500000, "frequency": "annual"},
+      "eligibility": {"annual_income_max": 300000, "requires": ["aadhaar_linked"], "excluded_if": ["is_income_tax_payer"]},
+      "documents": ["Aadhaar", "Ration card", "SECC verification"],
+      "url": "https://pmjay.gov.in"
+    },
+    {
+      "scheme_id": "PMJDY",
+      "name": "Pradhan Mantri Jan Dhan Yojana",
+      "ministry": "Finance",
+      "category": "banking",
+      "summary": "Zero-balance bank account with RuPay debit card and accident cover.",
+      "benefit": {"type": "banking", "amount": 200000, "frequency": "one_time", "note": "Includes overdraft up to Rs 10,000."},
+      "eligibility": {"age_min": 18},
+      "documents": ["Aadhaar or any officially valid document"],
+      "url": "https://pmjdy.gov.in"
+    },
+    {
+      "scheme_id": "PMAY-G",
+      "name": "Pradhan Mantri Awas Yojana - Gramin",
+      "ministry": "Rural Development",
+      "category": "housing",
+      "summary": "Assistance to rural households for constructing a pucca house.",
+      "benefit": {"type": "subsidy", "amount": 120000, "frequency": "one_time"},
+      "eligibility": {"residence": "rural", "annual_income_max": 300000, "excluded_if": ["is_income_tax_payer", "is_govt_employee"]},
+      "documents": ["Aadhaar", "Job card", "Bank account"],
+      "url": "https://pmayg.nic.in"
+    },
+    {
+      "scheme_id": "PMAY-U",
+      "name": "Pradhan Mantri Awas Yojana - Urban",
+      "ministry": "Housing & Urban Affairs",
+      "category": "housing",
+      "summary": "Interest subsidy on home loans for urban EWS/LIG/MIG households.",
+      "benefit": {"type": "interest_subsidy", "amount": 267000, "frequency": "one_time"},
+      "eligibility": {"residence": "urban", "annual_income_max": 1800000},
+      "documents": ["Aadhaar", "Income proof", "Property documents"],
+      "url": "https://pmaymis.gov.in"
+    },
+    {
+      "scheme_id": "SSY",
+      "name": "Sukanya Samriddhi Yojana",
+      "ministry": "Finance",
+      "category": "savings",
+      "summary": "High-interest, tax-free small savings account for a girl child under 10.",
+      "benefit": {"type": "savings", "amount": 150000, "frequency": "annual", "interest_rate": 8.2},
+      "eligibility": {"has_girl_child_under_10": true},
+      "documents": ["Girl child birth certificate", "Guardian ID", "Address proof"],
+      "url": "https://www.indiapost.gov.in"
+    },
+    {
+      "scheme_id": "PPF",
+      "name": "Public Provident Fund",
+      "ministry": "Finance",
+      "category": "savings",
+      "summary": "15-year tax-free savings vehicle with sovereign backing.",
+      "benefit": {"type": "savings", "amount": 150000, "frequency": "annual", "interest_rate": 7.1},
+      "eligibility": {"age_min": 18},
+      "documents": ["Aadhaar", "PAN", "Bank account"],
+      "url": "https://www.indiapost.gov.in"
+    },
+    {
+      "scheme_id": "NPS",
+      "name": "National Pension System",
+      "ministry": "Finance",
+      "category": "pension",
+      "summary": "Market-linked retirement account with an extra Rs 50,000 deduction under 80CCD(1B).",
+      "benefit": {"type": "pension", "amount": 50000, "frequency": "annual", "note": "Additional tax deduction over the 80C limit."},
+      "eligibility": {"age_min": 18, "age_max": 70},
+      "documents": ["Aadhaar", "PAN", "Bank account"],
+      "url": "https://npscra.nsdl.co.in"
+    },
+    {
+      "scheme_id": "SCSS",
+      "name": "Senior Citizen Savings Scheme",
+      "ministry": "Finance",
+      "category": "savings",
+      "summary": "Quarterly-payout savings scheme for retirees.",
+      "benefit": {"type": "savings", "amount": 3000000, "frequency": "one_time", "interest_rate": 8.2},
+      "eligibility": {"age_min": 60},
+      "documents": ["Aadhaar", "PAN", "Age proof"],
+      "url": "https://www.indiapost.gov.in"
+    },
+    {
+      "scheme_id": "MSSC",
+      "name": "Mahila Samman Savings Certificate",
+      "ministry": "Finance",
+      "category": "savings",
+      "summary": "Two-year fixed deposit for women at a preferential rate.",
+      "benefit": {"type": "savings", "amount": 200000, "frequency": "one_time", "interest_rate": 7.5},
+      "eligibility": {"gender": ["female"]},
+      "documents": ["Aadhaar", "PAN"],
+      "url": "https://www.indiapost.gov.in"
+    },
+    {
+      "scheme_id": "MUDRA-SHISHU",
+      "name": "PM MUDRA Yojana - Shishu",
+      "ministry": "Finance",
+      "category": "credit",
+      "summary": "Collateral-free micro-enterprise loan up to Rs 50,000.",
+      "benefit": {"type": "loan", "amount": 50000, "frequency": "one_time"},
+      "eligibility": {"job_type": ["business", "freelancer", "unsalaried"], "age_min": 18, "age_max": 65},
+      "documents": ["Aadhaar", "Business proof", "Bank statement"],
+      "url": "https://www.mudra.org.in"
+    },
+    {
+      "scheme_id": "MUDRA-KISHORE",
+      "name": "PM MUDRA Yojana - Kishore",
+      "ministry": "Finance",
+      "category": "credit",
+      "summary": "Growth capital for an existing micro-enterprise, Rs 50,000 to Rs 5 lakh.",
+      "benefit": {"type": "loan", "amount": 500000, "frequency": "one_time"},
+      "eligibility": {"job_type": ["business", "freelancer"], "age_min": 18, "age_max": 65},
+      "documents": ["Aadhaar", "Business proof", "Bank statement", "ITR"],
+      "url": "https://www.mudra.org.in"
+    },
+    {
+      "scheme_id": "STANDUP-INDIA",
+      "name": "Stand-Up India",
+      "ministry": "Finance",
+      "category": "credit",
+      "summary": "Bank loan of Rs 10 lakh to Rs 1 crore for SC/ST or women entrepreneurs setting up a greenfield venture.",
+      "benefit": {"type": "loan", "amount": 10000000, "frequency": "one_time"},
+      "eligibility": {"age_min": 18, "any_of": [{"social_category": ["sc", "st"]}, {"gender": ["female"]}]},
+      "documents": ["Aadhaar", "Caste certificate if applicable", "Project report"],
+      "url": "https://www.standupmitra.in"
+    },
+    {
+      "scheme_id": "PMEGP",
+      "name": "Prime Minister's Employment Generation Programme",
+      "ministry": "MSME",
+      "category": "credit",
+      "summary": "Capital subsidy of 15-35% on a new micro-enterprise project.",
+      "benefit": {"type": "subsidy", "amount": 2500000, "frequency": "one_time"},
+      "eligibility": {"age_min": 18},
+      "documents": ["Aadhaar", "Project report", "Education certificate"],
+      "url": "https://www.kviconline.gov.in"
+    },
+    {
+      "scheme_id": "PM-SVANIDHI",
+      "name": "PM Street Vendor's AtmaNirbhar Nidhi",
+      "ministry": "Housing & Urban Affairs",
+      "category": "credit",
+      "summary": "Collateral-free working-capital loan for street vendors, with interest subsidy on timely repayment.",
+      "benefit": {"type": "loan", "amount": 50000, "frequency": "one_time"},
+      "eligibility": {"occupation": ["street_vendor"], "residence": "urban", "age_min": 18},
+      "documents": ["Vending certificate", "Aadhaar", "Bank account"],
+      "url": "https://pmsvanidhi.mohua.gov.in"
+    },
+    {
+      "scheme_id": "PM-VISHWAKARMA",
+      "name": "PM Vishwakarma",
+      "ministry": "MSME",
+      "category": "credit",
+      "summary": "Toolkit grant, skill training and collateral-free credit for traditional artisans and craftspeople.",
+      "benefit": {"type": "loan", "amount": 300000, "frequency": "one_time", "note": "Includes a Rs 15,000 toolkit incentive."},
+      "eligibility": {"occupation": ["artisan", "craftsperson"], "age_min": 18, "excluded_if": ["is_govt_employee"]},
+      "documents": ["Aadhaar", "Trade proof", "Bank account"],
+      "url": "https://pmvishwakarma.gov.in"
+    },
+    {
+      "scheme_id": "E-SHRAM",
+      "name": "e-Shram (Unorganised Workers Registration)",
+      "ministry": "Labour & Employment",
+      "category": "social_security",
+      "summary": "National database registration unlocking accident cover and future welfare benefits.",
+      "benefit": {"type": "insurance", "amount": 200000, "frequency": "annual"},
+      "eligibility": {"job_type": ["unsalaried", "freelancer", "business"], "age_min": 16, "age_max": 59, "excluded_if": ["is_income_tax_payer"]},
+      "documents": ["Aadhaar", "Bank account", "Mobile linked to Aadhaar"],
+      "url": "https://eshram.gov.in"
+    },
+    {
+      "scheme_id": "MGNREGS",
+      "name": "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+      "ministry": "Rural Development",
+      "category": "employment",
+      "summary": "Legal guarantee of 100 days of wage employment per rural household per year.",
+      "benefit": {"type": "wage_employment", "amount": 25000, "frequency": "annual", "note": "100 days at the notified state wage rate."},
+      "eligibility": {"residence": "rural", "age_min": 18},
+      "documents": ["Job card", "Aadhaar", "Bank account"],
+      "url": "https://nrega.nic.in"
+    },
+    {
+      "scheme_id": "NSAP-IGNOAPS",
+      "name": "Indira Gandhi National Old Age Pension Scheme",
+      "ministry": "Rural Development",
+      "category": "pension",
+      "summary": "Monthly pension for elderly people living below the poverty line.",
+      "benefit": {"type": "pension", "amount": 6000, "frequency": "annual"},
+      "eligibility": {"age_min": 60, "annual_income_max": 100000},
+      "documents": ["Aadhaar", "BPL certificate", "Age proof"],
+      "url": "https://nsap.nic.in"
+    },
+    {
+      "scheme_id": "UJJWALA",
+      "name": "Pradhan Mantri Ujjwala Yojana",
+      "ministry": "Petroleum & Natural Gas",
+      "category": "subsidy",
+      "summary": "Free LPG connection with deposit support for women from eligible households.",
+      "benefit": {"type": "subsidy", "amount": 1600, "frequency": "one_time", "note": "Plus a per-cylinder refill subsidy."},
+      "eligibility": {"gender": ["female"], "age_min": 18, "annual_income_max": 300000},
+      "documents": ["Aadhaar", "Ration card", "Bank account"],
+      "url": "https://pmuy.gov.in"
+    }
+  ]
+}

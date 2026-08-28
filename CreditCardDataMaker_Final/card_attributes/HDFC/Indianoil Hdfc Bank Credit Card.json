@@ -1,0 +1,214 @@
+{
+  "card_name": "Indianoil Hdfc Bank Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Spend 50,000 or above in the first year",
+  "welcome_benefits": [
+    "INR 250 worth of voucher upon card activation and completion of at least one transaction within 37 days from card issuance date",
+    "Complimentary IndianOil XTRAREWARDSTM Program (IXRP) membership",
+    "INR 250 worth of voucher redeemable through link received via SMS by entering a unique code"
+  ],
+  "reward_structure": [
+    "5% Fuel Points on Petrol (IOCL Pumps)",
+    "5% Fuel Points on Groceries",
+    "5% Fuel Points on Utilities",
+    "1 Fuel Point for every 150 spent on other purchases",
+    "5% Fuel Points on fuel transactions at IOCL petrol pumps & outlets",
+    "5% Fuel Points on Grocery and Bill Payment",
+    "1 Fuel Point for every INR 150 spent on other categories"
+  ],
+  "reward_redemption_options": [
+    "Free Fuel using the complimentary IndianOil XTRAREWARDSTM Program (IXRP) membership",
+    "CashBack on your IndianOil HDFC Bank Credit Card",
+    "Catalogue products",
+    "Redeem for free fuel at IOCL petrol pumps",
+    "Redeem as Cashback",
+    "Redeem via Product Catalogue & Voucher",
+    "Redeem for Airmiles",
+    "Redeem for Unified SmartBuy (Flights & Hotels)"
+  ],
+  "reward_exclusions": [
+    "Rental and Government category payments",
+    "Wallet-loading",
+    "Returned purchases, disputed or unauthorized/fraudulent transactions",
+    "EMI Transactions",
+    "Account Fees and Payment",
+    "Purchase of jewellery/gold coins or its equivalents",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travellers’ cheques",
+    "Insurance",
+    "Any other categories as decided from Time to Time"
+  ],
+  "reward_caps": [
+    "Monthly Max cap for Fuel Points accrued on IndianOil Outlets for the first 6 months from Card issuance is: 250 FP",
+    "Monthly Max cap for Fuel Points accrued on IndianOil Outlets post 6 months is: 150 FP",
+    "Monthly Max cap for Fuel Points accrued on Groceries is: 100 FP",
+    "Monthly Max cap for Fuel Points accrued on Utilities and Bill Payments is: 100 FP",
+    "Redemption of Reward Points to CashBack and Travel categories will be capped at 50,000 points per month per customer",
+    "Accrual of Reward Points on Grocery Spends will be capped at 1000 points per month per customer",
+    "Max 250 Fuel Points per month in first 6 months, Max 150 Fuel Points post 6 months from card issuance per month on fuel transactions",
+    "Max 100 Fuel Points per month on each category (Grocery, Utility & Telecom) per month",
+    "Minimum transaction of INR 150 on each category for Grocery, Utility & Telecom",
+    "Minimum transaction of INR 150 for other categories"
+  ],
+  "cashback_benefits": [
+    "1 Fuel Point = 20 Paise CashBack",
+    "1 Fuel Point = 3 XRP = Rs. 0.96",
+    "1 FP = upto 20 paise on catalogue products"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge waiver at all Indian fuel stations (min 400/transaction, max 250/cycle)",
+    "Earn up to 50 Litres of Free fuel annually",
+    "Earn 5% of your spends as Fuel Points at IndianOil outlets",
+    "Earn 5% of your spends as Fuel Points on Groceries and Bill Payments",
+    "5% Fuel Points on fuel transactions at IOCL petrol pumps & outlets",
+    "Fuel Points can be redeemed for free fuel at IOCL petrol pumps"
+  ],
+  "shopping_benefits": [
+    "1,000 CashBack on Shopping in-app over 200plus brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% Fuel Surcharge waiver at all Indian fuel stations (min 400/transaction, max 250/cycle)",
+  "eligibility": [
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years",
+    "For Salaried Applicants: Gross monthly income greater than ₹12,000",
+    "For Self-Employed Applicants: Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ■12,000",
+    "For Self-Employed Applicants: Income: Income Tax Return (ITR) greater than ■6 lakh per annum",
+    "Salaried: Nationality: Indian, Age: 21-60 years, Net Monthly Income: > 12,000",
+    "Self-Employed: Age: 21-65 years, Annual Income: ITR > 6 lakh per annum"
+  ],
+  "income_requirements": [
+    "For Salaried Applicants: Gross monthly income greater than ₹12,000",
+    "For Self-Employed Applicants: Income Tax Return (ITR) greater than ₹6 lakh per annum",
+    "Salaried: Gross monthly income > ₹12,000",
+    "Self-employed: ITR > ₹6 lakh per annum",
+    "Gross monthly income greater than ■12,000 for salaried applicants",
+    "Income Tax Return (ITR) greater than ■6 lakh per annum for self-employed applicants",
+    "Salaried: > 12,000 per month",
+    "Self-Employed: > 6 lakh per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driver's licence, PAN card, Passport size photos",
+    "Address Proof: Utility bills (electricity, water, gas), Rental agreement, Bank statement",
+    "Income Proof: Salary slips (recent), Form 16, Income Tax Returns (ITR), Bank statements"
+  ],
+  "charges": [
+    "Joining Fee: 500",
+    "Annual Fee: 500",
+    "1% Fee on transaction amount will be levied on rental transactions done on any applicable merchant for the month. Fee capped at 3,000 per transaction, effective 1st August 2024."
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "1% Fee on transaction amount will be levied on rental transactions done on any applicable merchant for the month. Fee capped at 3,000 per transaction, effective 1st August 2024."
+  ],
+  "spend_conditions": [
+    "5% Fuel Points on Petrol (IOCL Pumps)",
+    "5% Fuel Points on Groceries",
+    "5% Fuel Points on Utilities",
+    "1 Fuel Point for every 150 spent on other purchases"
+  ],
+  "benefit_conditions": [
+    "Monthly Max cap for Fuel Points accrued on IndianOil Outlets for the first 6 months from Card issuance is: 250 FP",
+    "Monthly Max cap for Fuel Points accrued on IndianOil Outlets post 6 months is: 150 FP",
+    "Monthly Max cap for Fuel Points accrued on Groceries is: 100 FP",
+    "Monthly Max cap for Fuel Points accrued on Utilities and Bill Payments is: 100 FP",
+    "At least one transaction within 37 days from card issuance date for activation benefit",
+    "Fuel Points should be first converted to XTRAREWARD Points (IOCL Reward Program) for redemption",
+    "Minimum of 500 Fuel Points can be redeemed and fuel points should be in the multiple of 500 for free fuel redemption",
+    "Minimum Reward Points balance required for redemption against the statement balance is 12,500 Fuel Points"
+  ],
+  "renewal_benefits": [
+    "Waiver on the renewal membership fee if you spend 50,000 or above in the first year"
+  ],
+  "partner_programs": [
+    "IndianOil XTRAREWARDSTM Program (IXRP) membership",
+    "Complimentary IndianOil XTRAREWARDSTM Program (IXRP) membership"
+  ],
+  "merchant_offers": [
+    "1,000 CashBack on Shopping in-app over 200plus brands"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Fuel Points are valid for a period of 2 years",
+    "Points plus Pay - A maximum of 70% can be paid using Reward Points and the other 30% to be made by payment modes (Cash/Cards/UPI etc.)",
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 (Six) months after prior written notice sent on the email address and/or phone number and/or communication address, registered in the records of the Bank.",
+    "Reward Points are calculated and posted on Monthly Basis",
+    "1 Fuel Point = 1 Reward Point",
+    "1 Fuel Point (FP) = 3 XTRAREWARD points (XRP)",
+    "1 XRP = Rs. 0.32",
+    "1 FP = Rs. 0.96",
+    "Validity of Reward points is 2 years",
+    "Unredeemed Reward Points will expire/lapse after 2 years of accumulation"
+  ],
+  "excluded_categories": [
+    "Rental and Government category payments",
+    "Wallet-loading",
+    "Returned purchases, disputed or unauthorized/fraudulent transactions",
+    "EMI Transactions",
+    "Account Fees and Payment",
+    "Purchase of jewellery/gold coins or its equivalents",
+    "Wallet",
+    "Rent",
+    "Government related transactions",
+    "Supermarkets",
+    "TAX",
+    "EMI (all type)",
+    "Vending Machine – Miscellaneous foods",
+    "Package Stores, beer, wine, liquor",
+    "Bakeries",
+    "Cash advances, Purchase of travellers’ cheques",
+    "Insurance",
+    "Any other categories as decided from Time to Time"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\HDFC_Indianoil Hdfc Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Indianoil Hdfc Bank Credit Card\\TERMS\\T-and-C-Indian-Oil-Credit-Card.pdf"
+  ]
+}

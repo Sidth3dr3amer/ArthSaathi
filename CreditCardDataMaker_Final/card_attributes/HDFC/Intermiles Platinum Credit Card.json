@@ -1,0 +1,159 @@
+{
+  "card_name": "Intermiles Platinum Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Renewal fee waiver on spending ■2.5lakh within 12 months from card setup/ renewal date",
+  "welcome_benefits": [
+    "Up to 3,000 bonus InterMiles",
+    "1,500 InterMiles upon spending ■3,000 within the first 30 days",
+    "1,500 InterMiles on total retail spends of ■50,000 and above, within the first 90 days"
+  ],
+  "reward_structure": [
+    "4 InterMiles for every ■150 spent on retail purchases",
+    "8 InterMiles for every ■150 spent on flight tickets booked here",
+    "8 InterMiles on every Rs. 150 spent on every Hotel https://interbook.intermiles.com/"
+  ],
+  "reward_redemption_options": [
+    "Redeem InterMiles online at www.Intermiles.com for a wide range of rewards",
+    "Book flight tickets and hotel accommodation using your InterMiles"
+  ],
+  "reward_exclusions": [
+    "Only retail purchases above ■150 qualify for InterMiles",
+    "Cash advances, fuel transactions, fees, easy EMI, e-wallet loading and other charges do not accrue any InterMiles",
+    "InterMiles for insurance transactions capped at 2,000 per day"
+  ],
+  "reward_caps": [
+    "Maximum discount per transaction, per customer per month capped at ■1,000 on dining bills paid via Dineout Pay via InterMiles"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Domestic Lounge access using your boarding pass to select lounges at airports in India",
+    "8 complimentary visits per year, 2 per quarter through the VISA Lounge Program",
+    "8 complimentary visits per year, 2 per quarter through the MasterCard Lounge Program"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "■500 flight discount vouchers* for the first year",
+    "■1,000 hotel discount vouchers* for the first year",
+    "5% discount* on Etihad Airways economy class tickets booked at http://flights.intermiles.com",
+    "2.5X InterMiles for Etihad Airways tickets booked on https://flights.intermiles.com"
+  ],
+  "hotel_benefits": [
+    "■1,000 hotel discount vouchers* for the first year"
+  ],
+  "airline_benefits": [
+    "■500 flight discount vouchers* for the first year",
+    "5% discount* on Etihad Airways economy class tickets booked at http://flights.intermiles.com",
+    "2.5X InterMiles for Etihad Airways tickets booked on https://flights.intermiles.com"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 20% discount on dining bills paid via Dineout Pay via InterMiles"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on minimum transactions of ■400, capped at ■250 every billing cycle",
+    "Fuel Transaction Convenience fee waiver of 1% on all fuel transactions. The waiver on convenience fee is applicable only for minimum fuel transaction of ₹400, Max CashBack of ₹250 per statement cycle"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Avail comprehensive insurance coverage for travel and emergencies*"
+  ],
+  "protection_benefits": [
+    "Zero liability on fraudulent transactions upon reporting it immediately to our 24-hour call centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Up to 3 add-on cards* for your immediate family members (over 18 years)"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver at all fuel stations across India on minimum transactions of ■400, capped at ■250 every billing cycle",
+  "eligibility": [
+    "Salaried Indian citizen",
+    "Age: Minimum 21 years and maximum 60 years.",
+    "Net Monthly Income > ₹30,000",
+    "Self-employed Indian citizen",
+    "Age: Minimum 21 years and maximum 65 years.",
+    "Income: ITR (Income Tax Return) > ₹6 Lakh per annum",
+    "Salaried Indian citizen: Age 21-60 years, Net Monthly Income > 30,000",
+    "Self-employed Indian citizen: Age 21-65 years, ITR > 6 Lakh per annum",
+    "For Salaried: Nationality: Indian, Age: Minimum: 21 years, Maximum: 60 years, Income: Net Monthly Income > ■35,000",
+    "For Self Employed: Age : Minimum: 21 years, Maximum: 65 years, Annual Income : ITR > ■6 lakh (as per ITR)"
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹30,000 for salaried individuals",
+    "Income: ITR (Income Tax Return) > ₹6 Lakh per annum for self-employed individuals",
+    "Salaried: Net Monthly Income > 30,000",
+    "Self-employed: ITR > 6 Lakh per annum",
+    "For Salaried: Net Monthly Income > ■35,000",
+    "For Self Employed: Annual Income : ITR > ■6 lakh (as per ITR)"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Nominal fee charges for card validation"
+  ],
+  "interest_rates": [
+    "Lowest Revolving Credit at a nominal interest rate of 3.6% per month, effective September 01, 2020"
+  ],
+  "fees_and_penalties": [
+    "Late payment charges if bill is not paid on time",
+    "Notification and potential reporting to Credit Information Companies (CIC) for non-payment"
+  ],
+  "spend_conditions": [
+    "InterMiles once credited to the customer’s InterMiles account cannot be converted to Reward Points"
+  ],
+  "benefit_conditions": [
+    "*Renewal benefits are applicable only on realisation of the membership fee. Click here for terms and conditions.",
+    "*Terms and Conditions apply, kindly click here to read through the terms and conditions"
+  ],
+  "renewal_benefits": [
+    "■500 flight discount vouchers* for the first year",
+    "■1,000 hotel discount vouchers* for the first year"
+  ],
+  "partner_programs": [
+    "InterMiles Accrual Programme",
+    "VISA Lounge Program",
+    "MasterCard Lounge Program"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The Bank retains the authority to deactivate the Card if it remains inactive for a continuous period of six months, following prior written notice sent to the email address, phone number, or communication address registered in the Bank's records.",
+    "InterMiles once credited to the customer’s InterMiles account cannot be converted to Reward Points",
+    "InterMiles for insurance transactions capped at 2,000 per day",
+    "Effective April 15, 2016, InterMiles will not be accrued on fuel transactions. GST charges on fuel surcharge are non-refundable.",
+    "All card features on InterMiles HDFC Bank Credit Card are only applicable for the primary cardholder and not for add-on card holders."
+  ],
+  "excluded_categories": [
+    "Cash advances, fuel transactions, fees, easy EMI, e-wallet loading and other charges do not accrue any InterMiles"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\HDFC_Intermiles Platinum Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\LOUNGE\\lounge-access-intermiles-platinum-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\REWARDS\\classification-public-intermiles-platinum-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\REWARDS\\intermiles-hdfc-bank-diners-club-credit-card1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\REWARDS\\intermiles-hdfc-bank-diners-club-credit-card2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\REWARDS\\intermiles-hdfc-bank-diners-club-credit-card3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Platinum Credit Card\\REWARDS\\intermiles-hdfc-bank-diners-club-credit-card4.pdf"
+  ]
+}

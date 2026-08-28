@@ -1,0 +1,244 @@
+{
+  "card_name": "Moneyback Plus Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Spend ₹50,000 in 12 Months",
+  "welcome_benefits": [
+    "500 CashPoints (Applicable only on payment of Joining membership fee)",
+    "500 CashPoints if the joining membership fee is paid"
+  ],
+  "reward_structure": [
+    "10X CashPoints i.e., 20 CashPoints per ₹150 spent on Amazon, BigBasket, Flipkart, Reliance Smart Superstore & Swiggy",
+    "2 CashPoints per ₹150 spent on other spends (Excluding EMI, Fuel transactions, Rent Payments, Govt Related Transactions, Wallet loads / Gift or Prepaid Card Loads / Vouchers)",
+    "10X CashPoints on Amazon, Flipkart, Swiggy, Reliance Smart SuperStore & BigBasket",
+    "2 CashPoints per Rs. 200 on other spends",
+    "2 reward points for every ₹200 spent",
+    "Earn 10X CashPoints (20 CashPoints per ₹200 spent) on Amazon, BigBasket, Flipkart, Reliance Smart SuperStore & Swiggy",
+    "Earn 2 CashPoints per ₹200 spent on other spends",
+    "Maximum of 2,500 CashPoints per calendar month on 10X and 2X categories"
+  ],
+  "reward_redemption_options": [
+    "Cashback redemption against the statement at the rate of 1 CashPoint = upto ₹0.25",
+    "Redemption against travel benefits like Flight & Hotel bookings",
+    "Redemption against Rewards Catalogue at the SmartBuy Rewards Portal",
+    "CashPoints can be redeemed via HDFC Bank NetBanking or physical redemption form",
+    "CashPoints can be used for travel benefits like Flight & Hotel bookings via SmartBuy",
+    "Redeem CashPoints as CashBack at 1 CashPoint = ₹0.25",
+    "Redeem CashPoints for travel benefits (Flights & Hotels) at 1 CashPoint = ₹0.25",
+    "Redeem CashPoints for Rewards Catalogue"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Rent Payments and Govt Related Transactions",
+    "Wallet/Prepaid reloads and voucher purchases",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "EMI",
+    "Rent payments and Govt Related Transactions",
+    "Wallet loads / Gift or Prepaid Card load / Voucher purchases",
+    "Smart EMI / Dial an EMI transactions"
+  ],
+  "reward_caps": [
+    "Maximum CashPoints that can be earned under 10X feature is 2500 points per Calendar Month",
+    "Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000",
+    "Reward points redemption for CashBack redemption are capped per calendar month to 50,000 rewards points",
+    "CashPoint redemption for Flights and Hotel bookings capped per month at 50,000 CashPoints (from 1st Jan 2023)",
+    "CashPoint redemptions capped per month up to 3,000 CashPoints (from 1st Feb 2023)",
+    "Maximum of 15,000 reward points per statement cycle",
+    "Maximum of 50,000 reward points per calendar month for travel and hotel bookings",
+    "Maximum of 50,000 reward points per calendar month for CashBack redemption"
+  ],
+  "cashback_benefits": [
+    "1% Fuel Surcharge Waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)",
+    "10X CashPoints (Upto 2.5% valueback) on Amazon, Flipkart, Swiggy, Reliance Smart SuperStore & BigBasket",
+    "2 CashPoints per Rs. 200 on other spends",
+    "Redeem CashPoints as CashBack at 1 CashPoint = ₹0.25"
+  ],
+  "milestone_benefits": [
+    "₹500 gift voucher on spends of ₹50,000 and above in each calendar quarter",
+    "Gift Voucher worth Rs. 500 on spends of Rs. 50,000 per calendar quarter",
+    "Spend Rs. 50,000 or more in a calendar quarter to receive a Rs. 500 gift voucher",
+    "Voucher must be claimed within 120 days of receiving the qualification communication",
+    "Earn a voucher worth ₹500 if net spends (spends minus reversals) reach ₹50,000 within a calendar quarter"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of Rs. 400, Maximum transaction of Rs. 5,000 & Maximum waiver of Rs. 250 per statement cycle)",
+    "Redeem CashPoints for Flights & Hotels bookings at 1 CashPoint = ₹0.25",
+    "Maximum of 50% of booking value can be paid with CashPoints"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge Waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of Rs. 400, Maximum transaction of Rs. 5,000 & Maximum waiver of Rs. 250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI option to convert big spends into EMI after purchase",
+    "5X CashPoints on EMI spends at Merchant locations (Effective 1st September 2024, this feature is removed)"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 CashPoint = upto ₹0.25",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% Fuel Surcharge Waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)",
+  "eligibility": [
+    "Salaried Indian national: Age 21-60, Gross Monthly Income > ₹20,000",
+    "Self-employed Indian national: Age 21-65, Income Tax Return > ₹6 lakh per annum",
+    "Minimum age: 21 years",
+    "Maximum age (Salaried): 60 years",
+    "Maximum age (Self-employed): 65 years",
+    "Nationality: Indian",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Gross Monthly Income: > ₹20,000",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Income Tax Return (ITR): > ₹6 lakh per annum",
+    "Salaried: Age: Min 21 Yrs. & Max 60 Yrs., Income: Gross Monthly Income> ₹ 20,000",
+    "Self Employed: Age: Min 21 Yrs. & Max 65 Yrs., Income: ITR > ₹ 6 Lakhs per annum",
+    "Salaried: Indian nationality, age 21-60, net monthly income > Rs. 20,000",
+    "Self-employed: Indian nationality, age 21-65, ITR > Rs. 6 Lakh per annum"
+  ],
+  "income_requirements": [
+    "Salaried: > ₹20,000 per month",
+    "Self-employed: > ₹6 lakh per annum",
+    "Salaried: Gross Monthly Income > ₹20,000",
+    "Self-employed: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Gross Monthly Income: > ₹20,000 for salaried individuals",
+    "Annual ITR: > ₹6 lakh for self-employed individuals",
+    "Salaried: Gross Monthly Income> ₹ 20,000",
+    "Self Employed: ITR > ₹ 6 Lakhs per annum",
+    "Salaried: > Rs. 20,000 net monthly income",
+    "Self-employed: ITR > Rs. 6 Lakh per annum"
+  ],
+  "documents_required": [],
+  "charges": [
+    "First Year Membership Fee – ₹500/- + Applicable Taxes",
+    "Renewal Membership Fee – ₹ 500/- + Applicable Taxes",
+    {
+      "type": "cash_withdrawal_fee",
+      "value": "2.5% of withdrawn amount or minimum ₹500"
+    },
+    "Dynamic Currency Conversion (DCC) markup fee of 1.75% on international transactions",
+    "1% fee on rental transactions via third-party apps (capped at ₹3000 per transaction)",
+    "1% fee on fuel transactions exceeding ₹15,000 per transaction (capped at ₹3000 per transaction)",
+    "1% fee on utility transactions exceeding ₹50,000 per transaction (capped at ₹3000 per transaction)",
+    "1% fee on education payments via third-party apps (capped at ₹3000 per transaction)",
+    "Easy-EMI processing fee of up to ₹299"
+  ],
+  "interest_rates": [
+    {
+      "type": "purchase_interest_rate",
+      "value": "3.6% per month"
+    }
+  ],
+  "fees_and_penalties": [
+    "First Year Membership Fee – ₹500/- + Applicable Taxes",
+    "Renewal Membership Fee – ₹ 500/- + Applicable Taxes",
+    {
+      "type": "inactivity_fee",
+      "value": "Card may be cancelled if inactive for 6 months after notice"
+    },
+    "Card re-issuance fee: ₹199 for non-metal card variants",
+    "₹50 redemption fee for CashPoints redeemed towards statement credit"
+  ],
+  "spend_conditions": [
+    "10X CashPoints feature is applicable on non-EMI spends across App, Website or Physical stores on these merchants",
+    "10X CashPoints feature is not applicable to EMI transactions",
+    "Minimum spend of Rs. 50,000 in a calendar quarter (excluding fees and charges) to qualify for the milestone voucher",
+    "Reward points are accrued on spends in multiples of ₹200",
+    "10X CashPoints on Amazon, BigBasket, Flipkart, Reliance Smart SuperStore & Swiggy capped at 2,500 CashPoints per calendar month",
+    "2 CashPoints per ₹200 on other spends",
+    "Maximum of 15,000 reward points per statement cycle"
+  ],
+  "benefit_conditions": [
+    "Welcome benefit of 500 CashPoints (Applicable only on payment of Joining membership fee)",
+    "Renewal benefit of 500 CashPoints (Applicable on payment of membership fee)",
+    "Quarterly spend based benefit of ₹500 worth gift voucher on spends of ₹50,000 and above in each calendar quarter",
+    "10X CashPoints on select merchants (Amazon, Flipkart, Swiggy, Reliance Smart SuperStore & BigBasket)",
+    "2 CashPoints per Rs. 200 on other spends",
+    "1% Fuel Surcharge waiver on fuel transactions (Min Rs. 400, Max Rs. 5,000 per transaction, Max Rs. 250 per statement cycle)",
+    "Voucher can be claimed in multiples of Rs. 500 only",
+    "Voucher must be claimed within 120 days of qualification communication",
+    "Milestone benefit of ₹500 voucher if net spends reach ₹50,000 within a calendar quarter",
+    "Voucher valid for 120 days from the triggered date",
+    "CashPoints earned will be reversed if transactions are returned/cancelled/reversed post calendar month completion"
+  ],
+  "renewal_benefits": [
+    "Renewal benefit of 500 CashPoints (Applicable on payment of membership fee)",
+    "Annual fee waived if spend Rs. 50,000 or more in a year before renewal",
+    "500 CashPoints if the membership fee is paid"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [
+    "10X CashPoints on Amazon, BigBasket, Flipkart, Reliance Smart Superstore & Swiggy",
+    "10X CashPoints on Amazon, BigBasket, Flipkart, Reliance Smart SuperStore & Swiggy",
+    "2 CashPoints per ₹200 on other spends"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "CashPoints will be posted as Reward Points only",
+    "Unredeemed CashPoints will expire/lapse on or after 2 years of accumulation",
+    "With effect from 1st January 2023, Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000",
+    "With effect from 1st February 2023, Reward points redemption for CashBack redemption are capped per calendar month to 50,000 rewards points",
+    "With effect from 1st February 2023, cardmembers can redeem upto 70% of product/Voucher value through Reward points on select vouchers/products and pay the remaining amount via Credit card",
+    "Unredeemed CashPoints expire after 2 years of accumulation",
+    "Card may be cancelled if inactive for 6 months after notice",
+    "Fees and charges levied will not be considered under the Milestone program",
+    "Voucher value is Rs. 500 and can be claimed from a list of partner brands",
+    "Reward points accrual updated to every ₹200 spent from 15th May 2026",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000",
+    "Reward points redemption for CashBack redemption are capped per calendar month to 50,000 rewards points",
+    "Cardmembers can redeem up to 70% of product/Voucher value through Reward points on select vouchers/products"
+  ],
+  "excluded_categories": [
+    "Fuel Spends",
+    "Rent Payments and Govt Related Transactions",
+    "Wallet/Prepaid reloads and voucher purchases",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "EMI",
+    "Rent payments and Govt Related Transactions",
+    "Wallet loads / Gift or Prepaid Card load / Voucher purchases",
+    "Smart EMI / Dial an EMI transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\HDFC_Moneyback Plus Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\FAQ\\mbp_faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\FEES\\14jan-fees-charges1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\FEES\\14jan-fees-charges2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\FEES\\14jan-fees-charges3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\FEES\\14jan-fees-charges4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\REWARDS\\quarterly-spends-milestone-program-mb.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "Terms & Conditions – HDFC Bank MoneyBack+ Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Moneyback Plus Credit Card\\TERMS\\MBPlus-TnCs.pdf"
+  ]
+}

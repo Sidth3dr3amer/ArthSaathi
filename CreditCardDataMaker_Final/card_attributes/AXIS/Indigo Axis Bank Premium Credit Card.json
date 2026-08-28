@@ -1,0 +1,348 @@
+{
+  "card_name": "Indigo Axis Bank Premium Credit Card",
+  "card_network": null,
+  "card_type": "Premium",
+  "joining_fee": 5000,
+  "annual_fee": 5000,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher as a Welcome gift on payment of joining fee",
+    "5000 IndiGo BluChips voucher",
+    "1 6E Eats voucher",
+    "2 vouchers of 5000 IndiGo BluChips + 1 6E Eats voucher on joining fee payment",
+    "Standard welcome benefit - Voucher worth 5000 IndiGo BluChips + 1 6E Eats voucher (Within 30 days of joining fee payment)",
+    "Incremental voucher of 5000 IndiGo BluChips (Within 60 days of the joining fee payment)"
+  ],
+  "reward_structure": [
+    "Earn 7 IndiGo BluChips on every ₹100 spent on all IndiGo channels",
+    "Collect 2 IndiGo BluChip on every ₹100 spent on all eligible categories",
+    "Earn 3 IndiGo BluChips on every ₹100 spent on groceries and hotel",
+    "Earn 7 IndiGo BluChips on every 100 spent on all IndiGo channels.",
+    "Collect 2 IndiGo BluChip on every 100 spent on all eligible categories.",
+    "2 IndiGo BluChips per INR 100 spent on all eligible non-accelerated categories",
+    "3 IndiGo BluChips per INR 100 spent on Grocery & Hotel categories",
+    "7 IndiGo BluChips per INR 100 spent on IndiGo Channels"
+  ],
+  "reward_redemption_options": [
+    "The IndiGo BluChip Vouchers can be redeemed on IndiGo’s ecosystem at the time of checkout"
+  ],
+  "reward_exclusions": [
+    "Government services",
+    "Insurance services",
+    "Utility Services (Including telecom)",
+    "Rental payments",
+    "Wallet",
+    "Fuel",
+    "Jewelry",
+    "All EMIs transaction types",
+    "ATM Cash withdrawals",
+    "Fees, charges and GST",
+    "Temporary credit and reversal of temporary credit for disputed transactions"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Unlock 4 vouchers worth 5000 IndiGo BluChips on achieving spends milestone at ₹2 Lakhs, ₹5 Lakhs, ₹8 lakhs and ₹12 Lakhs spends",
+    "Unlock 4 vouchers worth 5000 IndiGo BluChips on achieving spends milestone at ₹2 Lakhs, ₹5 Lakhs, ₹8 Lakhs and ₹12 Lakhs spends",
+    "Unlock 4 vouchers worth 5000 IndiGo BluChips on achieving spends milestone at 2 Lakhs, 5 Lakhs, 8 lakhs and 12 Lakhs spends.",
+    {
+      "milestone_spend": "INR 2,00,000",
+      "reward": "5000 IndiGo BluChips voucher"
+    },
+    {
+      "milestone_spend": "INR 5,00,000",
+      "reward": "5000 IndiGo BluChips voucher"
+    },
+    {
+      "milestone_spend": "INR 8,00,000",
+      "reward": "5000 IndiGo BluChips voucher"
+    },
+    {
+      "milestone_spend": "INR 12,00,000",
+      "reward": "5000 IndiGo BluChips voucher"
+    }
+  ],
+  "lounge_access": [
+    "2 complimentary international lounge visits using your credit card at Priority Pass Lounge",
+    "2 complimentary domestic airport lounge visits per quarter (applicable on spends of ₹50,000 in the preceding 3 months)",
+    "2 complimentary domestic airport lounge visits per quarter (subject to ₹50,000 spend in preceding 3 months)",
+    "2 complimentary international lounge visits per year via Priority Pass",
+    {
+      "type": "domestic",
+      "visits_per_quarter": 2,
+      "spend_requirement": "Rs. 50,000 in the previous 3 calendar months",
+      "waiver_condition": "Waived for the month of card issuance and the following 3 calendar months for new card issuance",
+      "participating_lounges": [
+        "City Lounge Terminal Bengaluru BLR Domestic Lounge",
+        "Domestic Lounge Domestic Departure T1 Bengaluru 080",
+        "Domestic Lounge Domestic Departure T2",
+        "Chennai Travel Club Lounge A/B",
+        "Domestic Departure T1 Chennai Travel Club Lounge",
+        "Domestic Departure T4 Mumbai Travel Club Lounge",
+        "Domestic Departure T1c Mumbai Adani Lounge",
+        "Domestic Departure T2 Kolkata Travel Club Lounge",
+        "Domestic Departure T1 Hyderabad Encalm Lounge",
+        "Domestic Departure T1 New Delhi Encalm Lounge",
+        "Domestic Departure T2 New Delhi Encalm Lounge",
+        "Domestic Departure T3",
+        "Ahmedabad The Lounge",
+        "Domestic Departure T1 Bengaluru BLR Domestic Lounge",
+        "Domestic Departure T1 Bengaluru 080 Domestic Lounge",
+        "Domestic Departure T2 Bhubaneshwar Bird Lounge",
+        "Domestic Departure T1 Chennai Travel Club Lounge A/B",
+        "Domestic Departure T1 Chennai Travel Club Lounge",
+        "Domestic Departure T4 Coimbatore Blackberry Lounge",
+        "Domestic Departure T1 Dehradun Bird Lounge",
+        "Domestic Departure T1 Goa (Manohar International) Encalm Lounge",
+        "Domestic Departure T1 Hyderabad Encalm Lounge",
+        "Domestic Departure T2 Jaipur The Lounge",
+        "Domestic Departure T1 Kochi Earth Lounge",
+        "Domestic Departure T1 Kolkata Travel Club Lounge",
+        "Domestic Departure T1 Mumbai Travel Club Lounge",
+        "Domestic Departure T1c Mumbai Adani Lounge",
+        "Domestic Departure T2 Mumbai Adani Lounge",
+        "Domestic Departure T1B New Delhi Encalm Lounge",
+        "Domestic Departure T1 New Delhi Encalm Lounge",
+        "Domestic Departure T2 New Delhi Encalm Lounge",
+        "Domestic Departure T3 Vadodara Premium Lounge",
+        "Domestic Departure Main"
+      ]
+    },
+    "2 complimentary international lounge visits using your credit card at Priority Pass Lounge.",
+    "2 complimentary domestic airport lounge visits per quarter (applicable on spends of 50,000 in the preceding 3 months)",
+    "2 international lounge accesses per calendar year",
+    "2 domestic lounge accesses per quarter (total 8 per year)"
+  ],
+  "airport_services": [
+    {
+      "entry_type": "Free entry for Eligible Cardholder only (subject to a nominal swipe fee of Rs. 2 for Visa, Rs. 25 for Mastercard and Rs. 2 for Rupay)",
+      "validation_requirement": "Card must be validated at point of entry by swiping a transaction of a nominal fee"
+    },
+    {
+      "entry_type": "Paid entry for the Eligible Cardholder according to the respective prices of usage displayed at the Participating Airport Lounges",
+      "validation_requirement": "Payment will be made directly at the Participating Airport Lounge by the Eligible Cardholder"
+    }
+  ],
+  "priority_pass_benefits": [
+    "Complimentary priority pass membership along with your credit card",
+    "Complimentary Priority Pass membership with 2 international lounge visits",
+    "Get a complimentary priority pass membership along with your credit card"
+  ],
+  "travel_benefits": [
+    "Lowered forex mark-up of 2.5% on all foreign currency transactions"
+  ],
+  "hotel_benefits": [
+    "Earn 3 IndiGo BluChips on every ₹100 spent on groceries and hotel",
+    "Earn 3 IndiGo BluChips on every ₹100 spent on hotel"
+  ],
+  "airline_benefits": [
+    "Earn 7 IndiGo BluChips on every ₹100 spent on all IndiGo channels"
+  ],
+  "forex_benefits": [
+    "Lowered forex mark-up of 2.5% on all foreign currency transactions"
+  ],
+  "dining_benefits": [
+    "Exceptional dining experiences at top restaurants across India, with the Axis Bank Dining Delights Program",
+    "Dining Delight program with exceptional dining experiences at top restaurants",
+    "Enjoy exceptional dining experiences at top restaurants across India, with the Axis Bank Dining Delights Program",
+    "Axis Bank Dining Delights Program"
+  ],
+  "movie_benefits": [
+    "Buy One Get One offer on movie tickets, once every month on BookMyShow",
+    "Buy One Get One offer on movie tickets once every month on BookMyShow",
+    "Enjoy Buy One Get One offer on movie tickets, once every month on BookMyShow",
+    "Book My Show BOGO discount up to INR 250 per month"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "Buy One Get One offer on movie tickets, once every month on BookMyShow",
+    "Buy One Get One offer on BookMyShow movie tickets",
+    "Book My Show BOGO discount up to INR 250 per month"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "2 EMI purchases For transactions exceeding ₹1500, you may contact the Bank to convert a credit card purchase into EMIs",
+    "EMI conversion available for transactions exceeding ₹1500",
+    "2 EMI purchases For transactions exceeding 1500"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 2,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 2.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Primary cardholder should be 18-70 years of age",
+    "Net income should be a minimum of ₹6 lakhs p.a.",
+    "Applicant should be a resident of India",
+    "Net income should be a minimum of 6 lakhs p.a.",
+    "Member of IndiGo BluChip Program",
+    "Customers who have applied for the card between 1st June'26 to 30th June'26",
+    "Joining Fee payment is mandatory for a customer to be eligible to earn double welcome bonus"
+  ],
+  "income_requirements": [
+    "Net income should be a minimum of ₹6 lakhs p.a.",
+    "Minimum net income of ₹6,00,000 per annum",
+    "Net income should be a minimum of 6 lakhs p.a."
+  ],
+  "documents_required": [
+    "PAN Card photocopy",
+    "Proof of income – Latest payslip / Form 16 / IT return",
+    "Resident proof – Driver’s license / Electricity Bill / Landline telephone bill"
+  ],
+  "charges": [
+    "Joining/Annual Fee: ₹5,000",
+    "Finance charges: 3.75% per month (55.55% per annum)",
+    "Cash withdrawl fee: 2.5% of Transaction (Minimum ₹500)",
+    "Fee for cash payment: ₹175",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum ₹500)",
+    "Statement Request (beyond 3 months): NIL",
+    "Reissue of lost, stolen or damaged card: NIL",
+    "Foreign currency transactions: 2.50% of Transaction value on International Transactions",
+    "DCC Surcharge: 1.5% surcharge on DCC transactions",
+    "Rent surcharge: 1% transaction fee (uncapped) MCC- 6513",
+    "Education transaction: A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik. MCCs: 8211, 8220, 8241, 8244, 8249, 8299",
+    "Wallet load transaction: 1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period MCC: 6540",
+    "Fuel transaction fee: 1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "Utility transaction fee: 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities within a statement period MCCs - 4814, 4899, 4900",
+    "Cash withdrawal fee: 2.5% of transaction (Minimum ₹500)",
+    "Late payment charges: Nil if Total Payment Due < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1,200 if > ₹10,000; additional ₹100 if MAD not paid for two consecutive cycles",
+    "Over limit charge: 2.5% (Minimum ₹500) of over limit amount",
+    "Returned payment charge: 2% of payment amount (Minimum ₹500)",
+    "Foreign currency transactions fee: 2.5% of transaction value",
+    "DCC surcharge: 1.5% surcharge on DCC transactions",
+    "Rent surcharge: 1% transaction fee (uncapped)",
+    "Education transaction fee: 1% (DCC & International markup also applicable)",
+    "Wallet load transaction fee: 1% for cumulative spends ≥ ₹10,000 within a statement period",
+    "Fuel transaction fee: 1% for cumulative spends ≥ ₹50,000 within a statement period",
+    "Utility transaction fee: 1% for cumulative spends ≥ ₹25,000 within a statement period",
+    {
+      "type": "swipe_fee",
+      "amount": "Rs. 2 for Visa, Rs. 25 for Mastercard, Rs. 2 for Rupay"
+    },
+    "Joining/Annual Fee: 5000",
+    "Cash withdrawl fee: 2.5% of Transaction (Minimum 500)",
+    "Fee for cash payment: 175",
+    "Late payment charges: Nil if Total Payment Due is less than 500, 500 if total payment due is between 501 - 5,000, 750 if total payment due is between 5,001 - 10,000, 1200 if total payment due is greater than 10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "Over limit charge: 2.5% (Minimum 500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum 500)",
+    "Wallet load transaction: 1% Fee will be applicable for cumulative spends on 10,000 or more for wallet loads within a statement period MCC: 6540",
+    "Fuel transaction fee: 1% Fee will be applicable for cumulative spends of 50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "Utility transaction fee: 1% fee will be applicable for cumulative spends of 25,000 or more on utilities within a statement period MCCs - 4814, 4899, 4900"
+  ],
+  "interest_rates": [
+    "Finance charges: 3.75% per month (55.55% per annum)",
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Joining/Annual Fee: ₹5,000",
+    "Cash withdrawl fee: 2.5% of Transaction (Minimum ₹500)",
+    "Fee for cash payment: ₹175",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum ₹500)",
+    "Foreign currency transactions: 2.50% of Transaction value on International Transactions",
+    "DCC Surcharge: 1.5% surcharge on DCC transactions",
+    "Rent surcharge: 1% transaction fee (uncapped) MCC- 6513",
+    "Education transaction: A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik. MCCs: 8211, 8220, 8241, 8244, 8249, 8299",
+    "Wallet load transaction: 1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period MCC: 6540",
+    "Fuel transaction fee: 1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "Utility transaction fee: 1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities within a statement period MCCs - 4814, 4899, 4900",
+    "Late payment charges as detailed above",
+    "Over limit charge 2.5% (minimum ₹500)",
+    "Returned payment charge 2% (minimum ₹500)",
+    "Joining/Annual Fee: 5000",
+    "Cash withdrawl fee: 2.5% of Transaction (Minimum 500)",
+    "Fee for cash payment: 175",
+    "Late payment charges: Nil if Total Payment Due is less than 500, 500 if total payment due is between 501 - 5,000, 750 if total payment due is between 5,01 - 10,000, 1200 if total payment due is greater than 10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "Over limit charge: 2.5% (Minimum 500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum 500)",
+    "Wallet load transaction: 1% Fee will be applicable for cumulative spends on 10,000 or more for wallet loads within a statement period MCC: 6540",
+    "Fuel transaction fee: 1% Fee will be applicable for cumulative spends of 50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "Utility transaction fee: 1% fee will be applicable for cumulative spends of 25,000 or more on utilities within a statement period MCCs - 4814, 4899, 4900"
+  ],
+  "spend_conditions": [
+    "Domestic lounge visits require ₹50,000 spend in the preceding 3 months",
+    "Fuel transaction fee applies after cumulative fuel spend of ₹50,000",
+    "Utility transaction fee applies after cumulative utility spend of ₹25,000",
+    "Wallet load fee applies after cumulative wallet load spend of ₹10,000",
+    {
+      "minimum_spend": "Rs. 50,000 in the previous 3 calendar months",
+      "waiver_condition": "Waived for the month of card issuance and the following 3 calendar months for new card issuance"
+    },
+    "Domestic lounge eligibility requires minimum spend of INR 50,000 in the previous 3 calendar months",
+    "Reward earn excludes categories listed in reward_exclusions"
+  ],
+  "benefit_conditions": [
+    "Welcome benefit upon payment of joining fee",
+    "Annual benefit upon payment of annual fee",
+    "Milestone benefits upon reaching spend thresholds of ₹2L, ₹5L, ₹8L, and ₹12L",
+    "Domestic lounge access subject to spend condition",
+    "International lounge access provided with Priority Pass membership",
+    {
+      "access_limit": "2 complimentary lounge access per quarter",
+      "validation_requirement": "Card must be validated at point of entry by swiping a transaction of a nominal fee"
+    },
+    "Welcome/Renewal voucher issued only if joining/annual fee is paid within 120 days of being charged",
+    "International lounge access requires a transaction of USD 1 which is reversed after authorization",
+    "The voucher will be valid for 6 months from the date of issuance. No reissuance or extension will be allowed after expiry"
+  ],
+  "renewal_benefits": [
+    "Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher every year as a renewal benefit on payment of annual fee",
+    "Voucher worth 5000 IndiGo BluChips along with one complimentary 6E Eats voucher every year on payment of annual fee",
+    "5000 IndiGo BluChips voucher",
+    "1 6E Eats voucher"
+  ],
+  "partner_programs": [
+    "IndiGo BluChips",
+    "6E Eats",
+    "Priority Pass",
+    "BookMyShow",
+    "Axis Bank Dining Delights",
+    "Book My Show"
+  ],
+  "merchant_offers": [
+    "Buy One Get One offer on movie tickets, once every month on BookMyShow",
+    "Buy One Get One on BookMyShow movie tickets",
+    "Wednesday Delight offers every Wednesday"
+  ],
+  "limited_period_offers": [
+    "Double welcome bonus for applications between 1 June'26 - 30 June'26"
+  ],
+  "important_terms": [
+    "The offer is not transferable, non-negotiable and cannot be encashed",
+    "Privileges under the Program cannot be clubbed together and/or in any way be combined with any other offer of the Participating Airport Lounge",
+    "Privileges under the Program cannot be exchanged or redeemed for cash",
+    "All Participating Airport Lounges are not owned or operated by Axis Bank, but by third party organizations",
+    "All the existing terms & conditions governing the IndiGo Axis Bank Premium Credit Card, the IndiGo BluChip Voucher & IndiGo BluChip Program shall be applicable for customers availing this offer in addition to the ones listed above"
+  ],
+  "excluded_categories": [
+    "Government services",
+    "Insurance services",
+    "Utility Services (Including telecom)",
+    "Rental payments",
+    "Wallet",
+    "Fuel",
+    "Jewelry",
+    "All EMIs transaction types",
+    "ATM Cash withdrawals",
+    "Fees, charges and GST",
+    "Temporary credit and reversal of temporary credit for disputed transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\AXIS_Indigo Axis Bank Premium Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\TERMS\\final_indigo-premium_customer-tnc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\TERMS\\final_indigo-premium_customer-tnc2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Premium Credit Card\\TERMS\\terms-and-conditions-for-indigo-axis-bank-premium-credit-card.pdf"
+  ]
+}

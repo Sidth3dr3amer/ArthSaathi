@@ -1,0 +1,136 @@
+{
+  "card_name": "Diners Club Premium Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Premium",
+  "joining_fee": 2500,
+  "annual_fee": 2500,
+  "fee_waiver_condition": "Renewal fee waiver on spending 300000 or more in a year before renewal date",
+  "welcome_benefits": [
+    "2,500 Reward points on card activation"
+  ],
+  "reward_structure": [
+    "Earn 4 Reward Points for every ₹200 spent",
+    "4 Reward Points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points on SmartBuy",
+    "Redeem Reward Points via NetBanking",
+    "Redeem up to 70% of booking value with reward points for flights and hotels"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Reward points earned are capped at 50,000 in a statement cycle"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "24x7 concierge service for travel reservations"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Convert reward points to miles on Jet Airways, Air India and Singapore Airlines (1 reward point = 0.50 air mile)"
+  ],
+  "forex_benefits": [
+    "Lowest markup on foreign currency transactions of 2%"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Accidental air death cover worth ₹1 crore",
+    "Emergency overseas hospitalisation up to ₹25 lakh",
+    "Travel insurance cover up to ₹50,000 for baggage delay/loss",
+    "Credit liability cover up to ₹9 lakh"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "24x7 concierge service for reservations for travel needs"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4 Reward Points per ₹200 spent",
+  "forex_markup": 2,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Nationality: Indian national",
+    "Age: Minimum 21 years and maximum 60 years (Salaried)",
+    "Age: Minimum 21 years and maximum 65 years (Self-Employed)",
+    "For Salaried: Minimum age 21 years, maximum age 60 years. Net Monthly Income: > ₹60,000.",
+    "For Self-Employed: Minimum age 21 years, maximum age 65 years. Income Tax Return (ITR): > ₹7.2 lakh per annum.",
+    "Indian national",
+    "Minimum 21 years and maximum 60 years (Salaried)",
+    "Minimum 21 years and maximum 65 years (Self-Employed)"
+  ],
+  "income_requirements": [
+    "Net Monthly Income: > ₹60,000 (Salaried)",
+    "Income Tax Return (ITR): > ₹7.2 lakh per annum (Self-Employed)",
+    "For Salaried: Net Monthly Income: > ₹60,000.",
+    "For Self-Employed: Income Tax Return (ITR): > ₹7.2 lakh per annum.",
+    "Net monthly income > 60,000 (Salaried)",
+    "Income Tax Return (ITR) > 7.2 lakh per annum (Self-Employed)"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Cash Advance fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Joining/renewal membership fee: ₹2,500 plus applicable taxes",
+    "Cash Advance fee: 2.5% fee, minimum ₹500 on all cash withdrawals",
+    "Interest: 3.6% per month on outstanding amounts past the due date",
+    "Card re-issuance fee: ₹199 for non-metal card variants, ₹3,500 for metal card variants"
+  ],
+  "interest_rates": [
+    "3.6% per month on outstanding amounts past the due date"
+  ],
+  "fees_and_penalties": [
+    "Joining/renewal membership fee: 2500 plus applicable taxes",
+    "Cash Advance fee: 2.5% fee, minimum 500, on all cash withdrawals",
+    "Interest: 3.6% per month on outstanding amounts past the due date",
+    "Joining/renewal membership fee: ₹2,500 plus applicable taxes",
+    "Cash Advance fee: 2.5% fee, minimum ₹500",
+    "Interest: 3.6% per month",
+    "Dynamic Currency Conversion (DCC) markup fee: 1.75%",
+    "Card re-issuance fee: ₹199 for non-metal card variants, ₹3,500 for metal card variants"
+  ],
+  "spend_conditions": [
+    "Renewal fee waiver on spending ₹3 lakh or more in a year before renewal date",
+    "Reward points accrued on spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [],
+  "renewal_benefits": [
+    "Renewal fee waiver on spending ₹3 lakh or more in a year before renewal date"
+  ],
+  "partner_programs": [
+    "Jet Airways",
+    "Air India",
+    "Singapore Airlines"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Sourcing of this Credit Card has been stopped. Existing customers will continue to enjoy the benefits.",
+    "Updates effective from 15th May 2026"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\HDFC_Diners Club Premium Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\fees_and_charges.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\main.pdf",
+    "UPDATES ON YOUR CREDIT CARD REWARDS, FEES & CHARGES",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\TERMS\\terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\TERMS\\terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\TERMS\\terms-and-conditions3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Diners Club Premium Credit Card\\TERMS\\terms-and-conditions4.pdf"
+  ]
+}

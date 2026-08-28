@@ -1,0 +1,146 @@
+{
+  "card_name": "Intermiles Signature Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 2500,
+  "annual_fee": 2500,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "InterMiles Silver membership for the first year",
+    "Up to 8,000 Bonus InterMiles",
+    "3,000 InterMiles upon spending ₹6,000 within the first 30 days",
+    "5,000 InterMiles on total retail spends of ₹90,000 and above"
+  ],
+  "reward_structure": [
+    "6 InterMiles on every ₹150 spent on retail spends",
+    "12 InterMiles on every ₹150 spent on flight tickets",
+    "12 InterMiles on every ₹150 spent on hotel bookings"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "Cash advances, fuel transactions, fees, and other charges do not accrue any InterMiles",
+    "EasyEMI and e-wallet loading transactions will not accrue InterMiles",
+    "InterMiles accrued will be reversed if a retail transaction is converted into SmartEMI",
+    "InterMiles accrued for Insurance transactions will have a maximum cap of 2,000 per day"
+  ],
+  "reward_caps": [
+    "Maximum discount per transaction capped at ₹1,000",
+    "Maximum discount per customer per month capped at ₹1,000"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "InterMiles Silver membership for the first year",
+    "Up to 8,000 Bonus InterMiles"
+  ],
+  "lounge_access": [
+    "16 complimentary visits per year (4 per quarter) to MasterCard Lounges",
+    "Complimentary enrollment in Priority Pass with access to 600+ lounges",
+    "Up to 5 free annual visits to International Lounges"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Complimentary enrollment in Priority Pass ($99 value)",
+    "Up to 5 free annual visits to International Lounges"
+  ],
+  "travel_benefits": [
+    "10% discount on Etihad Airways Business Class tickets",
+    "5% discount on Etihad Airways Economy Class tickets"
+  ],
+  "hotel_benefits": [
+    "■2000 hotel discount vouchers for the first year"
+  ],
+  "airline_benefits": [
+    "10% discount on Etihad Airways Business Class tickets",
+    "5% discount on Etihad Airways Economy Class tickets"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 20% discount on dining bills paid through Dineout Pay"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on a minimum transaction of ₹400",
+    "Maximum waiver capped at ₹500 every billing cycle"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero liability on fraudulent transactions if reported immediately"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 16,
+  "international_lounge_visits_per_year": 5,
+  "guest_lounge_access": "Charged at US $27 + GST per visit per guest",
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Net Monthly Income > ₹90,000.",
+    "For self employed Indian national: Age: Minimum 21 years and maximum 65 years. Income: Income Tax Return (ITR) > ₹12 lakh per annum.",
+    "Salaried Indian nationals: Age 21-60 years, Net Monthly Income > ₹90,000",
+    "Self‑employed Indian nationals: Age 21-65 years, Annual Income > ₹12 lakh (per Income Tax Return)"
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹90,000 for salaried individuals.",
+    "Annual Income > ₹12 lakh as per ITR for self-employed individuals.",
+    "Salaried: Net monthly income > ₹90,000",
+    "Self‑employed: Annual income > ₹12,00,000",
+    "Salaried individuals: Net Monthly Income > ₹90,000.",
+    "Self-employed individuals: Annual Income > ₹12 lakh as per Income Tax Return (ITR)."
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/renewal membership fee: ₹2,500 plus applicable taxes",
+    "1% fee on rental transactions from the second rental transaction of the calendar month",
+    "1% mark-up on DCC transactions"
+  ],
+  "interest_rates": [
+    "Lowest Revolving Credit at an interest rate of 3.6% per month"
+  ],
+  "fees_and_penalties": [
+    "Joining/renewal membership fee: ₹2,500 plus applicable taxes",
+    "1% fee on rental transactions from the second rental transaction of the calendar month",
+    "1% mark-up on DCC transactions"
+  ],
+  "spend_conditions": [
+    "Only retail purchases above ₹150 qualify for InterMiles",
+    "Grocery capping of ₹1,000 RP in a month"
+  ],
+  "benefit_conditions": [
+    "Rewards are capped for payments made by customers on the following using the InterMiles Credit Cards",
+    "Fees: A 1% fee will be applicable on rental transactions from the second rental transaction of the calendar month",
+    "A 1% mark-up will be applicable on DCC transactions"
+  ],
+  "renewal_benefits": [
+    "■750 flight and ■2000 hotel discount vouchers* for the first year",
+    "Note: These renewal benefits are only applicable upon realization of the membership fee"
+  ],
+  "partner_programs": [
+    "InterMiles Accrual Programme",
+    "Priority Pass Membership"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The bank retains the authority to cancel the card if it remains inactive and is not used for any transactions for a continuous period of 6 (six) months after prior written notice is sent to the email address, phone number, and/or communication address registered in the bank's records.",
+    "InterMiles, once credited, cannot be converted to Reward Points.",
+    "InterMiles Credit Card plastic will be provided on the VISA franchisee upon the renewal of your existing MasterCard variant.",
+    "GST charges on fuel surcharge are non-refundable."
+  ],
+  "excluded_categories": [
+    "Cash advances, fuel transactions, fees, and other charges do not accrue any InterMiles",
+    "EasyEMI and e-wallet loading transactions will not accrue InterMiles"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\HDFC_Intermiles Signature Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Signature Credit Card\\REWARDS\\airport-info-intermiles-signature.pdf"
+  ]
+}

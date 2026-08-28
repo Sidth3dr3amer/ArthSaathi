@@ -1,0 +1,218 @@
+{
+  "card_name": "Paytm Select Business Credit Card",
+  "card_network": "VISA",
+  "card_type": "Credit Card",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "First-year fee waived upon spending ₹60,000 (Non-EMI) within 90 days. Renewal fee waived upon spending ₹1 lakh (Non-EMI) within 12 months.",
+  "welcome_benefits": [
+    "Rs.500 worth Gift Voucher upon card activation with minimum 4 transactions in the first 30 days",
+    "Rs.500 Gift Voucher upon card activation with 4 transactions in first 30 days",
+    "Paytm First Membership for 6 months free worth Rs.900",
+    "Rs. 150 Cashback on doing on the first 2 transactions, whereby the minimum spends on each transaction to be Rs.250.",
+    "Gift Voucher worth ₹500 upon card activation",
+    "Complimentary Paytm First Membership"
+  ],
+  "reward_structure": [
+    "5% Cashback on Paytm [Recharge + Utility + Movies + Mini App + Travel] – Capped at Rs.1500 per Calendar Month",
+    "3% Cashback on Accelerated Categories like Swiggy, AJIO, Big Basket & Uber – Capped at Rs. 500 per Calendar Month",
+    "1% Cashback on all other spends (except EMI spends, Rental, Fuel, and Education Spends) – Rs.2000 per Calendar Month",
+    "5% cashback on Paytm purchases (Recharge, Utility, Movies, Mini App, Travel) capped at Rs.1500 per month",
+    "3% cashback on Accelerated categories (Swiggy, AJIO, Big Basket, Uber) capped at Rs.500 per month",
+    "1% cashback on all other spends (except EMI, Rental, Fuel, Education) capped at Rs.2000 per month",
+    "2% accelerated cashback on Scan & Pay (capped at Rs. 250 per month)",
+    "2% cashback on key accelerated categories – Swiggy & Uber (capped at Rs. 250 per month)",
+    "1% cashback on all retail spends including Paytm spends (capped at Rs. 500 per month)",
+    "5% CashBack on all purchases across Paytm",
+    "3% Cashpoints on Swiggy, AJIO, Big Basket & Uber",
+    "2% CashBack on all other Paytm spends"
+  ],
+  "reward_redemption_options": [
+    "Cashpoints can be redeemed as Cashback along with other redemption categories",
+    "Cashback",
+    "Smartbuy (Flights/Hotels)",
+    "Airmiles",
+    "Product Catalogue",
+    "Redeem against outstanding balance as cashback",
+    "Redeem against Smartbuy (Flights/Hotels)",
+    "Redeem against Airmiles & Product Catalogue",
+    "CashPoints can be redeemed against statement balance"
+  ],
+  "reward_exclusions": [
+    "No cashback on wallet loads, fuel spends, rental spends, and education spends",
+    "EMI spends",
+    "Rental spends",
+    "Fuel spends",
+    "Education spends",
+    "Wallet loads",
+    "Rental and government spends (from 1st January 2023 onwards)",
+    "Government spends"
+  ],
+  "reward_caps": [
+    "5% Cashback capped at Rs.1500 per calendar month",
+    "3% Cashback capped at Rs.500 per calendar month",
+    "1% Cashback capped at Rs.2000 per month",
+    "5% cashback capped at Rs.1500 per calendar month",
+    "3% cashback capped at Rs.500 per calendar month",
+    "1% cashback capped at Rs.2000 per calendar month",
+    "2% accelerated cashback capped at Rs.250 per month",
+    "2% cashback on Swiggy & Uber capped at Rs.250 per month",
+    "1% cashback on retail spends capped at Rs.500 per month",
+    "Grocery spends capped at ₹1000 Cashpoints per month",
+    "Travel Cashback Points capped at 50,000 points per month",
+    "Cashback redemption capped at 3000 points per month"
+  ],
+  "cashback_benefits": [
+    "5% Cashback on Paytm [Recharge + Utility + Movies + Mini App + Travel] – Capped at Rs.1500 per Calendar Month",
+    "3% Cashback on Accelerated Categories like Swiggy, AJIO, Big Basket & Uber – Capped at Rs. 500 per Calendar Month",
+    "1% Cashback on all other spends (except EMI spends, Rental, Fuel, and Education Spends) – Rs.2000 per Calendar Month",
+    "5% cashback on Paytm purchases (Recharge, Utility, Movies, Mini App, Travel)",
+    "3% cashback on Accelerated categories (Swiggy, AJIO, Big Basket, Uber)",
+    "1% cashback on all other spends (except EMI, Rental, Fuel, Education)",
+    "2% accelerated cashback on Scan & Pay",
+    "2% cashback on Swiggy & Uber",
+    "1% cashback on all retail spends including Paytm spends",
+    "5% CashBack on all purchases across Paytm",
+    "3% Cashpoints on Swiggy, AJIO, Big Basket & Uber",
+    "2% CashBack on all other Paytm spends"
+  ],
+  "milestone_benefits": [
+    "Rs.1000 worth Gift Voucher on annual spends of Rs.2 Lakhs (Non-EMI and Non-Rental Spends)",
+    "Rs.500 Gift Voucher upon activation with 4 transactions in first 30 days",
+    "Rs.1000 Gift Voucher on spends of Rs.2 lakh in a year",
+    "Paytm First Membership for 6 months free worth Rs.900",
+    "Gift Voucher worth ₹1000 on spends of ₹2 lakh in a year"
+  ],
+  "lounge_access": [
+    "12 domestic lounge visits in a year",
+    "Complimentary 12 lounge accesses per year",
+    "12 Complimentary access to Domestic Airport Lounges across the country in a calendar year"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary 12 lounge accesses per year"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum Cashback of ₹250 per statement cycle)",
+    "1% Fuel Surcharge Waiver (minimum transaction Rs.400)",
+    "1% Fuel Surcharge Waiver on spends of Rs. 4000 per month",
+    "1% fuel surcharge waived off on fuel transactions"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Lost Card Liability cover of Rs.3 Lakhs"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "No cost EMI",
+    "Low-cost EMI"
+  ],
+  "business_benefits": [
+    "5% cashback on Paytm business purchases",
+    "3% cashback on Accelerated business categories",
+    "1% cashback on other business spends",
+    "Save up to ₹15,000 annually on spends",
+    "10% savings on your spends"
+  ],
+  "domestic_lounge_visits_per_year": 12,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum Cashback of ₹250 per statement cycle)",
+  "eligibility": [
+    "Self-Employed",
+    "Nationality: Indian",
+    "Age: 21 - 65 years",
+    "Annual ITR: > ₹8,00,000"
+  ],
+  "income_requirements": [
+    "Annual ITR: > ₹8,00,000"
+  ],
+  "documents_required": [
+    "ID proof copy",
+    "Address proof copy",
+    "Passport size photograph",
+    "Identity proof (Passport, Aadhaar card, Voter ID, Driver's licence, PAN card, Passport size photos)",
+    "Address proof (Utility bills, Rental agreement, Bank statement)",
+    "Income proof (Salary slips, Form 16, Income Tax Returns, Bank statements)"
+  ],
+  "charges": [
+    "membership fees of ₹1000 plus applicable taxes",
+    "Joining Membership Fee: ₹1000 plus Applicable Taxes",
+    "Membership Renewal Fee: ₹500 plus Applicable Taxes per year"
+  ],
+  "interest_rates": [
+    {
+      "type": "Revolving balance",
+      "rate_per_month": "3.6%"
+    },
+    "3.6% on revolving balance",
+    "Monthly: 3.75%",
+    "Annual: 45.0%"
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "spending ₹60,000 (non-EMI) within 90 days for first year",
+    "spending ₹1 lakh (non-EMI) within 12 months for renewal",
+    "5% cashback on Rs.20,000 spend per month (excluding EMI spends)",
+    "3% cashback on Rs.20,000 spend per month (excluding EMI spends)",
+    "1% cashback on Rs.15,000 spend per month (excluding EMI, Rental, Fuel, Education spends)",
+    "Cashback not applicable for wallet loads, fuel spends, EMI spends, rental spends, and government spends"
+  ],
+  "benefit_conditions": [
+    "Annual fee waiver on Rs.1 lakh spend in a year",
+    "Fuel surcharge waiver applicable on minimum transaction of Rs.400",
+    "First year fee waived off on spending INR 1,000 in first 30 days",
+    "Renewal year fee waived off on spending Rs.25,000 in a calendar year",
+    "First year fee waived upon spending ₹60,000 (non-EMI spends) within the first 90 days",
+    "Renewal fee waived on annual spends of ₹1 lakh (non-EMI spends) in the 12-month period"
+  ],
+  "renewal_benefits": [
+    "renewal fee waived upon spending ₹1 lakh (non-EMI) within 12 months",
+    "Renewal fee waived on annual spends of ₹1 lakh (non-EMI spends) in the 12-month period"
+  ],
+  "partner_programs": [
+    "Paytm First Membership"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "annual fee is charged after 90 days of issuance only if not activated as per sign-up terms",
+    "Cashback not applicable on wallet loads, fuel spends, rental spends, and education spends",
+    "Cashback caps are per calendar month",
+    "Cashback redemption capped at 3000 points per month",
+    "70% points plus 30% minimum pay system for redemption of points on select categories"
+  ],
+  "excluded_categories": [
+    "EMI spends",
+    "Rental spends",
+    "Fuel spends",
+    "Education spends",
+    "Wallet loads",
+    "Rental and government spends (from 1st January 2023 onwards)",
+    "Government spends"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\HDFC_Paytm Select Business Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\FAQ\\faq1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\FAQ\\faq2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\FAQ\\faq3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\FAQ\\faq4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\MITC\\mitcs1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\MITC\\mitcs2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Paytm Select Business Credit Card\\MITC\\mitcs3.pdf"
+  ]
+}

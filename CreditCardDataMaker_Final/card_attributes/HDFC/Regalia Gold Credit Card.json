@@ -1,0 +1,547 @@
+{
+  "card_name": "Regalia Gold Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 2500,
+  "annual_fee": 2500,
+  "fee_waiver_condition": "Spend 400000 within 12 billing cycles of your anniversary year",
+  "welcome_benefits": [
+    "Complimentary Swiggy One membership",
+    "Complimentary MMT Black Gold membership",
+    "Premium welcome benefits",
+    "Club Vistara Silver Tier Membership",
+    "Complimentary Annual Membership of Club Vistara Silver Tier",
+    "Complimentary MMT Black Membership",
+    "Complimentary Annual Memberships of Club Vistara Silver Tier & MMT Black Membership on achieving net retail spends of Rs 1 lakh within first 90 days of card issuance"
+  ],
+  "reward_structure": [
+    "5 Reward Points on every ₹200 spent (on retail spends)",
+    "5X Reward Points on spends at Myntra, Nykaa, Reliance Digital and more",
+    "Upto 10X rewards on Hotels and Flight bookings",
+    "5X rewards on Instant Vouchers",
+    "Up to 10X on brands like Pharmeasy, Myntra, Apple Imagine Tresor, Jockey and more",
+    {
+      "type": "Reward Points",
+      "rate": "5 Reward Points per ₹200",
+      "categories": "eligible spends"
+    },
+    {
+      "category": "Select merchants (Myntra, Nykaa, Reliance Digital, Marks & Spencers)",
+      "rate": "5X"
+    },
+    "5X Reward Points on spends at select merchants (Myntra, Nykaa, Reliance Digital, Marks & Spencer)",
+    "Minimum transaction value Rs 150",
+    "Reward points capped at 5000 RP per month",
+    {
+      "description": "Base reward points of 5 Reward Points for every ₹200 spends across eligible categories (effective 15th May, 2026)"
+    }
+  ],
+  "reward_redemption_options": [
+    "Exclusive Gold Catalogue (₹0.65 per point)",
+    "Flights and hotel bookings (₹0.5 per point)",
+    "Airmiles conversion (up to 0.5 airmiles per point)",
+    "Products and Voucher (up to ₹0.35 per point)",
+    "Statement balance (up to ₹0.20 per point)",
+    "Milestone vouchers can be redeemed at partner websites or stores",
+    "Exclusive Gold Catalogue on select Premium brands via Smartbuy at a value of 1 RP = Rs 0.65",
+    "Flights and hotel bookings via SmartBuy at a value of 1 RP = Rs 0.5",
+    "Airmiles conversion through Netbanking at a value of 1 RP = up to 0.5 airmiles",
+    "Products and Vouchers via Netbanking or SmartBuy at a value of 1 RP = up to Rs 0.35",
+    "Redemption against the statement balance at the rate of 1 RP = up to Rs 0.20",
+    {
+      "type": "Travel bookings (Flights, hotels, experiences)",
+      "max_redemption": "70%"
+    },
+    {
+      "type": "Cashback redemption",
+      "max_redemption": "50,000 Reward Points per calendar month"
+    },
+    {
+      "type": "Select Products & Vouchers",
+      "max_redemption": "70% of the total value"
+    },
+    {
+      "type": "Flights & hotel bookings on Smartbuy portal",
+      "max_redemption": "50,000 Reward Points per calendar month"
+    },
+    "Travel bookings (Flights, hotels, experiences)",
+    "Cashback redemption",
+    "Products & Vouchers"
+  ],
+  "reward_exclusions": [
+    "fuel transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "rental pay transactions, property management services like rent, maintenance, packers & movers, etc and government transactions",
+    "Insurance transactions",
+    "grocery transactions",
+    "transactions conducted in Indian currency at an international location or with a merchant located in India but registered overseas",
+    "Fuel transactions",
+    "Rental payments",
+    "Property management services (rent, maintenance, packers & movers)",
+    "Government transactions",
+    "International transactions with dynamic & static conversion markup fee of 1%",
+    "Transactions converted to SmartEMI",
+    "International transactions with dynamic & static conversion markup fee",
+    "Wallet payments are not eligible for 5X Reward Points",
+    "Offer cannot be combined with other promotions"
+  ],
+  "reward_caps": [
+    "Maximum reward points that can be earned in a statement cycle for Regalia Gold is 50,000",
+    "Redemption of Reward Points against statement balance (cashback redemption) will be capped at 50,000 Reward Points per month",
+    "Reward redemption is capped at 50,000 Reward Points per month for flights and hotel bookings on SmartBuy",
+    "2,000 reward points per month for Insurance transactions",
+    "2000 reward points per calendar month for grocery transactions",
+    "50,000 reward points per calendar month for flights & hotel bookings on Smartbuy portal",
+    "50,000 reward points per calendar month for cashback redemption",
+    "70% of the total value for select Products & Vouchers",
+    "70% on the travel bookings (Flights, hotels and experiences)",
+    "50,000 reward points per statement cycle",
+    {
+      "type": "Insurance transactions",
+      "max": "2,000 Reward Points per day"
+    },
+    {
+      "type": "Grocery transactions",
+      "max": "2,000 Reward Points per calendar month"
+    },
+    {
+      "type": "5X Reward Points",
+      "max": "5,000 Reward Points per month across all brands combined"
+    },
+    {
+      "type": "Maximum reward points per statement cycle",
+      "max": "50,000 Reward Points"
+    },
+    {
+      "type": "Monthly",
+      "limit": "5000 RP",
+      "condition": "5X Reward Points on select merchants (Myntra, Nykaa, Reliance Digital, Marks & Spencers)"
+    },
+    {
+      "type": "Monthly",
+      "limit": "50,000 RP",
+      "condition": "Redemption for flights & hotel bookings on Smartbuy portal"
+    },
+    {
+      "type": "Monthly",
+      "limit": "50,000 RP",
+      "condition": "Cashback redemption"
+    },
+    {
+      "type": "Monthly",
+      "limit": "2000 RP",
+      "condition": "Grocery transactions"
+    },
+    {
+      "type": "Statement cycle",
+      "limit": "50,000 RP",
+      "condition": "Maximum reward points for Regalia Gold"
+    },
+    "5X Reward Points capped at 5000 RP per month across all brands"
+  ],
+  "cashback_benefits": [
+    "₹1,000 CashBack across 200+ brands on your Credit Card via Payzapp"
+  ],
+  "milestone_benefits": [
+    "₹1,500 worth Myntra/Nykaa vouchers on quarterly spends of ₹1.5 lakhs",
+    "₹5,000 worth flight vouchers on spends of ₹5 lakh and ₹7.5 lakh",
+    "Premium",
+    "Welcome Benefits",
+    "Premium Voucher",
+    "Quarterly Milestone",
+    "Annual Milestone Benefits – I",
+    "Annual Milestone Benefits – II",
+    {
+      "description": "5X Reward Points on spends at select merchants (Myntra, Nykaa, Reliance Digital, Marks & Spencers)",
+      "conditions": [
+        "Minimum transaction value of Rs. 150",
+        "Payment must be done directly using HDFC Bank Regalia Gold Credit Card",
+        "No wallet payments eligible",
+        "Cannot be clubbed with other promotions"
+      ]
+    },
+    {
+      "description": "5X Reward Points on spends at select merchants (Myntra, Nykaa, Reliance Digital, Marks & Spencers)",
+      "conditions": [
+        "Minimum transaction value: Rs. 150",
+        "Payment must be done directly using HDFC Bank Regalia Gold Credit Card",
+        "No wallet payments eligible",
+        "Cannot be clubbed with other promotions"
+      ]
+    },
+    "Quarterly voucher worth Rs 1500 (choice of Marriott Experience, Myntra, MMT Hotels, Marks & Spencer, Reliance Digital) upon net retail spend Rs 150,000 in a calendar quarter",
+    "Annual complimentary flight ticket worth Rs 5000 upon net retail spend Rs 750,000 in card anniversary year",
+    "Quarterly Milestone: Voucher worth Rs. 1,500 from Marriott Experience, Myntra, MMT Hotels, Marks & Spencer, or Reliance Digital on net retail spends of Rs. 1,50,000 in a calendar quarter",
+    "Annual Milestone: COMPLIMENTARY FLIGHT TICKET worth Rs. 5000 on net retail spends of Rs. 7,50,000 in a card anniversary year"
+  ],
+  "lounge_access": [
+    "Complimentary domestic airport lounge accesses as per product feature; validation requires a Rs.2 nominal charge which is reversed",
+    "3 Airport Lounge Accesses within India in NEXT Calendar Quarter",
+    "3 Lounge visits within India per calendar quarter on spends of ₹60,000 or more in the preceding calendar quarter",
+    "6 Complimentary Lounge Access per calendar year outside India using Priority Pass",
+    {
+      "type": "Domestic",
+      "visits_per_quarter": 3,
+      "condition": "spends of ₹60,000 or more in the preceding calendar quarter"
+    },
+    {
+      "type": "International",
+      "visits_per_year": 6,
+      "via": "Priority Pass"
+    },
+    {
+      "description": "3 domestic lounge visits per calendar quarter on spends of ₹60,000 or more in the preceding calendar quarter (applicable from 1st July 2026)"
+    },
+    {
+      "description": "6 international lounge visits per year via Priority Pass continue unchanged without any spends criteria"
+    }
+  ],
+  "airport_services": [
+    "Additional charges may apply for meal/food/drink items, especially alcoholic drinks",
+    "Charges may apply for nap, massage service, and spa as per lounge discretion",
+    "Maximum stay policy usually 2-3 hours; extended stay may incur charges",
+    "Boarding Edge Program – Complimentary Spa, Buffet, Hotel Room Upgrade, and Airport transfer (any 2 every calendar quarter)",
+    {
+      "description": "Boarding Edge Program: Complimentary benefits (Spa, Uber transfers, buffet, room upgrades) on uploading boarding pass (2 benefits per quarter)"
+    }
+  ],
+  "priority_pass_benefits": [
+    "6 Complimentary Lounge Access per calendar year outside India using Priority Pass",
+    {
+      "type": "International Lounge Access",
+      "visits_per_year": 6
+    },
+    {
+      "description": "6 international lounge visits per year via Priority Pass"
+    }
+  ],
+  "travel_benefits": [
+    "Boarding Edge Program – Complimentary Spa, Buffet, Hotel Room Upgrade, and Airport transfer (any 2 every calendar quarter)",
+    "Redeem up to 70% of the booking value through reward points on Flights, Hotels and Experiences",
+    {
+      "program": "Boarding Edge",
+      "benefits": [
+        "Spa access at participating wellness centers",
+        "Local Airport transfers via Uber",
+        "Dining experiences at participating hotels",
+        "Room upgrades at participating hotels"
+      ],
+      "selection": "2 benefits every calendar quarter via HDFC Bank SmartBuy portal"
+    },
+    "Redeem reward points for flight bookings at a value of 1 RP = Rs 0.50",
+    "Complimentary flight ticket worth Rs 5000 (annual milestone)"
+  ],
+  "hotel_benefits": [
+    "Boarding Edge Program – Hotel Room Upgrade",
+    "Redeem reward points for hotel bookings via SmartBuy",
+    "Marriott Experience Voucher worth Rs 1500",
+    "MakeMyTrip Hotels Voucher worth Rs 1500",
+    {
+      "description": "Complimentary meal and room upgrade vouchers at participating hotels (e.g., ITC, Welcomhotel, Fortune, Storii)"
+    }
+  ],
+  "airline_benefits": [
+    "Boarding Edge Program – Airport transfer",
+    "Club Vistara Silver Tier Membership",
+    "Convert reward points to airmiles at a value of 1 RP = up to 0.5 airmiles",
+    "Complimentary flight ticket worth Rs 5000"
+  ],
+  "forex_benefits": [
+    "2% foreign currency markup on all foreign currency spends",
+    {
+      "feature": "Dynamic Currency Conversion (DCC)",
+      "markup": "1.75%"
+    },
+    {
+      "description": "Dynamic Currency Conversion (DCC) Fee revised to 1.75% on international transactions in INR"
+    }
+  ],
+  "dining_benefits": [
+    "Dining Privileges with Good Food Trail Program and get up to 10% discount on partner restaurants via Swiggy Dineout"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "5X Reward Points on spends at Myntra, Nykaa, Reliance Digital and more",
+    "Redeem reward points in Regalia Gold catalogue to purchase products at a value of 1 RP = Rs 0.65",
+    "Redeem reward points in regular catalogue at a value of 1 RP = up to Rs 0.35"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    {
+      "type": "Air Accident",
+      "coverage": "INR 10,000,000",
+      "condition": "Primary cardholder only, within 12 months of the accident"
+    },
+    {
+      "type": "Emergency Medical Expenses",
+      "coverage": "INR 1,500,000",
+      "condition": "Primary cardholder only, for international travel, no pre-existing illness"
+    },
+    {
+      "type": "Card Liability Cover",
+      "coverage": "INR 900,000",
+      "condition": "Primary cardholder only, 2 days prior to block and 30 days post block"
+    },
+    "Accidental air death cover worth ₹1 Crore (USD 125,000)",
+    "Emergency overseas hospitalization: up to ₹15 lakhs (USD 18,750)",
+    "Credit Liability cover: Up to ₹9 Lakhs"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Option to convert your big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 12,
+  "international_lounge_visits_per_year": 6,
+  "guest_lounge_access": null,
+  "reward_rate": 5,
+  "forex_markup": 2,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For Salaried Applicants: Nationality: Indian; Age: Minimum 21 years, Maximum 60 years; Income: Gross monthly income greater than ₹1.5 lakh",
+    "For Government Employees: Income: Gross monthly income greater than ₹1 lakh",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years; Income: Income Tax Return (ITR) greater than ₹18 lakh per annum",
+    "For Salaried Applicants: Nationality - Indian, Age - Minimum 21 years, Maximum 60 years, Income - Gross monthly income greater than ₹1.5 lakh",
+    "For Government Employees: Income - Gross monthly income greater than ₹1 lakh",
+    "For Self-Employed Applicants: Age - Minimum 21 years, Maximum 65 years, Income - Income Tax Return (ITR) greater than ₹18 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ₹1.5 lakh",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ₹18 lakh per annum",
+    "Must hold a Regalia Gold or Regalia Activ card",
+    "Salaried: Indian, Age: Min 21 years & Max 60 Years, Net Monthly Income > ₹1,00,000 (For Govt.), Net Monthly Income > ₹1,50,000 (For Non Govt.)",
+    "Self Employed: Indian, Age: Min 21 years & Max 65 Years, Income: ITR > ₹18 Lakhs per annum"
+  ],
+  "income_requirements": [
+    "Gross monthly income > ₹1.5 lakh (Salaried Applicants)",
+    "Gross monthly income > ₹1 lakh (Government Employees)",
+    "ITR > ₹18 lakh per annum (Self-Employed Applicants)",
+    "Gross monthly income greater than ₹1.5 lakh for salaried applicants",
+    "Gross monthly income greater than ₹1 lakh for government employees",
+    "Income Tax Return (ITR) greater than ₹18 lakh per annum for self-employed applicants",
+    "Net Monthly Income > ₹1,00,000 (For Govt.)",
+    "Net Monthly Income > ₹1,50,000 (For Non Govt.)",
+    "Income: ITR > ₹18 Lakhs per annum"
+  ],
+  "documents_required": [
+    "Aadhaar Card",
+    "Passport size photos"
+  ],
+  "charges": [
+    "Joining Fee",
+    "Renewal Fee",
+    "Rs.2 nominal charge for lounge validation (reversed after verification)",
+    "Joining/ Renewal Membership Fee of ₹2,500 + Applicable Taxes",
+    {
+      "type": "Card Reissuance Fee",
+      "amount": "₹199"
+    },
+    "1% fee for rent payments made through third-party merchants from the second rental transaction of the calendar month",
+    {
+      "description": "Card reissuance fee: ₹199"
+    }
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Applicable Taxes",
+    "Joining/ Renewal Membership Fee of ₹2,500 + Applicable Taxes",
+    {
+      "description": "Card reissuance fee: ₹199"
+    }
+  ],
+  "spend_conditions": [
+    "Spend 400000 within 12 billing cycles of your anniversary year",
+    "Spend Condition – 60,000 in a calendar quarter",
+    "3 Lounge visits within India per calendar quarter on spends of ₹60,000 or more in the preceding calendar quarter",
+    "Annual milestone of ₹5,000 worth flight vouchers on spends of ₹5 lakh and ₹7.5 lakh",
+    "Welcome benefits on spends of ₹1 lakh in first 90 days",
+    "Benefits unlocked within 48 hours on achievement of annual spend milestone",
+    "Minimum transaction value of Rs. 150 for 5X Reward Points",
+    "Reward points reversed if a retail transaction is converted into SmartEMI",
+    "Reward points nullified if the card is unused for more than 365 days",
+    "Minimum transaction value: Rs. 150",
+    "Payment must be done directly using HDFC Bank Regalia Gold Credit Card",
+    "No wallet payments eligible",
+    "Net retail spend Rs 1,00,000 within first 90 days for welcome benefits",
+    "Net retail spend Rs 1,50,000 in a calendar quarter for quarterly milestone",
+    "Net retail spend Rs 7,50,000 in card anniversary year for annual milestone",
+    "Minimum transaction value Rs 150 for 5X Reward Points",
+    {
+      "description": "3 domestic lounge visits require ₹60,000 spend in preceding quarter"
+    }
+  ],
+  "benefit_conditions": [
+    {
+      "type": "Air Accident",
+      "condition": "Primary cardholder only, within 12 months of the accident"
+    },
+    {
+      "type": "Emergency Medical Expenses",
+      "condition": "Primary cardholder only, for international travel, no pre-existing illness"
+    },
+    {
+      "type": "Card Liability Cover",
+      "condition": "Primary cardholder only, 2 days prior to block and 30 days post block"
+    },
+    "Card must be validated with a Rs.2 transaction at lounge entry",
+    "Offer is non‑transferable, non‑negotiable and cannot be encashed",
+    "If complimentary lounge quota is exceeded, transaction will be declined",
+    "Bank may alter, cancel, or amend eligibility of any credit card or benefit at any time without prior notice",
+    "Additional charges may apply for food, alcoholic drinks, nap, massage, and spa services",
+    "Maximum stay usually 2‑3 hours; extended stay may incur charges",
+    "Bank is not liable for services provided by participating lounges",
+    "Benefit – 3 Airport Lounge Accesses within India in NEXT Calendar Quarter",
+    "Milestone benefits once unlocked, have a 60 days validity to avail",
+    "Benefits unlocked within 48 hours on achievement of annual spend milestone",
+    "Reward points will be reversed if a retail transaction is converted into SmartEMI",
+    "If the Credit Card is not used for more than 365 days, Reward Points accrued will be nullified",
+    "Reward points are valid only for 2 years from the date of accumulation",
+    "Reward points posted on calendar month basis",
+    "Reward points reversed for returned/cancelled transactions post calendar month completion",
+    "Incremental reward points posted within 90 days from the end of the calendar month",
+    "Cannot be clubbed with other promotions",
+    "Reward Points posted on calendar month basis",
+    "Transactions settled between 1st to 30/31st of the calendar month posted in the 1st week of the subsequent month",
+    "Reward Points computed based on spends minus returns/refunds during the same period",
+    "Incremental Reward Points posted within 90 days from the end of the calendar month",
+    "Benefits unlocked within 48 hours of achieving spend criteria",
+    "Vouchers can be downloaded within 60 days of benefit period end",
+    "Reward points posted on calendar month basis, within first week of subsequent month",
+    {
+      "description": "Boarding Edge Program: 2 complimentary benefits per quarter"
+    }
+  ],
+  "renewal_benefits": [
+    "Fee waiver on annual spends of ₹4,00,000"
+  ],
+  "partner_programs": [
+    "Priority Pass program for overseas lounge access",
+    "Club Vistara",
+    "partner websites/stores",
+    "Easemytrip",
+    "Yatra",
+    "Cleartrip",
+    "Goibibo",
+    "MMT Black",
+    "Marriott",
+    "MakeMyTrip",
+    "Reliance Digital",
+    "Myntra",
+    {
+      "description": "Priority Pass for international lounge access"
+    }
+  ],
+  "merchant_offers": [
+    "Upto 10X rewards on Hotels and Flight bookings",
+    "5X rewards on Instant Vouchers",
+    "Up to 10X on brands like Pharmeasy, Myntra, Apple Imagine Tresor, Jockey and more",
+    "5X Reward Points on Myntra",
+    "5X Reward Points on Nykaa",
+    "5X Reward Points on Reliance Digital",
+    "5X Reward Points on Marks & Spencer"
+  ],
+  "limited_period_offers": [
+    "5X Reward Points offer (subject to cap and conditions)"
+  ],
+  "important_terms": [
+    "Insurance covers are available to the Primary cardholder only.",
+    "Liability on lost card starts from the Date of Dispatch of the card up to 30 days.",
+    "Air Accident/Emergency Medical Expenses liability starts from the Date of Activation of the card.",
+    "Terrorism is specifically excluded under the policy.",
+    "Travel Insurance is not valid for procuring a visa.",
+    "Maximum Trip Duration is restricted to 30 Days.",
+    "Fraudulent transactions done by a person known to the cardholder are excluded.",
+    "Insurance covers are provided by HDFC Ergo, not HDFC Bank.",
+    "Validation requires Rs.2 charge which is reversed",
+    "Quota limit may cause decline of lounge access",
+    "Offer not transferable and cannot be encashed",
+    "Bank reserves right to modify eligibility or benefits without notice",
+    "Additional service charges may apply at lounge discretion",
+    "Maximum stay policy of 2‑3 hours enforced by lounge operators",
+    "Bank not liable for lounge services",
+    "W.e.f : 1st July 2026",
+    "Milestone benefits once unlocked, have a 60 days validity to avail",
+    "Reward redemption is capped at 50,000 Reward Points per month for flights and hotel bookings on SmartBuy",
+    "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Personal/Pay/Cards/Credit Card/Credit Card Landing Page/Credit Cards/Super Premium/Regalia Gold Credit Card/RG-T-and-Cs-PDF.pdf",
+    "Only valid Retail purchases qualify for Reward points",
+    "Reward points will not be accrued for fuel transactions",
+    "Reward points will not be accrued for rental pay transactions, property management services like rent, maintenance, packers & movers, etc and government transactions",
+    "Reward points earned on grocery transaction will be capped at 2000 RP per calendar month",
+    "Redemption of Reward Points against statement balance (cashback redemption) will be capped at 50,000 Reward Points per calendar month",
+    "For select Products & Vouchers, the redemption of Reward Points will be capped at 70% of the total value. The remaining amount must be paid using the same Credit Card",
+    "Redemption of Reward Points for flights & hotel bookings on Smartbuy portal will be capped at 50,000 Reward Points per calendar month",
+    "Reward points valid for 2 years from the date of accumulation",
+    "Reward points capped at 50,000 per statement cycle",
+    "Reward points valid for 2 years from accumulation",
+    "Reward points nullified if card unused for 365 days",
+    "Maximum 70% redemption on travel bookings (Flights, hotels, experiences)",
+    "1% fee on second rental transaction per calendar month",
+    "1% dynamic & static conversion markup fee for international transactions",
+    "All offers are non-cashable, non-extendable, non-negotiable",
+    "Participation is voluntary",
+    "Offers subject to applicable laws and regulations",
+    "HDFC Bank shall not be liable for any loss or damage whatsoever or for any personal injury that may be suffered, by a HDFC Bank Credit Card member, directly or indirectly, by use or non-use of products/services availed of under this offer",
+    "HDFC Bank reserves the right, at any time, without prior notice and without assigning any reason whatsoever, to add/alter/modify/change or vary all of these terms and conditions or to replace, wholly or in part, this offer by another offer, whether similar to this offer or not, or to extend or withdraw it altogether",
+    "All disputes pertaining to Credit Cards, if any, arising out of or in connection with or as a result of above offers or otherwise relating hereto shall be subject to the exclusive jurisdiction of the competent courts / tribunals in Chennai only, irrespective of whether courts / tribunals in other areas have concurrent or similar jurisdiction",
+    "HDFC Bank reserves the right to debit reward points from customer's card account at any time in case of cancelations/ reversal of transaction for which reward points were credited earlier. In case sufficient reward points are not available, corresponding Rupee value will be charged to the card and will be payable by customer as per the credit card agreement",
+    "Transactions are tracked as per the posted/settled date from third party/merchant to the bank and the posting/settlement date will be considered as contribution to the spend accrual for any month",
+    {
+      "description": "Lounge access based on spends from preceding quarter"
+    }
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions by known persons",
+    "Pre-existing illnesses for Emergency Medical Expenses",
+    "fuel transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "rental pay transactions, property management services like rent, maintenance, packers & movers, etc and government transactions",
+    "Insurance transactions",
+    "grocery transactions",
+    "transactions conducted in Indian currency at an international location or with a merchant located in India but registered overseas",
+    "Fuel transactions",
+    "Rental payments",
+    "Property management services",
+    "Government transactions",
+    "International transactions with markup fee",
+    "Property management services (rent, maintenance, packers & movers)",
+    "Transactions converted to SmartEMI",
+    "International transactions with dynamic & static conversion markup fee",
+    "Wallet payments excluded from 5X Reward Points",
+    "Offer cannot be combined with other promotions",
+    "Fuel Spends",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\HDFC_Regalia Gold Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\INSURANCE\\hdfc-ergo-general-insurance-company-limited.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\LOUNGE\\regalia-gold-lounges.pdf",
+    "REGALIA GOLD LOUNGE ACCESS WITHIN INDIA on Netbanking",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\LOUNGE\\rg-domestic-lounge-netbanking-process.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\MEMBERSHIP\\Priority_Pass_Regalia.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\PRODUCT_GUIDE\\Regalia-Gold-Product-feature-change.pdf",
+    "https://offers.reward360.in/milestone/regaliagold/milestone",
+    "https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Personal/Pay/Cards/Credit Card/Credit Card Landing Page/Credit Cards/Super Premium/Regalia Gold Credit Card/RG-T-and-Cs-PDF.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\REWARDS\\redemption-of-milestone-benefits-through-smartbuy.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\REWARDS\\regalia-gold-credit-card-reward-points-t-and-cs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\REWARDS\\reward-points-redemption-through-smartbuy.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\REWARDS\\rewards-points-program-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\REWARDS\\rewards-points-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TERMS\\general-terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TERMS\\general-terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TERMS\\terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TERMS\\terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TRAVEL\\regalia-gold-travel-edge-tnc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Gold Credit Card\\TRAVEL\\regalia-gold-travel-edge-tnc2.pdf"
+  ]
+}

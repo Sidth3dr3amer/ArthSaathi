@@ -1,0 +1,113 @@
+{
+  "card_name": "Platinum Edge Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 599,
+  "annual_fee": 0,
+  "fee_waiver_condition": "Renewal fee waiver on spending ₹50,000 or more in a year before the renewal date.",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "2 Reward Points for every ₹200 spent",
+    "50% more reward points at premium restaurants",
+    "2 Reward Points per ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem reward points for exciting gifts and air miles",
+    "Redeem Reward Points as CashBack and use it to pay off outstanding balances"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "1,000 CashBack on Shopping in-app over 200+ brands"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "50% more reward points at premium restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel Surcharge waiver up to ₹250 per month",
+    "Save up to ₹1,800 annually, assuming monthly fuel expenses of ₹6,000"
+  ],
+  "shopping_benefits": [
+    "1,000 CashBack on Shopping in-app over 200+ brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "2 Reward Points for every ₹200 spent",
+  "forex_markup": 1.75,
+  "fuel_surcharge_waiver": "₹250 per month",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash Advance Fee: 2.5% fee, minimum ₹500, on all cash withdrawals.",
+    "Finance Charge: 3.49% per month on outstanding amounts past the due date.",
+    "Cash Advance Fee: 2.5% fee, minimum ₹500, on all cash withdrawals",
+    "Finance Charge: 3.49% per month on outstanding amounts past the due date",
+    "2.5% cash advance fee",
+    "minimum ₹500 cash advance fee",
+    "3.49% per month finance charge",
+    "2.5% fee with a minimum of ₹500 on all cash withdrawals"
+  ],
+  "interest_rates": [
+    "3.49% per month on overdue amounts.",
+    "3.49% per month on overdue amounts",
+    "3.49% per month on outstanding amounts past the due date",
+    "3.49% on any outstanding amount carried forward beyond the bill's due date"
+  ],
+  "fees_and_penalties": [
+    "Cash Advance Fee: 2.5% of the transaction amount, minimum ₹500.",
+    "Cash Advance Fee: 2.5% of the transaction amount, minimum ₹500",
+    "2.5% fee with a minimum of ₹500 on all cash withdrawals",
+    "Re-issuance fee: ₹199 for non-metal card variants; ₹3,500 for metal card variants"
+  ],
+  "spend_conditions": [
+    "Annual spend of more than ₹50,000 for renewal fee waiver.",
+    "Annual spend of more than ₹50,000 for renewal fee waiver",
+    "spending ₹50,000 or more in a year for renewal fee waiver"
+  ],
+  "benefit_conditions": [
+    "The offer is subject to the submission of the charge by the merchant"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waiver on spending ₹50,000 or more in a year before the renewal date.",
+    "Renewal fee waiver on spending ₹50,000 or more in a year before the renewal date",
+    "Annual fee waived off on annual spends of ₹50,000 or more"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "50 days interest-free period",
+    "Stay protected against unauthorised use when you shop anywhere with EMV Chip Card technology"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\HDFC_Platinum Edge Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Edge Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "card_name": "Platinum Plus Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": null,
+  "annual_fee": 0,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "₹1,000 CashBack on Shopping in-app over 200 plus brands"
+  ],
+  "reward_structure": [
+    "4 Reward Points for every ₹200 spent",
+    "2 reward points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "₹1,000 CashBack on Shopping in-app over 200 plus brands",
+    "Additional CashBack on Utility Bills, Mobile Recharges"
+  ],
+  "milestone_benefits": [
+    "50% more Reward Points on every ₹200 spent after monthly spend of ₹50,000"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "₹1,000 CashBack on Shopping in-app over 200 plus brands"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 2,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For Salaried: Nationality: Indian national, Age: Minimum 21 years and maximum 60 years.",
+    "For Self-Employed: Nationality: Indian national, Age: Minimum 21 years and maximum 65 years.",
+    "Nationality: Indian national",
+    "For Salaried Individuals: Age: Minimum 21 years and maximum 60 years",
+    "For Self-Employed Individuals: Age: Minimum 21 years and maximum 65 years"
+  ],
+  "income_requirements": [
+    "As a salaried individual, your net monthly income needs to be as per the bank’s terms and conditions.",
+    "For Salaried Individuals: Net monthly income as per bank’s terms and conditions"
+  ],
+  "documents_required": [],
+  "charges": [
+    {
+      "type": "cash_advance_fee",
+      "value": "2.5%",
+      "minimum": 500
+    },
+    "2.5% cash withdrawal fee with minimum ₹500",
+    "Dynamic Currency Conversion (DCC) Fee: 1.75% on each International transaction carried out in Indian currency at an international location or transactions carried out in Indian currency with merchants located in India but registered in a foreign nation."
+  ],
+  "interest_rates": [
+    {
+      "type": "cash_advance_interest",
+      "rate": "3.49%",
+      "condition": "on outstanding amounts past due date"
+    },
+    "3.49% interest on outstanding amount after due date"
+  ],
+  "fees_and_penalties": [
+    {
+      "type": "cash_advance_fee",
+      "value": "2.5%",
+      "minimum": 500
+    },
+    {
+      "type": "interest_rate",
+      "rate": "3.49%",
+      "condition": "on overdue balances"
+    },
+    "2.5% cash withdrawal fee with minimum ₹500",
+    "Card re-issuance fee: ₹199 for non-metal card variants"
+  ],
+  "spend_conditions": [
+    "₹50,000 monthly spend for extra reward points",
+    "Up to 50 days interest-free credit",
+    "Reward Points are accrued on spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "PayZapp"
+  ],
+  "merchant_offers": [
+    "₹1,000 CashBack on Shopping in-app over 200 plus brands",
+    "Additional CashBack on Utility Bills, Mobile Recharges"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Sourcing of this Credit Card has been stopped; existing customers will continue to enjoy benefits."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\HDFC_Platinum Plus Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Plus Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

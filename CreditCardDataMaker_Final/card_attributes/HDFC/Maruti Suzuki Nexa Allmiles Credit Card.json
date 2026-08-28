@@ -1,0 +1,125 @@
+{
+  "card_name": "Maruti Suzuki Nexa Allmiles Credit Card",
+  "card_network": null,
+  "card_type": [
+    "Rewards Credit Card",
+    "Lifestyle Credit Card",
+    "Premium & Super Premium Credit Card",
+    "Credit Card"
+  ],
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Complimentary membership for the first year by making purchases worth ■15,000 using your card within the initial 90 days. Renewal of your membership at no cost by spending ■1 lakh in a year.",
+  "welcome_benefits": [
+    "Earn 100 Reward points as welcome benefit"
+  ],
+  "reward_structure": [
+    "3 reward points for every ₹150 spent",
+    "2x rewards on spending here or on HDFC Bank's MyNexa page"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points",
+    "Redeem Reward Points at any Maruti Suzuki Nexa Network",
+    "Trade your points for air miles, flight and movie tickets, hotel bookings, mobile recharges, etc."
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Renewal of your membership at no cost by spending ■1 lakh in a year.",
+    "Get another 100 Reward points as renewal benefits"
+  ],
+  "lounge_access": [
+    "Airport Lounge Access Credit Card"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Comprehensive insurance protection"
+  ],
+  "protection_benefits": [
+    "Zero liability on fraudulent transactions if reported immediately to HDFC Bank’s 24-hour Call Centre"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Credit Card EMI Calculator",
+    "Loan On Credit Card"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 2,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "owner of a Maruti Suzuki Nexa car",
+    "salaried employee: 21 years to 60 years of age",
+    "self-employed: 21 years to 65 years of age",
+    "Owner of a Maruti Suzuki Nexa car",
+    "Salaried employee: 21 to 60 years of age",
+    "Self-employed: 21 to 65 years of age",
+    "Salaried employee aged 21 to 60 years",
+    "Self-employed individual aged 21 to 65 years"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fees: 2.5%, with a minimum of ■300",
+    "Cash advance fee: A fee of 2.5%, with a minimum of ₹300, is applicable on all cash withdrawals on your card"
+  ],
+  "interest_rates": [
+    "3.40%",
+    "Interest at the rate of 3.40% will be charged on any outstanding amount carried beyond the bill's due date"
+  ],
+  "fees_and_penalties": [
+    "Cash advance fees: 2.5%, with a minimum of ■300",
+    "Joining Membership Fee: ₹500 + Applicable Taxes",
+    "Membership Renewal Fee 2nd year onwards: ₹500+ Applicable Taxes per year"
+  ],
+  "spend_conditions": [
+    "Making purchases worth ■15,000 using your card within the initial 90 days",
+    "Spending ■1 lakh in a year",
+    "Annual spends of ₹100,000 or more renewal fee is waived off",
+    "Spending ₹15,000 on your card within the first 90 days for first year's membership free"
+  ],
+  "benefit_conditions": [
+    "Making purchases worth ■15,000 using your card within the initial 90 days",
+    "Spending ■1 lakh in a year"
+  ],
+  "renewal_benefits": [
+    "Renewal of your membership at no cost by spending ■1 lakh in a year.",
+    "Get another 100 Reward points as renewal benefits"
+  ],
+  "partner_programs": [
+    "MyNexa page"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Benefits of Credit Card",
+    "Difference Between Credit Card & Debit Card",
+    "50 days of interest-free credit",
+    "Stay protected against unauthorised use when you shop with the EMV Chip Card technology"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\HDFC_Maruti Suzuki Nexa Allmiles Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\MITC\\most-important-terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Maruti Suzuki Nexa Allmiles Credit Card\\MITC\\most-important-terms-and-conditions2.pdf"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "card_name": "Hdfc Bank Upi Rupay Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Credit Card",
+  "joining_fee": 99,
+  "annual_fee": 99,
+  "fee_waiver_condition": "Spend ■25,000 or more annually before the renewal date and get a renewal fee waiver from the second year onwards.",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3% CashPoints on supermarket, groceries, dining spends, and PayZapp transactions",
+    "2% CashPoints on all utility payments",
+    "1% CashPoints on all other spends",
+    "3% CashPoints on Groceries, SuperMarket, Dining & all PayZapp transactions",
+    "2% CashPoints on Utility spends",
+    "1% CashPoints on other spends"
+  ],
+  "reward_redemption_options": [
+    "Cashback against statement (1 CashPoint = ₹0.25)",
+    "Redemption against flights and hotel bookings (up to 50% of booking value)",
+    "Redemption through SmartBuy rewards portal",
+    "CashBack redemption against the statement at the rate of 1 CashPoint = ₹0.25",
+    "Redemption against travel benefits like Flight & Hotel bookings and Rewards Catalogue at the SmartBuy Rewards Portal, at a value of 1 CashPoint = ₹0.25"
+  ],
+  "reward_exclusions": [
+    "Fuel spends",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "All EMI spends",
+    "Wallet spends",
+    "Rent payments",
+    "Government related spends",
+    "Fuel Spends",
+    "Insurance payments",
+    "Education and Govt Related Transactions",
+    "Rent Payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "All types of EMI transactions (EasyEMI/SmartEMI, Dial -an- EMI etc)"
+  ],
+  "reward_caps": [
+    "Maximum 500 CashPoints for 3% CashPoints on groceries, supermarket, dining & PayZapp transactions",
+    "Maximum 500 CashPoints for 2% CashPoints on utility spends",
+    "Maximum 500 CashPoints for 1% CashPoints on other spends",
+    "Reward points redemption for flights & hotel bookings capped at ₹50,000/month",
+    "Maximum CashPoints per Calendar Month: 500 for 3% and 2% features, 500 for 1% feature",
+    "Redemption for flights & hotels bookings are capped per calendar month at 50,000",
+    "Redemption for CashBack redemption are capped per calendar month to 50,000 rewards points",
+    "Cardmembers can redeem upto 70% of product/Voucher value through Reward points on select vouchers/products"
+  ],
+  "cashback_benefits": [
+    "3% CashPoints on supermarket, groceries, dining spends, and PayZapp transactions",
+    "2% CashPoints on all utility payments",
+    "1% CashPoints on all other spends",
+    "1 CashPoint = ₹0.25 for CashBack redemption"
+  ],
+  "milestone_benefits": [
+    "Renewal membership fee waived off by spending ₹25,000 and above in an annual year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Redemption against travel benefits like Flight & Hotel bookings and Rewards Catalogue at the SmartBuy Rewards Portal"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 0.25,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "■99/- + Applicable Taxes for joining/renewal membership fee",
+    "2.5% of the withdrawn amount or a minimum of ■500 (whichever is higher) on cash withdrawal",
+    "First Year Membership Fee of ₹99 + applicable taxes",
+    "Renewal membership Fee of ₹99 + applicable taxes"
+  ],
+  "interest_rates": [
+    "3.6% per month"
+  ],
+  "fees_and_penalties": [
+    "■99/- + Applicable Taxes for annual fee",
+    "First Year Membership Fee of ₹99 + applicable taxes",
+    "Renewal membership Fee of ₹99 + applicable taxes"
+  ],
+  "spend_conditions": [
+    "Minimum transaction amounts of ₹100 & above only are eligible for cashpoints posting for 3%, 2% and 1% features",
+    "Transactions >=Rs100 will be eligible for Cashpoints"
+  ],
+  "benefit_conditions": [
+    "CashPoints are calculated on the spends made within the calendar month cycle",
+    "CashPoints are valid for 2 years from the date of accumulation",
+    "CashPoints are calculated basis the Merchant Category Code (MCC) as defined by the RuPay Card network",
+    "CashPoints earned will be computed based on spends during the calendar month period minus any returns or refunds during the same period",
+    "In case the purchase/transaction is returned/cancelled/reversed post calendar month completion, the equivalent CashPoints will be reversed/adjusted"
+  ],
+  "renewal_benefits": [
+    "Renewal membership fee waived off by spending ₹25,000 and above in an annual year",
+    "Renewal membership fee will be waived off if the customer spends Rs.25,000 in the previous annual year"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "CashPoints will be posted as reward points only",
+    "A minimum of 500 statement balance is required for redemption",
+    "CashPoints can be redeemed up to 50% of the booking value for Flight and Hotel Bookings",
+    "Redemption is capped at up to 70% of product/Voucher value through Reward Points on select vouchers/products",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "If the cardholder opts for redemption as CashBack against statement, there will be no redemption handling charges",
+    "If the cardholder opts for redemption of the cashpoints via reward catalogue, there will be debit of ₹99+Taxes towards redemption handling charges"
+  ],
+  "excluded_categories": [
+    "Fuel spends",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "All EMI spends",
+    "Wallet spends",
+    "Rent payments",
+    "Government related spends",
+    "Fuel Spends",
+    "Insurance payments",
+    "Education and Govt Related Transactions",
+    "Rent Payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "All types of EMI transactions (EasyEMI/SmartEMI, Dial -an- EMI etc)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\HDFC_Hdfc Bank Upi Rupay Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Credit Card\\TERMS\\Terms-and-Conditions-HDFC-Bank-UPI-RuPay-Credit-Card-27032025.pdf"
+  ]
+}

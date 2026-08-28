@@ -1,0 +1,288 @@
+{
+  "card_name": "Millennia Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Spend ₹1,00,000 in 12 Months",
+  "welcome_benefits": [
+    "1000 Reward Points on payment of Joining membership fee",
+    "1000 CashPoints on joining membership fee payment"
+  ],
+  "reward_structure": [
+    "5% CashBack on 10 online merchants",
+    "1% CashBack on other spends",
+    "5% CashPoints on 10 online merchants (Amazon, BookMyShow, Cult.fit, Flipkart, Myntra, Sony LIV, Swiggy, Tata CLiQ, Uber & Zomato)",
+    "1% CashPoints on other spends (excluding Fuel, Wallet, EMI, Govt, Rental transactions)",
+    "5% CashBack on Amazon, Flipkart, Myntra, Swiggy, Zomato, Uber, BookMyShow, Sony LIV, and Cult.fit",
+    "5% CashBack on 10 online merchants (Amazon, BookMyShow, Cult.fit, Flipkart, Myntra, Sony LIV, Swiggy, Tata CLiQ, Uber & Zomato)",
+    "1% CashBack on other spends (excluding Fuel, Wallet, EMI, Govt, Rental transactions)"
+  ],
+  "reward_redemption_options": [
+    "CashBack redemption against statement balance",
+    "Travel benefits like Flight & Hotel bookings",
+    "Rewards Catalogue at the SmartBuy Rewards Portal",
+    "CashBack redemption against statement balance at 1 CashPoint = ₹1",
+    "Travel benefits redemption (Flights & Hotels) at 1 CashPoint = ₹0.30",
+    "Rewards Catalogue redemption at 1 CashPoint = ₹0.30",
+    "CashBack (as against statement balance) = ₹1 per 1 Reward Point",
+    "On SmartBuy - Flight and Hotel bookings = ₹0.30 per 1 Reward Point",
+    "Airmiles = ₹0.30 per 1 Reward Point",
+    "Rewards catalogue = up to ₹0.30 per 1 Reward Point",
+    "cashback",
+    "products/vouchers",
+    "Redemption against travel benefits (Flight & Hotel bookings) at 1 CashPoint = ₹0.30",
+    "Redemption against Rewards Catalogue at 1 CashPoint = ₹0.30"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Rent payments and Govt Related transactions",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "EMI transactions",
+    "Fuel spends",
+    "Rent payments and Govt related transactions",
+    "Smart EMI / Dial an EMI transactions",
+    "Wallet loading, Easy EMI, and education payments (from 1st September 2024)",
+    "Rent payments",
+    "Government related transactions",
+    "All EMI transactions (including Smart EMI / Dial an EMI)"
+  ],
+  "reward_caps": [
+    "Maximum capping for 5% cashback on 10 online merchants is 1000 Reward Points",
+    "Maximum capping for 1% cashback on other spends is 1000 Reward Points",
+    "3000 rewards points per calendar month for CashBack redemption",
+    "50,000 per calendar month for flights & hotels bookings",
+    "1000 CashPoints per calendar month under 5% CashBack on 10 online merchants",
+    "1000 CashPoints per calendar month under 1% CashBack on other spends",
+    "3000 CashPoints per calendar month for CashBack redemption",
+    "50000 CashPoints per calendar month for Flights & Hotels redemption",
+    "Minimum of 500 Reward Points required for statement balance redemption",
+    "Reward Points redemption for CashBack redemption capped at 3,000 Reward Points per calendar month",
+    "Reward points redemption for flights & hotels bookings capped at 50,000 per calendar month",
+    "Flight and hotel bookings capped at 50% with Reward Points",
+    "CashBack redemption capped at 3000 reward points per calendar month",
+    "Grocery transaction reward points capped at 1000 per month",
+    "50000 CashPoints per calendar month for travel benefits redemption"
+  ],
+  "cashback_benefits": [
+    "5% CashBack on 10 online merchants",
+    "1% CashBack on other spends",
+    "5% CashBack on 10 online merchants (Amazon, BookMyShow, Cult.fit, Flipkart, Myntra, Sony LIV, Swiggy, Tata CLiQ, Uber & Zomato)",
+    "1% CashBack on other spends (excluding Fuel, Wallet, EMI, Govt, Rental transactions)",
+    "5% CashBack on Amazon, Flipkart, Myntra, Tata CLiQ, Swiggy, Zomato, Uber, BookMyShow, Sony LIV, and Cult.fit",
+    "Upto 10% CashBack across 200+ Brands via SmartBuy/PayZapp Shop",
+    "Minimum amount for cashback redemption: Rs 2500",
+    "Cashback can be earned via offers and redemption of points"
+  ],
+  "milestone_benefits": [
+    "Quarterly spend based benefit of ₹1000 worth gift vouchers on spends of ₹1,00,000 and above in each calendar quarter",
+    "Free Gift Voucher worth ₹1000 on achieving ₹1 lac net spends in a calendar quarter",
+    "Quarterly Spends Milestone program: Customers spending Rs. 1 Lakh or more in a calendar quarter are eligible for a gift voucher worth Rs. 1000.",
+    "₹1,000 worth gift voucher or 1 domestic lounge access on spends of ₹1,00,000 and above in each calendar quarter",
+    "Customers spending Rs. 1 Lakh or more in a calendar quarter are eligible for gift voucher worth Rs. 1000.",
+    "Upon achieving quarterly spends milestone, users can either opt for HOI airport lounge access voucher (Or) Rs.1000 voucher from available list of Brands.",
+    "Customers cannot claim more than 1 voucher from the list.",
+    "Free Gift Voucher worth INR 1000 on achieving ₹1 lac net spends in a calendar quarter"
+  ],
+  "lounge_access": [
+    "Airport Lounge access voucher (HOI) available as part of the Quarterly Spends Milestone program.",
+    "Quarterly spend-based Domestic Airport Lounge Access",
+    "Option to opt for HOI airport lounge access voucher or ₹1000 voucher from available list of Brands",
+    "Domestic lounge access via vouchers on meeting spend criteria",
+    "HOI airport lounge access voucher"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Redeem up to 50% of the booking value through Reward Points for flights and hotels",
+    "Redemption against Flights & Hotels at 1 CashPoint = ₹0.30",
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS",
+    "Redemption against travel benefits (Flight & Hotel bookings) at 1 CashPoint = ₹0.30"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Up to 10% savings off on all restaurant bill payments via Swiggy Dineout",
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge waiver on fuel transactions",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum ₹400, Maximum ₹5000 per statement cycle, Max waiver ₹250)",
+    "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of ₹400 & maximum transaction of ₹5,000. Maximum waiver of ₹250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [
+    "5% CashBack on Amazon, Flipkart, Myntra, Tata CLiQ, Swiggy, Zomato, Uber, BookMyShow, Sony LIV, and Cult.fit",
+    "Upto 10% CashBack across 200+ Brands via SmartBuy/PayZapp Shop"
+  ],
+  "entertainment_benefits": [
+    "5% CashBack on Sony LIV and Cult.fit"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero lost card liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI: an option to convert your big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried: Age 21-40 years, Net Monthly Income > ₹35,000",
+    "Self-employed: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Salaried (alternative): Age 21-60 years, Gross Monthly Income > ₹25,000",
+    "Self-employed (alternative): Age 21-65 years, Income > ₹26 lakh per annum",
+    "Salaried: Age 21 to 60 years",
+    "Self-employed: Age 21 to 65 years",
+    "Salaried Indian national: Age 21 to 40 years",
+    "Self-employed Indian national",
+    "Salaried: Age: Minimum 21 years to maximum 60 years. Income: Gross Monthly Income> ■25,000.",
+    "Self-employed: Age: Minimum 21 years to maximum 65 years. Income: ■26 lakh per annum.",
+    "Salaried: Age 21-40 yrs, Net Monthly Income > Rs 35,000",
+    "Self Employed: Age 21-40 yrs, ITR > Rs 6 Lakhs per annum",
+    "Salaried: Nationality - Indian, Age - Minimum 21 years & Maximum 40 years, Income - Net Monthly Income > ₹35,000",
+    "Self Employed: Income - ITR > ₹6 Lakh per annum"
+  ],
+  "income_requirements": [
+    "Salaried: Net Monthly Income > ₹35,000",
+    "Salaried (alternative): Gross Monthly Income > ₹25,000",
+    "Self-employed: ITR > ₹6 lakh per annum",
+    "Self-employed (alternative): Income > ₹26 lakh per annum",
+    "Salaried: Gross Monthly Income > ₹25,000",
+    "Self-employed: ₹26 lakh per annum",
+    "Salaried Indian national: Net Monthly Income > ₹35,000",
+    "Self-employed Indian national: Income Tax Return (ITR) > ₹6 lakh per annum",
+    "Salaried: Gross Monthly Income> ■25,000.",
+    "Self-employed: ■26 lakh per annum.",
+    "Net Monthly Income > Rs 35,000 for Salaried",
+    "ITR > Rs 6 Lakhs per annum for Self Employed",
+    "Self Employed: ITR > ₹6 Lakh per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "First Year Membership Fee – ₹1000/- + Applicable Taxes",
+    "Renewal Membership Fee – ₹1000/- + Applicable Taxes",
+    "1% fee on Rent transactions via third-party apps (capped at ₹3000 per transaction)",
+    "1% fee on Fuel transactions over ₹15000 (capped at ₹3000 per transaction)",
+    "1% fee on Utility transactions over ₹50000 (capped at ₹3000 per transaction)",
+    "1% fee on Education payments via third-party apps (capped at ₹3000 per transaction)",
+    "Joining/Renewal Membership Fee – ₹1,000/- + Applicable Taxes",
+    "1% fee on rental transactions via third-party apps (capped at ₹3000 per transaction)",
+    "1% fee on fuel transactions over ₹15,000 (capped at ₹3000 per transaction)",
+    "1% fee on utility transactions over ₹50,000 (capped at ₹3000 per transaction)",
+    "1% fee on education payments via third-party apps (capped at ₹3000 per transaction)"
+  ],
+  "interest_rates": [
+    "Up to 50 days of interest free period from the date of purchase (subject to the submission of the charge by the Merchant)"
+  ],
+  "fees_and_penalties": [
+    "Goods and Services Tax (GST) applicable on all Fees, Charges and Interest transactions",
+    "₹50 redemption fee for CashBack redemption against statement balance (effective 1st August 2024)",
+    "Joining/Renewal Membership Fee – ₹1,000/- + Applicable Taxes"
+  ],
+  "spend_conditions": [
+    "Spend ₹1,00,000 in 12 Months to get Renewal Fee waived for next renewal year",
+    "5% CashBack valid only for non-emi spends in 10 online merchants",
+    "1% CashBack on prepaid card/gift card/wallet load and voucher purchases",
+    "Rs. 1 Lakh or more in a calendar quarter to qualify for the Quarterly Spends Milestone program.",
+    "Spend over ₹1,00,000 in a year before renewal to get your Credit Card fee waived",
+    "Reward Points earned on transaction amounts in multiples of ₹100",
+    "Spends of 1,00,000 is → Cardholder initiated Spends minus of reversals in the Calendar Quarter.",
+    "Fees and Charges levied will not be considered under Milestone program.",
+    "5% CashBack on 10 online merchants (Amazon, BookMyShow, Cult.fit, Flipkart, Myntra, Sony LIV, Swiggy, Tata CLiQ, Uber & Zomato)",
+    "1% CashBack on other spends (excluding Fuel, Wallet, EMI, Govt, Rental transactions)"
+  ],
+  "benefit_conditions": [
+    "Reward Points will expire/lapse within 2 years of accumulation",
+    "Complimentary lounge access on domestic airports no longer available (effective 1st December 2023)",
+    "Education payments via third-party apps do not earn Reward Points (effective 1st September 2024)",
+    "Wallet loading and EMI transactions do not earn Reward Points (effective 1st September 2024)",
+    "Voucher must be claimed within 120 days of receiving the winner communication.",
+    "Voucher is valid for 3 months.",
+    "Customers can either opt for HOI airport lounge access voucher or Rs.1000 voucher from available list of Brands.",
+    "CashBack is in Reward Points and is redeemable against the statement balance upon request",
+    "Unredeemed Reward Points expire/lapse after 2 years",
+    "Domestic lounge access via vouchers upon meeting spend criteria",
+    "Customers are required to claim the voucher within 120 days of the receiving the winner communication for Quarterly Spends Milestone.",
+    "Millennia Brand vouchers can be claimed in multiples of 1000 only.",
+    "CashPoints posted on calendar month basis, settled between 1st to 30/31st of the calendar month will be posted in the 1st week of the subsequent calendar month",
+    "CashPoints reversed if transactions are returned/cancelled/reversed post calendar month completion",
+    "Milestone benefit requires ₹1 lac net spends in a calendar quarter"
+  ],
+  "renewal_benefits": [
+    "Spend over ₹1,00,000 in a year before renewal to get your Credit Card fee waived"
+  ],
+  "partner_programs": [
+    "SmartBuy",
+    "PayZapp Shop"
+  ],
+  "merchant_offers": [
+    "5% CashBack on Amazon, Flipkart, Myntra, Tata CLiQ, Swiggy, Zomato, Uber, BookMyShow, Sony LIV, and Cult.fit",
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "GST levied will not be reversed on Any dispute on Fee & Charges / interest",
+    "CashPoints expire/lapse after 2 years of accumulation",
+    "Unutilized milestone benefits cannot be reissued",
+    "Fees and Charges levied will not be considered under Milestone program.",
+    "Spends of 1,00,000 is calculated as Cardholder initiated Spends minus reversals in the Calendar Quarter.",
+    "Reward Points redemption for CashBack redemption are capped per calendar month to 3,000 Rewards Points",
+    "Flight and hotel bookings are capped at 50% with Reward Points; the rest of transaction amount will have to be paid via credit limit",
+    "Cardmembers can redeem up to 70% of product/Voucher value through Reward points on select vouchers/products and pay the remaining amount via Credit card",
+    "Upon achieving quarterly spends milestone, users can either opt for HOI airport lounge access voucher (Or) Rs.1000 voucher from available list of Brands.",
+    "Customers cannot claim more than 1 voucher from the list.",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000",
+    "Reward points redemption for CashBack redemption are capped per calendar month to 3,000 rewards points"
+  ],
+  "excluded_categories": [
+    "Fuel Spends",
+    "Rent payments and Govt Related transactions",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "EMI transactions",
+    "Fuel spends",
+    "Rent payments and Govt related transactions",
+    "Smart EMI / Dial an EMI transactions",
+    "Wallet loading, Easy EMI, and education payments (from 1st September 2024)",
+    "Rent payments",
+    "Government related transactions",
+    "All EMI transactions (including Smart EMI / Dial an EMI)"
+  ],
+  "source_files_used": [
+    "Provided Document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\HDFC_Millennia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\FAQ\\faq-millennia.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\FEES\\millennia-tnc-25th%20apr%2725.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\fees_and_charges.pdf",
+    "Published on 06th Feb 2026",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\LOUNGE\\lounge-voucher-on-millennia-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\REWARDS\\quarterly-spends-milestone-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Millennia Credit Card\\TERMS\\Terms-and-Conditions-Millennia-Credit-Card.pdf"
+  ]
+}

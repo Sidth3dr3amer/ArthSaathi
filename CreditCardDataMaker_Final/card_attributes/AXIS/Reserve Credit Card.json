@@ -1,0 +1,323 @@
+{
+  "card_name": "Reserve Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 50000,
+  "annual_fee": 50000,
+  "fee_waiver_condition": "Waived on eligible spends* of INR 35,00,000 in the preceding card anniversary year",
+  "welcome_benefits": [
+    "Complimentary airport concierge services",
+    "Complimentary Priority Pass membership with unlimited visits",
+    "Unlimited domestic lounge visits",
+    "Club ITC Culinaire membership",
+    "Accorplus membership",
+    "Handcrafted Club Marriott Asia Pacific membership",
+    "15% savings at Postcard Hotel",
+    "Complimentary golf rounds",
+    "Complimentary EazyDiner Prime membership",
+    "Complimentary tickets on BookMyShow",
+    "Handpicked experiences at extraordinaryweekends.com",
+    "Complimentary Swiggy One Membership",
+    "6-month Swiggy One membership"
+  ],
+  "reward_structure": [
+    "Earn 2X EDGE REWARD Points on international spends i.e. 30 EDGE REWARD Points per INR 200, on international spends up to your credit limit per calendar month. Thereafter, earn 15 EDGE REWARD Points per INR 200 on international spends."
+  ],
+  "reward_redemption_options": [
+    "Miles Transfer Program"
+  ],
+  "reward_exclusions": [
+    "Rent",
+    "Wallet",
+    "Utilities",
+    "Government Institutions",
+    "EMI conversions",
+    "Cash withdrawals",
+    "reversals and fee and charges",
+    "Insurance",
+    "Gold",
+    "Fuel",
+    "Gold/Jewellery",
+    "Utility & Telecom",
+    "Rent (capped at INR 1,00,000 per month for EDGE REWARD Points earn)",
+    "Government spends",
+    "Gold & Jewellery",
+    "Cash advances",
+    "Repayments"
+  ],
+  "reward_caps": [
+    "Maximum of 1 lakh EDGE REWARD Points cumulatively to Group A partners",
+    "Maximum of 4 lakh EDGE REWARD Points cumulatively to Group B partners",
+    "30 EDGE REWARD Points per INR 200 on international spends up to credit limit per calendar month"
+  ],
+  "cashback_benefits": [
+    "50% cashback on movies"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Unlimited domestic lounge visits",
+    "Complimentary Priority Pass membership with unlimited visits",
+    "Club ITC Culinaire membership",
+    "Accorplus membership",
+    "Handcrafted Club Marriott Asia Pacific membership"
+  ],
+  "airport_services": [
+    "Complimentary airport concierge services"
+  ],
+  "priority_pass_benefits": [
+    "Complimentary Priority Pass membership with unlimited visits"
+  ],
+  "travel_benefits": [
+    "Complimentary airport concierge services",
+    "Complimentary Luxury Airport Transfers has been discontinued",
+    "Complimentary Luxury Airport Transfers (discontinued w.e.f. 20th April 2024)"
+  ],
+  "hotel_benefits": [
+    "15% savings at Postcard Hotel",
+    "Accorplus membership",
+    "Handcrafted Club Marriott Asia Pacific membership",
+    "Offers on Oberoi hotels and resorts have been discontinued",
+    "Offers on Oberoi hotels and resorts (discontinued w.e.f. 1st October 2025)"
+  ],
+  "airline_benefits": [
+    "Annual benefit of Club Vistara Gold membership",
+    "Annual benefit of Club Vistara Gold membership has been discontinued"
+  ],
+  "forex_benefits": [
+    "1.5% of the transaction value"
+  ],
+  "dining_benefits": [
+    "Club ITC Culinaire membership",
+    "Luxury dining experience upon card issuance",
+    "Complimentary EazyDiner Prime membership",
+    "Luxury dining experience upon card issuance has been discontinued"
+  ],
+  "movie_benefits": [
+    "50% cashback on movies",
+    "Complimentary tickets on BookMyShow",
+    "50% cashback on movies has been discontinued"
+  ],
+  "golf_benefits": [
+    "Complimentary golf rounds",
+    "Golf benefits will be revised down to 50 rounds in a year",
+    "Complimentary golf rounds (revised to 50 rounds in a year w.e.f. 31st Aug 2020)"
+  ],
+  "fuel_benefits": [
+    "1% of transaction amount (Refunded for fuel transactions between INR 400 to INR 4,000. Maximum benefits up to INR 400 per Statement Cycle)"
+  ],
+  "shopping_benefits": [
+    "Annual benefit of Tata CliQ voucher worth Rs.10,000",
+    "Annual benefit of Tata CliQ voucher worth Rs.10,000 has been discontinued"
+  ],
+  "entertainment_benefits": [
+    "Complimentary tickets on BookMyShow",
+    "Handpicked experiences at extraordinaryweekends.com",
+    "Complimentary Swiggy One Membership"
+  ],
+  "insurance_benefits": [
+    "Insurance benefits",
+    "Zero Lost Card Liability",
+    "Personal Accident Insurance",
+    "Credit Shield"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "Reach out to our concierge desk at 1800 103 4962"
+  ],
+  "emi_benefits": [
+    {
+      "foreclosure_charge": "applicable",
+      "interest_rate": "14%",
+      "tenure": "6 months"
+    }
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": "Unlimited",
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "15 EDGE REWARD Points per INR 200 on domestic transactions, 30 EDGE REWARD Points per INR 200 on international transactions (up to credit limit), 15 EDGE REWARD Points per INR 200 on international transactions beyond credit limit",
+  "forex_markup": "1.5% plus taxes",
+  "fuel_surcharge_waiver": "1% of transaction amount (Refunded for fuel transactions between INR 400 to INR 4,000. Maximum benefits up to INR 400 per Statement Cycle)",
+  "eligibility": [
+    "Axis Bank HNI customers",
+    "Axis Bank RESERVE Credit Card holders"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "1.5% of the transaction value for foreign currency transactions",
+    "1% fee per transaction will be applicable on each rental transaction",
+    {
+      "rent_transaction_fee": "1% per transaction",
+      "wallet_load_transaction_fee": "1% if cumulative spends on wallet transactions is INR 10,000 or more in a statement cycle",
+      "fuel_transaction_fee": "1% fee will be applicable on cumulative spends of INR 50,000 or more on fuel transactions per statement cycle",
+      "education_transaction_fee": "1% will be levied on the transaction amount",
+      "utility_transaction_fee": "1% fee will be applicable on cumulative spends of INR 25,000 or more on utilities payments per statement cycle",
+      "online_skill_based_gaming_transaction_fee": "1% will be levied if cumulative spends on the transactions is INR 10,000 or more in a statement cycle"
+    },
+    "Late payment fee",
+    "Outstation cheque processing fee",
+    "Dishonoured payment instrument fee",
+    "Duplicate statement service charge",
+    "Transaction fee on cash advance",
+    "Collection charges for outstation cheque",
+    "Legal costs",
+    "Other fees/Charges"
+  ],
+  "interest_rates": [
+    "3.0% per month",
+    "42.58% per annum",
+    {
+      "interest_rate": "3.75% per month"
+    },
+    "Finance Charges at monthly percentage rate on all Charges, including cash advances"
+  ],
+  "fees_and_penalties": [
+    "2.5% (Min. INR 500) of the cash amount for cash withdrawal",
+    "INR 175 for fee for cash payment at branches",
+    {
+      "cash_withdrawal_fee": "2.5% of the transaction amount",
+      "gst_on_cash_fee": "18% of the cash fee"
+    },
+    "Late payment fee",
+    "Dishonoured payment instrument fee",
+    "Outstation cheque processing fee",
+    "Duplicate statement service charge",
+    "Transaction fee on cash advance",
+    "Collection charges for outstation cheque",
+    "Legal costs",
+    "Other fees/Charges",
+    "Forfeiture of unredeemed EDGE REWARD Points / EDGE Miles post 30 days of credit card closure or if the minimum amount due is outstanding for more than 90 days."
+  ],
+  "spend_conditions": [
+    "Food orders above Rs. 199",
+    "Instamart orders above Rs. 199",
+    "Spends done on Insurance, Fuel, Gold/Jewellery & Wallet will not be eligible for EDGE REWARD Points",
+    "Spends done on insurance, fuel & gold will not count towards annual fee waiver threshold",
+    "Rewards are calculated based on the spend category (e.g., Utility & Telecom, Rent, Wallet, etc.) rather than the assigned 4-digit Merchant Category Code (MCC)."
+  ],
+  "benefit_conditions": [
+    "Activate your new Credit Card within first 30 days. Failure to do so will result in card closure as per RBI guidelines.",
+    "Swiggy One benefits applicable on orders above specified amount",
+    "Insurance covers are not provided by Axis Bank",
+    "Insurance covers may vary from Card to Card",
+    "Insurance covers are available only to Cardmembers who have transacted on the Card for a Purchase / Cash Advance / EMI / Payment Transaction, at least once, within 90 days prior to the day of occurrence of the incidence",
+    "Inactive Cards (Cards that have been inactive for 90 days or more) and Cards that are overdue for payment will not qualify for the complimentary insurance covers",
+    "Insurance benefits are as per the Terms and Conditions of the policies effected with the concerned insurance company",
+    "Axis Bank reserves the right to add, change, modify or completely withdraw any or all benefits provided with notice to the Cardmember",
+    "15 EDGE REWARD base points will be credited within T+7 days and remaining accelerated 15 EDGE REWARD points will be credited on 45th day from respective calendar month end, on all eligible international transactions."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Accorplus membership",
+    "Handcrafted Club Marriott Asia Pacific membership",
+    "Club ITC Culinaire membership",
+    "EazyDiner Prime membership",
+    "Priority Pass membership",
+    "Swiggy One Membership",
+    "Swiggy",
+    "Accor Hotels (Accor Live Limitless)",
+    "Air France-KLM (Flying Blue)",
+    "Air Canada (Aeroplan)",
+    "Air India (Flying Returns)",
+    "Ethiopian Airlines",
+    "Etihad (Etihad Guest)",
+    "Japan Airlines (JAL Mileage Bank)",
+    "IHG Hotels & Resorts (IHG One Rewards)",
+    "Marriott International (Marriott Bonvoy)",
+    "Qantas Airways (Qantas Frequent Flyer)",
+    "Qatar Airways",
+    "Singapore Airlines (Krisflyer)",
+    "Thai Airways",
+    "Turkish Airlines",
+    "United Airlines (MileagePlus)",
+    "Wyndham Hotels (Wyndham Rewards)",
+    "Air Asia",
+    "ITC",
+    "SpiceJet",
+    "Vistara (TATA SIA Airlines Ltd)"
+  ],
+  "merchant_offers": [
+    "Complimentary Swiggy One Membership",
+    "Unlimited free deliveries on Food orders above Rs. 199",
+    "Unlimited free Instamart deliveries on orders above Rs. 199",
+    "Flat 10% off on Genie on all orders",
+    "Up to 30% extra discounts over other offers",
+    "Exclusive access to Pre-book deals on Dine out Reservations"
+  ],
+  "limited_period_offers": [
+    "6-month Swiggy One membership"
+  ],
+  "important_terms": [
+    "Activate your new Credit Card within first 30 days. Failure to do so will result in card closure as per RBI guidelines",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 1st September’23",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 20th April'24",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f. 20th June, 2025",
+    "Activate your new Credit Card within first 30 days",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 1st September’23.",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f 20th April'24.",
+    "The Terms and Conditions of Axis Bank Reserve Credit Card have been updated w.e.f. 20th June, 2025.",
+    "Membership cannot be cancelled and no refund will be issued",
+    "Offer valid until 31 Dec 2024",
+    "Bank may modify terms at any time",
+    "Participation is voluntary",
+    "GST, as notified by the Government of India, is applicable on all fees, interest and other charges",
+    {
+      "minimum_amount_due": "2% of the total amount due"
+    },
+    "Non-payment of the Minimum Amount Due by the Payment Due Date shall render you liable to risk of withdrawal or suspension (whether temporary or permanent) of the facility on the Credit Card",
+    "The Bank may at its sole discretion, also instruct the Merchant Establishments not to honour the Credit Card and / or to take custody of the Card, by listing the Card Number in the Warning Bulletin issued by the Bank from time to time or otherwise",
+    "The Bank may at its sole discretion at any time, under intimation to you, vary the Finance Charges for all or some of its facilities",
+    "The Bank may at its sole discretion, decide on the nature of the information / transaction that can be given / carried over the telephone",
+    "The Bank may at its sole discretion tape or record such instructions, and may rely on transcripts of such telephonic instructions as evidence in any proceedings",
+    "The Bank may at its sole discretion decline certain Internet Transactions by you in order to protect you from unauthorised and illegal use of account information by any person",
+    "The Bank may at its sole discretion appoint third parties / service providers for providing service over the phone, or through any other means",
+    "The Bank may at its sole discretion terminate any user accesses with or without assigning any causes, or without any notice whatsoever",
+    "The Bank may at its sole discretion terminate this Agreement immediately at any time, restrict the use that the Cardmember may make of the Credit Card without assigning reason or cause and without any notice thereto",
+    "The Bank may at its sole discretion discontinue the Credit Card facility in the event you change the employment / profession or address, or are transferred from your present posting, or change your salary account / main bank account etc.",
+    "The Bank may at its sole discretion withdraw the Credit Card facility if you consistently fail to pay any amount due to the Bank within the stipulated period, fail to perform your obligations as per these terms and conditions, any cheque and / or ECS / Pay Online using other Bank Account / standing instructions delivered to the Bank is not encashed / acted upon for any reason whatsoever on presentation being made, or any representation made by you proves to be incorrect, false or incomplete",
+    "Annual benefit of 50,000 EDGE REWARD Points will be discontinued",
+    "Airport Transfer service will be discontinued from 20th April 2024",
+    "Miles transfer capping: 1 lakh points to Group A, 4 lakh points to Group B per calendar year",
+    "The Bank will reserve the right to forfeit unredeemed EDGE REWARD Points / EDGE Miles post 30 days of your credit card closure or if the minimum amount due on your credit card is outstanding for more than 90 days."
+  ],
+  "excluded_categories": [
+    "Rent",
+    "Wallet",
+    "Utilities",
+    "Government Institutions",
+    "EMI conversions",
+    "Cash withdrawals",
+    "reversals and fee and charges",
+    "Insurance",
+    "Gold",
+    "Fuel",
+    "Gold/Jewellery",
+    "Utility & Telecom",
+    "Rent (capped at INR 1,00,000 per month for EDGE REWARD Points earn)",
+    "Government spends",
+    "Gold & Jewellery",
+    "Cash advances",
+    "Repayments"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\AXIS_Reserve Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\main.pdf",
+    "Terms and Conditions – Swiggy One Membership on Axis Bank Credit Cards",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MEMBERSHIP\\terms-and-conditions-for-swiggy-one-membership-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\MITC\\mitc-credit-cards7.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\TERMS\\card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\TERMS\\card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\TERMS\\card-member-agreement3.pdf",
+    "Revision of Axis Bank RESERVE Credit Card Terms & Conditions",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\TERMS\\reserve-credit-card-terms-and-conditions.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Reserve Credit Card\\TERMS\\tncs-reserve-13th-may.pdf"
+  ]
+}

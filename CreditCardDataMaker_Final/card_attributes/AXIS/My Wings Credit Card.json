@@ -1,0 +1,614 @@
+{
+  "card_name": "My Wings Credit Card",
+  "card_network": "MasterCard",
+  "card_type": "Credit Card",
+  "joining_fee": 1200,
+  "annual_fee": "₹0 first year, ₹500 thereafter",
+  "fee_waiver_condition": "First year annual fee waived",
+  "welcome_benefits": [
+    "Complimentary Flight Tickets",
+    "Hotel and Holiday Vouchers",
+    "Airport Lounge Access",
+    "Cashback Offers",
+    "Two complimentary domestic one-way flight tickets (base fare only)"
+  ],
+  "reward_structure": [
+    "4 points on every ₹200 spent",
+    {
+      "description": "4 points on every ₹200 spent on the credit card"
+    },
+    "4 points on every 200 INR spent",
+    "Rs. 100 Cash back on bus ticket bookings"
+  ],
+  "reward_redemption_options": [
+    "Redeem complimentary flight tickets",
+    "Check EDGE REWARDS Catalogue",
+    {
+      "description": "Redeem complimentary flight tickets with ease"
+    },
+    {
+      "description": "Redeem points for these transactions: Wednesday Delight"
+    },
+    "EDGE REWARDS Catalogue"
+  ],
+  "reward_exclusions": [
+    "No reward points earned on fuel transactions",
+    "Fuel transactions (no reward points)",
+    "Not valid for bookings made by any Travel Agents or Affiliate partners",
+    "Offer will not be valid if transaction amount is refunded entirely or partially"
+  ],
+  "reward_caps": [
+    "Maximum cashback ₹25 per transaction",
+    "Maximum annual cashback ₹200 per cardholder",
+    "Maximum benefits up to ₹400 per statement cycle",
+    {
+      "description": "Maximum annual benefits of ₹200 per cardholder"
+    },
+    "Maximum of 5 times by customer in the calendar year"
+  ],
+  "cashback_benefits": [
+    "Up to 20% cashback on bare fare domestic flight bookings",
+    "₹25 off each IRCTC ticket booking",
+    "₹100 cashback on bus ticket bookings",
+    "₹400 cashback per car rental booking",
+    "Fuel surcharge refund on spends between ₹400 and ₹4,000",
+    "₹500 cashback on domestic return air ticket",
+    "₹1,500 cashback on international return air ticket",
+    "₹1,000 cashback on hotel bookings in India, Nepal, Bhutan (min spend ₹7,000)",
+    "₹1,500 cashback on international hotel bookings (min spend ₹7,000)",
+    "₹2,500 cashback on domestic holidays (min spend ₹20,000)",
+    "₹3,000 cashback on international holidays (min spend ₹20,000)",
+    "10% off orders via Swiggy (up to ₹1,000)",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip",
+    {
+      "description": "₹25 off every time a ticket is booked with a My Wings Credit Card on www.irctc.com",
+      "conditions": "Maximum cashback ₹25 per transaction. Maximum annual benefits of ₹200 per cardholder."
+    },
+    {
+      "description": "₹100 on bus ticket bookings",
+      "conditions": "Bookings have to be made online on www.ezeego1.com"
+    },
+    {
+      "description": "Flat ₹400 per car booking on car rentals within India",
+      "conditions": "Bookings have to be made online on www.ezeego1.com"
+    },
+    {
+      "description": "₹500 cashback on booking any domestic return air ticket",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹1,500 cashback on booking any international return air tickets",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹1,000 cashback on booking any hotels across India, Nepal and Bhutan on minimum booking value of ₹7,000",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹1,500 cashback on international hotel bookings of ₹7,000 and above",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹2,500 cashback on domestic holidays worth ₹20,000 and above",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹3,000 on booking any international holidays on minimum booking value of ₹20,000 and above",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    "₹25 off IRCTC ticket bookings",
+    "Fuel surcharge waiver on spends between ₹400 and ₹4,000",
+    "₹1,000 cashback on hotel bookings ≥ ₹7,000 (India, Nepal, Bhutan)",
+    "₹1,500 cashback on international hotel bookings ≥ ₹7,000",
+    "₹2,500 cashback on domestic holidays ≥ ₹20,000",
+    "₹3,000 cashback on international holidays ≥ ₹20,000",
+    "Rs. 100 Cash back per person on ticket any bus tickets in India",
+    {
+      "description": "Rs. 400 cash back on car rentals bookings",
+      "conditions": [
+        "Valid for cardholders aged 18+",
+        "Bookings must be made online on www.ezeego1.com",
+        "Promo code 'AXISCOMBO' must be entered and validated",
+        "Valid for bookings of specific car models (e.g., Honda City, Hyundai Accent, Tavera, Innova, Mercedes)",
+        "Not valid for Indigo, Indica, or similar cars",
+        "Minimum 8 hours/80 Kms per booking",
+        "One passenger must hold the card name",
+        "Maximum 3 uses per customer",
+        "Bookings are non-refundable"
+      ]
+    }
+  ],
+  "milestone_benefits": [
+    "2 Complimentary Flight tickets per year",
+    "Hotel and Holiday Vouchers worth ₹10,000"
+  ],
+  "lounge_access": [
+    "Complimentary access to airport lounges within India",
+    {
+      "description": "Complimentary airport lounge access",
+      "conditions": "Within India"
+    },
+    "one complimentary lounge access per quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Complimentary flight tickets",
+    "Cashback on domestic and international flights",
+    "Hotel and holiday vouchers",
+    "Airport lounge access",
+    {
+      "description": "Complimentary Flight tickets",
+      "conditions": "Available till April 20, 2019 only"
+    },
+    {
+      "description": "Cashback on IRCTC, bus tickets, railway tickets as well as domestic flights",
+      "conditions": "Available till April 20, 2019 only except IRCTC cashback"
+    },
+    {
+      "description": "Hotel and Holiday Vouchers",
+      "conditions": "Available till April 20, 2019 only"
+    },
+    "Complimentary Flight tickets",
+    "Hotel and Holiday Vouchers",
+    "Airport Lounge Access",
+    "Cashback on domestic flights, IRCTC, bus, rail, car rentals",
+    "Two complimentary domestic one-way tickets (base fare up to Rs. 5000 per ticket)"
+  ],
+  "hotel_benefits": [
+    "₹1,000 cashback on hotel bookings in India, Nepal, Bhutan",
+    "₹1,500 cashback on international hotel bookings",
+    {
+      "description": "₹1,000 cashback on booking any hotels across India, Nepal and Bhutan on minimum booking value of ₹7,000",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹1,500 cashback on international hotel bookings of ₹7,000 and above",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    "Hotel vouchers worth ₹10,000",
+    "₹1,000 cashback on hotel bookings ≥ ₹7,000",
+    "₹1,500 cashback on international hotel bookings ≥ ₹7,000"
+  ],
+  "airline_benefits": [
+    "Two complimentary base fare flight tickets per year",
+    "20% cashback on domestic flight bookings",
+    "₹500 cashback on domestic return air ticket",
+    "₹1,500 cashback on international return air ticket",
+    {
+      "description": "₹500 cashback on booking any domestic return air ticket",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    {
+      "description": "₹1,500 cashback on booking any international return air tickets",
+      "conditions": "Offer valid on bookings done on the website"
+    },
+    "2 complimentary base fare flight tickets",
+    "Up to 20% cashback on domestic flight bookings",
+    "Free base fare tickets on Air India, Jet Airways, Go Air, IndiGo, Spice Jet"
+  ],
+  "forex_benefits": [
+    "Foreign Currency Transaction Fee 3.5% of transaction value",
+    "Dynamic Currency Conversion Markup 1.5% + taxes"
+  ],
+  "dining_benefits": [
+    "Axis Bank Dining Delights Program",
+    {
+      "description": "Dining Delights",
+      "conditions": "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program"
+    }
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waiver/refund on spends between ₹400 and ₹4,000",
+    "Maximum benefits up to ₹400 per statement cycle",
+    {
+      "description": "Fuel Surcharge Waiver",
+      "conditions": "Fuel surcharge refund on spends at all fuel stations across India. Valid on transactions between ₹400 and ₹4,000 only. Maximum benefits up to ₹400 per statement cycle"
+    },
+    "Fuel surcharge waiver (refund) on spends between ₹400 and ₹4,000",
+    "Fuel surcharge not levied on certain transactions (₹10 + GST)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "10% off Swiggy orders",
+    "15% off flights & hotels via MakeMyTrip"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "EMV certified chip for chip & PIN protection",
+    "EMV certified chip for fraud protection"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert any transaction over ₹2,500 to EMI",
+    {
+      "description": "Convert purchases to EMI",
+      "conditions": "On any transaction over ₹2,500, contact the Bank to convert a big credit card purchase into EMIs"
+    },
+    "Convert transactions over ₹2,500 to EMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4 points per ₹200 spent",
+  "forex_markup": "1.5% + taxes (DCC)",
+  "fuel_surcharge_waiver": "Fuel surcharge refunded on spends between ₹400 and ₹4,000",
+  "eligibility": [
+    "Individual must have a valid Axis Bank My Wings Credit Card and have paid the joining fee",
+    "Cardholders residing in India aged 18 or over",
+    "Individuals who have a valid Axis Bank My Wings Credit Card and have paid Joining Fees",
+    "Cardholders aged 18+",
+    "Must have a valid Axis Bank My Wings Credit Card",
+    "Must have paid the joining fee",
+    "Must have a valid My Wings Credit Card and have paid Joining Fees",
+    "Primary card only, not add-on card",
+    "Adult and child bookings only (not infant)",
+    "Bookings must be made within 6 months of card issuance",
+    "Travel must occur within 1 year of card issuance",
+    "Bookings must be at least 30 days ahead of travel"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining fee: ₹1,200",
+    "Annual fee: ₹0 first year, ₹500 thereafter",
+    "Cash payment fee: ₹175",
+    "Finance charges: 3.75% per month (55.55% per annum)",
+    "Cash withdrawal fees: 2.5% (Min. ₹500)",
+    "Over limit penalty: 2.5% of over limit amount (Min ₹500)",
+    "Cheque return/dishonor fee: 2% of payment amount (Min ₹500)",
+    "Fuel transaction surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4,000)",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Reward point redemption fee: Yes",
+    "Dynamic Currency Conversion markup: 1.5% + taxes",
+    {
+      "description": "Joining fee",
+      "amount": 1200
+    },
+    {
+      "description": "Annual Fee",
+      "amount": 500
+    },
+    {
+      "description": "Cash payment fee",
+      "amount": 175
+    },
+    {
+      "description": "Finance charges (Retail purchases and cash)",
+      "amount": 3.75,
+      "conditions": "3.75% per month (55.55% per annum)"
+    },
+    {
+      "description": "Cash withdrawal fees",
+      "amount": 2.5,
+      "conditions": "2.5% (Min. ₹500) of the cash amount"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 500,
+      "conditions": "₹500 if total payment due is between ₹501 - ₹5,000"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 750,
+      "conditions": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 1200,
+      "conditions": "₹1200 if total payment due is greater than ₹10,000"
+    },
+    {
+      "description": "Over limit penalty",
+      "amount": 2.5,
+      "conditions": "2.5% of the over limit amount (Min ₹500)"
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "amount": 2,
+      "conditions": "2% of the payment amount, with a minimum fee of ₹500 and no maximum cap on the fee"
+    },
+    {
+      "description": "Surcharge on purchase or cancellation of railway tickets",
+      "amount": null,
+      "conditions": "As prescribed by IRCTC/Indian Railways"
+    },
+    {
+      "description": "Fuel Transaction Surcharge Transaction",
+      "amount": 1,
+      "conditions": "1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)"
+    },
+    {
+      "description": "Foreign Currency Transaction Fee",
+      "amount": 3.5,
+      "conditions": "3.50% of the transaction value"
+    },
+    {
+      "description": "Reward Point Redemption fee",
+      "amount": null,
+      "conditions": "Yes"
+    },
+    {
+      "description": "Rent Transaction fee",
+      "amount": 1,
+      "conditions": "1% on transaction will be applicable on each rental transaction done on MCC 6513"
+    },
+    {
+      "description": "Dynamic Currency Conversion Markup",
+      "amount": 1.5,
+      "conditions": "1.5% + taxes for each international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+    },
+    "Joining fee ₹1200",
+    "Annual fee ₹0 first year, ₹500 thereafter",
+    "Cash payment fee ₹175",
+    "Finance charges 3.75% per month (55.55% per annum)",
+    "Cash withdrawal fees 2.5% min ₹500",
+    "Overdue penalty tiered up to ₹1200",
+    "Over limit penalty 2.5% min ₹500",
+    "Cheque return fee 2% min ₹500",
+    "Fuel transaction surcharge 1% (refunded for ₹400‑₹4,000)",
+    "Foreign Currency Transaction Fee 3.5%",
+    "Reward Point Redemption fee applicable",
+    "Rent transaction fee 1%",
+    "Dynamic Currency Conversion Markup 1.5% + taxes"
+  ],
+  "interest_rates": [
+    "3.75% per month (55.55% per annum) on retail purchases and cash",
+    {
+      "description": "Finance charges (Retail purchases and cash)",
+      "rate": 3.75,
+      "conditions": "3.75% per month (55.55% per annum)"
+    },
+    "Finance charges 3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Overdue penalty: Nil if total due < ₹500; ₹500 if ₹501‑₹5,000; ₹750 if ₹5,001‑₹10,000; ₹1,200 if > ₹10,000",
+    "Additional ₹100 charge for missing Minimum Amount Due for two consecutive cycles",
+    "Over limit penalty: 2.5% of over limit amount (Min ₹500)",
+    "Cheque return/dishonor fee: 2% of payment amount (Min ₹500)",
+    "Fuel surcharge may be levied as ₹10 + GST instead of 1% + GST on certain fuel transactions",
+    {
+      "description": "Joining fee",
+      "amount": 1200
+    },
+    {
+      "description": "Annual Fee",
+      "amount": 500
+    },
+    {
+      "description": "Cash payment fee",
+      "amount": 175
+    },
+    {
+      "description": "Finance charges (Retail purchases and cash)",
+      "amount": 3.75,
+      "conditions": "3.75% per month (55.55% per annum)"
+    },
+    {
+      "description": "Cash withdrawal fees",
+      "amount": 2.5,
+      "conditions": "2.5% (Min. ₹500) of the cash amount"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 500,
+      "conditions": "₹500 if total payment due is between ₹501 - ₹5,000"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 750,
+      "conditions": "₹750 if total payment due is between ₹5,001 - ₹10,000"
+    },
+    {
+      "description": "Overdue Penalty or Late Payment Fees",
+      "amount": 1200,
+      "conditions": "₹1200 if total payment due is greater than ₹10,000"
+    },
+    {
+      "description": "Over limit penalty",
+      "amount": 2.5,
+      "conditions": "2.5% of the over limit amount (Min ₹500)"
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "amount": 2,
+      "conditions": "2% of the payment amount, with a minimum fee of ₹500 and no maximum cap on the fee"
+    },
+    {
+      "description": "Surcharge on purchase or cancellation of railway tickets",
+      "amount": null,
+      "conditions": "As prescribed by IRCTC/Indian Railways"
+    },
+    {
+      "description": "Fuel Transaction Surcharge Transaction",
+      "amount": 1,
+      "conditions": "1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)"
+    },
+    {
+      "description": "Foreign Currency Transaction Fee",
+      "amount": 3.5,
+      "conditions": "3.50% of the transaction value"
+    },
+    {
+      "description": "Reward Point Redemption fee",
+      "amount": null,
+      "conditions": "Yes"
+    },
+    {
+      "description": "Rent Transaction fee",
+      "amount": 1,
+      "conditions": "1% on transaction will be applicable on each rental transaction done on MCC 6513"
+    },
+    {
+      "description": "Dynamic Currency Conversion Markup",
+      "amount": 1.5,
+      "conditions": "1.5% + taxes for each international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation"
+    },
+    "Overdue penalty tiered based on total payment due",
+    "Over limit penalty 2.5% of over limit amount (min ₹500)",
+    "Cheque return or dishonor fee 2% min ₹500",
+    "Fuel surcharge 1% (refunded under conditions)",
+    "Foreign Currency Transaction Fee 3.5%"
+  ],
+  "spend_conditions": [
+    "Maximum cashback ₹25 per transaction",
+    "Maximum annual cashback ₹200 per cardholder",
+    "Fuel surcharge waiver applicable only for transactions between ₹400 and ₹4,000",
+    "Cashback on IRCTC bookings limited to ₹200 per calendar year",
+    "Maximum benefits up to ₹400 per statement cycle",
+    "Fuel surcharge waiver valid on spends between ₹400 and ₹4,000"
+  ],
+  "benefit_conditions": [
+    "Cashback will be processed to the card account within 7 working days",
+    "Maximum cashback ₹200 per year shared across primary and add‑on cards",
+    "Fuel surcharge GST is non‑refundable and no reward points are earned on fuel transactions",
+    "Offers valid till April 20, 2019 (except IRCTC cashback)",
+    {
+      "description": "All travel/hotel/flight/Ezeego offers and cashbacks on MY Wings Credit Card shall be available till April 20, 2019 only except IRCTC cashback"
+    },
+    "Cashback processed within 7 working days",
+    "Cashback appears as credit entry in statement",
+    "Offer valid till April 20, 2019 for most travel/hotel offers",
+    "IRCTC cashback not limited by date",
+    "To avail the offer, kindly enter and validate 'AXISCOMBO' in the Promo code section on the payment page",
+    "One amongst the passengers travelling should be holding the name on the credit card used for the payment",
+    "Maximum discount on base fare per ticket Rs. 5000",
+    "All applicable taxes, fees and surcharges borne by customer",
+    "No cancellation, amendment or refunds for free tickets",
+    "Only direct flights; not valid for break journey or hopping flights",
+    "Offer cannot be combined with any other offer on www.ezeego1.com for the same products"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Ezeego1",
+    "IRCTC",
+    "Axis Bank Dining Delights",
+    "Swiggy",
+    "MakeMyTrip",
+    {
+      "description": "EDGE REWARDS",
+      "details": "Earn EDGE REWARD points for transactions and 500+ rewards and offers to redeem points"
+    },
+    "Offer is being administered by Ezeego One Travel and Tours Ltd. (Ezeego1) on behalf of Axis Bank",
+    "Ezeego One Travel and Tours Ltd."
+  ],
+  "merchant_offers": [
+    "IRCTC ticket bookings",
+    "Bus ticket bookings",
+    "Car rental bookings",
+    "Fuel stations across India",
+    "Swiggy orders",
+    "MakeMyTrip flights & hotels",
+    {
+      "description": "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+    },
+    {
+      "description": "10% off on orders via Swiggy"
+    },
+    "Hotel bookings",
+    "Holiday packages",
+    "Domestic flight bookings"
+  ],
+  "limited_period_offers": [
+    "All travel/hotel/flight/Ezeego offers and cashbacks available till April 20, 2019 (except IRCTC cashback)",
+    "Maximum cashback ₹200 per calendar year",
+    {
+      "description": "All travel/hotel/flight/Ezeego offers and cashbacks on MY Wings Credit Card shall be available till April 20, 2019 only except IRCTC cashback"
+    },
+    "All travel/hotel/flight/Ezeego offers and cashbacks available till April 20, 2019",
+    "IRCTC cashback not limited by date",
+    "Offers valid on bookings via 1800 120 0408 or www.ezeego1.com",
+    "Two complimentary domestic one-way tickets (base fare only) for eligible cardholders, valid for bookings made within 6 months of card issuance and travel within 1 year"
+  ],
+  "important_terms": [
+    "Maximum cashback ₹25 per transaction",
+    "Maximum annual cashback ₹200 per cardholder",
+    "Fuel surcharge refund only for spends between ₹400‑₹4,000",
+    "Cashback credited as a credit entry in the account statement",
+    "Cashback processing time: 7 working days (or 3‑14 days depending on transaction)",
+    "GST charged on fuel surcharge is non‑refundable",
+    "Reward points not earned on fuel transactions",
+    {
+      "description": "Maximum cashback ₹25 per transaction. Maximum annual benefits of ₹200 per cardholder."
+    },
+    {
+      "description": "The offer is available on use of Axis Bank My Wings Credit card on online ticket booking on www.irctc.com only."
+    },
+    {
+      "description": "The total cash back limit is shared across primary and add on credit cards."
+    },
+    {
+      "description": "Cashback will be processed to the card amount in 7 working days"
+    },
+    {
+      "description": "Fuel surcharge refund on spends at all fuel stations across India. Valid on transactions between ₹400 and ₹4,000 only. Maximum benefits up to ₹400 per statement cycle"
+    },
+    {
+      "description": "GST charged on fuel surcharge is non-refundable and no reward points are earned on fuel transactions"
+    },
+    {
+      "description": "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 instead of 1 percent with additional GST."
+    },
+    {
+      "description": "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST."
+    },
+    {
+      "description": "For options to redeem points, check the EDGE REWARDS Catalogue"
+    },
+    {
+      "description": "Beat the mid-week blues with exciting offers every Wednesday."
+    },
+    "Cashback credited within 7 working days",
+    "Cashback limit shared across primary and add‑on cards",
+    "Fuel surcharge refund not taxable GST not refundable",
+    "Promotional codes required for certain offers",
+    "Processing time 3‑14 days for cashback credit",
+    "Offer is valid for bookings made using select Axis Bank My Wings Credit Card only",
+    "Bookings made under this offer are not refundable",
+    "Offer will not be valid if transaction amount is refunded entirely or partially for any reason whatsoever",
+    "On validation of the promo code, Re. 1 discount will be processed. The actual cash back will be processed within 15 working days of completion of travel",
+    "All bookings would be subject to availability at the time of booking",
+    "This promotion is funded from a special promotional budget created by Ezeego1",
+    "Ezeego1 shall not guarantee or be held responsible or liable for any product or service offered by the Bus supplier",
+    "All disputes related to the offer shall be the subject matter of the jurisdiction of the Mumbai High Court",
+    "Ezeego1 reserves the right to change or withdraw the Offer, any time at the sole discretion of the Management",
+    "This offer cannot be combined with any other offer currently applicable on www.ezeego1.com for the same products",
+    "The Offer is not open to the relatives and employees of Ezeego1 and its associate companies",
+    "Offer is subject to change or withdrawal by Ezeego1",
+    "Not combinable with other offers on www.ezeego1.com",
+    "Not open to relatives, employees, or associates of Ezeego1",
+    "Disputes governed by Mumbai High Court under Indian laws",
+    "Offer valid for primary My Wings Credit Card only",
+    "Applicable airlines: Air India, Jet Airways, Go Air, IndiGo, Spice Jet",
+    "Bookings must be made at least 30 days before travel date",
+    "Maximum discount per ticket Rs. 5000",
+    "No cancellation, amendment or refunds",
+    "All taxes, fees, surcharges to be paid by customer",
+    "Not valid for infant bookings, travel agents, affiliate partners, or relatives/employees of Ezeego1",
+    "Subject to jurisdiction of Mumbai High Court"
+  ],
+  "excluded_categories": [
+    "Fuel transactions (no reward points, GST non‑refundable)",
+    "Transactions where fuel surcharge is levied as ₹10 + GST",
+    "Fuel transactions (no reward points)",
+    "Indigo, Indica, or similar cars",
+    "Infant bookings",
+    "Travel agents or affiliate partners",
+    "Relatives and employees of Ezeego1",
+    "Combined with other offers"
+  ],
+  "source_files_used": [
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\AXIS_My Wings Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\LOUNGE\\axis-bank-mastercard-airport-lounge-access_program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\REWARDS\\100-cash-back.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\REWARDS\\terms-conditions-400-cash-back.pdf",
+    "offer 1 PDF",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Wings Credit Card\\TRAVEL\\two-complimentary-flight-tickets.pdf"
+  ]
+}

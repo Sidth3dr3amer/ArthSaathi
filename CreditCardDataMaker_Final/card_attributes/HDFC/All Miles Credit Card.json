@@ -1,0 +1,120 @@
+{
+  "card_name": "All Miles Credit Card",
+  "card_network": null,
+  "card_type": "Rewards Credit Card",
+  "joining_fee": null,
+  "annual_fee": "First-year membership is free with ■15,000 spent within 90 days. Membership renewal is free with ■1 lakh spends annually.",
+  "fee_waiver_condition": "First-year membership is free with ■15,000 spent within 90 days. Membership renewal is free with ■1 lakh spends annually.",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3X Reward Points for every ₹150 you spend.",
+    "2X Reward Points for hotel bookings, mobile recharge and shopping.",
+    {
+      "description": "3 Reward Points for every 200 Rs spent"
+    }
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "CashBack equivalent to the first year's fee on initial spending."
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    {
+      "description": "Dynamic Currency Conversion (DCC) markup fee revised to 1.75% on each International transaction carried out in Indian currency at an international location or transactions carried out in Indian currency with merchants located in India but registered in a foreign nation"
+    }
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel Surcharge waived off on fuel transactions"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Protection against unauthorised use when you shop with the EMV Chip Card technology.",
+    "Zero lost card liability available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre."
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "3 Reward Points for every 200 Rs spent",
+  "forex_markup": "1.75%",
+  "fuel_surcharge_waiver": "1%",
+  "eligibility": [
+    "Nationality: Indian",
+    "Salaried: Age 21-60 years",
+    "Self-employed: Age 21-65 years",
+    "Age: Minimum 21 years and maximum 60 years (Salaried)",
+    "Age: Minimum 21 years and maximum 65 years (Self-employed)",
+    "For a salaried: Nationality: Indian, Age: Minimum 21 years and maximum 60 years.",
+    "For a self-employed: Age: Minimum 21 years and maximum 65 years."
+  ],
+  "income_requirements": [
+    "Minimum salary varies depending on HDFC Bank and its policies",
+    "The minimum salary required for the All Miles Credit Card eligibility varies depending on the HDFC Bank and its policies."
+  ],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fee: 2.5% or ■500 minimum on all cash withdrawals",
+    "Finance charge: 3.49% per month",
+    "A fee of 2.5%, with a minimum of ₹500, is applicable on all cash withdrawals on your card",
+    {
+      "name": "Card re-issuance fee",
+      "amount": "₹199",
+      "condition": "for non-metal card variants (lost, stolen or damaged card)"
+    }
+  ],
+  "interest_rates": [
+    "50 days’ interest-free credit",
+    "3.49% interest on overdue balances",
+    "50-day revolving credit available at a nominal interest rate.",
+    "Finance charge: 3.49% per month"
+  ],
+  "fees_and_penalties": [
+    "Cash advance fee: 2.5% or ■500 minimum on all cash withdrawals",
+    "Finance charge: 3.49% per month",
+    "3.49% interest on overdue balances"
+  ],
+  "spend_conditions": [
+    {
+      "description": "Reward points accrued on spends in multiples of ₹200"
+    }
+  ],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "All Miles Card is enabled* for Contactless Payments at retail outlets.",
+    "Payment through contactless mode is allowed for a maximum of ₹5,000 for a single transaction where you are not asked to input your Credit Card PIN. However, if the amount is higher than or equal to ₹5,000, the Card holder must enter the Credit Card PIN for security reasons.",
+    {
+      "description": "Updates effective from 15th May 2026"
+    }
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\HDFC_All Miles Credit Card_summary.txt",
+    "All Miles Credit Card Eligibility Criteria",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\TERMS\\tnc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\All Miles Credit Card\\TERMS\\tnc2.pdf"
+  ]
+}

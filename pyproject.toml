@@ -1,0 +1,80 @@
+[project]
+name = "financial-twin"
+version = "1.0.0"
+description = "Financial Twin - a multi-agent personal finance advisor (cashflow, debt, emergency fund, fraud, credit-card recommendation) with a voice interface."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # --- Core data / numerics ---
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "statsmodels>=0.14.6",
+    "python-dateutil>=2.9.0",
+    "openpyxl>=3.1.5",
+
+    # --- Charting ---
+    "matplotlib>=3.11.0",
+    "seaborn>=0.13.2",
+    "pillow>=12.2.0",
+
+    # --- LLM providers ---
+    "anthropic>=0.109.1",
+    "groq>=0.37.1",
+    "openai>=2.41.1",
+    "cerebras-cloud-sdk>=1.67.0",
+
+    # --- Agent orchestration ---
+    "langgraph>=1.2.5",
+    "langchain-openai>=1.3.1",
+
+    # --- PDF ingestion (credit-card pipeline) ---
+    "pdfplumber>=0.11.9",
+    "pypdf>=6.13.2",
+    "reportlab>=4.5.1",
+
+    # --- Web / scraping (fraud detection + card scraper) ---
+    "requests>=2.34.2",
+    "beautifulsoup4>=4.15.0",
+    "python-whois>=0.9.6",
+
+    # --- Voice service (TestVoice/backend.py) ---
+    "fastapi>=0.115.0",
+    "uvicorn>=0.34.0",
+    "python-multipart>=0.0.20",
+    "faster-whisper>=1.1.0",
+    "edge-tts>=7.0.0",
+
+    # --- Persistence: Neon Postgres + pgvector (memory layer) ---
+    "sqlalchemy>=2.0.36",
+    "psycopg[binary]>=3.2.3",
+    "pgvector>=0.3.6",
+    "alembic>=1.14.0",
+
+    # --- Shared utilities ---
+    "pydantic>=2.10.0",
+    "python-dotenv>=1.2.2",
+    "tqdm>=4.68.2",
+    "transformers>=5.12.1",
+    "ipykernel>=7.3.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.4",
+    "pytest-cov>=6.0.0",
+    "httpx>=0.28.1",
+]
+
+[tool.uv.workspace]
+members = ["CreditCardDataMaker_Final"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q --strict-markers"
+markers = [
+    "live: hits a real external service (LLM or Neon); deselect with -m 'not live'",
+]
+
+[tool.coverage.run]
+source = ["ml/src"]

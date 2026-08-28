@@ -1,0 +1,184 @@
+{
+  "card_name": "Sap Concur Black Corporate Credit Card",
+  "card_network": null,
+  "card_type": "Corporate Credit Card",
+  "joining_fee": "₹7.5 Lakh",
+  "annual_fee": "₹7.5 Lakh",
+  "fee_waiver_condition": "₹7.5 Lakh / Annum",
+  "welcome_benefits": [
+    "5 Reward Points for every 150 spent, a maximum of 10,000 reward points per statement cycle"
+  ],
+  "reward_structure": [
+    "5 Reward Points for every 150 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points against airline ticket and hotel bookings from reward redemption catalogue at 1 Reward Point = 0.30"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Maximum of 10,000 reward points per statement cycle"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "5 domestic airport lounge access quarterly",
+    "15 international lounge visits annually through the Lounge Key program"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "5 domestic airport lounge access quarterly",
+    "15 international lounge visits annually through the Lounge Key program",
+    "Unlimited Wi-Fi access on the ground and in the air at over 1 million hotspots in 100 countries with Boingo Wi-Fi"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "2.5% on all your foreign currency spends"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% Fuel surcharge waiver on fuel transactions between 400 to 10,000 across all petrol pumps. Maximum waiver capped at 1,000 per statement cycle",
+    "1% surcharge waived for transaction value between ₹400 - ₹10,000, capped at ₹1,000 per statement cycle"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "ACCIDENT COVERS- Policy No: 2999206038987100000",
+    "AIR ACCIDENT: Cover of INR 1 crore available to primary card holder",
+    "ROAD/RAIL ACCIDENT: Cover of INR 3 Lacs available to primary card holder",
+    "ACCIDENTAL HOSPITALIZATION EXPENSES: Cover of up to INR 25000 available to primary card holder",
+    "CREDIT SHIELD COVER: Cover of up to INR 5 Lacs is available to primary card holder",
+    "LOSS OF CHECKED BAGGAGE: Cover of up to INR 10000 on domestic flights and USD 200 on International flights",
+    "DELAY IN RECEIPT OF CHECKED BAGGAGE: Cover INR 5,000 on domestic flights and USD 125 on international flights",
+    "DELAY IN FLIGHT: Cover of INR 15,000 on domestic flights and USD 200 on international flights",
+    "MISSING OF CONNECTING INTERNATIONAL FLIGHT DURING TRANSIT: Cover of INR 15,000 on domestic flights and USD 200 on international flights",
+    "HIJACKING: Cover INR 1,50,000 on domestic flights and USD 2000 on international flights",
+    "LOSS OF PERSONAL DOCUMENTS: Cover of up to INR 25,000 for Loss of Passport/Visa and International flights up to USD 325",
+    "EMERGENCY MEDICAL EXPENSES: Cover of up to USD 1,250 on international travel",
+    "Corporate Liability Waiver Insurance benefits provided by HDFC Ergo General Insurance Company Limited",
+    "Corporate liability waiver insurance, providing coverage up to 1 Crore",
+    "Accidental air death cover of 1 crore",
+    "Credit liability cover of up to 9 lakh",
+    "Emergency medical expenses protection worth up to 1 lakh",
+    "Cover of 15,000 on flight delays, loss of checked baggage and missing international flights"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [
+    "Easy and accessible online reporting tool",
+    "Customised reports on expense spend categories and behaviour",
+    "Detailed transaction information at the employee level",
+    "Consolidated reports for transactions across the globe",
+    "Integration with existing accounting systems",
+    "Paperless claims and faster and more efficient processing",
+    "Simplified reconciliation and compliance tasks",
+    "Save up to 10,000* annually"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": "15 international lounge visits annually",
+  "guest_lounge_access": null,
+  "reward_rate": "5 Reward Points for every 150 spent",
+  "forex_markup": "2.5%",
+  "fuel_surcharge_waiver": "1% Fuel surcharge waiver on fuel transactions between 400 to 10,000. Maximum waiver capped at 1,000 per statement cycle",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [
+    "Identity Proof (Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photograph)",
+    "Address Proof (Utility bills, Rental agreement)",
+    "Income Proof (Salary slips, Income Tax Returns, Form 16, Bank statements)"
+  ],
+  "charges": [
+    "Fees may vary for each card member and depend on the specific offer",
+    "Cash Advance Fee: 2.5% of amount withdrawn (minimum ₹500)",
+    "Over-limit charge: 2.5% of over limit amount (minimum ₹500)",
+    "Payment return charge: 2% of payment amount (minimum ₹450)",
+    "Card reissue fee: ₹100 per card",
+    "Late Payment Charges: tiered up to ₹750",
+    "Fuel surcharge waiver: 1% (capped at ₹1,000 per statement cycle)"
+  ],
+  "interest_rates": [
+    "Revolving credit: 2.95% per month (35.40% annually)"
+  ],
+  "fees_and_penalties": [
+    "Cash Advance Fee: 2.5% of amount withdrawn (minimum ₹500)",
+    "Over-limit charge: 2.5% of over limit amount (minimum ₹500)",
+    "Payment return charge: 2% of payment amount (minimum ₹450)",
+    "Card reissue fee: ₹100 per card",
+    "Late Payment Charges: tiered up to ₹750"
+  ],
+  "spend_conditions": [
+    "Fuel surcharge waiver applicable for transactions between ₹400 and ₹10,000"
+  ],
+  "benefit_conditions": [
+    "All the above insurance covers are available to the Primary card holder.",
+    "All the above insurance covers will be available only after the card holder activates his/her HDFC Bank Corporate Credit Card with POS or an online transaction excluding disputed transaction within six months.",
+    "Air Accident & Travel Insurance cover will be activated if the tickets are purchased by using HDFC Bank Credit Card.",
+    "The above features and benefits are valid up to January 01, 2025",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded.",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company with whom the Bank has tied up.",
+    "Terrorism is specifically excluded under the policy.",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa.",
+    "The maximum age of insured person shall be 70 years.",
+    "Claim payment to the customer will be made in INR as per applicable exchange rate as on the date of expenses incurred by the cardholder.",
+    "Cover is limited to corporate cards issued to employees with authorization of the corporate",
+    "Losses claimed must be charges incurred by the employee during a 30-day period preceding and 14 days after cessation of employment",
+    "Charges must not benefit the corporate directly or indirectly, or if they do, the corporate must have reimbursed the employee",
+    "Corporate must inform the bank in writing within 2 business days of employee's cessation of employment",
+    "Corporate must retrieve the due amount and set off any dues owed to the employee",
+    "Sum insured per card is equal to the credit limit, subject to a maximum of Rs 200,000 per card and Rs 2,500,000 aggregate per corporate per year",
+    "Losses outside India are covered",
+    "Fuel surcharge waiver applicable for transactions between ₹400 and ₹10,000"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "SAP Concur Solutions"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms and conditions apply",
+    "For detailed terms, conditions & exclusions please write to bankclaims@hdfcergo.com & travelclaims@hdfcego.com",
+    "For any queries please write to bankclaims@hdfcergo.com and claim documents should be sent to Address: A&H Claims Inward Team, HDFC Ergo GIC Ltd., 6th Floor, Leela Business Park, Andheri Kurla Road, Andheri East. Mumbai 400059",
+    "Intimation of Claim to be provided within 30 days from the date of loss by the insured. Documents to be submitted to HDFC ERGO within 60 days from the date of loss.",
+    "For Emergency Medical Expenses - Toll Free: +800 08250825 (International Toll Free - accessible from outside India) / 01204507250 (Chargeable)",
+    "Policy is subject to change as per instructions received from HDFC Bank",
+    "Policy period: 02/01/2024 to 01/01/2025",
+    "Policy number: 2999200328814411000",
+    "Reward points are valid for up to 2 years",
+    "Unredeemed CashPoints will expire/ lapse after 2 years of accumulation",
+    "Contactless Payments at retail outlets (max 5,000 without PIN, above 5,000 requires PIN)",
+    "Interest free credit period up to 50 days",
+    "Cash advance interest applies from transaction date"
+  ],
+  "excluded_categories": [
+    "Fraudulent transactions done by person known to the cardholder",
+    "Terrorism",
+    "Travel Insurance for procuring a visa",
+    "Pre-existing illness for Emergency Medical Expenses",
+    "Charges resulting from a lost or stolen corporate card",
+    "Bankruptcy/insolvency of the company",
+    "Monies unrecovered by the corporate against charges incurred by an employee who continues to remain in employment"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\HDFC_Sap Concur Black Corporate Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\INSURANCE\\coverages-csp-comprehensive-insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\INSURANCE\\hdfc-ergo-general-insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\main.pdf",
+    "Corporate Credit Card Version 1.54",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\most-important-terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\most-important-terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Sap Concur Black Corporate Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards5.pdf"
+  ]
+}

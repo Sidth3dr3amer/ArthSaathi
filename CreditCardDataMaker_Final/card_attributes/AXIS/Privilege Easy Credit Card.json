@@ -1,0 +1,276 @@
+{
+  "card_name": "Privilege Easy Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Fixed Deposit backed secured credit card",
+  "joining_fee": 1500,
+  "annual_fee": 1500,
+  "fee_waiver_condition": "Annual fees of ₹1,500 will be reversed on achieving spends* of ₹2.5 lakhs in the previous card anniversary year.",
+  "welcome_benefits": [
+    "Get 12500 EDGE reward points, worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance.",
+    "12500 EDGE REWARD points, worth ₹2500 redeemable against vouchers upon levy of joining fees and on completion of 1st transaction within 30 days of card issuance",
+    "12500 EDGE reward points (₹2500) after joining fee and first transaction within 30 days",
+    "Buy one get one movie ticket offer",
+    "Two complimentary lounge accesses per calendar quarter"
+  ],
+  "reward_structure": [
+    "10 Axis EDGE REWARDS on every ₹200 spent",
+    {
+      "spend": 200,
+      "points": 10
+    }
+  ],
+  "reward_redemption_options": [
+    "For options to redeem points, check the Axis EDGE REWARDS Catalogue.",
+    "vouchers",
+    "shopping",
+    "travel",
+    "Shopping vouchers",
+    "Travel vouchers"
+  ],
+  "reward_exclusions": [
+    "No reward points are earned on fuel transactions",
+    "fuel transactions",
+    "Fuel transactions"
+  ],
+  "reward_caps": [
+    "Maximum benefits up to ₹400 per month"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Get additional 10,000 EDGE reward points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year.",
+    "10000 EDGE reward points worth ₹2000 upon achieving spends milestone of ₹2.5 lakhs in a card anniversary year",
+    "Additional 10,000 EDGE reward points (₹2000) upon achieving spend milestone of ₹2.5 lakh in card anniversary year",
+    "Annual fee reversal on spend of ₹2.5 lakh in previous anniversary year"
+  ],
+  "lounge_access": [
+    "Two complimentary access per calendar quarter to select domestic airport lounges with Axis Bank Privilege Easy Credit Card.",
+    "Two complimentary access per calendar quarter to select domestic airport lounges",
+    "Two complimentary domestic airport lounge accesses per calendar quarter (total 8 per year)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "Delay in Check in baggage cover up to $300",
+    "Loss of Check-In Baggage Cover upto $500",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value"
+  ],
+  "dining_benefits": [
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program.",
+    "Enjoy exceptional dining experiences at top restaurants across India with the Axis Bank Dining Delights Program",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹1000 on Tira",
+    "Dining Delights Program at top restaurants"
+  ],
+  "movie_benefits": [
+    "Buy one get one offer on movie tickets",
+    "Buy one get one 100% discount on second movie ticket via District app"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge refund on spends at all fuel stations across India with Axis Bank Privilege Easy Credit Card.",
+    "1 % Fuel Surcharge Waiver on monthly fuel spends",
+    "Fuel surcharge refund on spends at all fuel stations across India",
+    "1% Fuel Surcharge Waiver on monthly fuel spends",
+    "1% fuel surcharge waiver/refund on fuel transactions"
+  ],
+  "shopping_benefits": [
+    "Shopping or Travel vouchers on welcome",
+    "Shopping vouchers redeemable with EDGE reward points"
+  ],
+  "entertainment_benefits": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday",
+    "10% off on orders via Swiggy",
+    "10% off upto ₹1000 on Tira",
+    "Wednesday Delight",
+    "Extraordinary weekends",
+    "Buy one get one movie tickets",
+    "Wednesday Delight offers"
+  ],
+  "insurance_benefits": [
+    "Credit Shield ₹1 Lakh",
+    "Loss Travel Document Cover upto $300",
+    "Purchase Protection Plan up to ₹1 lakh",
+    "Comprehensive insurance cover",
+    "Credit Shield of ₹1 lakh",
+    "Delay in Check in baggage cover up to $300",
+    "Loss of Check-In Baggage Cover upto $500",
+    "Credit Shield ₹1 lakh",
+    "Loss Travel Document Cover up to $300",
+    "Delay in Check‑in Baggage Cover up to $300",
+    "Loss of Check‑in Baggage Cover up to $500"
+  ],
+  "protection_benefits": [
+    "EMV certified chip Credit Card",
+    "PIN protection",
+    "Purchase Protection Plan up to ₹1 lakh",
+    "Credit Shield ₹1 lakh"
+  ],
+  "concierge_benefits": [
+    "To book your experience visit or contact the concierge at 08880 023 023.",
+    "Concierge at 08880 023 023",
+    "Extraordinary weekends experiences via concierge"
+  ],
+  "emi_benefits": [
+    "Convert purchases to EMI on any transaction over ₹2,500",
+    "Convert any transaction over ₹2,500 into EMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 10,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "A Fixed Deposit backed secured credit card with minimal documentation and guaranteed approval.",
+    "first-time credit card users or those looking to improve their credit history"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "minimal documentation"
+  ],
+  "charges": [
+    "Standard Joining Fee: ₹1500 (Nil for Priority Customers only)",
+    "Standard Annual Fee (2nd year onwards): ₹1500",
+    "Standard Add-on Card Joining Fee: Nil",
+    "Standard Add-on Card Annual Fee: Nil",
+    "Finance Charges (Retail Purchases & Cash): 3.40% per month (49.36% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500) of the Cash Amount",
+    "Fee for Cash Payment: ₹175/-",
+    "Card Replacement (lost or stolen or re-issue): Nil",
+    "Duplicate Statement Fee: Waived",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000, Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹500)",
+    "Charge Slip Retrieval Fee or Copy Request Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Mobile Alerts for Transactions: Waived",
+    "Hotlisting Charges: Waived",
+    "Balance Enquiry Charges: Waived",
+    "Reward Redemption fee: Waived",
+    "Rent surcharge fee: 1% of the rental txn amount",
+    "Dynamic currency conversion markup fee: 1.5% of each international txn plus taxes",
+    "Education Payment Charges: 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle",
+    "Finance Charges (Retail Purchases & Cash) - 3.40% per month (49.36% per annum)",
+    "Cash Withdrawal Fees - 2.5% (Min. ₹500) of the Cash Amount",
+    "Fee for Cash Payment - ₹175/-",
+    "Overdue Penalty or Late Payment Fee - ₹500 if total payment due is between ₹501 - ₹5,000",
+    "Over Limit Penalty - 2.5% of the overlimit amount (Min. ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal - 2% of the payment amount subject to Min. ₹500",
+    "Surcharge on purchase or cancellation of Railway Tickets - As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge - 1% of transaction amount (Refunded for fuel transactions between ₹400 and ₹4000)",
+    "Foreign Currency Transaction Fee - 3.50% of the transaction value",
+    "Rent surcharge fee - 1% of the rental txn amount",
+    "Dynamic currency conversion markup fee - 1.5% of each international txn plus taxes",
+    "Education Payment Charges - 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Wallet Load Transaction Fee - 1% fee will be applicable on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee - 1% fee will be applicable on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee - 1% fee will be applicable on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee - 1% fee will be applicable on cumulative spends of ₹10,000 or more on online skill-based gaming platforms in a statement cycle",
+    "Standard Joining Fee: ₹1500 (Nil for Priority Customers)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹500)",
+    "Fee for Cash Payment: ₹175",
+    "Over Limit Penalty: 2.5% of overlimit amount (Min. ₹500)",
+    "Overdue Penalty: Tiered fees based on total payment due",
+    "Cheque return or dishonor fee: 2% of payment amount (Min. ₹500)",
+    "Foreign Currency Transaction Fee: 3.50% of transaction value",
+    "Dynamic currency conversion markup fee: 1.5% of each international transaction plus taxes",
+    "Rent surcharge fee: 1% of rental transaction amount",
+    "Education Payment Charges: 1% fee per transaction",
+    "Wallet Load Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee on cumulative spends of ₹50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee: 1% fee on cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee on cumulative spends of ₹10,000 or more"
+  ],
+  "interest_rates": [
+    "3.40% per month (49.36% per annum)",
+    "3.40% per month (49.36% per annum) on retail purchases and cash"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000, Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of the overlimit amount (Min. ₹500)",
+    "Overdue Penalty or Late Payment Fee - ₹500 if total payment due is between ₹501 - ₹5,000",
+    "Over Limit Penalty - 2.5% of the overlimit amount (Min. ₹500)",
+    "Overdue Penalty: Nil if total payment due < ₹500; ₹500 if ₹501‑₹5,000; ₹750 if ₹5,001‑₹10,000; ₹1,200 if > ₹10,000; plus ₹100 for missing MAD for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of overlimit amount (Min. ₹500)",
+    "Cheque return or dishonor fee: 2% of payment amount (Min. ₹500)"
+  ],
+  "spend_conditions": [
+    "Spends threshold for annual fee reversal will exclude rent and wallet transactions. The merchant category code of rent is 6513 and wallet is 6540.",
+    "spends of ₹2.5 lakhs in the previous card anniversary year for annual fee reversal",
+    "Annual fee waiver on spend of ₹2.5 lakh in previous anniversary year (excluding rent and wallet transactions)",
+    "Reward earning: 10 points per ₹200 spent (excluding fuel transactions)",
+    "Fuel surcharge waiver applicable on fuel spends"
+  ],
+  "benefit_conditions": [
+    "Valid on transactions between ₹400 and ₹4,001 only",
+    "Service tax charged on fuel surcharge is non-refundable.",
+    "completion of 1st transaction within 30 days of card issuance for welcome benefit",
+    "Fuel surcharge waiver limited to maximum benefit of ₹400 per month",
+    "No reward points earned on fuel transactions"
+  ],
+  "renewal_benefits": [
+    "Annual fee reversal on achieving spend of ₹2.5 lakh in previous card anniversary year"
+  ],
+  "partner_programs": [
+    "Axis EDGE REWARDS",
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira",
+    "District",
+    "District app",
+    "Axis EDGE REWARDS Catalogue"
+  ],
+  "merchant_offers": [
+    "10% off on orders via Swiggy",
+    "10% off upto ₹1000 on Tira",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "10% off up to ₹1000 on Tira",
+    "Buy one get one movie ticket via District app",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip",
+    "Wednesday Delight weekly offers"
+  ],
+  "limited_period_offers": [
+    "Buy one get one movie ticket offer",
+    "Wednesday Delight offers",
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "important_terms": [
+    "Click here for detailed terms and conditions.",
+    "Terms and Conditions apply",
+    "Service tax on fuel surcharge is non‑refundable",
+    "No reward points earned on fuel transactions",
+    "Spends threshold for annual fee reversal excludes rent (MCC 6513) and wallet (MCC 6540) transactions"
+  ],
+  "excluded_categories": [
+    "Fuel transactions",
+    "Rent and wallet transactions",
+    "rent and wallet transactions for annual fee reversal",
+    "Fuel transactions (no reward points)",
+    "Rent transactions (MCC 6513) for fee waiver calculation",
+    "Wallet transactions (MCC 6540) for fee waiver calculation"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Easy Credit Card\\AXIS_Privilege Easy Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Easy Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Easy Credit Card\\INSURANCE\\axis-bank-privilege-credit-card_insurance-t-c.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Easy Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Privilege Easy Credit Card\\OFFERS\\privilege-easy-credit-card-milestone-benefit-tncs.pdf"
+  ]
+}

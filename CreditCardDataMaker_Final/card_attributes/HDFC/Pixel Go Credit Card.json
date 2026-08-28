@@ -1,0 +1,486 @@
+{
+  "card_name": "Pixel Go Credit Card",
+  "card_network": [
+    "RuPay",
+    "Visa",
+    "VISA / RuPay",
+    "Visa/RuPay"
+  ],
+  "card_type": "Credit Card",
+  "joining_fee": "₹250 + applicable taxes",
+  "annual_fee": 250,
+  "fee_waiver_condition": "Spend ₹50,000 or more in a year, before renewal date",
+  "welcome_benefits": [
+    "₹500 cashback on spends of ₹10,000 within 90 days",
+    "₹500 cashback on spends of ₹50,000 within 90 days"
+  ],
+  "reward_structure": [
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "category": "UPI Spends",
+      "cap": "500 CashPoints per Calendar month"
+    },
+    "1% CashBack on eligible transactions",
+    "5% Cashback on SmartBuy",
+    "1% Cashback on UPI spends",
+    "Reward points can be earned on transactions and redeemed in cash points",
+    "1% cashback on UPI transactions",
+    "500 points for every 500 spent on calendar days",
+    "If the cardholder has a Visa to RuPay version of the Pixel Credit Card, the rewards will be posted in the RuPay version",
+    "3.5% cashback on spends",
+    "3.5% cashback on purchases",
+    "Earn up to 500 reward points per calendar month on UPI transactions via RuPay Pixel Credit Card",
+    "Cashback received in the form of cash points",
+    "1 cash point = 1 Rupee",
+    "Maximum 2000 cash points per day on insurance payments",
+    "1% unlimited Cashback across all other spends",
+    {
+      "type": "Reward Points",
+      "earning_rate": "As specified in the PayZapp mobile app",
+      "exclusions": [
+        "Interest Charges",
+        "government taxes/charges",
+        "fees",
+        "Card Account adjustments resulting from disputed transactions or otherwise",
+        "cash advances",
+        "quasi cash transactions",
+        "transactions treated as cash advances (e.g., Balance Transfer, Foreign Exchange, Traveller's Cheques)",
+        "gambling chip purchases",
+        "utility bills",
+        "Prohibited transactions"
+      ]
+    }
+  ],
+  "reward_redemption_options": [
+    "PIXEL CashPoints can be redeemed to PayZapp Wallet and used for brand vouchers",
+    "Redeem reward points via PayZapp mobile app by transferring points to PayZapp cashback balance",
+    "Negative cashback balance will be debited to the card account after 60 days",
+    "Cashback can be redeemed as statement credits",
+    "Cashback can be redeemed as PayZapp wallet balance",
+    "Redeem via PayZapp mobile app",
+    "Transfer to PayZapp cash points balance",
+    "PayZapp Mobile App",
+    {
+      "option": "PayZapp CashPoints",
+      "minimum_points": 500,
+      "notes": "Minimum number of Reward Points required for redemption may change as per Bank's discretion"
+    }
+  ],
+  "reward_exclusions": [
+    "Fuel, EMI, rent payments, e-wallet loading, government-related transactions, and insurance transactions are not eligible for cashback",
+    "If the credit card is not used for 365 days, the accumulated cashback will be reversed",
+    "Bank reserves the right to reverse or suspend cashback if the card is lost, stolen, or if there is a reasonable suspicion of fraud",
+    "Fuel surcharge waiver",
+    "Cashback on fuel purchases",
+    "Cashback on international transactions",
+    "Cashback on EMI transactions",
+    "Cashback on bill payments",
+    "Fuel",
+    "EMI",
+    "Rent payments",
+    "E-wallet loading",
+    "Government-related payments",
+    "e-wallet loading",
+    "Government related transactions",
+    "Interest Charges",
+    "government taxes/charges",
+    "fees",
+    "Card Account adjustments resulting from disputed transactions or otherwise",
+    "cash advances",
+    "quasi cash transactions",
+    "transactions treated as cash advances (e.g., Balance Transfer, Foreign Exchange, Traveller's Cheques)",
+    "gambling chip purchases",
+    "utility bills",
+    "Prohibited transactions"
+  ],
+  "reward_caps": [
+    {
+      "type": "Cashback",
+      "limit": "500 CashPoints per Calendar month"
+    },
+    "Maximum waiver of ₹250 per statement cycle for fuel surcharge waiver",
+    "No monthly cap on cashback",
+    "500 reward points per calendar month on UPI transactions",
+    "2000 cash points per day on insurance payments",
+    "Maximum Cashback that can be earned is Rs. 15000 per calendar month"
+  ],
+  "cashback_benefits": [
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "category": "UPI Spends"
+    },
+    "1% fuel surcharge waiver at all fuel stations across India on transactions of ₹400-₹5,000",
+    "5% CashBack on eligible transactions via SmartBuy",
+    "1% Cashback on UPI spends",
+    "1% cashback on UPI transactions",
+    "Cashback will be credited based on the transaction value percentage as per the product features terms.",
+    "Maximum 500 points can be earned per calendar month for credit card purchases made via UPI for Pixel Credit Card.",
+    "If the cardholder has both VISA and RuPay variants of Pixel Credit Card, the rewards will be posted together.",
+    "3.5% cashback on all spends",
+    "3.5% cashback",
+    "Cashback offers available on credit card",
+    "1% unlimited Cashback across all other spends"
+  ],
+  "milestone_benefits": [
+    "Joining fee waiver by spending ₹10,000 within 90 days of issuance",
+    "Renewal membership fee waived by spending ₹50,000 in the preceding 12 months",
+    "₹500 cashback on spends of ₹10,000 within 90 days",
+    "₹500 cashback on spends of ₹50,000 within 90 days"
+  ],
+  "lounge_access": [
+    "Domestic lounge visits per year: 1",
+    "International lounge visits per year: 1"
+  ],
+  "airport_services": [
+    "Priority boarding",
+    "Exclusive check-in counters",
+    "Lounge access"
+  ],
+  "priority_pass_benefits": [
+    "Priority boarding",
+    "Exclusive check-in counters",
+    "Lounge access"
+  ],
+  "travel_benefits": [
+    "Priority boarding",
+    "Exclusive check-in counters",
+    "Lounge access"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign currency transaction fee: 3.5% of transaction value"
+  ],
+  "dining_benefits": [
+    "10% savings off on all restaurant bill payments via Swiggy Dineout"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on transactions of ₹400-₹5,000",
+    "Fuel surcharge waiver: 1% off on fuel transactions between ₹400 and ₹5,000",
+    "Fuel surcharge waiver: 1% of transaction amount for transactions between Rs. 400 and Rs. 5000, capped at Rs. 250 per billing cycle",
+    "Fuel surcharge waiver up to 1% of eligible spend, between ₹400 and ₹5000",
+    "Fuel Surcharge waiver: Fuel Surcharge Waiver will be capped at 1% of the eligible fuel transaction amounts. Waiver applicable for transaction between ₹400 to ₹5000."
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero lost card liability on fraudulent transactions"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert purchases into EMIs instantly via PayZapp",
+    "Flexible tenure options for EMI payments",
+    "Revolving credit available at nominal interest rates",
+    "Smart EMI available (Pay-in-parts/Convert transaction to EMI)",
+    "Processing fee: Rs. 199 + GST",
+    "Pre-closure charges: 3% of outstanding principal",
+    "EMI interest waiver",
+    "Smart EMI option",
+    "Bill payment discounts",
+    "EMI processing fee ₹199 + GST"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 1,
+  "international_lounge_visits_per_year": 1,
+  "guest_lounge_access": [],
+  "reward_rate": "1%",
+  "forex_markup": "3.5%",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "No credit score or income document required",
+    "Bureau check as per internal bank policy",
+    "Salaried: Indian nationality, age 21-60 years, monthly income ₹12,000",
+    "Self-Employed: age 21-65 years, annual ITR > ₹6,00,000"
+  ],
+  "income_requirements": [
+    "Salaried: ₹12,000 monthly income",
+    "Self-Employed: annual ITR > ₹6,00,000"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Address Proof: Utility bills, rental agreement",
+    "identity",
+    "address",
+    "photograph"
+  ],
+  "charges": [
+    "Joining/Renewal Membership Fee – ₹250 + applicable taxes",
+    "Joining/Renewal Membership Fee: ₹250/- + Applicable Taxes",
+    "Joining fee: Rs. 250 + GST",
+    "Annual fee: Rs. 250 + GST",
+    "Cash advance fee: 2.5% or Rs. 500, whichever is higher",
+    "Fuel surcharge: 3.5% on fuel transactions",
+    "Cash advance fee: 2.5% or ₹500, whichever is lower",
+    "Foreign transaction fee: 3.6% (annual rate 43.2%)",
+    "Late payment fee: ₹100",
+    "Currency conversion fee: 1% for foreign transactions",
+    "Lost/stolen card fee: ₹100",
+    "Interest on cash advances and credit purchases: 3.6% (annual rate 43.2%)",
+    "Minimum due amount: ₹4,000 (including ₹1,000 cash advance + ₹3,000 past due balance)",
+    "Cash advance fee: 2.5% of transaction value or ₹500, whichever is higher",
+    "Transaction service charges: Applicable as per bank's discretion",
+    "Late payment charges: 3.6% per annum based on the outstanding balance",
+    "Default charges: As per the bank's discretion",
+    "Joining Fee: Rs. 250 + GST",
+    "Annual Fee: Rs. 250 + GST",
+    "Cash Advance Fee: 2.5% or Rs. 500, whichever is higher",
+    "Railway Ticket Purchase Fee: 1% + GST",
+    "Payment Return Charges: 2% of payment amount min Rs. 450",
+    "Smart EMI Processing Fee: Rs. 199 + GST",
+    "Smart EMI Pre-closure Charges: 3% of outstanding principal",
+    "Lost/Stolen/Damaged Card Replacement: Rs. 100",
+    "Foreign Currency Markup: 3.5%",
+    "Interest Rate: 3.60% monthly (43.20% annually)",
+    "Late Payment Fee: Rs. 100 (if < Rs. 100), Rs. 100 (Rs. 101-500), Rs. 500 (Rs. 501-5000), Rs. 600 (Rs. 5001-10000), Rs. 800 (Rs. 10001-25000), Rs. 1100 (Rs. 25001-50000), Rs. 1300 (> Rs. 50000)",
+    "Joining fee ₹250 + GST",
+    "Annual fee ₹250 + GST",
+    "Finance charge 3.6% monthly (43.2% p.a.) on revolving credit and cash advance",
+    "Cash advance fee 2.5% of transaction amount",
+    "Late payment charge 2% minimum ₹450",
+    "Pre‑closure charge 3% of outstanding balance",
+    "EMI processing fee ₹199 + GST",
+    "Fuel surcharge waiver up to 1% of eligible spend",
+    "Foreign transaction markup 1%",
+    "GST applicable on all fees, interest, and other charges",
+    "TDS@2% on total cash withdrawals exceeding 1 crore rupees in a financial year",
+    "2.5% or ₹500 whichever is higher for cash advance",
+    "1% fee on transaction amount will be levied on rental transactions done on any applicable merchant for the month. Fee capped at Rs 4999 per transaction"
+  ],
+  "interest_rates": [
+    "Revolving credit available at nominal interest rates",
+    "Finance charges: 3.75% monthly (45% annually)",
+    "Late payment charges: Varies based on outstanding balance",
+    "3.6% (annual rate 43.2%)",
+    {
+      "rate": "3.6% per annum (43.2% per annum)",
+      "description": "Interest rate applicable for overdue payments"
+    },
+    "Late payment charges: 3.6% per annum based on the outstanding balance",
+    "3.60% monthly (43.20% annually)",
+    "Finance charge 3.6% per month (43.2% per annum)",
+    "3.75% per month (i.e 45% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Joining/Renewal Membership Fee: ₹250/- + Applicable Taxes",
+    "Late payment charges: Nil for balances ≤ Rs. 100, Rs. 100 for Rs. 101-500, Rs. 500 for Rs. 501-1,000, Rs. 600 for Rs. 1,001-5,000, Rs. 750 for Rs. 5,001-10,000, Rs. 900 for Rs. 10,001-25,000, Rs. 1,100 for Rs. 25,001-50,000, Rs. 1,300 for > Rs. 50,000",
+    "Late payment fee: ₹100",
+    "Lost/stolen card fee: ₹100",
+    "Currency conversion fee: 1% for foreign transactions",
+    "Interest on cash advances and credit purchases: 3.6% (annual rate 43.2%)",
+    {
+      "fee": "₹800",
+      "description": "Late payment charges"
+    },
+    {
+      "fee": "₹290.14",
+      "description": "GST on interest and late payment charges"
+    },
+    "Cash advance fee: 2.5% of transaction value or ₹500, whichever is higher",
+    "Transaction service charges: Applicable as per bank's discretion",
+    "Late payment charges: 3.6% per annum based on the outstanding balance",
+    "Default charges: As per the bank's discretion",
+    "Joining fee ₹250 + GST",
+    "Annual fee ₹250 + GST",
+    "Cash advance fee 2.5%",
+    "Late payment fee 2% (minimum ₹450)",
+    "Pre‑closure fee 3% of outstanding",
+    "EMI processing fee ₹199 + GST",
+    "Fuel surcharge discount up to 1% of spend",
+    "Foreign transaction markup 1%",
+    "500 rupees per day penalty for failure to complete closure process within 7 working days",
+    "Late Payment Charges: ₹100/- to ₹1300/- depending on the outstanding balance"
+  ],
+  "spend_conditions": [
+    {
+      "category": "UPI Spends",
+      "condition": "1% Cashback capped at 500 CashPoints per Calendar month"
+    },
+    "Joining fee waiver by spending ₹10,000 within 90 days of issuance",
+    "Renewal fee waiver by spending ₹50,000 in the preceding 12 months",
+    "Minimum annual spend 50,000",
+    "Spend ₹10,000 in first 90 days to waive joining fee",
+    "Spend ₹50,000 in a year to waive renewal fee"
+  ],
+  "benefit_conditions": [
+    "Joining fee waiver upon ₹10,000 spend in first 90 days",
+    "Renewal fee waiver upon ₹50,000 annual spend",
+    "Reward points valid for 2 years from date of accrual",
+    "Points cancelled if card not used for more than 365 days",
+    "Points reversed if retail payment converted to EMI",
+    "CashPoints accrued will be reversed if a retail transaction is converted into EMI",
+    "Reward Points may not be transferred or sold",
+    "Reward Points have no monetary value, except in respect of the value assigned by the Bank",
+    "Reward Points may be redeemed as PayZapp CashPoints into PayZapp Mobile app",
+    "Reward Points earned but not redeemed at the time of death of the Cardmember shall be forfeited",
+    "Reward Points relating to the Card Account may be cancelled or suspended if it is in arrears, suspension, default or if the Card Account is or is reasonably suspected to be operated fraudulently"
+  ],
+  "renewal_benefits": [
+    "Renewal membership fee waived by spending ₹50,000 in the preceding 12 months",
+    "Annual fee waived on spending Rs. 50,000 annually",
+    "Renewal fee waived after annual spend of ₹50,000"
+  ],
+  "partner_programs": [
+    "Swiggy Dineout",
+    "PayZapp"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Fee waiver offers as per spend conditions"
+  ],
+  "important_terms": [
+    {
+      "description": "Only P2M transactions allowed. P2P, P2PM, digital account opening, lending platform, cash withdrawal at merchant, cash withdrawal at ATM, ERUPI, IPO, Foreign Inward Remittances, Mutual Funds, and other restricted categories are excluded."
+    },
+    {
+      "description": "Amount limit per card per day can be up to UPI limit (i.e., 1 lakh per day and 2 lakh for some special MCC codes i.e., 5960, 6300 & 6529, excluding restricted categories). Subject to available credit limit."
+    },
+    {
+      "description": "Amount limit per day per card is Rs.5,000 for the first 24 hours of linking the card in UPI app."
+    },
+    {
+      "description": "UPI transactions subject to restrictions like maximum transaction amount or maximum daily limits or periodic limits imposed by TPAP, Issuing entity, or NPCI."
+    },
+    {
+      "description": "Funds cannot be received on linked PIXEL credit card on UPI."
+    },
+    {
+      "description": "Online and contactless transactions require enabling card controls."
+    },
+    "Zero lost card liability on fraudulent transactions",
+    "Interest-free credit period of up to 50 days",
+    "Revolving credit available at nominal interest rates",
+    "Card closure within 90 days of issuance incurs joining fee",
+    "Fuel surcharge waiver capped at Rs. 250 per billing cycle",
+    "Late payment charges apply if Minimum Amount Due is not paid by the due date",
+    "Annual fee waiver for spending ₹50,000 per annum",
+    "Interest on cash advances and credit purchases: 3.6% (annual rate 43.2%)",
+    "Minimum due amount: ₹4,000 (including ₹1,000 cash advance + ₹3,000 past due balance)",
+    "In addition to the physical Pixel credit card, as part of the onboarding process, the member will receive a virtual version of the same Pixel credit card, which will be available on the Pixel Credit Card application.",
+    "This credit card is also a VISA operated credit card which is used for any online or mobile application-based transactions or purchases.",
+    "Security is set according to industry standards.",
+    "Fee waiver conditions: Waived if you spend ₹10,000 within 90 days or ₹50,000 in a year",
+    "Card usage restricted for Forex, Lottery, Betting, Gambling, Dating, Bitcoins, Virtual Currency",
+    "Card closure available via PayZapp, Branch, or Phone Banking",
+    "Bank reserves right to block card for unusual usage",
+    "Zero liability for unauthorized transactions if reported promptly",
+    "Finance charge applied if balance not paid in full",
+    "Grace period of 20‑50 days for interest‑free credit",
+    "Late payment charges apply after due date",
+    "Card may be blocked for suspected fraud",
+    "Use of card for capital account transactions abroad (opening bank account, registration, setting up company, buying immovable property) is not allowed",
+    "Contactless payment limit is 5000/- per transaction",
+    "Single statement generated for both Visa and RuPay cards",
+    "RuPay issued as digital card, Visa as physical plastic card",
+    "GST applicable on all Fees, Interest, and other Charges",
+    "Reward Points shall be final, conclusive, and binding on the Cardmember and will not be liable to be disputed or questioned",
+    "The Bank reserves the right to vary any of the Terms and Conditions of Use stated below from time to time",
+    "The Bank reserves the right to amend the minimum number of Reward Points required for redemption from time to time",
+    "The Bank may at any time and in its discretion, and without prior notice to the Cardmember, withdraw, limit, modify, cancel or increase the continued availability of any Reward or the number of Reward Point(s) required to obtain a particular Reward",
+    "The Bank may specify a time frame from time to time within which the Points accrued by the Cardmember may be redeemed. Points not redeemed within such specified time limit would be lapsed and the Bank will not be responsible for claim of gifts against such lapsed points",
+    "The Bank may at any time establish additional means of accruing Reward Points, to delete any or all of the means currently recognized or to exclude specific types of transactions from accumulation of Reward Points"
+  ],
+  "excluded_categories": [
+    "P2P",
+    "P2PM",
+    "digital account opening",
+    "lending platform",
+    "cash withdrawal at merchant",
+    "cash withdrawal at ATM",
+    "ERUPI",
+    "IPO",
+    "Foreign Inward Remittances",
+    "Mutual Funds",
+    "Forex",
+    "Lottery",
+    "Betting",
+    "Gambling",
+    "Dating",
+    "Bitcoins",
+    "Virtual Currency",
+    "Fuel",
+    "EMI",
+    "Rent payments",
+    "E-wallet loading",
+    "Government-related payments",
+    "Capital Account transactions outside India",
+    "Interest Charges",
+    "government taxes/charges",
+    "fees",
+    "Card Account adjustments resulting from disputed transactions or otherwise",
+    "cash advances",
+    "quasi cash transactions",
+    "transactions treated as cash advances (e.g., Balance Transfer, Foreign Exchange, Traveller's Cheques)",
+    "gambling chip purchases",
+    "utility bills",
+    "Prohibited transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\HDFC_Pixel Go Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\summary.txt",
+    "Pixel FD Backed Credit Card FAQs",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\FAQ\\pixel-fd-backed-cards-faqs-23-feb-2026.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\FAQ\\pixel-rupay-credit-card-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-pixel-kannada1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-pixel-kannada2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-telugu1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\mitc-telugu2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati7.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-credit-card-mitc-gujarati8.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-assamese1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-assamese2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-hindi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-hindi2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-kashmiri1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-kashmiri2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-konkani1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-konkani2.pdf",
+    "Page 1 of 16",
+    "Page 2 of 16",
+    "Page 3 of 16",
+    "Page 4 of 16",
+    "Page 5 of 16",
+    "Page 6 of 16",
+    "Page 7 of 16",
+    "Page 8 of 16",
+    "Page 9 of 16",
+    "Page 10 of 16",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-marathi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-marathi2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-odia1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-odia2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-punjabi1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-punjabi2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-punjabi3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-tamil1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-tamil2.pdf",
+    "Card Member Agreement",
+    "MITC",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-urdu1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\pixel-mitc-urdu2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\zapp-credit-card-mitc-version-1-051.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\MITC\\zapp-credit-card-mitc-version-1-052.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\TERMS\\pixel-credit-card-t-and-c-malayalam1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\TERMS\\pixel-credit-card-t-and-c-malayalam2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\TERMS\\pixel-go-credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\TERMS\\pixel-go-credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Pixel Go Credit Card\\TERMS\\pixel-go-credit-card-member-agreement3.pdf"
+  ]
+}

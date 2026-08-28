@@ -1,0 +1,178 @@
+{
+  "card_name": "Phonepe Hdfc Bank Uno Credit Card",
+  "card_network": "Rupay",
+  "card_type": "Credit Card",
+  "joining_fee": 499,
+  "annual_fee": 499,
+  "fee_waiver_condition": "Waived on ₹1 lakh annual spend",
+  "welcome_benefits": [
+    "Get PhonePe Gift card ₹249 on your first Rupay CC on UPI transaction.",
+    "Additional Scratch cards worth ₹25 each on your next 10 Rupay CC on UPI transactions.",
+    "₹249 gift voucher after first Rupay CC on UPI payment on PhonePe app",
+    "Scratch cards worth ₹25 each for next 10 Rupay CC on UPI payments on PhonePe",
+    "PhonePe Gift card worth ₹249 on your first Rupay CC on UPI transaction",
+    "Additional Scratch cards worth ₹25 each on your next 10 Rupay CC on UPI transactions",
+    "Rs 249 Gift Card on first Rupay CC on UPI transaction on PhonePe app (50% of Joining Fee)",
+    "Remaining 50% of Joining Fee spread across 10 subsequent Rupay CC on UPI transactions as Rs 25 scratch cards",
+    "Minimum transaction of Rs 100 required to be eligible for Welcome Benefits"
+  ],
+  "reward_structure": [
+    "Get 2% Reward Points on select PhonePe Categories Spends.",
+    "Get 1% Reward Points on select online brands Spends.",
+    "Get 1% Reward Points on UPI Scan & Pay.",
+    "2% Reward Points on PhonePe categories (Recharges & Bills, Travel & Stays)",
+    "1% Reward Points on Online Brands (Amazon, Flipkart, Myntra, Ajio, Uber, Swiggy, Zomato)",
+    "1% Reward Points on Scan & Pay spends",
+    "2% Reward Points on select PhonePe Categories Spends",
+    "1% Reward Points on select online brands Spends",
+    "1% Reward Points on UPI Scan & Pay",
+    {
+      "category": "PhonePe categories (Recharges & Bills, Travel & Stays)",
+      "rate": "2%",
+      "cap": "500 Reward Points per calendar month"
+    },
+    {
+      "category": "Online Brands (Amazon, Flipkart, Myntra, Ajio, Uber, Swiggy, Zomato)",
+      "rate": "1%",
+      "cap": "500 Reward Points per calendar month"
+    },
+    {
+      "category": "All Scan and Pay spends (Rupay CC on UPI)",
+      "rate": "1%",
+      "cap": "500 Reward Points per calendar month"
+    }
+  ],
+  "reward_redemption_options": [
+    "Cashback against statement balance",
+    "SmartBuy platform (Flights/Hotels, Airmiles & Product Catalogue)",
+    "Cashback in the statement against outstanding credit card balance via HDFC Bank Netbanking portal",
+    "Redemption on HDFC Bank SmartBuy platform (Flights/Hotels, Airmiles & Product Catalogue)"
+  ],
+  "reward_exclusions": [
+    "EMI transactions",
+    "Fuel, wallet load, gift cards, cash advances, credit card bill payments, charges, government payments, rental transactions, education fees, insurance, investments, jewelry purchases",
+    "Fuel transactions",
+    "Wallet load",
+    "Gift cards",
+    "Cash advances",
+    "Credit card bill payments",
+    "Charges",
+    "Government payments",
+    "Rental transactions",
+    "Education fees",
+    "Insurance",
+    "Investments",
+    "Jewelry purchases",
+    "Any other categories excluded as per the Bank’s internal policies"
+  ],
+  "reward_caps": [
+    "500 Reward Points per calendar month for PhonePe categories",
+    "500 Reward Points per calendar month for Online Brands",
+    "500 Reward Points per calendar month for Scan & Pay",
+    "Maximum cashback redemption of Rs 7,500 per calendar month",
+    "500 Reward Points per calendar month for each reward category"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel surcharge waiver of 1% on fuel transactions (Rs. 400 to Rs. 5,000)",
+    "Maximum waiver of INR 250 per statement cycle",
+    "1% fuel surcharge waiver on transactions between ₹400 and ₹5000, maximum waiver ₹250 per statement cycle",
+    "Fuel surcharge waiver of 1% on fuel transactions between Rs 400 and Rs 5,000 (maximum waiver INR 250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% on fuel transactions (Rs. 400 to Rs. 5,000)",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [],
+  "interest_rates": [
+    "Monthly: 3.75%",
+    "Annual: 45.0%"
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "Minimum transaction of Rs 100 required for Welcome Benefits",
+    "Cashback not applicable for multi-instrument transactions where value via this card is less than ₹100",
+    "Reward Points earned only on eligible MCCs as specified"
+  ],
+  "benefit_conditions": [
+    "Reward Points expire after 2 years from accumulation",
+    "Reward Points credited on or before 15th of every month for eligible transactions settled in the previous calendar month",
+    "Minimum 500 Reward Points required for redemption against statement balance",
+    "Maximum cashback redemption of Rs 7,500 per calendar month",
+    "Unredeemed Reward Points expire after 2 years from date of accumulation",
+    "No redemption fee for cashback against statement"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived upon annual spend of ₹1 lakh"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward Points are credited once, on or before 15th of every month for eligible transactions settled in the previous calendar month",
+    "Accrued reward points become available for redemption only after the statement is generated",
+    "Unredeemed Reward Points will expire/lapse after 2 years from the date of accumulation",
+    "No reward points for EMI, fuel, wallet load, gift cards, cash advances, credit card bill payments, charges, government payments, rental transactions, education fees, insurance, investments, jewelry purchases and other excluded categories",
+    "Reward Points credited on or before 15th of every month for eligible transactions settled in previous calendar month",
+    "Exceptional posting may occur up to 60 days from transaction month",
+    "Reward points become available for redemption only after statement generation"
+  ],
+  "excluded_categories": [
+    "EMI transactions",
+    "Fuel, wallet load, gift cards, cash advances, credit card bill payments, charges, government payments, rental transactions, education fees, insurance, investments, jewelry purchases",
+    "Fuel transactions",
+    "Wallet load",
+    "Gift cards",
+    "Cash advances",
+    "Credit card bill payments",
+    "Charges",
+    "Government payments",
+    "Rental transactions",
+    "Education fees",
+    "Insurance",
+    "Investments",
+    "Jewelry purchases",
+    "Other categories as per Bank internal policies"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\HDFC_Phonepe Hdfc Bank Uno Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\summary.txt",
+    "PhonePe HDFC Bank Uno Credit Card FAQs (v.1.1.3 – 28th Apr’2026)",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\FAQ\\uno-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\main.pdf",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\MITC\\mitc-in-english5.pdf",
+    "PhonePe HDFC Bank Uno Credit Card - Reward Points TnCs",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\REWARDS\\phonepe-uno-cc-reward-points-tncs-v-3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\TERMS\\phonepe-hdfc-bank-uno-credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\TERMS\\phonepe-hdfc-bank-uno-credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Phonepe Hdfc Bank Uno Credit Card\\TERMS\\phonepe-hdfc-bank-uno-credit-card-member-agreement3.pdf"
+  ]
+}

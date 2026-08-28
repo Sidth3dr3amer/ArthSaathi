@@ -1,0 +1,163 @@
+{
+  "card_name": "Credit Card Against Fixed Deposits",
+  "card_network": "VISA Infinite",
+  "card_type": "Secured",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "₹1 lakh and above annual spends",
+  "welcome_benefits": [
+    "5% cashback (up to ₹1000) on the first EMI done within 30 days of card generation"
+  ],
+  "reward_structure": [
+    "4X Rewards on every spend",
+    {
+      "type": "3X Rewards",
+      "condition": "offline spends"
+    },
+    {
+      "type": "6X Rewards",
+      "condition": "online spends"
+    },
+    {
+      "type": "10X Rewards",
+      "condition": "spends above ₹20,000 per month"
+    },
+    "Earn up to 10x Reward Points on foreign currency spends",
+    "Earn up to 4x Reward Points on cloud storage & digital marketing spends"
+  ],
+  "reward_redemption_options": [
+    "Pay with reward points at partner merchants and online purchases"
+  ],
+  "reward_exclusions": [
+    "Fuel, EMI transactions & Cash withdrawals"
+  ],
+  "reward_caps": [
+    "Earn Milestone Rewards of 5,000 Reward Points on ₹10 lakhs spends in a year",
+    "Earn Milestone Rewards of 10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Earn Milestone Rewards of 5,000 Reward Points on ₹10 lakhs spends in a year",
+    "Earn Milestone Rewards of 10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Zero forex markup",
+    "Zero forex markup for international travel"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Zero forex markup",
+    "Zero forex markup for international travel",
+    "Earn up to 10x Reward Points on foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Up to 20% discount at 1,500+ restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Fuel charges waiver of 1% at all the fuel stations across India, up to ₹200/month"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Personal Accident Cover of ₹2,00,000*",
+    "Lost Card Liability Cover of ₹25,000"
+  ],
+  "protection_benefits": [
+    "Complimentary roadside assistance worth ₹1399"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Instantly convert transactions above ₹1500 into easy and convenient EMIs",
+    "Pay off other credit card balances with balance transfer privileges"
+  ],
+  "business_benefits": [
+    "Avail 100% Credit Limit against Fixed Deposits with Corporate Liability"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1X = 1 Reward Point per ₹200 spent | 1 Reward point = ₹0.25",
+  "forex_markup": 0,
+  "fuel_surcharge_waiver": "1% at all fuel stations across India, up to ₹200/month",
+  "eligibility": [
+    "Minimum deposit of ₹20,000 in a fixed deposit account",
+    "Fixed deposit must be in cumulative/auto-renew/re-invest mode",
+    "Applicant must be 18 years or older",
+    "Age: 18 years or older",
+    "Indian resident with current and permanent address in India",
+    "Fixed deposit in cumulative/re-invest and auto-renewed mode",
+    "Minimum deposit of ₹20,000"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Cash advance fee of INR 199",
+    "Annual Fee: 4999",
+    "Add-on Card Fee: 499",
+    "Cash Advance Transaction Fee: 199"
+  ],
+  "interest_rates": [
+    "6.5% interest p.a. on fixed deposit backing the credit card",
+    "6.5% p.a. on fixed deposit backing the credit card",
+    "Low annual percentage rates starting at 8.5% p.a.",
+    "Industry Lowest Interest (APR%) Starting from 15% p.a."
+  ],
+  "fees_and_penalties": [
+    "Joining Fee: ₹0",
+    "Annual Fee: ₹0 or ₹499+GST on annual spends below ₹1 lakh",
+    "Late Payment Charge: 15% of total amount due (minimum 100, maximum 1300)"
+  ],
+  "spend_conditions": [
+    "100% credit limit of FD value",
+    "100% cash withdrawal of FD value, interest-free for up to 48 days"
+  ],
+  "benefit_conditions": [
+    "Valid on doing at least one transaction on FIRST WOW! Credit Card in last 30 days"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "300+ merchant offers and 20% discounts across 1,500+ restaurants"
+  ],
+  "merchant_offers": [
+    "300+ merchant offers and 20% discounts across 1,500+ restaurants"
+  ],
+  "limited_period_offers": [
+    "₹499+GST joining fee (Limited Period Offer)"
+  ],
+  "important_terms": [
+    "100% withdrawal limit of FD value, interest-free for up to 48 days",
+    "Credit limit is 100% of FD value",
+    "FD must be in cumulative/auto-renew/re-invest mode",
+    "Final decision is at the Bank’s sole discretion",
+    "Joining fee not applicable",
+    "Annual Fee of 4999 applicable"
+  ],
+  "excluded_categories": [
+    "Fuel, EMI transactions & Cash withdrawals"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\IDFC FIRST_Credit Card Against Fixed Deposits_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\summary.txt",
+    "MITC",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\PRODUCT_GUIDE\\Credit-Card-Basics-new.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\PRODUCT_GUIDE\\WOW-Product-Guide.pdf",
+    "CARDMEMBER AGREEMENT IDFC FIRST Bank Credit Cards",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Credit Card Against Fixed Deposits\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "card_name": "Doctors Superia Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Minimum spend of ₹1 lakh per annum",
+  "welcome_benefits": [
+    "Get 1,000 Reward Points on Joining"
+  ],
+  "reward_structure": [
+    "Get 3 Reward Points for every ₹200 you spend",
+    "Earn 1,000 Reward Points Every Year",
+    "3 reward points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Redeem Reward Points for air miles on more than 20 international airlines or on any major domestic airline",
+    "Redeem your Reward Points for exciting gifts from an exclusive rewards catalogue"
+  ],
+  "reward_exclusions": [
+    "Only retail purchases qualify for Reward Points. Cash advance, fees and other charges do not accrue any reward points.",
+    "Transaction amounts less than ₹200 will not accrue any Reward Points."
+  ],
+  "reward_caps": [
+    "Reward points are valid only for 2 years from the date of accumulation"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Unlimited airport lounge access to 1,000 plus lounges in India for both primary and add-on card members"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Enjoy 50% more reward points* when you dine out"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on transaction between ₹400 and ₹5,000. Max waiver of ₹250 per statement cycle."
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Professional Indemnity Insurance Cover",
+    "Reimbursement of legal and defense cost",
+    "Out-of-court settlement expenses",
+    "Court awards",
+    "Legal cost and expenses on reimbursement basis",
+    "Cover for out-of-court settlement & court awards",
+    "Unintentional breach of duty & breach of confidentiality",
+    "Policy will be primary and non-contributory",
+    "Covers for claims arising out of all professional and medical services as rendered by the individual doctor",
+    "Claims under National Human Rights Commission, Consumer Protection Act and any other such applicable law",
+    "Cover for corrective cosmetic surgeries (plastic surgery in connection with burns or other traumatic surgery)",
+    "Reimbursement of defense cost for criminal cases arising out of medical accidents, mishaps or medical negligence until proven guilty by law",
+    "Cover for dental treatment under anaesthesia",
+    "Loss of documents cover sub limited to 1% of Sum Insured",
+    "Protection worth up to ₹20 Lakh* against costs arising due to professional negligence",
+    "Bodily injury and / or death of any patient caused by error, omission or negligence in professional service rendered",
+    "Legal costs and Defence expenses on any one accident up to ₹4 Lakh & Deductible ₹25,000 for each & every claim"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 3,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Salaried doctor: age 21-60 years",
+    "Self-practising doctor: age 21-65 years",
+    "For a salaried doctor: Age: Minimum 21 years and maximum 60 years.",
+    "For a self-practising doctor: Age: Minimum 21 years and maximum 65 years.",
+    "Designed exclusively for doctors"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Duly filled Claims intimation note by medical practitioner (card holder)",
+    "Notice of claim or court proceedings initiated by 3rd party on medical practitioner (card holder)",
+    "Response of the medical practitioner to the said notice/complaint",
+    "Details of counsel appointed by medical practitioner",
+    "Proof of identity (Aadhaar Card, PAN Card)",
+    "Proof of address (latest utility bill, passport)",
+    "Income proof (latest salary slips for salaried individuals, income tax returns for self-employed individuals)"
+  ],
+  "charges": [
+    "Joining / Annual membership Fee: ₹1,000",
+    "Dynamic Currency Conversion (DCC) fee: 1.75% on each international transaction in Indian currency",
+    "Card re-issuance fee: ₹199 for non-metal card variants, ₹3,500 for metal card variants"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "50% more Reward Points are offered to the Cardholders only on those transactions which are classified under the 'Restaurant' Merchant Category Code (MCC) as defined by VISA/ MasterCard. Merchant Category Code (MCC) classified under 'Hotel' categories will not qualify for 50% more Reward Points.",
+    "Reward points are accrued on spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [
+    "Claimant should be a HDFC BANK Doctors Superia/ Regalia Cardholder at the time of raising the request for claim and settlement of claim (if any).",
+    "The claim shall be duly raised by the Doctor's Cardholder. Customer will have to initiate claim request themselves on Care@hdfcergo.com and follow the process/documentation requirements as laid down by the insurer to be eligible for any settlement awarded towards the claim raised.",
+    "Reward points are valid only for 2 years from the date of accumulation",
+    "The insurance benefit is applicable w.e.f. 1st Sept'19"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Preliminary List of Documents for claims: Duly filled Claims intimation note by medical practitioner (card holder), Notice of claim or court proceedings initiated by 3rd party on medical practitioner (card holder), Response of the medical practitioner to the said notice/complaint, Details of counsel appointed by medical practitioner. Note: The above list of documents is preliminary in nature. Insurer expressly reserves its rights under the policy and at law for any further additional documents required to evaluate the coverage and quantum admissibility under the policy.",
+    "The Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use.",
+    "Reward points accrual updated from 15th May 2026"
+  ],
+  "excluded_categories": [
+    "Criminal act or any act committed in violation of law",
+    "Services rendered under influence of intoxicants or narcotics",
+    "Treatment related to HIV/AIDS and weight loss",
+    "Cosmetic plastic surgery (viz. hair transplants, punch grafts, flap rotation, silicone implants and similar surgeries referred to as “Cosmetic”) with carve back for Corrective cosmetic surgeries – in connection with burns or traumatic injury only",
+    "Third party public liability",
+    "Assumed liability by agreement which would not have attached in the absence of agreement",
+    "Willful conduct",
+    "Claims arising out of genetic injuries caused by X-Ray treatment/diagnosis or treatment with radioactive substances",
+    "Injury/death of any person under a contract of employment or apprenticeship with the insured when such injury/death arises out of the execution of the contract",
+    "Blood and Blood Products Exclusion",
+    "Claims arising from any condition directly or indirectly caused by or association with Human T cell Lymphotropic Virus Type III (HTLV 111) or Lymphadenopathy Associated Virus (LAV) or the mutants derives or variations thereof or in any way related to acquired Immune Deficiency Syndrome or any syndrome or condition of a similar kind howsoever it may be named",
+    "Liability arising from clinical research or clinical trials",
+    "In-vitro fertilization and wrongful life claims",
+    "Cash advance, fees and other charges do not accrue any reward points",
+    "Transaction amounts less than ₹200 will not accrue any Reward Points"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\HDFC_Doctors Superia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\INSURANCE\\hdfc-ergo-general-insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\terms-and-conditions1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\terms-and-conditions2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\terms-and-conditions3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\terms-and-conditions4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Superia Credit Card\\TERMS\\terms-and-conditions5.pdf"
+  ]
+}

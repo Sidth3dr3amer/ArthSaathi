@@ -1,0 +1,272 @@
+{
+  "card_name": "Spicejet Axis Bank Voyage Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 750,
+  "annual_fee": 750,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "SpiceJet voucher worth ₹ 1500 on completing 2 transactions within 30 days of card issuance",
+    "Complimentary SpiceClub Membership",
+    "SpiceJet flight voucher worth 1500",
+    "Complimentary SpiceClub Silver membership",
+    "Complimentary SpiceClub Silver Tier membership"
+  ],
+  "reward_structure": [
+    "Earn up to 18 SpiceClub Points for every ₹ 200 spent on SpiceJet mobile application and website",
+    "Earn 6 SpiceClub Points for every ₹ 200 spent on Online Food order, Online Bill payment & Online Entertainment",
+    "Earn 3 SpiceClub Points for every ₹ 200 spent on all other domestic retail & international transactions (excl. Fuel, wallet & EMI transactions)",
+    "Earn 3 SpiceClub Points for every ₹ 200 spent on all other domestic retail & international transactions",
+    "18 SpiceClub Points (12 as SpiceClub Silver Member + 6 on card spends) for every 200 spent on SpiceJet mobile app & website",
+    "6 SpiceClub Points for every 200 spent on Online Food order, Online Bill payment & Online Entertainment",
+    "3 SpiceClub Points for every 200 spent on all other domestic retail & international transactions (excl. Fuel, wallet & EMI transactions)",
+    "6 SC Points per Rs. 200 spend as card benefit for SpiceJet mobile application & website",
+    "6 SC Points per Rs. 200 spend for Online utility bill payment, Online food ordering, Online entertainment",
+    "3 SC Points per Rs. 200 spend for Other Retail spends",
+    "12 SC Points per Rs. 200 as SpiceClub Silver Membership benefit"
+  ],
+  "reward_redemption_options": [
+    "Redeem the Points against spends on SpiceJet Flight tickets, meal vouchers, etc. booked on SpiceJet mobile app & website",
+    "Redeem points against spends on SpiceJet Flight tickets, meal vouchers, etc. booked on SpiceJet mobile app & website",
+    "Redeem against SpiceJet flight tickets, meal vouchers, etc. booked on SpiceJet mobile app & website",
+    "SpiceClub"
+  ],
+  "reward_exclusions": [
+    "Fuel, wallet & EMI transactions",
+    "Cash withdrawal",
+    "Card financial transaction like fee, charges",
+    "Wallet Load",
+    "Fuel Spends",
+    "Financial Institutions",
+    "Cash Withdrawals",
+    "Purchase of Gold items and all types of Jewelry transactions",
+    "Purchase of gift cards",
+    "EMI transactions",
+    "Purchases converted to EMI post facto",
+    "Insurance",
+    "Education Services",
+    "Government Services",
+    "Rental Payments",
+    "Payment of outstanding balances",
+    "Payment of card fees and other card charges",
+    "Transactions made on Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Gold & Jewellery",
+    "Fuel",
+    "Cash advances",
+    "Repayments"
+  ],
+  "reward_caps": [
+    "A limit of Rs.1 lakh of credit card spends per month on earnings of SpiceClub points on SpiceJet website & mobile application"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Earn 2000 SpiceClub Points on achieving annual spend of ₹ 1 lakh in a card membership year",
+    "Earn 3000 SpiceClub Points on achieving annual spend of ₹ 2 lakh in a card membership year",
+    "Earn 1000 SpiceClub Points on every successful renewal of credit card",
+    "2000 SpiceClub Points on achieving annual spend of 1 lakh",
+    "3000 SpiceClub Points on achieving annual spend of 2 lakh",
+    "2000 SC Points on achieving Rs. 1 lakh spends in a card membership year",
+    "3000 SC Points on achieving Rs. 2 lakh spends in a card membership year"
+  ],
+  "lounge_access": [
+    "4 complimentary domestic lounge visits every year subject to minimum spends of ₹ 50,000 in the previous quarter",
+    "4 complimentary domestic lounge visits per year (subject to minimum spends of 50,000 in the previous quarter)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Earn up to 18 SpiceClub Points for every ₹ 200 spent on SpiceJet mobile application and website",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹ 1000 on Tira",
+    "Instant savings of up to 15% on flights via MakeMyTrip"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Axis Bank Dining Delights Program",
+    "Axis Bank Dining delights"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "Maximum monthly benefit up to ₹ 400"
+  ],
+  "shopping_benefits": [
+    "10% off on orders via Swiggy",
+    "10% off up to ₹ 1000 on Tira"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert Purchases to EMI",
+    "Convert purchases to EMI",
+    "Convert purchases to EMI for transactions of 1500 or more"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Primary cardholder should be between the age of 18 and 70 years",
+    "The individual should be a Resident of India"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN Card photocopy or Form 60",
+    "Proof of income - Latest payslip / Form 16 / IT Return",
+    "Residence proof - Driving License / Electricity Bill / Landline Telephone Bill"
+  ],
+  "charges": [
+    "Joining Fee: ₹ 750",
+    "Annual Fee: ₹ 750",
+    "Cash Payment Fee: ₹ 175",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Finance Charges: 3.75% per month (55.55% per annum)",
+    "Joining Fee: 750",
+    "Annual Fee: 750 (2nd Year onwards)",
+    "Cash Payment Fee: 175",
+    "Cash Withdrawal Fees: 2.5% (Min. 500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than 500, 500 if between 501-5,000, 750 if between 5,001-10,000, 1200 if greater than 10,000, plus additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. 500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. 500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge Transaction: 1% of transaction amount (Refunded for fuel transactions between 400 to 4,000. Maximum benefits up to 400 per month)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Reward Point Redemption fee: No",
+    "Rental Transaction Fee: 1% transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion Markup: 1.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation",
+    "Education Payment Charges: 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 10,000 or more on online skill-based gaming platforms in a statement cycle"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Finance Charges: 3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee: ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹ 500)",
+    "Cash Payment Fee: 175",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than 500, 500 if between 501-5,000, 750 if between 5,001-10,000, 1200 if greater than 10,000, plus additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. 500)",
+    "Cheque return or dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. 500",
+    "Surcharge on purchase or cancellation of Railway Tickets: As prescribed by IRCTC/Indian Railways",
+    "Fuel Transaction Surcharge Transaction: 1% of transaction amount (Refunded for fuel transactions between 400 to 4,000. Maximum benefits up to 400 per month)",
+    "Foreign Currency Transaction Fee: 3.50% of the transaction value",
+    "Rental Transaction Fee: 1% transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion Markup: 1.5% will be applicable on Axis Bank Credit Cards for each International transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation",
+    "Education Payment Charges: 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 50,000 or more on fuel transactions per statement cycle",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 25,000 or more on utilities per statement cycle",
+    "Online Skill-Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of Rs 10,000 or more on online skill-based gaming platforms in a statement cycle"
+  ],
+  "spend_conditions": [
+    "Minimum spends of ₹ 50,000 in the previous quarter for lounge access",
+    "Minimum spends of 50,000 in the previous quarter for 4 complimentary domestic lounge visits",
+    "Fuel transactions between 400 to 4,000 for 1% surcharge waiver (Max. 400 per month)",
+    "POS/ online/ international/ contactless spends would be considered for calculation of milestone spends"
+  ],
+  "benefit_conditions": [
+    "Transactions between ₹ 400 – ₹ 4000 for fuel surcharge waiver",
+    "Maximum monthly benefit up to ₹ 400 for fuel surcharge waiver",
+    "Complete 2 transactions within 30 days of card issuance to get a SpiceJet voucher worth 1500",
+    "Earn SpiceClub Points based on spend categories",
+    "Redeem points against SpiceJet flight tickets, meal vouchers, etc. booked on SpiceJet mobile app & website",
+    "On achieving certain predefined milestone of spends in a card membership year",
+    "On successful payment of card annual fee for renewal after completion of card membership year",
+    "SC Points earned as part of Membership Benefit will not reflect in cardholder’s monthly credit card statement",
+    "Cardholder should be holding active membership of respective tier to be eligible to earn SC Points classified as Membership benefit",
+    "Membership status will be determined basis SpiceClub’s eligibility criteria for tier assessment after complimentary 1 year membership period is over"
+  ],
+  "renewal_benefits": [
+    "Earn 1000 SpiceClub Points on every successful renewal of credit card",
+    "1000 SpiceClub Points on every successful renewal of credit card",
+    "1000 SC Points"
+  ],
+  "partner_programs": [
+    "SpiceClub",
+    "SpiceClub program",
+    "Axis Bank Dining Delights Program",
+    "SpiceClub membership program"
+  ],
+  "merchant_offers": [
+    "MakeMyTrip",
+    "Swiggy",
+    "Tira",
+    "10% off on orders via Swiggy",
+    "10% off up to 1000 on Tira"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms and conditions will be updated w.e.f. 20th Jun 2025",
+    "Terms and conditions updated w.e.f. 20th Jun 2025",
+    "Milestone benefit eligibility will be computed based on sum of spends during the statement & subsequent previous statements period minus any returns/ refunds/ cancellations/ transaction conversion to EMI during the same period in a card membership year",
+    "SC Points awarded as milestone benefit will follow Terms & Conditions associated with SpiceClub Membership Program",
+    "SC Points given as renewal benefit will follow associated Terms & Conditions of SpiceClub membership program",
+    "MCCs are governed by payment gateways/network partners of various merchants",
+    "SC Points will be earned for spends in multiple of 200 rounding off to the lowest multiple",
+    "SC Points earned for the purchases during the current billing cycle shall be credited in members SpiceClub account within 30 working days post the statement generation date",
+    "SC Points earned will be computed based on spends during the statement period minus any returns/refunds or cancellations during the same period",
+    "In case of conversion of a transaction to EMI at a later date, SC Points earned on such transaction will be reversed during the same billing cycle as of the EMI conversion",
+    "The SC Points earned/reversed during a billing cycle will be visible in the monthly credit card billing statement",
+    "In case the customer reverses a transaction, the corresponding SC Points earned on the transaction will also be reversed",
+    "Axis Bank does not guarantee and make any representation about the usefulness, worthiness, quality, make and/or character of the discount / benefit or of the Products/Services against which the SC Points are utilized/redeemed",
+    "Axis Bank reserves the right to disqualify the Voyage / Voyage Black Credit Card user from the benefits of the offer if any fraudulent activity is identified",
+    "Axis Bank shall not be liable in any manner whatsoever for any loss/damage/claim that may arise due to use of or otherwise from the benefits availed by the cardholder under this offer",
+    "The offer is not available wherever prohibited and / or on products / services for which such offers cannot be made available for any reason whatsoever",
+    "The Credit Card is issued for personal expenses and purposes only",
+    "If the Credit Card is found to be used for prohibited, restricted, commercial purposes or any purposes as mentioned above, Axis Bank may, at its sole discretion, exercise its right to cancel the concerned Credit Card and additional/add-on cards thereof and withhold/cancel the Cashback earned, without any notice to the Cardholder"
+  ],
+  "excluded_categories": [
+    "Fuel, wallet & EMI transactions",
+    "Cash withdrawal",
+    "Card financial transaction like fee, charges",
+    "Wallet Load",
+    "Fuel Spends",
+    "Financial Institutions",
+    "Cash Withdrawals",
+    "Purchase of Gold items and all types of Jewelry transactions",
+    "Purchase of gift cards",
+    "EMI transactions",
+    "Purchases converted to EMI post facto",
+    "Insurance",
+    "Education Services",
+    "Government Services",
+    "Rental Payments",
+    "Payment of outstanding balances",
+    "Payment of card fees and other card charges",
+    "Education",
+    "Rent",
+    "Wallet load",
+    "Government services",
+    "Gold & Jewellery",
+    "Fuel",
+    "Cash advances",
+    "Repayments"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\AXIS_Spicejet Axis Bank Voyage Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\MEMBERSHIP\\voyage-or-voyage-black-cc-complimentary-spiceclub-membership.pdf",
+    "Terms & Conditions for Voyage / Voyage Black Credit Card ─ Milestone & Renewal benefit",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\REWARDS\\voyage-or-voyage-black-cc-milestone-renewal-benefit.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\TERMS\\terms-and-conditions-for-voyage-voyage-black-credit-card-spiceclub-points-earn.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Spicejet Axis Bank Voyage Credit Card\\TERMS\\tnc-for-spicejet-voyage-black-credit-card.pdf"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "card_name": "Google Pay Flex Axis Bank Credit Card",
+  "card_network": null,
+  "card_type": "UPI-first credit card",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "Joining fee and annual fee are waived",
+  "welcome_benefits": [
+    "Earn 2 stars on eligible spends of ₹500 in the first rewards cycle",
+    "Get a ₹250 gift card and 250 stars on the Google Pay app as your welcome reward",
+    "Welcome Rewards worth ₹500 on Google Pay",
+    "₹250 gift card and 250 stars on Google Pay app as welcome reward",
+    "Welcome Rewards worth ¥250 gift card and 250 stars on Google Pay app",
+    "Welcome benefit: Earn 2 stars on eligible spends of ¥500 in the first rewards cycle",
+    "Welcome Rewards worth ¥250 on Google Pay"
+  ],
+  "reward_structure": [
+    "Earn 1 star on every cumulative ₹500 spent",
+    "Unlock 2X (2 stars for every cumulative ₹500 spent) in present rewards cycle on spending ₹100 or more in the previous cycle",
+    "Unlock 4X (earn 4 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹15,000 in the current reward period",
+    "Unlock 8X (8 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹30,000 in the current reward period",
+    "Unlock 2X (2 stars per ₹500) on spending ₹100 or more in the previous cycle",
+    "Unlock 4X (4 stars per ₹500) after spending more than ₹15,000 in the current reward period",
+    "Unlock 8X (8 stars per ₹500) after spending more than ₹30,000 in the current reward period",
+    "Earn 1 star for every cumulative ¥500 spent",
+    "Unlock 2X (2 stars per ¥500) after spending ¥500 in previous cycle",
+    "Unlock 4X (4 stars per ¥500) after spending ¥15,000 in current reward period",
+    "Unlock 8X (8 stars per ¥500) after spending ¥30,000 in current reward period",
+    "Earn stars on all eligible spends including fuel",
+    "1 Star for every ₹500 spent cumulatively on eligible transaction categories",
+    "2 Stars for every ₹500 spent cumulatively on eligible transactions during the first reward cycle",
+    "2 Stars for every ₹500 spent cumulatively on eligible transactions in subsequent reward cycles if the account was Spend Active in the previous reward cycle"
+  ],
+  "reward_redemption_options": [
+    "Redeem Stars while making UPI payment using this card on the Google Pay app to get instant cashback on your card",
+    "Redeem Stars while making UPI payment using this card on the Google Pay app to get instant cashback",
+    "Redeem Stars while making UPI payment using this card on the Google Pay app for instant cashback",
+    "Redeem stars on Google Pay for instant cashback",
+    "Redemption of accumulated Stars shall be subject to the options, offers, and modes of redemption as determined and operated solely by Google Pay"
+  ],
+  "reward_exclusions": [
+    "Rental payments",
+    "Cash withdrawals",
+    "Financial institution payments",
+    "Insurance premium payments",
+    "Educational institutions and services",
+    "Government and Government institutions payments and fees",
+    "Payment of card fees and charges",
+    "Wallet spends",
+    "Clock, Jewellery, Watch & Silverware stores"
+  ],
+  "reward_caps": [
+    "Maximum of 1500 Stars in a reward cycle, of which a maximum of 750 Stars will be awarded by Axis Bank"
+  ],
+  "cashback_benefits": [
+    "Instant cashback on UPI payments via Google Pay after redeeming Stars"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "Earn stars on all eligible spends (including fuel) with this card",
+    "Earn Stars on fuel purchases"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert transactions of ₹2500 or more into easy EMI",
+    "Convert purchases to EMI",
+    "Convert purchases of ¥2500 or more into easy EMI",
+    "Cardholder can avail the Balance on EMI feature only upon making the Minimum Amount Due payment on the Credit Card"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 1,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Primary cardholder should be between the age of 18 and 70 years",
+    "Individual should be a resident of India",
+    "Primary cardholder age between 18 and 70 years",
+    "Resident of India"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN Card photocopy",
+    "Colour photograph",
+    "Latest payslip/bank statement/Form 16/IT return copy as proof of income",
+    "Residence proof (Driving License / Electricity Bill / Landline Telephone Bill)",
+    "Residence proof (any one of the following): Passport, Driving licence, Voter ID card, Aadhaar card",
+    "Identity proof (any one of the following): PAN card",
+    "Passport",
+    "Driving licence",
+    "Voter ID card",
+    "Aadhaar card",
+    "PAN card (identity proof)",
+    "Passport or Driving licence or Voter ID card or Aadhaar card",
+    "PAN card"
+  ],
+  "charges": [
+    "Cash payment fee: ₹175/-",
+    "Rent transaction fee: 1% fee per transaction will be applicable on each rental transaction. Taxes will be applicable as notified by Government of India.",
+    "Dynamic currency conversion markup: 1.5% plus taxes will be applicable on each International transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in a foreign nation.",
+    "Joining fee - Primary Card: Waived",
+    "Annual fee – Primary Card: Waived",
+    "Card replacement fee – Primary Card: Nil",
+    "Duplicate statement fee: Waived",
+    "Charge slip retrieval fee or copy request fee: Waived",
+    "Mini statement SMS: Waived",
+    "Outstation cheque fee: Waived",
+    "Transaction alert SMS: Free",
+    "Balance enquiry charges: Waived",
+    "Finance charges (retail purchases and cash): 3.75% per month (55.54% per annum)",
+    "Late payment fees: Nil if Total Payment Due < ₹500; ₹500 if ₹501-₹5,000; ₹750 if ₹5,001-₹10,000; ₹1200 if > ₹10,000",
+    "Surcharge on purchase or cancellation of railway tickets: As prescribed by IRCTC/Indian Railways",
+    "Cheque return or dishonour fee or auto-debit reversal: 2% of the payment amount subject to Min ₹500",
+    "Foreign currency transaction fee: 3.50% of the transaction value",
+    "GST: As per existing Government norms",
+    "Reward redemption fee: No",
+    "Rent transaction fee: 1% fee per transaction",
+    "Dynamic currency conversion markup: 1.5% plus taxes",
+    "Cash payment fee: ¥175",
+    "Late payment fees: Nil if total due < ¥500; ¥500 if due between ¥501-¥5,000; ¥750 if due between ¥5,001-¥10,000; ¥1200 if due > ¥10,000",
+    "Foreign currency transaction fee: 3.50% of transaction value",
+    "Cheque return or dishonour fee: 2% of payment amount subject to minimum ¥500"
+  ],
+  "interest_rates": [
+    "Finance charges (retail purchases and cash): 3.75% per month (55.54% per annum)",
+    "3.75% per month (55.54% per annum) on retail purchases and cash"
+  ],
+  "fees_and_penalties": [
+    "Late payment fees: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000",
+    "Cheque return or dishonour fee or auto-debit reversal: 2% of the payment amount subject to Min ₹500",
+    "Late payment fees as per payment due slabs",
+    "Cheque return or dishonour fee: 2% of payment amount (minimum ₹500)",
+    "Foreign currency transaction fee: 3.50% of transaction value",
+    "Dynamic currency conversion markup: 1.5% plus taxes",
+    "Late payment fees tiered as described above",
+    "Cheque return or dishonour fee: 2% of payment amount subject to minimum ¥500"
+  ],
+  "spend_conditions": [
+    "Unlock 2X (2 stars for every cumulative ₹500 spent) in present rewards cycle on spending ₹100 or more in the previous cycle",
+    "Unlock 4X (earn 4 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹15,000 in the current reward period",
+    "Unlock 8X (8 stars for every cumulative ₹500 spent) if you start at 2X and spend more than ₹30,000 in the current reward period",
+    "No minimum transaction amount — every rupee counts",
+    "Earn Stars on all eligible spends (including fuel)",
+    "Unlock 4X rewards after spending > ₹15,000 in a reward period",
+    "Unlock 8X rewards after spending > ₹30,000 in a reward period",
+    "Earn 1 star for every cumulative ¥500 spent",
+    "Earn 2 stars per ¥500 after spending ¥500 in previous cycle",
+    "Earn 4 stars per ¥500 after spending ¥15,000 in current period",
+    "Earn 8 stars per ¥500 after spending ¥30,000 in current period",
+    "A Cardholder shall be considered spend active for a given reward cycle if their net spends during that cycle are greater than or equal to ₹100 on eligible spend categories"
+  ],
+  "benefit_conditions": [
+    "Star earnings at 4X and 8X will be offered by Google Pay directly. This is a promotional campaign and is subject to change from time to time.",
+    "Earn 2 stars on eligible spends of ₹500 in the first rewards cycle",
+    "Earn 1 star per ₹500 cumulative spend",
+    "Unlock higher reward multipliers based on cumulative spend thresholds",
+    "Welcome benefit: Earn 2 stars on eligible spends of ¥500 in the first rewards cycle",
+    "Stars earned on the Credit Card are non-transferable and cannot be redeemed for cash or equivalents outside what is explicitly permitted by Axis Bank and/or Google",
+    "If the Google Pay Flex Axis Bank credit card is terminated, the primary Cardholder shall immediately be disqualified from earning any further Stars through the terminated card"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Google Pay",
+    "Stars-based passthrough program with Google Pay"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "4X and 8X reward promotions are subject to change and are promotional campaigns",
+    "Star earnings at 4X and 8X are promotional campaigns and subject to change",
+    "Incremental tactical Star earnings at 4X and 8X offered by Google Pay directly as a promotional campaign"
+  ],
+  "important_terms": [
+    "Please click here for terms and conditions.",
+    "Star earnings at 4X and 8X will be offered by Google Pay directly and are subject to change",
+    "Eligibility criteria are indicative; bank reserves right to approve or decline applications",
+    "Star earnings at 4X and 8X are promotional and may change over time",
+    "The Credit Card is issued strictly for personal expenses and purposes",
+    "Axis Bank reserves the right to extend or terminate any or all offers associated with the Credit Card from time to time",
+    "Stars reflected in the statement cycle provided by Axis Bank may differ from those displayed in the Google Pay app"
+  ],
+  "excluded_categories": [
+    "Rental payments",
+    "Cash withdrawals",
+    "Financial institution payments",
+    "Insurance premium payments",
+    "Educational institutions and services",
+    "Government and Government institutions payments and fees",
+    "Payment of card fees and charges",
+    "Wallet spends",
+    "Clock, Jewellery, Watch & Silverware stores"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Google Pay Flex Axis Bank Credit Card\\AXIS_Google Pay Flex Axis Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Google Pay Flex Axis Bank Credit Card\\summary.txt",
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Google Pay Flex Axis Bank Credit Card\\main.pdf",
+    "Terms and Conditions – Google Pay Flex Axis Bank Credit card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Google Pay Flex Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-google-pay-flex-axis-bank-credit-card.pdf"
+  ]
+}

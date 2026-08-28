@@ -1,0 +1,211 @@
+{
+  "card_name": "Freedom Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": "Spend ₹50,000 in a year to enjoy a waiver of the next year's annual membership fee.",
+  "welcome_benefits": [
+    "500 Reward Points on fee realisation (Applicable only on payment of Joining Membership Fee)",
+    "Welcome Benefit of 500 CashPoints will be given to the cardholder if the joining membership fee is paid"
+  ],
+  "reward_structure": [
+    "10X CashPoints on select merchants (Big Basket, BookMyshow, OYO, Swiggy & Uber)",
+    "2 Reward Points for every ■200 spent on other spends",
+    "10X CashPoints on BigBasket, BookMyShow, OYO, Swiggy & Uber",
+    "5X CashPoints on EMI spends (removed effective 1st September 2024)",
+    "1 CashPoint per ₹200 on other spends",
+    {
+      "category": "All categories",
+      "reward_rate": "1 point per ₹200 spent"
+    }
+  ],
+  "reward_redemption_options": [
+    "Product Catalogue",
+    "Unified SmartBuy Portal (on Flights/Hotel Bookings)",
+    "CashBack",
+    "Airmiles",
+    "CashPoints can be redeemed as CashBack at ₹0.15 per CashPoint",
+    "CashPoints can be used for travel benefits like Flight & Hotel bookings via SmartBuy Rewards Portal at ₹0.15 per CashPoint",
+    "CashPoints can be used for redemption against select vouchers/products at ₹0.15 per CashPoint"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Rent payments and Govt Related Transactions",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction"
+  ],
+  "reward_caps": [
+    "Up to ■0.15 per point for CashBack",
+    "0.15 airmiles per point",
+    "Maximum 15,000 CashPoints per statement cycle",
+    "Maximum 2,500 CashPoints under 10X CashPoints feature per calendar month",
+    "Maximum 2,500 CashPoints under 5X CashPoints feature per calendar month",
+    "Maximum 2000 Reward Points per calendar month on Utility transactions",
+    "Maximum 2000 Reward Points per calendar month on Telecom & Cable transactions",
+    "Maximum 1,000 Reward Points per calendar month on Grocery transactions",
+    "Reward points redemption for flights & hotels bookings capped at 50,000 per calendar month",
+    "Reward points redemption for CashBack capped at 50,000 per calendar month"
+  ],
+  "cashback_benefits": [
+    "10X CashPoints on select merchants (Big Basket, BookMyshow, OYO, Swiggy & Uber)",
+    "CashPoints can be redeemed as CashBack at ₹0.15 per CashPoint"
+  ],
+  "milestone_benefits": [
+    "Renewal membership fee waived off by spending ■50,000 and above in an annual year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "10X CashPoints on Swiggy, Oyo, Uber, etc.",
+    "CashPoints can be used for travel benefits like Flight & Hotel bookings via SmartBuy Rewards Portal at ₹0.15 per CashPoint"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "3.5% markup fee applicable on International / Cross currency transactions"
+  ],
+  "dining_benefits": [
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of ■400 & maximum transaction of ■5,000. Maximum waiver of ■250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [
+    "10X CashPoints on select merchants (Big Basket, BookMyshow, OYO, Swiggy & Uber)",
+    "■1,000 CashPoints on Shopping in-app over 200 plus brands"
+  ],
+  "entertainment_benefits": [
+    "10X CashPoints on BookMyshow"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero lost card liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Smart EMI: an option to convert your big spends into EMI after purchase",
+    "5X CashPoints on EMI spends (removed effective 1st September 2024)"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 CashPoint = ₹0.15",
+  "forex_markup": "3.5%",
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Age: Minimum 21 years to maximum 60 years for salaried individuals.",
+    "Age: Minimum 21 years to maximum 65 years for self-employed individuals.",
+    "Salaried: Age 21-60 years, Gross Monthly Income > ₹12,000",
+    "Self-Employed: Age 21-65 years, ITR > ₹2 lakh annually",
+    "Self-Employed: Age 21-65 years, ITR > ₹2,00,000 annually",
+    "Salaried: Indian nationality, Age: Min 21 yrs. & Max 60 Yrs., Income: Net Monthly Income > ■12,000",
+    "Self-Employed: Age: Min 21 yrs. & Max 65 Yrs., Income: ITR > ■6.0 Lakhs per annum"
+  ],
+  "income_requirements": [
+    "Gross Monthly Income > ₹12,000 for salaried individuals.",
+    "ITR > ₹2 lakh annually for self-employed individuals.",
+    "Salaried: Gross Monthly Income > ₹12,000",
+    "Self-Employed: ITR > ₹2 lakh annually",
+    "Self-Employed: ITR > ₹2,00,000 annually",
+    "Salaried: Net Monthly Income > ■12,000",
+    "Self-Employed: ITR > ■6.0 Lakhs per annum"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "A 2.5% fee, with a minimum of ₹500, applies to all cash withdrawals using your card.",
+    "Joining/Renewal Membership Fee – ■500/- + Applicable Taxes",
+    "1% fee on rental transactions via third-party apps (capped at ₹3000 per transaction)",
+    "1% fee on fuel transactions over ₹15,000 (capped at ₹3000 per transaction)",
+    "1% fee on utility transactions over ₹50,000 (capped at ₹3000 per transaction)",
+    "1% fee on education payments via third-party apps (capped at ₹3000 per transaction)",
+    "₹50 redemption fee for CashPoints redemption towards statement credit (effective 1st August 2024)",
+    "₹99+Taxes redemption handling charges for reward catalogue redemptions"
+  ],
+  "interest_rates": [
+    "Up to 50 days of interest-free period from the date of purchase.",
+    "Monthly interest rate of 3.49% will be charged for any outstanding amount beyond the bill due date",
+    "If your card is issued against a fixed deposit, pay only 1.99% monthly interest.",
+    "0.99% per month (11.88% annually) on retail/non-EMI spends outstanding for first 90 days from card issuance (applicable only for cards issued on or after October 01, 2021)",
+    "3.6% per month (43.2% annually) on retail/non-EMI spends outstanding after 90 days from card issuance"
+  ],
+  "fees_and_penalties": [
+    "The bank reserves the right to cancel the card if it remains inactive for 6 consecutive months.",
+    "Late payment fee structure revised: <₹100 Nil, ₹101-500 ₹100, ₹501-1000 ₹500, ₹1001-5000 ₹600, ₹5001-10000 ₹750, ₹10001-25000 ₹900, ₹25001-50000 ₹1,100, >₹50000 ₹1,300",
+    "Finance charges of 3.75% per month on revolving credit facility"
+  ],
+  "spend_conditions": [
+    "Spend ₹50,000 in a year to enjoy a waiver of the next year's annual membership fee.",
+    "Spend over ■50,000 in a year before renewal to get your Credit Card fee waived",
+    "10X CashPoints on BigBasket, BookMyShow, OYO, Swiggy & Uber",
+    "5X CashPoints on EMI spends (removed effective 1st September 2024)",
+    "1 CashPoint per ₹200 on other spends"
+  ],
+  "benefit_conditions": [
+    "Terms and conditions apply",
+    "Welcome Benefit of 500 CashPoints if joining fee is paid",
+    "Renewal Benefit of 500 CashPoints if renewal fee is paid",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "renewal_benefits": [
+    "Renewal membership fee waived off by spending ■50,000 and above in an annual year",
+    "Renewal Benefit of 500 CashPoints will be given to the cardholder if the renewal membership fee is paid"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [
+    "10X CashPoints on select merchants (Big Basket, BookMyshow, OYO, Swiggy & Uber)",
+    "10% additional discount on Swiggy Dineout using coupon code HDFCCARDS"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "For cards sourced starting November 1, 2020, the below T&C are applicable",
+    "A prior written notice will be sent to the registered email address, phone number, and/or communication address before cancellation.",
+    "Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use.",
+    "CashPoints will be posted in the card account in the 1st week of the next calendar month",
+    "CashPoints will be posted on calendar month basis, the transaction settled in the system between 1st to 30/31st of the calendar month will be posted in the 1st week of the subsequent calendar month",
+    "CashPoints will be reversed if transactions are returned/cancelled/reversed post calendar month completion",
+    "CashPoints are not eligible for Fuel Spends, Rent payments and Govt Related Transactions, Wallet loads / Gift or Prepaid Card load/ Voucher purchase, Cash Advances, Payment of Outstanding Balances, Payment of card fees and other charges, Smart EMI / Dial an EMI transaction",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "Minimum transaction of ₹200 and multiples of ₹200 is considered for CashPoints posting"
+  ],
+  "excluded_categories": [
+    "Fuel Spends",
+    "Rent payments and Govt Related Transactions",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\HDFC_Freedom Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\MITC\\part-i-key-fact-statement-cum-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\TERMS\\freedom-tncs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Freedom Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

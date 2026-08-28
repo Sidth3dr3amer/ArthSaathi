@@ -1,0 +1,331 @@
+{
+  "card_name": "Swiggy Ornge Hdfc Bank Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Credit Card",
+  "joining_fee": "₹500 + Applicable Charges",
+  "annual_fee": "₹500 + Applicable Charges",
+  "fee_waiver_condition": "Spend ₹1,50,000 or more in a year, before your Credit Card renewal date",
+  "welcome_benefits": [
+    "Complimentary Swiggy One Membership for 12 months",
+    "Free 12-month Swiggy One membership upon activation",
+    "12-month complimentary Swiggy One membership",
+    "Complimentary Swiggy BLCK Membership for 3 months as welcome benefit",
+    "For existing Swiggy One Membership holders, the benefit will be extended by 12 months"
+  ],
+  "reward_structure": [
+    "5% Cashback on all eligible Swiggy app spends (Food orders, Instamart, and Dineout)",
+    "5% Cashback on online spends across online Merchants",
+    "1% Cashback on other categories",
+    "5% Cashback across Swiggy and select online spends",
+    "1% CashBack on other spends",
+    "5% Cashback on eligible spends",
+    {
+      "type": "Cashback",
+      "description": "Cashback earned on the HDFC Bank SWIGGY CO-BRANDED Credit Card for Qualifying Expenditure that may be set-off from outstanding balance in credit card statement of the Cardmember in accordance with Bank’s internal policies."
+    },
+    "10% Cashback on Swiggy App (Food ordering, Instamart and Dineout)",
+    "5% Cashback on Select Online merchant & category spends",
+    "1% Cashback on Other spends",
+    "5% cashback on Swiggy App (Food Delivery, Instamart and Dineout)",
+    "5% cashback on select Online Merchants",
+    "1% cashback on other categories"
+  ],
+  "reward_redemption_options": [
+    "Auto redeemed against outstanding amount",
+    "CashBack is credited directly to your card account as statement credit",
+    {
+      "type": "Statement Credit",
+      "description": "Cashback earned by a Cardmember will reflect in the credit card Statement and will be set-off from outstanding balance in the subsequent Statement."
+    },
+    "Auto redemption against outstanding amount (excluding finance charges)",
+    "Cashback earned for current billing cycle will be auto redeemed against outstanding amount"
+  ],
+  "reward_exclusions": [
+    "Cash on Call Balance Transfer",
+    "Cash Withdrawal",
+    "Swiggy Money Wallet",
+    "Swiggy Liquor",
+    "Any other category decided later (if any)",
+    "Interest charges",
+    "Government taxes/charges",
+    "Fees",
+    "Card account adjustments resulting from disputed transactions or otherwise",
+    "Cash advances",
+    "Quasi-cash transactions",
+    "Any transaction that is treated as a cash advance",
+    "Transfers from other financial institution's card accounts (e.g., balance transfer)",
+    "Foreign exchange transactions",
+    "Traveller's cheques",
+    "Gambling chip purchases",
+    "Other spends/transactions as stipulated by the Bank",
+    "Fuel",
+    "Rent",
+    "Government related transactions",
+    "Gaming",
+    "Education",
+    "EMI",
+    "Wallet",
+    "Jewelry",
+    "Smartpay",
+    "Smartbuy portal",
+    "Purchase of travelers’ cheques",
+    "Purchase of foreign currency and fees",
+    "Gift Card",
+    "Other categories as decided from time to time",
+    "Prepaid Card/Gift Card/Wallet",
+    "Jewellery",
+    "Any other categories as decided from Time to Time"
+  ],
+  "reward_caps": [
+    "The maximum cashback that can be earned in a statement cycle is Rs 2500",
+    "Capping of Rs. 1000 per billing cycle is applicable for 1% Cashback Categories",
+    "Capping of Rs.1500 per billing per cycle on eligible 5% Cashback categories",
+    "Rs.1500 per billing per cycle",
+    "5% cashback capped at Rs.1500 per billing cycle",
+    "1% cashback capped at Rs.1000 per billing cycle",
+    "For capping per billing cycle, please refer to Table 1.1",
+    "Rs.1500 per billing cycle for 5% cashback on Swiggy App",
+    "Rs.1000 per billing cycle for 1% cashback on other categories"
+  ],
+  "cashback_benefits": [
+    "5% Cashback on all eligible Swiggy app spends (Food orders, Instamart, and Dineout)",
+    "5% Cashback on online spends across online Merchants",
+    "1% Cashback on other categories",
+    "5% CashBack on all eligible Swiggy app spends (Food orders, Instamart, and Dineout)",
+    "5% CashBack on online spends across online Merchants",
+    "1% CashBack on other categories",
+    "5% Cashback on eligible Swiggy app spends (Food orders, Instamart, Dineout)",
+    "5% Cashback on select online merchants",
+    "5% cashback on eligible categories listed (Apparels, Pharmacies, Pet Stores, Personal Care, Travel and Hotel, Electronics, Paytm Travel, EaseMyTrip, Ixigo, Yatra, Ibibo, etc.)",
+    "5% Cashback on eligible spends",
+    {
+      "type": "Qualifying Expenditure",
+      "description": "Spends effected on the Co-Branded Card for purchase of goods and services at Merchant Establishments and/or any other usage deemed eligible by the Bank."
+    },
+    "5% cashback on Swiggy App (Food Delivery, Instamart, Dineout) with minimum transaction Rs.249, capped at Rs.1500 per billing cycle",
+    "5% cashback on select online merchants and categories (Apparels, Pharmacies, Pet stores, Personal Care, Electronics, Entertainment, Travel, Discount Stores, Local cabs) with minimum transaction Rs.249, capped at Rs.1500 per billing cycle",
+    "1% cashback on other categories with minimum transaction Rs.100, capped at Rs.1000 per billing cycle",
+    "10% Cashback on Swiggy App (Food ordering, Instamart and Dineout)",
+    "5% Cashback on Select Online merchant & category spends",
+    "1% Cashback on Other spends",
+    "5% cashback on Swiggy App (Food Delivery, Instamart and Dineout)",
+    "5% cashback on select Online Merchants",
+    "1% cashback on other categories"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "5% Cashback on Swiggy Dineout spends",
+    "Additional 10% discount on Swiggy Dineout up to Rs.500 on minimum order value of Rs. 3000 during Birthday Week",
+    "Additional 10% discount on Swiggy Dineout upto Rs.500 on minimum order value of Rs. 3000"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "Access to golf courses worldwide",
+    "12 free golf lessons per year",
+    "4 complimentary green-fee rounds every calendar year",
+    "50% discounted green fees on additional sessions",
+    "50% discounted green fees on additional sessions beyond the complimentary quota"
+  ],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "5% Cashback on online spends across online Merchants"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Fraud liability cover on unauthorised Credit Card transactions",
+    "Zero Lost Card Liability"
+  ],
+  "protection_benefits": [
+    "Fraud liability cover on unauthorised Credit Card transactions",
+    "Zero Lost Card Liability"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert high-value transactions into SmartEMI",
+    "Convert high-value transactions into SmartEMI with ease after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "5%",
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Salaried: Nationality Indian, Age Min 21 years & Max 60 Years, Net Monthly Income > ₹20,000",
+    "Self-Employed: Age Min 21 years & Max 65 Years, Annual ITR > ₹6 lakh per annum",
+    "Salaried: Indian, Age: Min 21 years & Max 60 Years, Net Monthly Income: > ₹20,000",
+    "Self-Employed: Age: Min 21 years & Max 65 Years, Annual ITR > ₹6 lakh per annum",
+    "Salaried: Indian, 21-60 years, Net Monthly Income > ₹20,000",
+    "Self-Employed: 21-65 years, Annual ITR > ₹6 lakh"
+  ],
+  "income_requirements": [
+    "> ₹20,000 (Salaried)",
+    "> ₹6 lakh per annum (Self-Employed)",
+    "Salaried: Net Monthly Income: > ₹20,000",
+    "Self-Employed: Annual ITR > ₹6 lakh per annum"
+  ],
+  "documents_required": [
+    "Passport",
+    "Aadhaar card",
+    "Voter ID",
+    "Driving licence",
+    "PAN card",
+    "Passport size photographs",
+    "Utility bills (electricity, water, gas, or telephone)",
+    "Rental agreement",
+    "Salary slips (for salaried individuals)",
+    "Income Tax Returns (ITR)",
+    "Form 16",
+    "Bank statements",
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements",
+    "Address Proof: Utility bills, Rental agreement",
+    "Income Proof: Salary slips (salaried), Income Tax Returns (ITR) Form 16, Bank statements"
+  ],
+  "charges": [
+    "Joining Fee / Renewal Membership Fee: ₹500 + Applicable Charges",
+    "Annual fee INR 500 + applicable taxes"
+  ],
+  "interest_rates": [
+    "Up to 50 days of interest-free period on your Swiggy Ornge HDFC Bank Credit Card"
+  ],
+  "fees_and_penalties": [
+    "Joining Fee / Renewal Membership Fee: ₹500 + Applicable Charges"
+  ],
+  "spend_conditions": [
+    "Minimum transaction of ₹249 to earn 5% CashBack",
+    "Spend ₹1,50,000 or more in a year for renewal fee waiver",
+    "To earn 5% CashBack using Swiggy Ornge HDFC Bank Credit Card, the cardholder should make a minimum transaction of ₹249 using the card",
+    "Minimum transaction of Rs.249 to earn 5% cashback",
+    "Minimum transaction of Rs.100 to earn 1% cashback",
+    "Minimum transaction of Rs. 249 for 10% Cashback",
+    "Minimum transaction of Rs. 100 for 5% and 1% Cashback",
+    "Minimum transaction of Rs. 249 for 5% cashback",
+    "Minimum transaction of Rs. 100 for 1% cashback"
+  ],
+  "benefit_conditions": [
+    "Card Activation required for benefits",
+    "Minimum transaction of ₹249 to earn 5% CashBack",
+    "TnCs Apply",
+    "Exclusions for Spends of ₹1,50,000 and above for eligibility of renewal year fee waiver are as follows: Cash on Call Balance Transfer, Cash Withdrawal",
+    "Card activation within 37 days of issuance to claim welcome Swiggy One Membership",
+    "Activation can be done via transaction, OTP/IVR, setting PIN, or enabling card controls",
+    "Birthday week offer applicable only after 30 days of card activation",
+    "Cashback will be reversed for EMI conversion in the subsequent statement",
+    "Cashback will not be adjusted against Financial Charges",
+    "Card activation within 37 days of card issuance to claim complementary Swiggy One membership for 3 months",
+    "Birthday offer applicable post 30 days after card activation"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived if spend ₹1,50,000 or more in a year",
+    "Spend ₹1,50,000 or more in a year before your renewal date to get the next year’s renewal fee waived",
+    "Renewal year fee waiver on spends of Rs.150,000 and above in the preceding year",
+    "Annual fee of INR 1000+ applicable taxes is charged once to enjoy the benefits of Swiggy BLCK HDFC Bank Credit Card",
+    "Annual fee waiver on spends of Rs. 1,50,000 and above in the preceding Year"
+  ],
+  "partner_programs": [
+    "Swiggy One",
+    "Mastercard World Card India Golf Program",
+    "Swiggy",
+    {
+      "name": "Swiggy Platform",
+      "description": "The website accessible at www.swiggy.com and the 'Swiggy' application for mobile and handheld devices."
+    },
+    "Swiggy One Membership",
+    "Swiggy One Membership Program"
+  ],
+  "merchant_offers": [
+    "5% CashBack on select online merchants and categories",
+    "Apparels",
+    "Pharmacies",
+    "Pet Stores",
+    "Personal Care",
+    "Travel and Hotel",
+    "Electronics",
+    "Entertainment",
+    "Additional 10% discount on Swiggy Dineout up to Rs.500 on minimum order value of Rs.3000 during birthday week",
+    "5% Cashback on Select Online merchant & category spends (Refer Table 2.1 for detailed list of MCCs)",
+    "6.35% Instant Discount on flight booking via Cleartrip",
+    "20% Instant Discount on Hotel booking via Cleartrip",
+    "5% Cashback + 5% Instant Discount on Nykaa"
+  ],
+  "limited_period_offers": [
+    "Limited Period Offer",
+    "Additional 10% discount on Swiggy Dineout up to Rs.500 on minimum order value of Rs.3000 during birthday week",
+    "Additional 10% discount on Swiggy Dineout during Birthday Week (Offer start date: 21st Oct’24)",
+    "First Year Free (FYF) offer applicable for applications from 15th April’26 -10th May’26",
+    "Lifetime Free (LTF) offer applicable for applications starting 1st April’26 for select corporates",
+    "Additional 10% discount on Swiggy Dineout during Birthday Week"
+  ],
+  "important_terms": [
+    "Interest-free period up to 50 days",
+    "Zero Lost Card Liability",
+    "Contactless payments allowed for max ₹5,000 without PIN",
+    "Exclusions for fee waiver: Cash on Call, Balance Transfer, Cash Withdrawal",
+    "The Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use.",
+    "The Bank's computation of Cashback earned on the Co-Branded Card shall be final, conclusive, and binding on the Cardmember and will not be liable to be disputed or questioned.",
+    "The Bank reserves the right to vary any of the Special Terms, from time to time, at its sole discretion with an intimation to the Cardmember through the Bank's website or by such other modes of communication acceptable to the Bank.",
+    "Cashback not accrued for prepaid card/gift card/wallet transactions",
+    "Cashback not earned on EMI transactions",
+    "Cashback auto redemption applies only to outstanding balance excluding finance charges",
+    "Cashback will be reversed for EMI conversion in subsequent statement",
+    "Card is for personal expenses only; commercial use may lead to cancellation",
+    "Cashback earned will be calculated based on all the spends across defined cashback categories during the statement period minus any returns or refunds during the same period",
+    "The principal cardholder will forthwith be disqualified from earning the cashbacks, if Swiggy BLCK HDFC Bank Credit Card is terminated at any time for any reason",
+    "Offer is only applicable for applications through HDFC Bank's direct channels",
+    "Offer is not applicable for existing prized (PRZ) customers",
+    "Offer is subject to change at HDFC Bank's sole discretion",
+    "Cashback will not get adjusted or auto redeemed against Financial Charges accrued",
+    "Cashback will be reversed for EMI conversion in the subsequent statement",
+    "Any cashback related discrepancy needs to be reported in writing within 30 days from the statement generation date"
+  ],
+  "excluded_categories": [
+    "Cash on Call Balance Transfer",
+    "Cash Withdrawal",
+    "Fuel",
+    "Rent",
+    "Wallet",
+    "Jewellery",
+    "Govt. related transactions",
+    "Gift Cards",
+    "EMI",
+    "Gaming",
+    "Education",
+    "Swiggy Money Wallet",
+    "Swiggy Liquor",
+    "Any other category decided later (if any)",
+    "Government related transactions",
+    "Gift Card",
+    "Jewelry"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\HDFC_Swiggy Ornge Hdfc Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\MITC\\co-branded-most-important-terms-and-conditions-for-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\REWARDS\\1-percent-cashback-details-swiggy-ornge-hdfc-bank-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\REWARDS\\5-percent-cashback-details-swiggy-ornge-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\REWARDS\\5-percent-cashback-details-swiggy-ornge-hdfc-bank-credit-card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\card-member-agreement-swiggy1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\card-member-agreement-swiggy2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\card-member-agreement-swiggy3.pdf",
+    "Terms and Conditions - Swiggy Ornge HDFC Bank Credit Card",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\combined-tncs-ornge-and-blck1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\combined-tncs-ornge-and-blck2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\fyf-offer-tncs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Swiggy Ornge Hdfc Bank Credit Card\\TERMS\\tncs-swiggy-orange.pdf"
+  ]
+}

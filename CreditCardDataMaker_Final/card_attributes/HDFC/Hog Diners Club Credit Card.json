@@ -1,0 +1,259 @@
+{
+  "card_name": "Hog Diners Club Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Credit Card",
+  "joining_fee": 10000,
+  "annual_fee": 10000,
+  "fee_waiver_condition": "Spend ₹5 lakh or more in a year before the renewal date",
+  "welcome_benefits": [
+    "Complimentary Swiggy One membership of 3 months",
+    "Annual memberships of Club Marriott, MMT Black",
+    "Complimentary Swiggy One membership of 3 months, annual memberships for Club Marriott, MMT Black, Amazon Prime, Forbes, and a ₹2,500 Harley-Davidson gift card",
+    "Annual Forbes Digital Subscription",
+    "Annual Club Marriott membership",
+    "Swiggy One 3 months membership",
+    "MakeMyTrip Black Gold Tier annual membership",
+    "Amazon Prime annual subscription",
+    "Gift Card worth ₹ 2500 by Harley-Davidson"
+  ],
+  "reward_structure": [
+    "5 Reward Points for every ₹150 spent",
+    "10X Reward Points on purchase of Harley-Davidson merchandise and services from authorised Harley-Davidson dealers",
+    "Up to 10X Reward Points via SmartBuy",
+    "2X on weekend dining",
+    "2X Rewards on weekend dining at standalone restaurants"
+  ],
+  "reward_redemption_options": [
+    "Redeem Rewards points for booking flight tickets / hotels",
+    "Redeem Rewards Point for AirMiles across InterMiles, Singapore Airlines (KrisFlyer Miles), Club Vistara",
+    "Redeem Rewards Points on exclusive reward redemption catalogue"
+  ],
+  "reward_exclusions": [
+    "Fuel, EasyEMI and e-wallet loading transactions will not accrue Rewards Points",
+    "Rent payments & government related transactions will NOT earn Reward Points",
+    "Cannot be clubbed with any other promotions currently applicable on HDFC Bank Diners Club Credit Cards"
+  ],
+  "reward_caps": [
+    "For flight and hotel bookings, members can redeem up to maximum of 70% of booking value through Reward Points",
+    "The maximum reward points that can be earned in a statement cycle for Diners Black is 75,000",
+    "Reward Points earned on grocery transactions will be capped per calendar month at 2000 Reward Points",
+    "On the HDFC Bank SmartBuy portal, the redemption of Reward Points for flights & hotel bookings will be capped per calendar month at 75,000 Reward Points",
+    "Redemption of Reward Points against statement balance (CashBack redemption) will be capped per calendar month at 50,000 Reward Points",
+    "Reward points on weekend dining at standalone restaurants will be capped at 1000 RP per day"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "cult.fit Live 1 month membership or BookMyShow or TataCLiQ or Ola cab vouchers worth ₹500 every month on minimum spends of ₹80,000",
+    "Select any two monthly milestone benefits from a choice of cult.fit Live 1-month subscription or BookMyShow or TataCLiQ or Ola cabs vouchers worth Rs. 500 every month provided net spends Rs. 80,000 or more in a calendar month"
+  ],
+  "lounge_access": [
+    "Unlimited Airport lounge access to 1000+ Lounges in India and worldwide for primary and add-on card members"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Air Accident Cover: USD 250,000",
+    "Emergency Medical Expenses: USD 62,500",
+    "Baggage Delay Cover: USD 688",
+    "Loss of Personal Documents: USD 688",
+    "Hijacking Cover: USD 688",
+    "Complimentary Golf games across the finest courses in the world (6 per quarter)",
+    "24*7 Concierge services",
+    "Travel Insurance Cover of up to ₹55,000 on baggage delay",
+    "Emergency overseas hospitalisation up to ₹50 lakh",
+    "Accidental Air Death Cover worth ₹2 crore",
+    "Credit Liability cover up to ₹9 lakh"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Nominal 2% on all your foreign currency spends"
+  ],
+  "dining_benefits": [
+    "10% extra off on dining bills at 35K+ restaurants via Swiggy Dineout",
+    "2X on weekend Dining",
+    "2X Rewards on weekend dining at standalone restaurants"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "Complimentary Golf games across the finest courses in the world (6 per quarter)"
+  ],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of ₹400. Max waiver of ₹1000 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [
+    "cult.fit Live 1 month membership or BookMyShow or TataCLiQ or Ola cab vouchers"
+  ],
+  "insurance_benefits": [
+    "Air Accident Cover: USD 250,000",
+    "Emergency Medical Expenses: USD 62,500",
+    "Baggage Delay Cover: USD 688",
+    "Loss of Personal Documents: USD 688",
+    "Hijacking Cover: USD 688",
+    "Accidental Air Death Cover worth ₹2 crore",
+    "Emergency overseas hospitalisation up to ₹50 lakh",
+    "Travel Insurance Cover of up to ₹55,000 on baggage delay",
+    "Credit Liability cover up to ₹9 lakh",
+    "Rewards Points accrued for Insurance transactions will have a maximum cap of 5,000 per day"
+  ],
+  "protection_benefits": [
+    "Financial Liability Cover: INR 900,000"
+  ],
+  "concierge_benefits": [
+    "24*7 Concierge services"
+  ],
+  "emi_benefits": [
+    "Option to convert your big spends into EMI after purchase",
+    "Rewards Points accrued will be reversed if a retail transaction is converted into SmartEMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 5,
+  "forex_markup": 2,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed)",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ₹1.75 lakh",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ₹21 lakh per annum",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than 1.75 lakh",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than 21 lakh per annum",
+    "For Salaried Indian national: Age: Min 21 years & Max 60 Years, Net Monthly Income> ₹1,75,000",
+    "For Self Employed Indian national: Age: Min 21 years & Max 65 Years, Income: ITR > ₹21 Lakh per annum"
+  ],
+  "income_requirements": [
+    "Gross monthly income greater than ₹1.75 lakh (Salaried)",
+    "Income Tax Return (ITR) greater than ₹21 lakh per annum (Self-Employed)",
+    "Gross monthly income greater than ₹1.75 lakh for salaried applicants",
+    "Income Tax Return (ITR) greater than ₹21 lakh per annum for self-employed applicants",
+    "Gross monthly income greater than 1.75 lakh for salaried applicants",
+    "Income Tax Return (ITR) greater than 21 lakh per annum for self-employed applicants",
+    "Net Monthly Income> ₹1,75,000 for salaried individuals",
+    "ITR > ₹21 Lakh per annum for self-employed individuals"
+  ],
+  "documents_required": [
+    "Identity Proof: Passport, Aadhaar card, Voter ID, Driving licence, PAN card",
+    "Passport size photographs",
+    "Address Proof: Utility bills (electricity, water, gas, or telephone), Rental agreement",
+    "Income Proof: Salary slips (for salaried individuals), Income Tax Returns (ITR), Form 16, Bank statements"
+  ],
+  "charges": [
+    "Joining Fee",
+    "Renewal Fee",
+    "Joining/ Renewal Membership Fee – ₹10,000/- + Applicable Taxes",
+    "For rent payments made through third-party merchants, a fee of 1% of the total transaction amount will be levied from the second rental transaction of the calendar month"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Applicable Taxes",
+    "If you conduct a transaction (in-store or online) in Indian currency at an international location or with a merchant located in India but registered overseas, a dynamic & static conversion markup fee of 1 % will be charged"
+  ],
+  "spend_conditions": [
+    "Spend ₹5 lakh or more in a year",
+    "Welcome Benefit by spending ₹1.5 lakhs in first 90 days of Card issuance",
+    "cult.fit Live 1 month membership or BookMyShow or TataCLiQ or Ola cab vouchers worth ₹500 every month on minimum spends of ₹80,000",
+    "Spending ₹ 1.5 lakhs within the first 90 days (or) Joining fee realisation",
+    "Net spends Rs. 80,000 or more in a calendar month for monthly milestone benefits",
+    "Spends of Rs. 5 lakh in card anniversary year for renewal fee waiver"
+  ],
+  "benefit_conditions": [
+    "Cover is applicable in case the card holder shall sustain any air accident and suffer bodily injury resulting in death within 12 months of the accident.",
+    "Covers any medical expenses because of any Bodily Injury or sudden unexpected Sickness only for international travel outside India.",
+    "Cover is only applicable for delay beyond a period of 8 hours for international flight and maximum amount payable is $10 per hour",
+    "The Company shall pay actual expenses incurred by the card holder for obtaining a duplicate passport/personal documents in the course of his/her international travel in event of a loss.",
+    "Card holders are insured for $75 per 6 hours on international flights",
+    "Rewards Points are valid only for 3 years from the date of accumulation",
+    "W.E.F 15th Jan 2024, 2 Reward Points will be converted to up to 1 Loyalty Point for Turkish Miles, Accor and Avianca Life Miles",
+    "Benefits will be communicated on your HDFC bank registered Mobile Number via SMS and Email ID within 60 days of condition being met",
+    "Customer will require to visit the link provided in the communication, and validate the bank registered mobile number with OTP, and provide first 4 and last 4 digits of credit card number",
+    "Post successful validation, customer can claim the coupon code for the eligible benefits",
+    "Customer will have to visit the respective merchant website to activate the membership using the coupon code",
+    "All Terms & Conditions as prescribed for the membership by the respective merchant is applicable",
+    "All coupon codes will be eligible for a one-year membership subscription with the merchant except Swiggy One which will be eligible for 3 months membership",
+    "HDFC Bank reserves the right to withdraw or modify this offer / merchants at any time without assigning any reason whatsoever"
+  ],
+  "renewal_benefits": [
+    "Get Renewal Fee waived off by spending ₹5 lakh during Card Anniversary year",
+    "Annual fee waived off on spends of Rs. 5 lakh in card anniversary year"
+  ],
+  "partner_programs": [
+    "Swiggy One",
+    "Club Marriott",
+    "MMT Black",
+    "Amazon Prime",
+    "Forbes",
+    "Harley-Davidson",
+    "SmartBuy",
+    "InterMiles",
+    "Singapore Airlines (KrisFlyer Miles)",
+    "Club Vistara",
+    "Turkish Miles",
+    "Accor",
+    "Avianca Life Miles"
+  ],
+  "merchant_offers": [
+    "Annual Forbes Digital Subscription",
+    "Annual Club Marriott membership",
+    "Swiggy One 3 months membership",
+    "MakeMyTrip Black Gold Tier annual membership",
+    "Amazon Prime annual subscription",
+    "Gift Card worth ₹ 2500 by Harley-Davidson"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Fee Waiver",
+    "All the above insurance covers are available to the Primary card holder.",
+    "Liability on lost card will start from the Date of Dispatch of the card upto 30 days, whereas Air Accident/ Emergency Medical Expenses will start from Date of Activation of the card (means first POS transaction/cash withdrawal by the cardholder)",
+    "Liability on lost card covered to an extent of 900,000 for 2 days prior to Date of Block and 30 days post the Date of Block.",
+    "Terrorism is specifically excluded under the policy.",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa.",
+    "Travel insurance related coverage’s are only valid for onboard journey i.e. coverage’s will not be applicable on return journey",
+    "Travel Insurance provided shall be valid for International Travel only.",
+    "Maximum Trip Duration is restricted to 30 Days.",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded.",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company with whom the Bank has tied up.",
+    "The above features and benefits are valid up to 21st July 2024",
+    "To see if your Card is contactless, look for the contactless network symbol on your Card",
+    "In India, payment through contactless mode is allowed for a maximum of ₹5000 for a single transaction without the need to input your Credit Card PIN",
+    "If the amount is higher than or equal to ₹5000, the Card holder has to enter the Credit Card PIN for security reasons",
+    "There is a revision in the Reward Points Program on your H.O.G Diners Club Credit Card as below, w.e.f 1st January 2023",
+    "HDFC Bank Cardholders are not bound in any way to participate in this offer. Any participation is voluntary and the offer is being made purely on a 'best effort' basis.",
+    "This offer is non-cashable, not extendable and non-negotiable",
+    "This Offer shall be subject to all applicable laws, rules and regulations which are in existence and which may be promulgated anytime by any statutory authority.",
+    "EMI Principal, interest & Wallet Loading transactions will not contribute towards Welcome Milestone spends /Monthly Milestone spends / Spends calculated under Renewal Fee waiver",
+    "HDFC Bank is not making these offers and neither warrant nor guarantees the delivery, quality, merchant ability or suitability of products/services availed of by the HDFC Bank Credit Card members under this offer and the member shall be solely responsible for all effects and consequences therefrom.",
+    "Any disputes as regards delivery, quality, warranty, merchantability or suitability of products/services availed of under this offer must be strictly addressed by the HDFC Bank Credit Card members in writing to Merchant/ Brand directly and HDFC Bank will not entertain any communication in this regard.",
+    "HDFC Bank shall not be liable for any loss or damage whatsoever or for any personal injury that may be suffered, by a HDFC Bank Credit Card member, directly or indirectly, by use or non-use of products/services availed of under this offer",
+    "HDFC Bank reserves the right, at any time, without prior notice and without assigning any reason whatsoever, to add/alter/modify/change or vary all of these terms and conditions or to replace, wholly or in part, this offer by another offer, whether similar to this offer or not, or to extend or withdraw it altogether.",
+    "Above offers is by way of a special offer for select HDFC Bank Credit Card members only and nothing contained herein shall prejudice or affect the terms and conditions of the card member agreement. The terms of the above offers shall be in addition to and not in derogation of the terms contained in the Card Members Agreement.",
+    "All disputes pertaining to Credit Cards, if any, arising out of or in connection with or as a result of above offers or otherwise relating hereto shall be subject to the exclusive jurisdiction of the competent courts / tribunals in Chennai only, irrespective of whether courts / tribunals in other areas have concurrent or similar jurisdiction.",
+    "HDFC Bank reserves the right to debit reward points from customer's card account at any time in case of cancelations/ reversal of transaction for which reward points were credited earlier. In case sufficient reward points are not available, corresponding Rupee value will be charged to the card and will be payable by customer as per the credit card agreement",
+    "Transactions are tracked as per the posted/settled date from third party/merchant to the bank and the posting/settlement date will be considered as contribution to the spend accrual for any month."
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions done by person known to the cardholder",
+    "Fuel",
+    "EasyEMI",
+    "e-wallet loading transactions",
+    "Rent payments",
+    "Government related transactions",
+    "EMI transactions are not eligible for 2X Rewards on weekend dining",
+    "Wallet payments will not be eligible even if wallet is refilled using HDFC Bank Diners Club Credit Card"
+  ],
+  "source_files_used": [
+    "H.O.G Diners Club Credit Card​ Eligibility Criteria",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\HDFC_Hog Diners Club Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\INSURANCE\\hog-insurance.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\REWARDS\\hog-reward-structure.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hog Diners Club Credit Card\\TERMS\\tnc-hog-benifit.pdf"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "card_name": "Rupay",
+  "card_network": "RuPay",
+  "card_type": "Credit Card",
+  "joining_fee": 199,
+  "annual_fee": 199,
+  "fee_waiver_condition": "Annual fee waived on spends of ₹50,000 or more",
+  "welcome_benefits": [
+    "Introductory offer – 100% cashback up to ₹200*",
+    "100% cashback up to ₹200*"
+  ],
+  "reward_structure": [
+    "3X rewards on UPI spends above ₹2,000",
+    "1X rewards on UPI spends below ₹2,000, utility payments, and insurance payments"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "3X rewards on UPI spends above ₹2,000",
+    "1X rewards on UPI spends below ₹2,000, utility payments, and insurance payments",
+    "100% cashback up to ₹200*"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert larger purchases into affordable EMI payments"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Applicant must be 18 years of age or above",
+    "Applicant must qualify as an Indian resident with permanent and current residential addresses in India"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "No joining fee, annual fee, or add-on card fees will be levied on the FIRST Digital RuPay Credit Card attached to the Gaj: Credit Card."
+  ],
+  "interest_rates": [
+    "Monthly Rate - 3.99% Annual Rate - 47.88%"
+  ],
+  "fees_and_penalties": [
+    "Cash advance not applicable for FIRST Digital RuPay Credit Card",
+    "Card replacement fee: 199"
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Introductory offer – 100% cashback up to ₹200*"
+  ],
+  "important_terms": [],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\IDFC FIRST_Rupay_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Rupay\\TERMS\\Card-Member-Agreement6.pdf",
+    "CARDMEMBER_AGREEMENT_IDFC_FIRST_Bank_Credit_Cards"
+  ]
+}

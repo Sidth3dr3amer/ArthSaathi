@@ -1,0 +1,515 @@
+{
+  "card_name": "Axis Bank Kwik Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Credit Card",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": "Nil",
+  "welcome_benefits": [],
+  "reward_structure": [
+    {
+      "spend": "₹200",
+      "points": 2,
+      "applicable": "domestic and international transactions"
+    },
+    {
+      "spend": "₹200",
+      "points": 2,
+      "type": "EDGE reward points",
+      "applicable_on": [
+        "domestic transactions",
+        "international transactions"
+      ]
+    },
+    {
+      "description": "Earn 2 EDGE REWARD points on every ₹200 spent on domestic and international transactions.",
+      "points": 2,
+      "minimum_spend": 200
+    },
+    {
+      "description": "Earn 2 EDGE REWARD points on every ₹200 spent on domestic and international transactions",
+      "rate": 2,
+      "minimum_spend": 200
+    },
+    "Earn 2 EDGE REWARD points on every ₹200 spent on domestic and international transactions."
+  ],
+  "reward_redemption_options": [
+    "EDGE rewards platform (₹99 per redemption transaction)",
+    "Conversion/transfer to other miles partner loyalty programs (₹199 per redemption transaction)",
+    "EDGE rewards platform (₹99 per redemption)",
+    "Conversion/transfer to other miles partner loyalty programs (₹199 per redemption)",
+    {
+      "description": "Rewards redemption fee of ₹99 per redemption transaction will be applicable on EDGE rewards platform.",
+      "fee": 99
+    },
+    {
+      "description": "Rewards redemption fee of ₹199 per redemption transaction will be applicable for conversion/transfer of EDGE points/miles to other miles partner loyalty programs.",
+      "fee": 199
+    },
+    {
+      "description": "Rewards redemption fee of ₹99 per redemption transaction on EDGE rewards platform",
+      "fee": 99
+    },
+    {
+      "description": "Rewards redemption fee of ₹199 per redemption transaction for conversion/transfer of EDGE points/miles to other miles partner loyalty programs",
+      "fee": 199
+    }
+  ],
+  "reward_exclusions": [
+    "wallet load",
+    "fuel purchases",
+    "rental payments",
+    "cash withdrawals",
+    "insurance",
+    "repayments",
+    "jewellery",
+    "education payments",
+    "government services",
+    "EMI transactions",
+    "credit card on UPI transactions less than ₹2000",
+    "fuel",
+    "education",
+    "govt. services",
+    "No reward points on wallet load, fuel, rental payments, cash withdrawals, insurance, repayments, jewellery, education, govt. services, EMI transactions, credit card on UPI transactions less than ₹2000"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, maximum waiver ₹150 per month",
+    {
+      "benefit": "Fuel surcharge waiver",
+      "details": "1% waiver on fuel purchases between ₹400 and ₹4,000, maximum ₹150 per month"
+    }
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Dynamic Currency Conversion markup: 1.5% on international transactions performed in Indian currency",
+    {
+      "type": "Foreign currency transaction fee",
+      "rate": "3.5% of transaction value"
+    }
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver up to ₹150 per month",
+    {
+      "benefit": "Fuel surcharge waiver",
+      "details": "1% waiver on fuel purchases between ₹400 and ₹4,000, maximum ₹150 per month"
+    },
+    {
+      "fee": "Fuel Transaction fee",
+      "details": "1% fee applicable for cumulative spends of ₹50,000 or more per statement cycle"
+    },
+    {
+      "description": "1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month.",
+      "waiver_percentage": 1,
+      "minimum_spend": 400,
+      "maximum_spend": 4000,
+      "maximum_waiver": 150
+    },
+    {
+      "description": "1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month",
+      "waiver_percentage": 1,
+      "minimum_spend": 400,
+      "maximum_spend": 4000,
+      "maximum_waiver": 150
+    },
+    "1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month."
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "2 EDGE points per ₹200 spent",
+  "forex_markup": "1.5%",
+  "fuel_surcharge_waiver": "1% up to ₹150 per month",
+  "eligibility": [],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Joining Fee: Nil",
+    "Annual Fee: Nil",
+    "Cash Payment fee: ₹175",
+    "Duplicate Statement Fee: Waived",
+    "Charge slip retrieval fee: Waived",
+    "Outstation cheque fee: Waived",
+    "Mobile alerts for transactions: Free",
+    "Balance enquiry charges: Free",
+    "Finance Charges (Retail purchases and Cash): 3.7% per month (55.55% per annum)",
+    "Late payment fees: Nil up to ₹500, ₹500 for ₹501‑₹5,000, ₹750 for ₹5,001‑₹10,000, ₹1,200 above ₹10,001; additional ₹100 for missing MAD for two consecutive cycles",
+    "Cash Withdrawal Fee: Minimum ₹500 up to 2.5% of withdrawal amount",
+    "Over limit penalty: 2.5% of over limit amount (minimum ₹500)",
+    "Cheque return or dishonor fee: 2% of payment amount (minimum ₹500)",
+    "Surcharge on railway tickets: As prescribed by IRCTC/Indian Railways",
+    "Foreign currency transaction fee: 3.5% of transaction value",
+    "Reward Redemption fee: ₹99 per redemption on EDGE platform, ₹199 for conversion to other miles",
+    "Rent Transaction fee: 1% per transaction (effective 20 Dec 2024)",
+    "Dynamic Currency Conversion markup: 1.5% (effective 5 Mar 2023)",
+    "Wallet load transaction fee: 1% for cumulative spends ≥ ₹10,000 per statement cycle (effective 20 Dec 2024)",
+    "Fuel Transaction fee: 1% for cumulative spends ≥ ₹50,000 per statement cycle (effective 20 Dec 2024)",
+    "Education Transaction fee: 1% per transaction (effective 20 Dec 2024)",
+    "Utility Transaction fee: 1% for cumulative spends ≥ ₹25,000 per statement cycle (effective 20 Dec 2024)",
+    "Online skill-based gaming fee: 1% for cumulative spends ≥ ₹10,000 per statement cycle (effective 20 Dec 2024)",
+    "Charge slip retrieval fee or copy request fee: Waived",
+    "Cash Withdrawal Fee: Minimum ₹500 or up to 2.5% of withdrawal amount",
+    "Over limit penalty: 2.5% of over limit amount (Min ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of payment amount (Min ₹500)",
+    "Surcharge on purchase or cancellation of railway tickets: As prescribed by IRCTC/Indian Railways",
+    "Reward Redemption fee: ₹99 per redemption on EDGE platform, ₹199 for conversion/transfer",
+    "Online skill‑based gaming fee: 1% for cumulative spends ≥ ₹10,000 per statement cycle (effective 20 Dec 2024)",
+    {
+      "description": "Cash Payment fee",
+      "fee": 175
+    },
+    {
+      "description": "Finance Charges (Retail purchases and Cash)",
+      "rate": 3.7,
+      "period": "monthly"
+    },
+    {
+      "description": "Late payment fees",
+      "conditions": [
+        {
+          "amount_range": "up to ₹500",
+          "fee": 0
+        },
+        {
+          "amount_range": "₹501 - ₹5000",
+          "fee": 500
+        },
+        {
+          "amount_range": "₹5,001 - ₹10,000",
+          "fee": 750
+        },
+        {
+          "amount_range": "₹10,001 and above",
+          "fee": 1200
+        }
+      ]
+    },
+    {
+      "description": "Cash Withdrawal Fee",
+      "minimum_fee": 500,
+      "percentage": 2.5
+    },
+    {
+      "description": "Over limit penalty",
+      "minimum_fee": 500,
+      "percentage": 2.5
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "minimum_fee": 500,
+      "percentage": 2
+    },
+    {
+      "description": "Foreign currency transaction fee",
+      "percentage": 3.5
+    },
+    {
+      "description": "Rent Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1
+    },
+    {
+      "description": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)",
+      "percentage": 1.5
+    },
+    {
+      "description": "Wallet load transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 10000
+    },
+    {
+      "description": "Fuel Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 50000
+    },
+    {
+      "description": "Education Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1
+    },
+    {
+      "description": "Utility Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 25000
+    },
+    {
+      "description": "Online skill-based gaming fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 10000
+    },
+    {
+      "description": "Cash Withdrawal Fee",
+      "fee": "Min. ₹500 up to 2.5% of the cash withdrawal amount"
+    },
+    {
+      "description": "Over limit penalty",
+      "fee": "2.5% of the over limit amount (Min ₹500)"
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "fee": "2% of the payment amount subject to Min. ₹500"
+    },
+    {
+      "description": "Surcharge on purchase or cancellation of railway tickets",
+      "fee": "As prescribed by IRCTC/Indian Railways"
+    },
+    {
+      "description": "Foreign currency transaction fee",
+      "fee": "3.5% of the transaction value"
+    },
+    {
+      "description": "Rent Transaction fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee per transaction"
+    },
+    {
+      "description": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)",
+      "fee": "1.5% on international transaction performed in Indian currency at international location or transactions performed in Indian currency with merchants located in Indian but registered in foreign nation"
+    },
+    {
+      "description": "Wallet load transaction fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee will be applicable for cumulative spends of ₹10,000 or more for wallet loads per statement cycle"
+    },
+    {
+      "description": "Fuel Transaction fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee will be applicable for cumulative spends of ₹50,000 or more on per statement cycle"
+    },
+    {
+      "description": "Education Transaction fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee per transaction"
+    },
+    {
+      "description": "Utility Transaction fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee will be applicable for cumulative spends of ₹25,000 or more on utilities per statement cycle"
+    },
+    {
+      "description": "Online skill-based gaming fee (Applicable from 20th Dec, 2024)",
+      "fee": "1% fee will be applicable for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle"
+    },
+    "Cash Payment fee: ₹175/-",
+    "Late payment fees: Nil if total payment Due is up to ₹500, ₹500 if total payment due is between ₹501 - ₹5000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is ₹10,001 and above. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Cash Withdrawal Fee: Min. ₹500 up to 2.5% of the cash withdrawal amount",
+    "Over limit penalty: 2.5% of the over limit amount (Min ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Reward Redemption fee: ₹99 per redemption transaction on EDGE rewards platform. ₹199 per redemption transaction for conversion/transfer of EDGE points/miles to other miles partner loyalty programs.",
+    "Rent Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction",
+    "Dynamic Currency Conversion markup (Applicable from 5th March 2023): 1.5%",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹50,000 or more on per statement cycle",
+    "Education Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle"
+  ],
+  "interest_rates": [
+    "Finance Charges: 3.7% per month (55.55% per annum)",
+    {
+      "type": "Finance Charges (Retail purchases and Cash)",
+      "rate_per_month": "3.7%",
+      "rate_per_annum": "55.55%"
+    },
+    {
+      "description": "Finance Charges (Retail purchases and Cash)",
+      "rate": 3.7,
+      "period": "monthly"
+    },
+    {
+      "description": "Finance Charges (Retail purchases and Cash)",
+      "rate": "3.7% per month (55.55% per annum)"
+    },
+    "Finance Charges (Retail purchases and Cash): 3.7% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Late payment fees schedule as described in charges",
+    "Cash Withdrawal Fee minimum ₹500 up to 2.5% of amount",
+    "Over limit penalty 2.5% (minimum ₹500)",
+    "Cheque return/dishonor fee 2% (minimum ₹500)",
+    "Reward Redemption fee ₹99 / ₹199 depending on redemption type",
+    {
+      "type": "Late payment fees",
+      "structure": [
+        {
+          "up_to": "₹500",
+          "fee": "Nil"
+        },
+        {
+          "range": "₹501-₹5,000",
+          "fee": "₹500"
+        },
+        {
+          "range": "₹5,001-₹10,000",
+          "fee": "₹750"
+        },
+        {
+          "above": "₹10,001",
+          "fee": "₹1,200"
+        }
+      ],
+      "additional": "₹100 on missing Minimum Amount Due for two consecutive cycles"
+    },
+    {
+      "description": "Cash Payment fee",
+      "fee": 175
+    },
+    {
+      "description": "Late payment fees",
+      "conditions": [
+        {
+          "amount_range": "up to ₹500",
+          "fee": 0
+        },
+        {
+          "amount_range": "₹501 - ₹5000",
+          "fee": 500
+        },
+        {
+          "amount_range": "₹5,001 - ₹10,000",
+          "fee": 750
+        },
+        {
+          "amount_range": "₹10,001 and above",
+          "fee": 1200
+        }
+      ]
+    },
+    {
+      "description": "Cash Withdrawal Fee",
+      "minimum_fee": 500,
+      "percentage": 2.5
+    },
+    {
+      "description": "Over limit penalty",
+      "minimum_fee": 500,
+      "percentage": 2.5
+    },
+    {
+      "description": "Cheque return or dishonor fee or auto-debit reversal",
+      "minimum_fee": 500,
+      "percentage": 2
+    },
+    {
+      "description": "Foreign currency transaction fee",
+      "percentage": 3.5
+    },
+    {
+      "description": "Rent Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1
+    },
+    {
+      "description": "Dynamic Currency Conversion markup (Applicable from 5th March 2023)",
+      "percentage": 1.5
+    },
+    {
+      "description": "Wallet load transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 10000
+    },
+    {
+      "description": "Fuel Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 50000
+    },
+    {
+      "description": "Education Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1
+    },
+    {
+      "description": "Utility Transaction fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 25000
+    },
+    {
+      "description": "Online skill-based gaming fee (Applicable from 20th Dec, 2024)",
+      "percentage": 1,
+      "minimum_spend": 10000
+    },
+    {
+      "description": "Late payment fees*",
+      "fee": "Nil if total payment Due is up to ₹500 ₹500 if total payment due is between ₹501 - ₹5000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is ₹10,001 and above Additional INR 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared."
+    },
+    "Late payment fees: Nil if total payment Due is up to ₹500, ₹500 if total payment due is between ₹501 - ₹5000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is ₹10,001 and above. Additional ₹100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Cash Withdrawal Fee: Min. ₹500 up to 2.5% of the cash withdrawal amount",
+    "Over limit penalty: 2.5% of the over limit amount (Min ₹500)",
+    "Cheque return or dishonor fee or auto-debit reversal: 2% of the payment amount subject to Min. ₹500",
+    "Reward Redemption fee: ₹99 per redemption transaction on EDGE rewards platform. ₹199 per redemption transaction for conversion/transfer of EDGE points/miles to other miles partner loyalty programs.",
+    "Rent Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction",
+    "Dynamic Currency Conversion markup (Applicable from 5th March 2023): 1.5%",
+    "Wallet load transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹10,000 or more for wallet loads per statement cycle",
+    "Fuel Transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹50,000 or more on per statement cycle",
+    "Education Transaction fee (Applicable from 20th Dec, 2024): 1% fee per transaction",
+    "Utility Transaction fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹25,000 or more on utilities per statement cycle",
+    "Online skill-based gaming fee (Applicable from 20th Dec, 2024): 1% fee for cumulative spends of ₹10,000 or more on online skill-based gaming platforms per statement cycle"
+  ],
+  "spend_conditions": [
+    "Earn 2 EDGE points for every ₹200 spent on domestic and international transactions",
+    "No points on wallet load, fuel, rental, cash withdrawals, insurance, repayments, jewellery, education, government services, EMI, and UPI transactions < ₹2000",
+    "No reward points on wallet load, fuel, rental, cash withdrawal, insurance, repayments, jewellery, education, government services, EMI, and UPI transactions < ₹2000"
+  ],
+  "benefit_conditions": [
+    "Fuel surcharge waiver applicable on fuel purchases between ₹400 and ₹4,000, maximum ₹150 per month",
+    "Fuel surcharge waiver applicable on fuel purchases between ₹400 and ₹4,000, max ₹150 per month",
+    {
+      "description": "1% fuel surcharge waiver on fuel purchases between ₹400 and ₹4,000, with a maximum waiver of up to ₹150 per month.",
+      "waiver_percentage": 1,
+      "minimum_spend": 400,
+      "maximum_spend": 4000,
+      "maximum_waiver": 150
+    },
+    "Points earned through eligible earn actions will be credited to the customer’s EDGE REWARDS account by 7 working days of the following week."
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "EDGE Rewards",
+    "EDGE rewards platform"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Points credited to EDGE Rewards account within 7 working days of the following week",
+    "Zero joining and annual fees",
+    "Lifetime free card",
+    "Reward points credited to EDGE REWARDS account within 7 working days of the following week",
+    "For detailed T&Cs refer edgerewards.axisbank.co.in/lms/terms-conditions",
+    "The fuel surcharge is not levied by the card issuing bank, on certain fuel transactions, the fuel surcharge may be levied as ₹10 + GST instead of 1% + GST"
+  ],
+  "excluded_categories": [
+    "wallet load",
+    "fuel purchases",
+    "rental payments",
+    "cash withdrawals",
+    "insurance",
+    "repayments",
+    "jewellery",
+    "education payments",
+    "government services",
+    "EMI transactions",
+    "UPI transactions less than ₹2000",
+    "fuel",
+    "education",
+    "govt. services",
+    "credit card on UPI transactions less than ₹2000",
+    "wallet load, fuel, rental payments, cash withdrawals, insurance, repayments, jewellery, education, govt. services, EMI transactions, credit card on UPI transactions less than ₹2000"
+  ],
+  "source_files_used": [
+    "Provided document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\AXIS_Axis Bank Kwik Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_FINAL\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\AXIS_Axis Bank Kwik Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Axis Bank Kwik Credit Card\\main.pdf"
+  ]
+}

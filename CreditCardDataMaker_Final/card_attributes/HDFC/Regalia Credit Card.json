@@ -1,0 +1,179 @@
+{
+  "card_name": "Regalia Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 2500,
+  "annual_fee": 2500,
+  "fee_waiver_condition": "Spends of ■3 lakh in the anniversary year",
+  "welcome_benefits": [
+    {
+      "description": "Welcome benefit of 2500 reward points"
+    },
+    "Welcome benefit of 2500 reward points"
+  ],
+  "reward_structure": [
+    "4 Reward Points on every ■200 spent",
+    "5x Reward Points on booking flight tickets, hotel stays, gift vouchers and more via SmartBuy",
+    "4 reward points for every ₹200 spent"
+  ],
+  "reward_redemption_options": [
+    "Flight and hotel bookings via SmartBuy",
+    "Curated Global experiences",
+    "Premium vouchers",
+    "Air Miles",
+    "Cashback"
+  ],
+  "reward_exclusions": [
+    "Reward points will not be accrued for rental pay transactions, property management services like rent, maintenance, packers and movers, and government transactions",
+    "Reward points earned on grocery transactions will be capped at 2000 RP per calendar month"
+  ],
+  "reward_caps": [
+    "Redemption of Reward Points for flights and hotel bookings on SmartBuy portal will be capped at 50,000 Reward Points per calendar month"
+  ],
+  "cashback_benefits": [
+    "Get ■1,000 CashBack on Shopping in-app over 200 plus brands"
+  ],
+  "milestone_benefits": [
+    "Cardholders earn 10,000 Reward Points on achieving annual spends of ■5 lakh",
+    "Cardholders earn an additional 5,000 Reward Points on achieving annual spends of ■8 lakh in the same anniversary year"
+  ],
+  "lounge_access": [
+    "Up to 2 complimentary lounge access vouchers every quarter for Self and Addon member based on spends of minimum ■ 1 lakh per calendar quarter"
+  ],
+  "airport_services": [
+    "24/7 concierge assistance for travel experiences"
+  ],
+  "priority_pass_benefits": [
+    "Apply for a priority pass for Self and Add-on member after using your Regalia credit card for minimum 4 times",
+    "Avail up to 6 Complimentary Lounge Access per year, outside India"
+  ],
+  "travel_benefits": [
+    "24/7 concierge assistance for travel experiences"
+  ],
+  "hotel_benefits": [
+    "Earn up to 5x Reward Points on booking hotel stays via SmartBuy"
+  ],
+  "airline_benefits": [
+    "Earn up to 5x Reward Points on booking flight tickets via SmartBuy"
+  ],
+  "forex_benefits": [
+    "Foreign Currency Markup: 3.5% on all your foreign currency spends"
+  ],
+  "dining_benefits": [
+    "Up to 7.5% discount on partner restaurants via Swiggy Dineout on paying with HDFC Bank Regalia Credit Card"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Air Accident Cover up to INR 10,000,000 for primary card holder",
+    "Emergency Medical Expenses Cover up to INR 1,500,000 for primary card holder (International travel only)",
+    "Card Liability Cover up to INR 900,000 for primary card holder",
+    "Accidental air death cover worth ■1 crore",
+    "Emergency overseas hospitalization up to ■15 lakh",
+    "Lost Card Liability Cover: Up to ■9 lakh"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability: Available on any fraudulent transactions made on your Credit Card if reported immediately to HDFC Bank’s 24-hour Call Centre"
+  ],
+  "concierge_benefits": [
+    "24 X 7 Exclusive Concierge Services on your HDFC Bank Regalia Credit Card"
+  ],
+  "emi_benefits": [
+    "Option to convert your big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 6,
+  "guest_lounge_access": null,
+  "reward_rate": "4 Reward Points on every ■200 spent",
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Net Monthly Income > ₹1 lakh",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Income Tax Return (ITR) > ₹12 lakh per annum",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Net Monthly Income: > 1 lakh",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Income Tax Return (ITR): > 12 lakh per annum"
+  ],
+  "income_requirements": [
+    "Net Monthly Income > ₹1 lakh for salaried individuals",
+    "Income Tax Return (ITR) > ₹12 lakh per annum for self-employed individuals",
+    "Salaried: Net monthly income > 1 lakh",
+    "Self-employed: Annual ITR > 12 lakh"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/renewal membership fee of ■2,500 plus applicable taxes",
+    "Dynamic Currency Conversion (DCC) fee: 1.75% on international transactions in Indian currency",
+    "Card re-issuance fee: ₹199 for non-metal card variants"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Renewal fee benefit of 2500 reward points (applicable only after the membership fee is realized and not applicable when the fee is waived)",
+    "HDFC Bank reserves the right to cancel the Credit Card in case the card remains inactive and is not used for effecting any transaction for a continuous period of 6 (six) months after prior written notice is sent to the email address and/or phone number and/or communication address, registered in the records of the HDFC Bank."
+  ],
+  "spend_conditions": [
+    "Spends of ■75,000 and more from your Regalia credit card every calendar quarter",
+    "Spends of ■1 lakh per calendar quarter for lounge access",
+    "Reward points accrue on spends in multiples of ₹200"
+  ],
+  "benefit_conditions": [
+    {
+      "description": "Renewal fee benefit of 2500 reward points (applicable only after the membership fee is realised and not applicable when the fee is waived)"
+    },
+    "Liability on lost card starts from date of dispatch up to 30 days",
+    "Air Accident and Emergency Medical coverage starts from date of activation (first POS transaction or cash withdrawal)",
+    "Card Liability coverage applies for 2 days prior to date of block and 30 days post date of block",
+    "Maximum trip duration for travel insurance is 30 days",
+    "Claims must be intimated within 60 days of loss; supporting documents to be submitted within 130 days",
+    "Reward Points are valid for only 2 years from the date of accumulation",
+    "Reward Points will not be accrued for fuel transactions",
+    "Reward Points will not be accrued for rental pay transactions, property management services like rent, maintenance, packers and movers, and government transactions"
+  ],
+  "renewal_benefits": [
+    {
+      "description": "Renewal fee benefit of 2500 reward points"
+    },
+    "Renewal fee benefit of 2500 reward points (applicable only after the membership fee is realized and not applicable when the fee is waived)"
+  ],
+  "partner_programs": [
+    "SmartBuy portal for flight/hotel bookings and reward points redemption",
+    "Dineout Passport membership"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    {
+      "description": "The HDFC Bank reserves the right to cancel the credit card in case the card remains inactive and is not used for effecting any transaction for a continuous period of 6 (six) months after prior written notice is sent to the email address and/or phone number and/or communication address, registered in the records of the HDFC Bank."
+    },
+    "Terrorism is excluded from coverage",
+    "Fraudulent transactions by persons known to the cardholder are excluded",
+    "Travel insurance is not valid for visa procurement",
+    "Travel insurance is valid for international travel only",
+    "Reward Points will not be accrued for rental pay transactions, property management services like rent, maintenance, packers and movers, and government transactions",
+    "Reward Points are valid for only 2 years from the date of accumulation",
+    "Reward Points earned on grocery transactions will be capped at 2000 RP per calendar month",
+    "Reward Points accrued for insurance transactions are capped at a maximum of 2,000 points per month",
+    "Reward points accrual updated from 15th May 2026"
+  ],
+  "excluded_categories": [
+    "Terrorism",
+    "Fraudulent transactions by known persons",
+    "Pre-existing illnesses",
+    "Fuel transactions",
+    "Rental pay transactions",
+    "Property management services like rent, maintenance, packers and movers",
+    "Government transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\HDFC_Regalia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\INSURANCE\\hdfc-ergo-general-insurance-company-limited.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

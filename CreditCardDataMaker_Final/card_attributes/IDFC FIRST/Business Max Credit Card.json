@@ -1,0 +1,222 @@
+{
+  "card_name": "Business Max Credit Card",
+  "card_network": null,
+  "card_type": "Business Credit Card",
+  "joining_fee": 0,
+  "annual_fee": 0,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "6 reward points on domestic online purchases",
+    "4 reward points on domestic offline purchases",
+    "Up to 3 reward points on UPI transactions above ₹2,000",
+    "1 reward point on UPI transaction below ₹2,000 and insurance & utility payments"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "Fuel",
+    "Insurance",
+    "EMI transactions",
+    "Cash withdrawals",
+    "Rental and Property Management transactions",
+    "Utility Spends"
+  ],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Get up to 33% bonus reward points on flight and hotel bookings via the Bank app"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Save more on your international spends with a low forex markup of just 1.5%"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert transactions above ₹1,500 into convenient EMIs for better cash flow management"
+  ],
+  "business_benefits": [
+    "100% guaranteed approval backed by a fixed deposit",
+    "Up to 45 days of interest-free period",
+    "Get up to 6 Reward Points on mandatory business payments, including GST and Taxes",
+    "UPI-readiness from day one",
+    "Withdraw up to 100% of your credit limit as cash whenever you need",
+    "Add-on cards for your team (up to 5 at ₹250 each)"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "1 Reward Point = ₹0.25",
+  "forex_markup": 1.5,
+  "fuel_surcharge_waiver": "1% of eligible fuel transaction amounts (capped at ₹500 per statement cycle for transactions between ₹200-₹5000)",
+  "eligibility": [
+    "Businesses with registered GST",
+    "18+ years of age"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Aadhaar number",
+    "Physical PAN Card for video KYC",
+    "Registered GST number",
+    "Minimum Fixed Deposit of ₹10,000"
+  ],
+  "charges": [
+    {
+      "type": "Annual Fee",
+      "amount": 999
+    },
+    {
+      "type": "Late Payment Fee",
+      "amount": "15% of Total Amount Due (min ₹100, max ₹1300)"
+    },
+    {
+      "type": "Cash Advance Fee",
+      "amount": 199
+    },
+    {
+      "type": "Reward Redemption Fee",
+      "amount": 99
+    },
+    {
+      "type": "Outstation Cheque/Cash Processing Fee",
+      "amount": 250
+    },
+    {
+      "type": "Card Replacement Fee",
+      "amount": 199
+    },
+    {
+      "cash_advance_fee": 199,
+      "late_payment_charges": "Nil",
+      "return_of_cheque_fee": "2% of Payment amount subject to a minimum of 500",
+      "reward_redemption_fee": 99,
+      "card_replacement_fee": 4000,
+      "over_limit_charges": "Nil"
+    }
+  ],
+  "interest_rates": [
+    "12% per annum on balances carried beyond the due date",
+    {
+      "type": "Monthly Rate",
+      "rate": "3.99%"
+    },
+    {
+      "type": "Annual Rate",
+      "rate": "47.88%"
+    },
+    {
+      "monthly_rate": 0.75,
+      "annual_rate": 9,
+      "overdue_monthly_rate": 3.99,
+      "overdue_annual_rate": 47.88
+    }
+  ],
+  "fees_and_penalties": [
+    {
+      "type": "Late Payment Fee",
+      "details": "15% of Total Amount Due (min ₹100, max ₹1300)"
+    },
+    {
+      "type": "Cash Advance Fee",
+      "details": "₹199 per transaction"
+    },
+    {
+      "type": "Reward Redemption Fee",
+      "details": "₹99 per redemption transaction"
+    },
+    {
+      "type": "Outstation Cheque/Cash Processing Fee",
+      "details": "₹250"
+    },
+    {
+      "type": "Card Replacement Fee",
+      "details": "₹199"
+    },
+    {
+      "cash_advance_fee": 199,
+      "late_payment_charges": "Nil",
+      "return_of_cheque_fee": "2% of Payment amount subject to a minimum of 500",
+      "reward_redemption_fee": 99,
+      "card_replacement_fee": 4000,
+      "over_limit_charges": "Nil"
+    }
+  ],
+  "spend_conditions": [
+    "Reward points are applicable for every ₹200 spent"
+  ],
+  "benefit_conditions": [
+    "Reward points are applicable for every ₹200 spent",
+    "1 Reward Point = ₹0.25",
+    "Bonus Reward Points on hotel bookings on flight bookings (over and above the regular reward points, calculated as per every ₹150 spent)",
+    "Reward points are over and above the regular reward points, calculated as per every ₹150 spent on eligible flight and hotel bookings made via the Bank app"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward points will be valid for 24 months",
+    "Reward Points will not be applicable if the Cardholder fails to pay at least the Minimum Amount Due by the Payment Due Date",
+    "Reward points will be reversed if the Minimum Amount Due is not paid by the Payment Due Date",
+    "Annual Fee: ₹999",
+    "Late Payment Fee: 15% of Total Amount Due (min ₹100, max ₹1300)",
+    "Cash Advance Fee: ₹199 per transaction",
+    "Reward Redemption Fee: ₹99 per redemption transaction",
+    "Outstation Cheque/Cash Processing Fee: ₹250",
+    "Card Replacement Fee: ₹199",
+    "Interest Rates: 3.99% monthly, 47.88% annually",
+    "Forex Markup: 1%",
+    "Fuel Surcharge Waiver: 1% of eligible fuel transaction amounts (capped at ₹500 per statement cycle for transactions between ₹200-₹5000)"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\IDFC FIRST_Business Max Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Commercial-03-02-23-Ver1-Final3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\PRODUCT_GUIDE\\GST-User-Guide-Credit-card-Payment-005-jan141.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\PRODUCT_GUIDE\\GST-User-Guide-Credit-card-Payment-005-jan142.pdf",
+    "Ver_BC_CMA_FEB25",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601211.pdf",
+    "Ver_BC_CMA_FEB2510",
+    "Ver_BC_CMA_FEB2511",
+    "Ver_BC_CMA_FEB2512",
+    "Ver_BC_CMA_FEB2513",
+    "Ver_BC_CMA_FEB2514",
+    "Ver_BC_CMA_FEB2515",
+    "Ver_BC_CMA_FEB2516",
+    "Ver_BC_CMA_FEB2517",
+    "Ver_BC_CMA_FEB2518",
+    "Ver_BC_CMA_FEB2519",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601212.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601213.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601214.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601215.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement-0601216.pdf",
+    "CARDMEMBER AGREEMENT IDFC FIRST Bank Credit Cards",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Business Max Credit Card\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

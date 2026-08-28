@@ -1,0 +1,205 @@
+{
+  "card_name": "Secured Rupay Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Secured",
+  "joining_fee": 0,
+  "annual_fee": 499,
+  "fee_waiver_condition": "₹0 on annual spends of ₹1 lakh and above",
+  "welcome_benefits": [
+    "10% cashback up to ₹250 on 1st transaction"
+  ],
+  "reward_structure": [
+    "1% Cashback on eligible UPI Spends through IDFC FIRST Bank mobile app",
+    "0.5% Cashback on UPI Spends through Other TPAPs like GPay, Phonepe, PayTm, Cred etc",
+    "0.5% Cashback on online spends",
+    "0.5% cashback on all utility, insurance, and wallet load",
+    "1% cashback on UPI spends via the IDFC FIRST Bank mobile app",
+    "0.5% cashback on UPI spends via other apps and all online spends",
+    "Bonus 5% cashback on hotel bookings via FIRST Rewards Gallery",
+    "Bonus 2% cashback on flight bookings via FIRST Rewards Gallery"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "No cashback on EMI and cash withdrawal transactions",
+    "Bonus cashback not applicable on transactions with redemption of Rewards points",
+    "Bonus cashback not applicable on e-commerce or full swipe transactions"
+  ],
+  "reward_caps": [
+    "Cashback will be capped at ₹500 in a statement cycle",
+    "Cashback capped at ₹500 in a statement cycle",
+    "Maximum bonus cashback of ₹2,000 across Hotels & Flights in a calendar month"
+  ],
+  "cashback_benefits": [
+    "Bonus Cashback on bookings through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App",
+    "Maximum bonus cashback of ₹2,000 across Hotels & Flights in a calendar month",
+    "Bonus Cashback will be over and above your usual FIRST EA/₹N Credit Card cashback structure",
+    "Bonus Cashback will be credited to the cardholder’s account in next month’s statement cycle, after the cardholder completes the travel or hotel check-in, provided the account is active",
+    "1% cashback on UPI spends via the IDFC FIRST Bank mobile app",
+    "0.5% cashback on UPI spends via other apps and all online spends",
+    "0.5% cashback on all utility, insurance, and wallet load",
+    "1% Cashback on eligible UPI Spends through IDFC FIRST Bank mobile app",
+    "0.5% Cashback on UPI Spends through Other TPAPs like GPay, Phonepe, PayTm, Cred etc",
+    "0.5% Cashback on online spends",
+    "Bonus 5% cashback on hotel bookings via FIRST Rewards Gallery",
+    "Bonus 2% cashback on flight bookings via FIRST Rewards Gallery"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Bonus Cashback on bookings through 'FIRST Rewards Gallery' section on IDFC FIRST Bank Mobile App",
+    "Up to 8% bonus cashback on travel bookings",
+    "Bonus 5% cashback on hotel bookings via FIRST Rewards Gallery",
+    "Bonus 2% cashback on flight bookings via FIRST Rewards Gallery"
+  ],
+  "hotel_benefits": [
+    "5% cashback on hotels via IDFC FIRST Bank Mobile App",
+    "Bonus 5% cashback on hotels via IDFC FIRST Bank Mobile App",
+    "Total earn on Travel bookings via IDFC FIRST Bank Mobile App: 5.5% cashback (on hotels)",
+    "₹330 (on hotels)",
+    "Bonus 5% cashback on hotel bookings via FIRST Rewards Gallery"
+  ],
+  "airline_benefits": [
+    "2% cashback on flights via IDFC FIRST Bank Mobile App",
+    "Bonus 2% cashback on flights via IDFC FIRST Bank Mobile App",
+    "Total earn on Travel bookings via IDFC FIRST Bank Mobile App: 2.5% cashback (on flights)",
+    "₹150 (on flights)",
+    "Bonus 2% cashback on flight bookings via FIRST Rewards Gallery"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [
+    "25% off up to ₹100 on movie tickets, valid once a month"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "No credit history required",
+    "All you need is a fixed deposit with the Bank",
+    "Fixed deposit with the Bank"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "No joining fee, annual fee, or add-on card fees will be levied on the FIRST Digital Rupay Credit Card attached to the Gaj: Credit Card.",
+    "Joining Fee: ₹0* ₹499+GST",
+    "Annual Fee: ₹499+GST",
+    "Annual Fee: ₹499+GST or ₹0 on annual spends of ₹1 lakh and above",
+    {
+      "type": "Cash Advance Fee",
+      "value": 199
+    },
+    {
+      "type": "Late Payment Charges",
+      "value": "As per Primary Credit Card"
+    },
+    {
+      "type": "Card Replacement Fee",
+      "value": 199
+    }
+  ],
+  "interest_rates": [
+    "Monthly Rate - 3.99% Annual Rate - 47.88%",
+    {
+      "type": "Monthly Rate",
+      "value": "As per Primary Credit Card"
+    },
+    {
+      "type": "Annual Rate",
+      "value": "As per Primary Credit Card"
+    }
+  ],
+  "fees_and_penalties": [
+    "Cash advance not applicable for FIRST Digital RuPay Credit Card",
+    "Card replacement fee: 199",
+    {
+      "type": "Cash Advance Fee",
+      "value": 199
+    },
+    {
+      "type": "Late Payment Charges",
+      "value": "As per Primary Credit Card"
+    },
+    {
+      "type": "Card Replacement Fee",
+      "value": 199
+    }
+  ],
+  "spend_conditions": [
+    "Bonus Cashback will be applicable only on transactions which are completed without redemption of Rewards points i.e., Cash + Points transactions are not eligible for Bonus Reward Points",
+    "Bonus cashback will be credited in next month statement cycle post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active",
+    "Bonus Cashback Points will be applicable only on e-commerce and full swipe transactions on your FIRST EA/₹N Credit Card",
+    "Cashback capped at ₹500 in a statement cycle",
+    "Maximum bonus cashback of ₹2,000 across Hotels & Flights in a calendar month"
+  ],
+  "benefit_conditions": [
+    "Bonus Cashback will be applicable only on transactions which are completed without redemption of Rewards points i.e., Cash + Points transactions are not eligible for Bonus Reward Points",
+    "Reward redemption is not applicable on FIRST EA/₹N Credit card",
+    "Bonus cashback will be credited in next month statement cycle post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active",
+    "Bonus Cashback Points will be applicable only on e-commerce and full swipe transactions on your FIRST EA/₹N Credit Card",
+    "Bonus cashback will not be credited for any bookings that are subsequently cancelled, regardless of the reason for cancellation",
+    "1% cashback on UPI spend via IDFC FIRST Bank Mobile App applicable for new cards issued on or after 16 Dec'25",
+    "Bonus cashback credited in next month's statement cycle post completion of travel/check-in",
+    "Bonus cashback not applicable on transactions with redemption of Rewards points",
+    "Bonus cashback not applicable on e-commerce or full swipe transactions",
+    "Bonus cashback not credited for cancelled bookings"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Joining Fee: ₹0 ₹499+GST (Limited Period Offer)"
+  ],
+  "important_terms": [
+    "Bonus Cashback will be applicable only on transactions which are completed without redemption of Rewards points i.e., Cash + Points transactions are not eligible for Bonus Reward Points",
+    "Reward redemption is not applicable on FIRST EA/₹N Credit card",
+    "Bonus cashback will be credited in next month statement cycle post completion of travel/check-in (in case of hotels) on the respective card account provided the account is active",
+    "Bonus Cashback Points will be applicable only on e-commerce and full swipe transactions on your FIRST EA/₹N Credit Card",
+    "In case of booking cancellations, refunds for cash will be processed and credited to source account within 5-7 business days from the date of cancellation",
+    "The travel platform is designed to showcase exclusive travel offers from merchants and partners available to IDFC FIRST Bank Customers",
+    "Bonus cashback will not be credited for any bookings that are subsequently cancelled, regardless of the reason for cancellation",
+    "All standard Credit Card Terms & Conditions and the Travel Specific Terms & Conditions (as amended from time to time) mentioned on the platform would apply",
+    "No joining fee, annual fee, or add-on card fees will be levied on the FIRST Digital RuPay Credit Card attached to the Gaj: Credit Card.",
+    "Cash advance not applicable for FIRST Digital RuPay Credit Card.",
+    "Bonus cashback credited in next month's statement cycle post completion of travel/check-in",
+    "Bonus cashback not applicable on transactions with redemption of Rewards points",
+    "Bonus cashback not applicable on e-commerce or full swipe transactions",
+    "Bonus cashback not credited for cancelled bookings",
+    "Cashback capped at ₹500 in a statement cycle",
+    "Maximum bonus cashback of ₹2,000 across Hotels & Flights in a calendar month"
+  ],
+  "excluded_categories": [
+    "No cashback on EMI and cash withdrawal transactions",
+    "EMI and cash withdrawal transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\IDFC FIRST_Secured Rupay Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Secured Rupay Credit Card\\TERMS\\FIRST-EARN-Cashback-Structure-TnC.pdf"
+  ]
+}

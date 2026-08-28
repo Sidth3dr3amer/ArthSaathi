@@ -1,0 +1,264 @@
+{
+  "card_name": "Hdfc Bank Upi Rupay Mega Saver Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Credit Card",
+  "joining_fee": 99,
+  "annual_fee": 99,
+  "fee_waiver_condition": "Spend ₹25,000 or more in an annual year to get renewal membership fee waived.",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3% CashPoints on groceries, dining & PayZapp transactions",
+    "2% CashPoints on utility payments",
+    "1% CashPoints on all other eligible spends",
+    "3% CashPoints on groceries, supermarket, dining & all PayZapp transactions",
+    "2% CashPoints on utility spends",
+    "1% CashPoints on other spends",
+    {
+      "type": "Cashback",
+      "rate": "1%",
+      "cap": "₹15,000 per calendar month",
+      "exclusions": [
+        "Fuel, EMI, Rent payments, e-wallet loading, Government related transactions"
+      ]
+    },
+    "3% CashPoints on Groceries, SuperMarket, Dining & all PayZapp transactions",
+    "2% CashPoints on Utility spends",
+    "1% CashPoints on other spends*"
+  ],
+  "reward_redemption_options": [
+    "Product Catalogue (₹0.25 per point)",
+    "Unified SmartBuy (Flights/Hotels) (₹0.25 per point)",
+    "CashBack (₹0.25 per point)",
+    "Airmiles (₹0.25 per point)",
+    "Product Catalogue",
+    "Unified SmartBuy (Flights/Hotels)",
+    "CashBack",
+    "Airmiles",
+    "Redeem via PayZapp Mobile App",
+    "CashBack redemption against the statement at the rate of 1 CashPoint = ₹0.25",
+    "Redemption against travel benefits like Flight & Hotel bookings and Rewards Catalogue at the SmartBuy Rewards Portal, at a value of 1 CashPoint = ₹0.25"
+  ],
+  "reward_exclusions": [
+    "Fuel",
+    "Rent payments",
+    "EMI spends",
+    "Government related transactions",
+    "Wallet/gift/prepaid card loads",
+    "Voucher purchase transactions",
+    "Fuel spends",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "All EMI spends",
+    "Wallet spends",
+    "Government related spends",
+    "Fuel, EMI, Rent payments, e-wallet loading, Government related transactions",
+    "Fuel Spends",
+    "Insurance Payments",
+    "Education and Govt Related Transactions",
+    "Rent Payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "All types of EMI transactions (EasyEMI/SmartEMI, Dial -an- EMI etc)",
+    "Insurance payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase*"
+  ],
+  "reward_caps": [
+    "Maximum 500 CashPoints per calendar month for 3% category",
+    "Maximum 500 CashPoints per calendar month for 2% category",
+    "Maximum 500 CashPoints per calendar month for 1% category",
+    "Reward Points redemption for flights & hotels capped at 50,000 per calendar month",
+    "Reward Points redemption for CashBack capped at 50,000 per calendar month",
+    "Maximum 500 CashPoints per calendar month for 3% CashPoints on groceries, supermarket, dining & all PayZapp transactions",
+    "Maximum 500 CashPoints per calendar month for 2% CashPoints on utility spends",
+    "Maximum 500 CashPoints per calendar month for 1% CashPoints on other spends",
+    "CashPoints redemption for flights & hotels bookings capped per calendar month at 50,000",
+    "CashPoints redemption for CashBack capped per calendar month to 50,000",
+    "Cardmembers can redeem up to 70% of product/Voucher value through Reward Points on select vouchers/products",
+    "₹15,000 per calendar month",
+    "Maximum CashPoints per Calendar Month: 3% feature - 500, 2% feature - 500, 1% feature - 500",
+    "Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000.",
+    "Reward points redemption for CashBack redemption are capped per calendar month to 50,000 rewards points.",
+    "Cardmembers can redeem upto 70% of product/Voucher value through Reward points on select vouchers/products and pay the remaining amount via Credit card.",
+    "Minimum CashPoints balance required for redemption against the statement balance is 2000 CashPoints or equivalent of ₹500",
+    "For redemption against Flights and Hotels via SmartBuy, Credit Card members can redeem up to a maximum of 50% of the booking value through Cash Points (1 CashPoint = ₹0.25).",
+    "With effect from 1st January 2023, Reward points redemption for flights & hotels bookings are capped per calendar month at 50,000.",
+    "With effect from 1st February 2023, Reward points redemption for CashBack redemption are capped per calendar month to 50,000 rewards points",
+    "With effect from 1st February 2023, cardmembers can redeem upto 70% of product/Voucher value through Reward points on select vouchers/products and pay the remaining amount via Credit card."
+  ],
+  "cashback_benefits": [
+    "CashPoints can be redeemed against the statement balance at the rate of 1 CashPoint = ₹0.25",
+    "Minimum of 500 CashPoints required for redemption",
+    "3% CashPoints on groceries, supermarket, dining & all PayZapp transactions",
+    "2% CashPoints on utility spends",
+    "1% CashPoints on other spends",
+    "1% unlimited Cashback across all other spends",
+    "3% CashPoints on Groceries, SuperMarket, Dining & all PayZapp transactions",
+    "2% CashPoints on Utility spends",
+    "CashPoints can be redeemed as CashBack against the statement balance at the rate of 1 CashPoint = ₹0.25"
+  ],
+  "milestone_benefits": [
+    "Renewal membership fee waived by spending ₹25,000 or more in an annual year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "CashPoints can be used for flight and hotel bookings",
+    "Redemption against travel benefits like Flight & Hotel bookings and Rewards Catalogue at the SmartBuy Rewards Portal, at a value of 1 CashPoint = ₹0.25",
+    "Redemption against travel benefits like Flight & Hotel bookings at the SmartBuy Rewards Portal, at a value of 1 CashPoint = ₹0.25"
+  ],
+  "hotel_benefits": [
+    "CashPoints can be used for hotel bookings"
+  ],
+  "airline_benefits": [
+    "CashPoints can be used for flight bookings"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "3% CashPoints on dining transactions"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [
+    "3% CashPoints on groceries and supermarket transactions"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "No CashPoints earned on EMI spends"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": 0.25,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "Not Applicable",
+  "eligibility": [
+    "Existing HDFC Bank credit cardholders can apply for this card as an additional floater card"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "No document proof is required for applying for the UPI RuPay Credit Card"
+  ],
+  "charges": [
+    "First Year Membership Fee of ₹99 + applicable taxes",
+    "Renewal Membership Fee of ₹99 + applicable taxes",
+    "Joining/ Renewal Membership Fee - ₹99/- + Applicable Taxes",
+    "GST Effective 1st July 2017, Goods & Services Tax (GST) is applicable on all fees, charges and interest transactions",
+    "Joining/ Renewal Membership Fee - ₹99 + applicable Taxes",
+    "Renewal membership Fee of ₹99 + applicable taxes",
+    "Goods and Services Tax (GST) applicable on all fees, charges and interest transactions",
+    "Cash advance fee: 2.5% (₹500 whichever is higher)",
+    "Service charges: 1% fee on fuel transactions exceeding ₹15,000 (capped at ₹4999 per transaction)",
+    "Utility charges: 1% fee on utility spends exceeding ₹50,000 per month (capped at ₹4999 per month)",
+    "Redemption handling charges for reward catalogue: ₹99+Taxes"
+  ],
+  "interest_rates": [
+    "Low revolving credit of 1.99%",
+    "Up to 50 days of interest free period on your HDFC Bank UPI RuPay Mega Saver Credit Card from the date of purchase",
+    "Revolving credit: 3.75% monthly, 45% annually",
+    "Cash advances: 3.75% monthly, 45% annually"
+  ],
+  "fees_and_penalties": [
+    "Goods and Services Tax (GST) applicable on all fees, charges and interest transactions",
+    "Joining/ Renewal Membership Fee - ₹99/- + Applicable Taxes",
+    "GST Effective 1st July 2017, Goods & Services Tax (GST) is applicable on all fees, charges and interest transactions",
+    "Joining/ Renewal Membership Fee - ₹99 + applicable Taxes",
+    "Renewal membership Fee of ₹99 + applicable taxes",
+    "Annual fee: ₹99",
+    "Joining fee: ₹99",
+    "Cash advance fee: 2.5% (₹500 whichever is higher)",
+    "Fuel surcharge waiver: Not Applicable",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation"
+  ],
+  "spend_conditions": [
+    "Minimum transaction amount of ₹100 & above is eligible for cashpoints",
+    "Minimum transaction amounts of ₹100 & above only are eligible for cashpoints posting for 3%, 2% and 1% features",
+    "Transactions >=Rs100 will be eligible for Cashpoints",
+    "CashPoints earned will be computed based on spends during the calendar month period minus any returns or refunds during the same period",
+    "In case the purchase/transaction is returned/cancelled/reversed post calendar month completion, the equivalent CashPoints will be reversed/adjusted under the 3% CashPoints category"
+  ],
+  "benefit_conditions": [
+    "CashPoints are calculated based on the Merchant Category Code (MCC) shared by the RuPay network",
+    "CashPoints are valid for 2 years from the date of accumulation",
+    "CashPoints are calculated on the spends made within the calendar month cycle and not basis statement cycle",
+    "Only settled transactions within the calendar month will be considered for CashPoints posting",
+    "CashPoints are calculated basis the Merchant Category Code (MCC) as defined by the RuPay Card network.",
+    "CashPoints earned will be computed based on spends during the calendar month period minus any returns or refunds during the same period.",
+    "In case the purchase/transaction is returned/cancelled/reversed post calendar month completion, the equivalent CashPoints will be reversed/adjusted.",
+    "CashPoints are an exclusive Rewards metric system created for our Credit Cardholders",
+    "The CashPoints will be posted on calendar month basis, the transaction settled in the system between 1st to 30/31st of the calendar month will be posted in the 1st week of the subsequent calendar month",
+    "The transaction settled from the merchant will be eligible for Cashpoints and settlement/Posting date of the transaction will be considered for points calculation",
+    "CashPoints for 3% feature are calculated basis the Merchant Category Code (MCC) as defined by the RuPay Card network. If in case the MCC is not available in the set -up, such transactions will not qualify for the benefit",
+    "Only 4900 Merchant Category code (MCC) as defined by RuPay Card Network is considered under Utility spends and will be eligible for 2% CashPoints feature",
+    "Below mentioned MCC codes are eligible under 3% feature: Grocery & Super Market (5411), Dining (5812, 5814), PayZapp All Transactions done through PayZapp App"
+  ],
+  "renewal_benefits": [
+    "Renewal membership fee waived by spending ₹25,000 or more in an annual year",
+    "From 2nd year onwards renewal membership fee will be waived off if the customer spends Rs.25,000 in the previous annual year.",
+    "From 2nd year onwards renewal membership fee will be waived off if the customer spends Rs.25,000 in the previous annual year"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "CashPoints earned on your HDFC Bank UPI RuPay Mega Saver Credit Card are valid only for 2 years from the date of transaction",
+    "CashPoints shall not be rewarded for the spends done beyond the monthly capping",
+    "CashPoints are valid for 2 years from the date of accumulation",
+    "Minimum of 500 cashpoints is required for redemption",
+    "Maximum of 50% of the booking value can be redeemed through CashPoints",
+    "CashPoints can be redeemed against the statement balance at the rate of 1 CashPoint = ₹0.25",
+    "CashPoints can be used for redemption against travel benefits like Flight & Hotel bookings and also on Rewards Catalogue at the SmartBuy Rewards Portal",
+    "CashPoints are valid only for 2 years from the date of transaction",
+    "CashPoints redemption for flights & hotels bookings capped per calendar month at 50,000",
+    "CashPoints redemption for CashBack capped per calendar month to 50,000",
+    "Cardmembers can redeem up to 70% of product/Voucher value through Reward Points on select vouchers/products",
+    "Annual fee waived if spends ₹25,000/year",
+    "Fuel surcharge waiver: Not Applicable",
+    "Unredeemed CashPoints will expire/lapse after 2 years of accumulation",
+    "If the cardholder opts for redemption as CashBack against statement, there will be no redemption handling charges",
+    "If the cardholder opts for redemption of the cashpoints via reward catalogue, there will be debit of ₹99+Taxes towards redemption handling charges",
+    "For the HDFC Bank UPI RuPay Credit Card, the following terms, unless the context otherwise admits, shall have the following meanings",
+    "For quick access to Most Important Terms & Condition, please click here",
+    "For quick access to Card Member Agreement, please click here"
+  ],
+  "excluded_categories": [
+    "Fuel",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "All EMI spends",
+    "Wallet spends",
+    "Rent payments",
+    "Government related spends",
+    "Fuel spends",
+    "Fuel Spends",
+    "Insurance Payments",
+    "Education and Govt Related Transactions",
+    "Rent Payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "All types of EMI transactions (EasyEMI/SmartEMI, Dial -an- EMI etc)",
+    "Insurance payments",
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase*"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\HDFC_Hdfc Bank Upi Rupay Mega Saver Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\TERMS\\Terms-and-Conditions-HDFC-Bank-UPI-RuPay-Credit-Card-27032025.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Hdfc Bank Upi Rupay Mega Saver Credit Card\\TERMS\\upi-rupay-mega-saver-terms-and-conditions.pdf"
+  ]
+}

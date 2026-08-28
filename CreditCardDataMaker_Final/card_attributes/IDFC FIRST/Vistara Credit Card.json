@@ -1,0 +1,343 @@
+{
+  "card_name": "Vistara Credit Card",
+  "card_network": "Mastercard",
+  "card_type": "Travel",
+  "joining_fee": 4999,
+  "annual_fee": 4999,
+  "fee_waiver_condition": "No joining fee, annual fee, or add-on card fees will be levied on the FIRST Digital Rupay Credit Card attached to the Gaj: Credit Card.",
+  "welcome_benefits": [
+    "1 complimentary Premium Economy Ticket Voucher",
+    "1 One Class Upgrade Voucher",
+    "3 months complimentary EazyDiner Prime membership",
+    "Maharaja Club Silver Membership",
+    "Get 1 One-Class Upgrade Voucher",
+    "Get 1 Complimentary Premium Economy Ticket Voucher",
+    "Get direct entry to Club Vistara now Maharaja Club Silver Membership",
+    "2000 Bonus Maharaja Points"
+  ],
+  "reward_structure": [
+    "6 Maharaja Points on spends up to ₹1,00,000 in a billing cycle",
+    "4 Maharaja Points on spends above ₹1,00,000 in a billing cycle",
+    "10 Maharaja Points on dining spends on your birthday",
+    "1 Maharaja Point on Fuel, Insurance, Utility, Rent, Wallet Load, Railways, FASTag spends",
+    "1 Maharaja Point on Fuel, Utility, Insurance, Wallet Load, and Rent transactions",
+    "1 Maharaja Point on Fuel, Utility, Insurance, Wallet Load and Rent transactions",
+    "Earn 6 Maharaja Points on spends up to ₹1 Lakh in each statement cycle",
+    "Earn 4 Maharaja Points on spends above ₹1 Lakh in each statement cycle",
+    "Earn 10 Maharaja Points on all dining spends on your Birthday",
+    "Earn 1 Maharaja Point on every spend done on Fuel, Insurance, Utility, Rent, Wallet Load, Railways, FASTag, Government Payments, Education, Jewellery and Gift Vouchers (GVs)"
+  ],
+  "reward_redemption_options": [
+    "Book flights with Maharaja Points",
+    "Redeem for Cabin Upgrades with Air India and Star Alliance Partner Airlines",
+    "Book flights with Maharaja Club",
+    "Cabin Upgrades with Air India and Star Alliance Partner Airlines",
+    "Book flights via Maharaja Club",
+    "Redeem for Award Flights and Cabin Upgrades with Air India and Star Alliance Partner Airlines"
+  ],
+  "reward_exclusions": [
+    "EMI Transactions",
+    "Balance Transfer",
+    "Cash Withdrawal",
+    "Maharaja Points are not applicable on EMI Transaction, Balance Transfer & Cash Withdrawals"
+  ],
+  "reward_caps": [
+    "Maharaja Points earn rate is calculated per ₹200"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Unlock up to 5 Premium Economy Ticket Vouchers every anniversary year",
+    "Bonus 2000 Maharaja Points on crossing monthly spend milestones in the first 3 months",
+    "Earn up to 6000 Maharaja Points by spending minimum ₹30,000 every month for 3 applicable billing cycles",
+    "Unlock up to 5 complimentary Premium Economy Ticket Vouchers each anniversary year"
+  ],
+  "lounge_access": [
+    "8 complimentary visits to domestic airport lounges per year",
+    "4 complimentary visits to international airport lounges per year",
+    "8 complimentary visits to domestic airport lounges yearly",
+    "4 complimentary visits to international airport lounges yearly",
+    "Up to 2 complimentary visits per quarter to participating airport lounges in Indian Airports (domestic and international terminals)",
+    "Up to 1 complimentary visit per quarter to lounges at select Global Airport Terminals",
+    "Up to 1 complimentary visits per quarter to lounges at select Global Airport Terminals"
+  ],
+  "airport_services": [
+    "Priority airport check-in",
+    "Increased Check-In Baggage allowance within and outside India",
+    "Priority Waitlist Clearance",
+    "Complimentary In-flight Wi-fi"
+  ],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Trip cancellation cover up to ₹10,000 on flight and hotel booking (2 claims annually)",
+    "Air Accident Cover of ₹1 crore",
+    "Personal Accident Cover of ₹10,00,000",
+    "Lost Card Liability Cover of ₹50,000",
+    "Additional Coverage for loss of checked-in baggage, delay of checked-in baggage, loss of passport & other documents, and flight delay of USD 1200",
+    "Complimentary Premium Economy Ticket Vouchers"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "Complimentary Premium Economy Ticket Vouchers",
+    "One Class Upgrade Vouchers",
+    "Priority Check-in",
+    "Increased Check-In Baggage allowance within and outside India",
+    "Priority Waitlist Clearance",
+    "Priority airport check-in",
+    "Complimentary In-flight Wi-fi",
+    "Maharaja Points accrue in a 1:1 ratio with CV Points"
+  ],
+  "forex_benefits": [
+    "Competitive forex mark-up of just 2.99%"
+  ],
+  "dining_benefits": [
+    "10 Maharaja Points on dining spends on your birthday",
+    "Earn 10 Maharaja Points on all dining spends on your Birthday"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [
+    "4 complimentary rounds of green fees per calendar year",
+    "12 complimentary golf lessons per calendar year",
+    "50% Off on the green fee beyond complimentary sessions",
+    "50% Off on Golf rounds or lessons across Australia, Bangladesh, China, Hong Kong, Japan, Macao, New Zealand, South Korea, Sri Lanka and Taiwan"
+  ],
+  "fuel_benefits": [
+    "1 Maharaja Point on every Fuel transaction",
+    "Earn 1 Maharaja Point on every spend done on Fuel"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Trip cancellation cover up to ₹10,000 on flight and hotel booking (2 claims annually)",
+    "Air Accident Cover of ₹1 crore",
+    "Personal Accident Cover of ₹10,00,000",
+    "Lost Card Liability Cover of ₹50,000",
+    "Trip cancellation cover up to ₹10,000",
+    "Personal Accident Cover (Sum Insured: ₹50,000)",
+    "Air Accidental Death Cover (Sum Insured: ₹5,00,000)",
+    "Credit Shield Cover (Sum Insured: ₹50,000)",
+    "Purchase Protection Cover (Sum Insured: ₹5,00,000)",
+    "Travel Insurance Cover (Loss of Checked-In Baggage: ₹4,000, Delay in Flight: ₹4,000, Delay of Checked-In Baggage: ₹5,000, Loss of Passport and Documents: ₹4,000)",
+    "Cancel For Any Reason (CFAR) Insurance: Trip Cancellation Cover for Flight/Hotel bookings (₹10,000 fungible cover, max 2 transactions per policy period)",
+    "Additional Coverage for loss of checked-in baggage, delay of checked-in baggage, loss of passport & other documents, and flight delay of USD 1200",
+    "Personal Air Accident Cover",
+    "Travel Insurance (Loss of Checked-In Baggage, Delay in Flight, Delay of Checked-In Baggage, Loss of Passport and documents)",
+    "Cancel For Any Reason (CFAR) Insurance: Trip Cancellation Cover for Flight/Hotel bookings (₹10,000 fungible cover for up to 2 transactions per policy period)",
+    "Earn 1 Maharaja Point on every spend done on Insurance"
+  ],
+  "protection_benefits": [
+    "Lost Card Liability Cover (Sum Insured: ₹5,00,000)",
+    "Counterfeit/Skimming/Online Fraud Protection (Sum Insured: ₹5,00,000)",
+    "Additional Coverage for loss of checked-in baggage, delay of checked-in baggage, loss of passport & other documents, and flight delay of USD 1200"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "EMI conversions are excluded in Maharaja Points and spend milestone calculation for ticket vouchers"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 8,
+  "international_lounge_visits_per_year": 4,
+  "guest_lounge_access": null,
+  "reward_rate": "6-10 Maharaja Points per ₹200 spent",
+  "forex_markup": 2.99,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Minimum monthly spends of ₹20,000",
+    "Settled transactions only considered for spends criteria threshold",
+    "Primary & Add-On Cardholders of Club Vistara IDFC FIRST Credit Card"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Booking confirmation, Cancellation confirmation, Credit card statement, Claim bill, Cancel cheque, KYC documents"
+  ],
+  "charges": [
+    "Joining Fee (1st Year) - ₹4,999 + GST",
+    "Annual Fee (2nd Year onwards) - ₹4,999 + GST",
+    "Nominal charge of INR 2 deducted for credit card authorization",
+    {
+      "type": "Cash advance fee",
+      "amount": 199
+    },
+    {
+      "type": "Late payment charges",
+      "amount": "15% of Total Amount Due (subject to a minimum of 100 and a maximum of 1300)"
+    },
+    {
+      "type": "Card replacement fee",
+      "amount": 199
+    },
+    "Nominal charge of INR 2 for credit card authorization"
+  ],
+  "interest_rates": [
+    "From 0.75% - 3.5% per month",
+    {
+      "type": "Monthly Rate",
+      "rate": "3.99%"
+    },
+    {
+      "type": "Annual Rate",
+      "rate": "47.88%"
+    },
+    "Low Interest Rates: From 0.75% - 3.5% per month"
+  ],
+  "fees_and_penalties": [
+    "Joining Fee (1st Year) - ₹4,999 + GST",
+    "Annual Fee (2nd Year onwards) - ₹4,999 + GST",
+    {
+      "type": "Cash advance fee",
+      "amount": 199
+    },
+    {
+      "type": "Late payment charges",
+      "amount": "15% of Total Amount Due (subject to a minimum of 100 and a maximum of 1300)"
+    },
+    {
+      "type": "Card replacement fee",
+      "amount": 199
+    }
+  ],
+  "spend_conditions": [
+    "Spends will NOT to be considered for activation Maharaja points",
+    "Minimum spend of ₹20,000 required for lounge access",
+    "Monthly spends over ₹20,000 towards utilities (Electricity, Gas, Telecom etc.) and Education will attract 1% surcharge on all spends",
+    "Payments over ₹10,000 towards FASTag recharges and over ₹25,000 towards Railway spends in a billing cycle will attract 1% surcharge on all spends",
+    "Effective 17th April’26 – 1 Maharaja Point on Government Payments, Education, Jewellary and Gift Vouchers (GVs)",
+    "Spends and cash withdrawal between the 1st and last day of a calendar month shall be considered for access in the next month",
+    "EMI amortization, fee, charges and the corresponding GST will not be considered for lounge benefit",
+    "Monthly payments over ₹20,000 towards utilities (Electricity, Gas, Telecom etc.) and Education will attract 1% surcharge on all spends",
+    "2nd, 3rd, and 4th billing cycle require a spend of ₹30,000 to earn 2000 Maharaja Points each",
+    "Annual spend milestones require specific thresholds to unlock Premium Economy Ticket Vouchers"
+  ],
+  "benefit_conditions": [
+    "Bonus 2000 Maharaja Points on crossing monthly spend milestones in the first 3 months",
+    "Maharaja points shall be credited in your Maharaja Club account within 5 working days after statement generation",
+    "Vouchers shall be credited in your Maharaja Club account within 5 working days after statement generation",
+    "At least one transaction in the last 30 days",
+    "Claim must be reported within specified timelines",
+    "Benefit shared between primary cardholder and all add-on cardholders",
+    "Only cardholders carrying Club Vistara IDFC FIRST Credit Card issued in India are eligible",
+    "Each cardholder is permitted one entry per visit",
+    "Additional guests or services will incur extra charges",
+    "Alcoholic beverages are not part of the offer at lounges situated at domestic departure terminals",
+    "Customers can access the lounge for up to 2 hours",
+    "Policy period: 8th May 2026 to 7th May 2027",
+    "Cancellation must be at least 24 hours before travel date",
+    "Max 2 cancellations per policy period",
+    "Cover applies to non-refundable portion of Flight/Hotel bookings",
+    "Cover for 4-star/5-star hotels only",
+    "Claim intimation within 30 days of cancellation",
+    "Document submission within 60 days of cancellation",
+    "Claim settlement within 30 days of document submission",
+    "Billing statement for month 2, 3 and 4 from date of joining Maharaja points shall be credited in your Maharaja Club account within 5 working days after statement generation",
+    "Travel insurance covers international travel only and only when the ticket is purchased using the said IDFC FIRST Bank Credit Card.",
+    "Claim under this cover is payable only once irrespective of the number of credit cards held by the cardholder.",
+    "Cover is applicable for Active card i.e Cardholder should have done at least 1 Purchase/ATM Withdrawal transaction during the last 30 days using their IDFC FIRST Bank Credit Card.",
+    "This benefit will be shared between the primary cardholder and all add-on cardholders",
+    "This program is applicable only in minimum monthly spends of ₹20,000",
+    "Only settled transactions will be considered for spends criteria threshold",
+    "Maximum 2 transactions per policy period",
+    "Hotel cover limited to 4/5-star hotels",
+    "Maharaja Points will be issued to cardholder’s Maharaja Club account every billing cycle, within 5 working days from the statement generation date",
+    "2000 Bonus Maharaja Points are valid only for the first card membership year",
+    "2000 Bonus Maharaja Points will be credited to the cardholder’s Club Vistara account within 5 working days from the statement generation date",
+    "Any reversal, refund of transaction on and conversion of transaction to EMI will lead to reversal of Maharaja Points for that particular transaction"
+  ],
+  "renewal_benefits": [
+    "1 complimentary Premium Economy Ticket Voucher",
+    "1 One Class Upgrade Voucher",
+    "Maharaja Club Silver Membership",
+    "1 Cabin Upgrade Voucher",
+    "Silver Tier Status"
+  ],
+  "partner_programs": [
+    "Maharaja Club",
+    "EliteAssist for domestic lounges",
+    "DreamFolks for global lounges",
+    "EliteAssist",
+    "DreamFolks"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Maharaja points are not applicable on EMI Transactions, Balance Transfer & Cash Withdrawal",
+    "Maharaja Point earn rate calculated on spend of every Rs. 200",
+    "Any taxes and surcharge appearing separately on a statement shall be excluded from Maharaja point calculation",
+    "Insurance benefits are available only if the card has been used at least once in the last 30 days",
+    "Insurance claims must be reported within 90 days for Personal Accident/Air Accident, 7 days for Travel Insurance, and 30 days for other covers",
+    "Claim documents must be submitted within 30 days of intimation",
+    "Fair Usage Policy: System-led checks may limit back-to-back usage within a short window",
+    "IDFC FIRST Bank reserves the right to modify, amend, change or revoke the program at any time without prior intimation",
+    "The list of participating lounges is subject to change from time to time",
+    "Cover is fungible between Flight and Hotel bookings",
+    "Cover is for ₹10,000 per policy period",
+    "No cover for No Shows, discounts, or other charges",
+    "Refundable amount credited to Bank account",
+    "Effective 17th April’26 – 1 Maharaja Point on Government Payments, Education, Jewellary and Gift Vouchers (GVs)",
+    "Maharaja Points are not applicable on EMI Transactions, Balance Transfer & Cash Withdrawal",
+    "Maharaja point earn rate calculated on spend of every Rs. 200",
+    "The Card Member may be offered various insurance benefits from time to time by IDFC FIRST Bank through a tie up with the Insurance Company.",
+    "All insurance benefits will be applicable only in case the said IDFC FIRST Bank Credit Card has been used at least once for a Purchase or ATM withdrawal transaction in the last 30 days prior to the happening of the unforeseen event.",
+    "All insurance benefits are available on both the Primary and Add-on Cards.",
+    "The insurance claim proceeds may be placed in escrow by the Insurance Company at the direction of IDFC FIRST Bank until satisfactory discharge of all outstanding liabilities on the Card by the Card Member.",
+    "In the event of the Card facility being terminated, for whatever reason, all such insurance benefits shall automatically and ipso facto cease to be available from such date of cessation of membership.",
+    "Insurance is the subject matter of solicitation. The insurer for the cover as aforesaid is New India Assurance. The policy is governed by the terms and conditions laid down by New India Assurance. IDFC FIRST Bank is not responsible for processing of claims and all claim related queries need to be taken up directly with New India Assurance. Insurance is underwritten by New India Assurance. Servicing of the policy and adjudication of claims is sole responsibility of New India Assurance and IDFC FIRST Bank can not be held liable for the same. The services mentioned are only an indication of the covers offered.",
+    "IDFC FIRST Bank may at any time (at its sole discretion without giving any prior notice thereof) modify, suspend, withdraw or cancel these insurance benefits and there will be no binding obligation on IDFC FIRST Bank to continue these benefits.",
+    "This program is open only to cardholders carrying Club Vistara IDFC FIRST Credit Card issued in India",
+    "Each cardholder is permitted one entry per visit",
+    "Any additional guests or services will incur extra charges",
+    "Alcoholic beverages are not part of the offer at lounges situated at domestic departure terminals",
+    "Cardholders are not bound to avail the offer, and any participation by the cardholder is voluntary",
+    "Customers agree to adhere to any no smoking policies in operation in any of the lounge facilities",
+    "Customers can access the lounge for up to 2 hours",
+    "No cover for No Shows, discounts, cashback, or other charges",
+    "Card must be active with no overdue amount at claim time",
+    "Maharaja Points calculation for the Maharaja Points program will be done every billing cycle",
+    "Any fee or financial charge levied by the Bank is not considered as an eligible transaction for the calculation of Maharaja Points",
+    "The decision of Air India and IDFC FIRST Bank with respect to the benefit will be final and binding on all the Cardholders availing this benefit",
+    "Air India and IDFC FIRST Bank reserves the rights to change, amend, withdraw and/or alter any of the terms and conditions of this benefit at any time without prior notice"
+  ],
+  "excluded_categories": [
+    "EMI Transactions",
+    "Balance Transfer",
+    "Cash Withdrawal",
+    "Fraudulent transactions by known persons",
+    "Terrorism-related losses",
+    "Natural deaths",
+    "Dangerous sports activities",
+    "Jewelry and perishable items",
+    "No Shows, discounts, re-scheduling charges, Food/beverage charges, Taxi, Sightseeing, City Tour, Entertainment & Games, Villa, Homestay, Bed & breakfast, Guest house",
+    "Fraudulent transactions done by person known to the cardholder.",
+    "All Losses arising from breach of 2nd level authorizations",
+    "Claim due to deliberate breach of law",
+    "Gross Negligence",
+    "Any failed/ duplicate/ declined transactions by host website/ authorized bank",
+    "Any losses arising due to server hacking or data breach",
+    "Death due to participation in dangerous sports activities, attempted suicide, self injury, or under influence of intoxicating liquor or drugs or any kind of natural death will not be covered",
+    "Any act of terrorism is not covered.",
+    "Earthquake, Terrorism are not covered.",
+    "Mysterious disappearance is not covered.",
+    "No Shows, discounts, cashback, re-scheduling charges, Food/beverage charges, Taxi, Sightseeing, City Tour, Entertainment & Games, Villa, Homestay/Bed & breakfast/Guest house",
+    "EMI Transaction",
+    "Cash Withdrawals",
+    "Birthday spends are excluded for regular Maharaja Points and 2000 Bonus Maharaja Points"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\IDFC FIRST_Vistara Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V21.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\INSURANCE\\Insurance-Privileges-Documents-24-06-24-V22.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\LOUNGE\\Airport-Lounge-TnC-Club-Vistara-IDFCFIRST-Credit-Card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\LOUNGE\\Vistara-Lounge-List.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\PRODUCT_GUIDE\\Credit-Card-Basics-Club-Vistara-IDFC-FIRST-Credit-Card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\PRODUCT_GUIDE\\Product-Guide-Club-Vistara-IDFC-FIRST-Credit-Card.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Card-Member-Agreement6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Vistara Credit Card\\TERMS\\Terms-and-Conditions-Club-Vistara-Benefits.pdf"
+  ]
+}

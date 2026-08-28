@@ -1,0 +1,287 @@
+{
+  "card_name": "Lic Axis Bank Platinum Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": "Nil",
+  "annual_fee": "Nil",
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "2 Reward points per ₹100 spent on LIC Premium payments and foreign currency transactions",
+    "1 Reward point per ₹100 spent on all other transactions except fuel, wallet load and EMI conversions",
+    "No Reward Points on Fuel purchases",
+    "Earn 2 Reward points for every ₹ 100 spent on LIC Premium payment and foreign currency transactions",
+    "Earn 1 Reward point for every ₹ 100 spent on all other transactions except fuel, wallet load and EMI conversions",
+    "Earn 2 Reward points for every 100 spent on LIC Premium payment and foreign currency transactions",
+    "Earn 1 Reward point for every 100 spent on all other transactions except fuel, wallet load and EMI conversions",
+    {
+      "product_description": "Axis Bank Virtual Gift Card (INR 1000)",
+      "points_required": 1400
+    },
+    {
+      "product_description": "Axis Bank Virtual Gift Card (INR 2500)",
+      "points_required": 3400
+    },
+    {
+      "product_description": "Axis Bank Virtual Gift Card (INR 5000)",
+      "points_required": 6750
+    },
+    {
+      "product_description": "Bajaj ELX16LED Emergency Light",
+      "points_required": 2365
+    },
+    {
+      "product_description": "Philips HP8143/00 Dryer",
+      "points_required": 1175
+    },
+    {
+      "product_description": "Amazon Pay eGift Card (INR 1000)",
+      "points_required": 1500
+    },
+    {
+      "product_description": "Amazon Pay eGift Card (INR 2000)",
+      "points_required": 3000
+    },
+    {
+      "product_description": "Amazon Pay eGift Card (INR 5000)",
+      "points_required": 7500
+    },
+    {
+      "product_description": "Shoppers Stop e-Voucher (INR 2000)",
+      "points_required": 3000
+    },
+    {
+      "product_description": "Shoppers Stop e-Voucher (INR 5000)",
+      "points_required": 7500
+    },
+    {
+      "product_description": "Make My Trip e-Voucher (INR 2000)",
+      "points_required": 3000
+    }
+  ],
+  "reward_redemption_options": [
+    "Redeem rewards against e‑vouchers, gift cards and other products by calling customer care 1800 419 0064",
+    "Redeem the rewards earned against e-vouchers, gift cards and other products",
+    "e-vouchers",
+    "gift cards",
+    "other products",
+    "Axis Bank Virtual Gift Cards",
+    "E-vouchers"
+  ],
+  "reward_exclusions": [
+    "Fuel purchases",
+    "Wallet load transactions",
+    "EMI conversion transactions",
+    "No Reward Points on Fuel purchases",
+    "Government services",
+    "Education",
+    "Utilities",
+    "Rental payments",
+    "Fuel",
+    "Cash Advances"
+  ],
+  "reward_caps": [
+    "Valid on transaction between ₹ 400 to ₹ 4000; Maximum monthly benefit up to ₹ 400",
+    "Maximum monthly benefit up to 400",
+    "Maximum 75 virtual gift cards per financial year"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings up to 15% on flights & hotels via MakeMyTrip (Wednesday Delight)",
+    "10% off orders via Swiggy (Wednesday Delight)",
+    "10% off up to ₹1000 on Tira (Wednesday Delight)",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "hotel_benefits": [
+    "Instant savings up to 15% on hotels via MakeMyTrip (Wednesday Delight)",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip"
+  ],
+  "airline_benefits": [
+    "Instant savings up to 15% on flights via MakeMyTrip (Wednesday Delight)"
+  ],
+  "forex_benefits": [
+    "Earn 2 Reward points for every ₹ 100 spent on foreign currency transactions"
+  ],
+  "dining_benefits": [
+    "10% off orders via Swiggy (Wednesday Delight)",
+    "10% off up to ₹1000 on Tira (Wednesday Delight)",
+    "10% off on orders via Swiggy"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+    "GST on fuel surcharge is non‑refundable"
+  ],
+  "shopping_benefits": [
+    "10% off up to ₹ 1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "insurance_benefits": [
+    "Complimentary lost card liability insurance cover up to credit limit"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert transactions of ₹1500 or more into easy EMI",
+    "Convert your transaction of ₹ 1500 or more into easy EMI",
+    "Convert purchases to EMI on transactions of 1500 or more"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on fuel purchases at all fuel stations across India",
+  "eligibility": [
+    "Primary cardholder age between 18 and 70 years",
+    "Resident of India",
+    "Primary cardholder between the age of 18 and 70 years",
+    "The individual should be a Resident of India"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN card photocopy or Form 97",
+    "Colour photograph",
+    "Latest payslip / Form 16 / IT return copy as proof of income",
+    "Residence proof (Passport, Ration Card, Electricity bill, Landline telephone bill)",
+    "Identity proof (Passport, Driving License, PAN Card, Aadhaar card)",
+    "Latest payslip/Form 16/IT return copy as proof of income",
+    "Residence proof (any one of the following): Passport, Ration Card, Electricity bill, Landline telephone bill",
+    "Identity proof (any one of the following): Passport, Driving License, PAN Card, Aadhaar card"
+  ],
+  "charges": [
+    "Joining Fee: Nil",
+    "Annual Fee: Nil",
+    "Add-on Card Joining Fee: Nil",
+    "Add-on Card Annual Fee: Nil",
+    "Card Replacement Fee: Nil",
+    "Cash Payment Fees: ₹ 175",
+    "Duplicate Statement Fee: Waived",
+    "Charge Slip Retrieval Fee or Copy Request Fee: Waived",
+    "Outstation Cheque Fee: Waived",
+    "Mobile Alerts for Transactions: Free",
+    "Hotlisting Charges: Nil",
+    "Balance Enquiry Charges: Waived",
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹ 500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹ 500; ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000; ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000; ₹ 1200 if total payment due is greater than ₹ 10,000; Additional ₹ 100 on missing payment of Minimum Amount Due for two consecutive cycles",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹ 500)",
+    "Cheque Return or Dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. ₹ 500",
+    "Surcharge on Purchase or Cancellation of Railway Tickets: As prescribed by IRCTC / Indian Railways",
+    "Foreign Currency Transaction Fee: 3.5% of the transaction value",
+    "Reward redemption fee: ₹ 30",
+    "Rent Transaction fee: 1% fee per transaction on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Education Transaction Fee: 1% fee per transaction on education payments made via third party apps",
+    "Utility Transaction Fee: 1% fee on cumulative spends of ₹ 25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee: 1% fee on cumulative spends of ₹ 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee: 1% fee on cumulative spends of ₹ 10,000 or more on online skill‑based gaming platforms per statement cycle",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹ 500, ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000, ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000, ₹ 1200 if total payment due is greater than ₹ 10,000",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% will be applicable on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Education Transaction Fee: 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms per statement cycle",
+    "Cash Payment Fees: 175",
+    "Cash Withdrawal Fees: 2.5% (Min. 500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than 500, 500 if total payment due is between 501 - 5,000, 750 if total payment due is between 5,001 - 10,000, 1200 if total payment due is greater than 10,000. Additional 100 on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles.",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. 500)",
+    "Cheque Return or Dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. 500",
+    "Reward redemption fee: 30",
+    "Rent Transaction fee (Applicable from 5th March 2023): 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup (Applicable from 5th March 2023): 1.5% will be applicable on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Education Transaction Fee (Applicable from 20th Dec 2024): 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction Fee (Applicable from 20th Dec, 2024): 1% fee will be applicable on cumulative spends of 25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee (Applicable from 20th Dec 2024): 1% fee will be applicable on cumulative spends of 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee (Applicable from 20th Dec 2024): 1% fee will be applicable on cumulative spends of 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee (Applicable from 20th Dec 2024): 1% fee will be applicable on cumulative spends of 10,000 or more on online skill-based gaming platforms per statement cycle",
+    "Handling charge of Rs.30 + GST per reward redemption request"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail Purchases & Cash): 3.75% per month (55.55% per annum)",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹ 500) of the cash amount"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee details as above",
+    "Over Limit Penalty: 2.5% of over the limit amount (Min. ₹ 500)",
+    "Cheque Return or Dishonour Fee or Auto-debit Reversal: 2% of the payment amount subject to Min. ₹ 500",
+    "Cash Payment Fees: ₹ 175",
+    "Cash Withdrawal Fees: 2.5% (Min. ₹ 500) of the cash amount",
+    "Overdue Penalty or Late Payment Fee: Nil if Total Payment Due is less than ₹ 500, ₹ 500 if total payment due is between ₹ 501 - ₹ 5,000, ₹ 750 if total payment due is between ₹ 5,001 - ₹ 10,000, ₹ 1200 if total payment due is greater than ₹ 10,000",
+    "Reward redemption fee: ₹ 30",
+    "Rent Transaction fee: 1% fee per transaction will be applicable on rental transactions",
+    "Dynamic Currency Conversion markup: 1.5% will be applicable on international transactions performed in Indian currency at international location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    "Education Transaction Fee: 1% fee per transaction will be applicable on education payments made via third party apps",
+    "Utility Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 25,000 or more on utilities per statement cycle",
+    "Wallet Load Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on wallet loads per statement cycle",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 50,000 or more on fuel transactions per statement cycle",
+    "Online Skill Based Gaming Transaction Fee: 1% fee will be applicable on cumulative spends of ₹ 10,000 or more on online skill-based gaming platforms per statement cycle"
+  ],
+  "spend_conditions": [
+    "Valid on transaction between ₹ 400 to ₹ 4000; Maximum monthly benefit up to ₹ 400",
+    "Earn 2 Reward points for every ₹ 100 spent on LIC Premium payment and foreign currency transactions",
+    "Earn 1 Reward point for every ₹ 100 spent on all other transactions except fuel, wallet load and EMI conversions",
+    "Valid on transaction between 400 to 4000"
+  ],
+  "benefit_conditions": [
+    "GST on fuel surcharge is non refundable",
+    "No Reward Points on Fuel purchases",
+    "Valid on transaction between ₹ 400 to ₹ 4000; Maximum monthly benefit up to ₹ 400",
+    "2X Reward points on LIC Insurance payments via official LIC premium payment gateways"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [
+    "Wednesday Delight: 10% off on orders via Swiggy",
+    "Wednesday Delight: 10% off up to ₹ 1000 on Tira",
+    "Wednesday Delight: Instant savings up to 15% on flights & hotels via MakeMyTrip",
+    "Instant savings of up to 15% on flights & hotels via MakeMyTrip",
+    "10% off on orders via Swiggy",
+    "10% off up to ₹ 1000 on Tira"
+  ],
+  "limited_period_offers": [
+    "Wednesday Delight offers (mid‑week) as described above",
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "important_terms": [
+    "Revision effective from 20th Dec 2024",
+    "Eligibility criteria are indicative; bank reserves right to approve or decline applications",
+    "Reward points validity of one year from date of accumulation",
+    "Points expire after 12 months",
+    "Reward points earned listed in Plus point summary on monthly statement",
+    "Redemption via call to 1800 419 0064",
+    "Physical products delivered within 21 working days",
+    "E-vouchers and virtual gift cards sent via SMS/email within 10 working days",
+    "Redemption limit of 75 virtual gift cards per financial year"
+  ],
+  "excluded_categories": [
+    "Fuel purchases (for reward points)",
+    "Wallet load transactions (for reward points)",
+    "EMI conversion transactions (for reward points)",
+    "No Reward Points on Fuel purchases",
+    "Government services",
+    "Education",
+    "Utilities",
+    "Rental payments",
+    "Fuel",
+    "Cash Advances"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Platinum Credit Card\\AXIS_Lic Axis Bank Platinum Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Platinum Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Platinum Credit Card\\main.pdf",
+    "LIC Credit Cards Rewards Catalogue",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Lic Axis Bank Platinum Credit Card\\REWARDS\\lic-rewards-points-terms-and-conditions.pdf"
+  ]
+}

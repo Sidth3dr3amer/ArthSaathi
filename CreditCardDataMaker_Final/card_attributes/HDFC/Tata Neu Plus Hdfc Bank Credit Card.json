@@ -1,0 +1,341 @@
+{
+  "card_name": "Tata Neu Plus Hdfc Bank Credit Card",
+  "card_network": "Visa/RuPay",
+  "card_type": "Rewards Credit Card",
+  "joining_fee": 499,
+  "annual_fee": 499,
+  "fee_waiver_condition": "Membership fee for the next year will be waived on spends of Rs 1 lakh in the previous anniversary year",
+  "welcome_benefits": [
+    "Welcome Benefit of 499 NeuCoins (as reversal of 1st Year Membership Fees) will be given to the cardholder by Tata Digital Private Limited inside Tata Neu App. Welcome Benefit is applicable on 1st Transaction done within 30 days of card issuance and will be available to claim inside Tata Neu App within 60 days of such transaction.",
+    "499 NeuCoins on Tata Neu App as reversal of 1st Year Membership Fees (claimable within 60 days of first transaction)"
+  ],
+  "reward_structure": [
+    "Non-EMI Retail Spends on partner Tata Brands: 2% back as NeuCoins",
+    "Non-EMI Retail Spends on Non-Tata Brands: 1% back as NeuCoins",
+    "Merchant EMI Spends (Any Brand): 1% back as NeuCoins",
+    "Any UPI Spends on RuPay Credit Card (Including partner Tata Brands): 1% back as NeuCoins (max of 500 NeuCoins per calendar month)",
+    "0.25% back as NeuCoins for transactions done using any UPI ID (Google Pay, PhonePe, Cred, etc.)",
+    "Additional 0.75% back as NeuCoins if the transaction is done using the Tata Neu UPI ID",
+    "Total NeuCoins earned on eligible UPI transactions are capped to 500 NeuCoins per month",
+    {
+      "category": "Tata Neu and partner Tata Brand spends",
+      "rate": "2% back as NeuCoins"
+    },
+    {
+      "category": "Other non-UPI spends",
+      "rate": "1% back as NeuCoins"
+    },
+    {
+      "category": "Selected categories on Tata Neu App/Website",
+      "rate": "Additional 5% back as NeuCoins"
+    },
+    {
+      "category": "Eligible UPI spends",
+      "rate": "Up to 1% back as NeuCoins (0.25% base + 0.75% extra via Tata Neu UPI ID)"
+    },
+    {
+      "type": "Tata NeuCoins",
+      "description": "Earned as a percentage of spends"
+    },
+    {
+      "type": "Tata Neucoins",
+      "description": "Rewards points awarded on or credited to the Co-branded Card in respect of the Cardmember's Qualifying Expenditure that may be redeemed by the Cardmember at TATA Neu's platforms as specified under the TATA Neu Loyalty Program"
+    },
+    "2% back as NeuCoins on Non-EMI Retail Spends on partner Tata Brands",
+    "1% back as NeuCoins on Non-EMI Retail Spends on Non-Tata Brands",
+    "1% back as NeuCoins on Merchant EMI Spends (Any Brand)",
+    "1% back as NeuCoins on Any UPI Spends on Rupay Credit Card (max of 500 NeuCoins per calendar month)"
+  ],
+  "reward_redemption_options": [
+    "NeuCoins can be utilized at the rate of 1 NeuCoin = ₹1",
+    "Redeem via Tata Pay for Tata Neu, Air India Express, bigbasket, Croma, IHCL hotels",
+    "Redeem via ‘NeuCoins’ / ‘Use my NeuCoins’ / ‘Loyalty Redemption’ for Tata Cliq, Tata 1mg, Titan/Tanishq",
+    "Redeem at stores for Croma, IHCL hotels, Westside",
+    "Redeem NeuCoins on Tata Neu App for purchases at Air India Express, Bigbasket, Croma, Westside, Tata CLiQ, Tata CLiQ Luxury, IHCL hotel bookings, TATA 1MG, Titan and Tanishq",
+    {
+      "description": "Tata Neucoins can be redeemed by the Cardmember through the TATA Neu's platform/application."
+    },
+    "Redeem NeuCoins on Tata Neu Rewards Program-Eligible Purchases",
+    "Redeem NeuCoins via Tata Pay on Tata Neu, Air India Express, bigbasket, Croma, IHCL hotels",
+    "Redeem NeuCoins via Tata Neu for Titan/Tanishq",
+    "Redeem NeuCoins at Croma, IHCL hotels, Westside via Tata Neu"
+  ],
+  "reward_exclusions": [
+    "Fuel Spends",
+    "Wallet loads / Gift or Prepaid Card load / Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction",
+    "Rental and Government related transactions",
+    "With effect from 1st Sep 2024, Education payments made through third-party apps like CRED, Cheq, MobiKwik, and others",
+    "With effect from 1st July 2025, Online Skill-Based Gaming transactions (MCC-5816)",
+    "Fuel transactions",
+    "Wallet transactions",
+    "Rental transactions",
+    "Government transactions",
+    "Online Gaming related transactions",
+    "Education payments via third‑party apps (CRED, Cheq, MobiKwik, etc.)",
+    {
+      "description": "Tata Neucoins will not accrue on interest charges, government taxes/charges, fees, Card Account adjustments resulting from disputed transactions or otherwise, cash advances, quasi cash transactions, and any transaction that is treated as a cash advance, such as transfers from other financial institution's card accounts, for example balance transfer, foreign exchange, traveller's cheques and gambling chip purchases and/or as notified by the Bank from time to time. Tata Neucoins will also not accrue on transactions for Rent, Wallet Load, EMI, Fuel, Government Categories."
+    },
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Education payments made through third-party apps like CRED, Cheq, MobiKwik, and others",
+    "Online Skill-Based Gaming transactions (MCC-5816)"
+  ],
+  "reward_caps": [
+    "Grocery Transactions: 1,000 NeuCoins per month",
+    "Insurance Transactions: 2,000 NeuCoins per month",
+    "Utility Transactions: 2,000 NeuCoins per month",
+    "Telecom & Cable Transactions: 2,000 NeuCoins per month",
+    "UPI transactions: 500 NeuCoins per month",
+    {
+      "category": "Grocery transactions",
+      "cap": "1,000 NeuCoins per month"
+    },
+    {
+      "category": "Utility transactions",
+      "cap": "2,000 NeuCoins per month"
+    },
+    {
+      "category": "Telecom & Cable transactions",
+      "cap": "2,000 NeuCoins per month"
+    },
+    {
+      "category": "Insurance transactions",
+      "cap": "2,000 NeuCoins per month"
+    },
+    {
+      "category": "UPI payments",
+      "cap": "500 NeuCoins per month"
+    },
+    "500 NeuCoins per calendar month on UPI Spends",
+    "1,000 NeuCoins per month on Grocery Transactions",
+    "2,000 NeuCoins per month on Insurance Transactions",
+    "2,000 NeuCoins per month on Utility Transactions",
+    "2,000 NeuCoins per month on Telecom&Cable Transactions"
+  ],
+  "cashback_benefits": [
+    "1% fuel surcharge waiver at all fuel stations (minimum transaction ₹400, maximum ₹5,000, max waiver ₹250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "milestone_benefits": [
+    "Complimentary Domestic Lounge Voucher on spend of ₹50,000 or more in a calendar quarter (up to 4 vouchers per year)"
+  ],
+  "lounge_access": [
+    "Domestic Lounge West PH1 (Terminal 1)",
+    "Domestic Lounge West PH2 (Terminal 1)",
+    "Domestic Lounge East (Terminal 1)",
+    "International Lounge (Terminal 2)",
+    "Travel Club Lounge A (Terminal 1)",
+    "Travel Club Lounge B (Terminal 1)",
+    "International Terminal 2",
+    "Encalm Lounge (Terminal 1)",
+    "Travel Club Lounge (Terminal 1)",
+    "Adani Lounge (Terminal 2)",
+    "Adani East Lounge (Terminal 2)",
+    "Encalm Lounge (Terminal 3)",
+    "Domestic lounge access voucher (1 per quarter, up to 4 per year)",
+    "Spend Rs 50,000 or more in a calendar quarter (Jan-Mar | Apr-June | Jul-Sept | Oct-Dec) to get 1 Domestic Lounge Access voucher",
+    "For Details on Airport Lounge Access Feature of the card click here"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver (max ₹250 per statement cycle)",
+    "1% Fuel Surcharge waiver on fuel transactions (Minimum transaction of ₹400, Maximum transaction of ₹5,000 & Maximum waiver of ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "1% back as NeuCoins on the below type of EMI’s: Merchant/EasyEMI, Aggregator EMI, Brand EMI",
+    "Only EMI principal amount will be rewarded with NeuCoins",
+    "Interest & processing fees amounts will not be eligible for NeuCoins",
+    "Option to convert big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% up to ₹250 per statement cycle",
+  "eligibility": [
+    "Nationality: Indian",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed)",
+    "Income: Gross monthly income greater than ₹25,000 (Salaried)",
+    "Income: Income Tax Return (ITR) greater than ₹712 lakh per annum (Self-Employed)",
+    "Age: Minimum 21 years, Maximum 60 years (Salaried Applicants)",
+    "Age: Minimum 21 years, Maximum 65 years (Self-Employed Applicants)",
+    "Income: Gross monthly income greater than ₹25,000 (Salaried Applicants)",
+    "Income: Income Tax Return (ITR) greater than ₹712 lakh per annum (Self-Employed Applicants)",
+    "For Salaried Applicants: Nationality: Indian, Age: Minimum 21 years, Maximum 60 years, Income: Gross monthly income greater than ■25,000",
+    "For Self-Employed Applicants: Age: Minimum 21 years, Maximum 65 years, Income: Income Tax Return (ITR) greater than ■712 lakh per annum",
+    "Salaried Indian, age 21–60, monthly income ≥ ₹25,000",
+    "Self‑employed Indian, age 21–65, annual ITR > ₹6,00,000"
+  ],
+  "income_requirements": [
+    "Gross monthly income greater than ₹25,000 (Salaried)",
+    "Income Tax Return (ITR) greater than ₹712 lakh per annum (Self-Employed)",
+    "Gross monthly income > ₹25,000 (Salaried)",
+    "ITR > ₹712 lakh per annum (Self-Employed)",
+    "Gross monthly income greater than ■25,000 for salaried applicants",
+    "Income Tax Return (ITR) greater than ■712 lakh per annum for self-employed applicants",
+    "Monthly income ≥ ₹25,000 for salaried applicants",
+    "Annual taxable income > ₹6,00,000 for self‑employed applicants"
+  ],
+  "documents_required": [
+    "Identity Proof (Passport, Aadhaar card, Voter ID, Driving licence, PAN card)",
+    "Passport size photographs",
+    "Address Proof (Utility bills, Rental agreement, Bank statement)",
+    "Income Proof (Salary slips, Form 16, Income Tax Returns, Bank statements)"
+  ],
+  "charges": [
+    {
+      "type": "Joining Membership Fee",
+      "amount": 499,
+      "notes": "Applicable on 120th day of card issuance, plus taxes"
+    },
+    {
+      "type": "Renewal Fee",
+      "amount": "Same as joining fee (₹499) unless waived by spend condition",
+      "notes": "Waived on spending ₹1,00,000 in a year before renewal date"
+    }
+  ],
+  "interest_rates": [
+    "3.75% per month"
+  ],
+  "fees_and_penalties": [
+    "Membership fee/ Renewal fee of Rs 499 + Applicable Taxes is applicable",
+    "Fuel surcharge waiver (1% up to ₹250 per statement cycle)"
+  ],
+  "spend_conditions": [
+    "Membership fee for the next year will be waived on spends of Rs 1 lakh in the previous anniversary year",
+    "Spend ₹50,000 in a calendar quarter to earn one domestic lounge voucher",
+    "Reward caps as specified per category",
+    "Spend Rs 50,000 or more in a calendar quarter (Jan-Mar | Apr-June | Jul-Sept | Oct-Dec)"
+  ],
+  "benefit_conditions": [
+    "Welcome Benefit is applicable on 1st Transaction done within 30 days of card issuance and will be available to claim inside Tata Neu App within 60 days of such transaction",
+    "For eligible customers, option to claim the Welcome Benefit will be available inside Tata Neu App for 180 days from statement date of the eligible transaction",
+    "The validity of the NeuCoins given against Welcome Benefit will be 365 days from the claim date",
+    "W.e.f 10-Jun-2025, Domestic Lounge Access benefit will be Milestone based and can be availed as a Lounge Voucher on spends of Rs 50,000 or more in a calendar quarter.",
+    "Complimentary lounge access on direct swipe-off is discontinued effective midnight of 09-Jun-2025 23:59:59hrs.",
+    "To use the Participating Airport Lounge, customer's must be validated at point of entry by sharing voucher details with the lounge operator.",
+    "The voucher can only be used by the person whose name is stated at the top of their voucher. Proof of identification will be required to gain entry.",
+    "The offer is not transferable, non-negotiable and cannot be encashed",
+    "Bank has sole and absolute discretion- may alter, cancel, or amend eligibility of any credit card, or card feature/benefits, at any time without prior notice.",
+    "Please note that additional charge may occur for meal/food/drink items (especially Alcoholic Drinks) as well as for services like Nap, Massage Service and Spa as per the discretion of the Participating Airport Lounge.",
+    "Participating Airport Lounges may reserve the right to enforce a maximum stay policy (usually 2 - 3 hours) to prevent overcrowding. This is at the discretion of the individual Lounge operator who may impose a charge for extended stays",
+    "HDFC Bank shall not be liable under any circumstances for the services provided at and by the Participating Lounges.",
+    "Additional 5% NeuCoins on selected categories require downloading Tata Neu App, registering for NeuPass, and using primary card holder mobile number",
+    "UPI extra 0.75% NeuCoins requires using Tata Neu UPI ID",
+    "If your card is upgraded, lost, or reissued, spends done on only new card will be considered. Spends done on previous card will not be considered for qualification.",
+    "The Net spends (Debits / Purchases minus Credit / reversals), will be considered as per the posting date (settlement date).",
+    "Reversal of transactions of previous calendar quarter will be treated as per following example: In case the transaction was done in period Jan-Mar, but the reversal of the same transaction comes in period Apr-Jun (another quarter), then the reversal will be considered and deducted in period Apr-Jun spends calculation and so-on.",
+    "In case of EMI transactions, only the Principal Amount Billed with Monthly EMI will be considered.",
+    "2% back as NeuCoins on Non-EMI Retail Spends on partner Tata Brands",
+    "1% back as NeuCoins on Non-EMI Retail Spends on Non-Tata Brands",
+    "1% back as NeuCoins on Merchant EMI Spends (Any Brand)",
+    "1% back as NeuCoins on Any UPI Spends on Rupay Credit Card (max of 500 NeuCoins per calendar month)"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waiver on spending ₹1,00,000 in a year before renewal date"
+  ],
+  "partner_programs": [
+    "NeuPass Membership: Additional 5% NeuCoins on selected categories on Tata Neu",
+    "Tata Neu and partner Tata Brands",
+    "Selected categories on Tata Neu App/Website",
+    {
+      "name": "Tata Neu Loyalty Program",
+      "link": "https://www.tataneu.com/about-neupass"
+    },
+    {
+      "name": "TATA Neu Loyalty Program",
+      "description": "The Rewards Points program of TATA Neu whereby Cardmembers will be entitled to membership benefits, including by way of TATA Neucoins, as per terms and conditions of the governing the program."
+    }
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Lifetime Free offer for applications between 1 Oct 2024 and 31 Dec 2024 via digital or physical channels"
+  ],
+  "important_terms": [
+    "NeuCoins earned on your Tata Neu HDFC Bank Credit Card will have a validity of 12 months (including lock period) from the end of the month in which they're credited to your Tata Neu Account",
+    "Validity of Existing NeuCoins balance: Non-Promotional NeuCoins: Validity set as 31-Jul-26 in your Tata Neu Account",
+    "Promotional NeuCoins/Welcome Benefit: Continue to follow the expiry terms communicated at the time of issuance",
+    "NeuCoins validity 12 months from end of month credited",
+    "Caps on NeuCoins earnings per category",
+    "Exclusions for fuel, wallet, rental, government, online gaming, and certain education payments",
+    {
+      "description": "Reward points are valid for 2 years from the date of accumulation, except for specific card variants with different validity periods."
+    },
+    "Complimentary lounge access on direct swipe-off is discontinued effective midnight of 11-Jun-2025 23:59:59 hrs.",
+    "On meeting the spends criteria of Rs 50,000 or more in a calendar quarter, you’ll receive a SMS and email (on your registered Mob & email id) within 30 working days, with link to claim the lounge voucher.",
+    "Customers are required to claim the voucher within 120 days of the receiving the qualification communication.",
+    "The Lounge voucher after claiming can be used only in the eligible lounge list as updated on the product page.",
+    {
+      "description": "The Cardmember hereby agrees and understands that the TATA Neu Loyalty Program can be accessed through the TATA Neu's platform/application. The Cardmember hereby further agrees and understands that the Tata Neucoins can be redeemed by the Cardmember through the TATA Neu's platform/application."
+    },
+    {
+      "description": "The Cardmember hereby agrees that the Tata Neucoins earned/accrued on the Co-branded Card shall be subject to changes from time to time including de-valuation of the Tata Neucoins, change in the terms of accrual/ earning/ redemption of the Tata Neucoins, revisions in the period of lapse of the Tata Neucoins, change in the limits for redemption of the Tata Neucoins including the limits on redemption of Tata Neucoins in a single purchase and/or on the portion of the cost of a transaction that can be paid using Tata Neucoins (and requirement of the balance to funded by the Cardmember), etc. The Customer agrees that such changes in the terms may also be for the points already earned/ accrued by the Cardmember."
+    },
+    "NeuCoins earned on your Tata Neu HDFC Bank Credit Card will have a validity of 12 months (including lock period) from the end of the month in which they're credited to your Tata Neu Account.",
+    "Non-Promotional NeuCoins: The validity of your existing balance of Non-Promotional NeuCoins (earned before 01-Aug-25) will be set as 31-Jul-26 in your Tata Neu Account, this activity will start from Jul’25 and will be completed by Aug’25 in a phased manner.",
+    "Promotional NeuCoins/Welcome Benefit: NeuCoins earned during special promotions or as Welcome Benefit will continue to follow the expiry terms communicated at the time of issuance."
+  ],
+  "excluded_categories": [
+    "Fuel Spends",
+    "Wallet loads / Gift or Prepaid Card load / Voucher purchase",
+    "Cash Advances",
+    "Payment of Outstanding Balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transaction",
+    "Rental and Government related transactions",
+    "With effect from 1st Sep 2024, Education payments made through third-party apps like CRED, Cheq, MobiKwik, and others",
+    "With effect from 1st July 2025, Online Skill-Based Gaming transactions (MCC-5816)",
+    "Fuel",
+    "Wallet",
+    "Rental",
+    "Government",
+    "Online Gaming (MCC-5816)",
+    "Education payments via third‑party apps",
+    {
+      "description": "Tata Neucoins will not accrue on interest charges, government taxes/charges, fees, Card Account adjustments resulting from disputed transactions or otherwise, cash advances, quasi cash transactions, and any transaction that is treated as a cash advance, such as transfers from other financial institution's card accounts, for example balance transfer, foreign exchange, traveller's cheques and gambling chip purchases and/or as notified by the Bank from time to time. Tata Neucoins will also not accrue on transactions for Rent, Wallet Load, EMI, Fuel, Government Categories."
+    },
+    "Wallet loads / Gift or Prepaid Card load/ Voucher purchase",
+    "Education payments made through third-party apps like CRED, Cheq, MobiKwik, and others",
+    "Online Skill-Based Gaming transactions (MCC-5816)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\HDFC_Tata Neu Plus Hdfc Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\FAQ\\tata_neu_plus_card_faq.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\LOUNGE\\complimentary-domestic-airport-lounge-access-tata-neu-plus.pdf",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\MITC\\mitc-in-english1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\MITC\\mitc-in-english2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\MITC\\mitc-in-english3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\MITC\\mitc-in-english4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\MITC\\mitc-in-english5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\REWARDS\\milestone_lounge_tata-neu-cc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\TERMS\\card-member-agreement-29-10-20191.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\TERMS\\card-member-agreement-29-10-20192.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\TERMS\\card-member-agreement-29-10-20193.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\TERMS\\tata-neu-pass-neucoins-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Tata Neu Plus Hdfc Bank Credit Card\\TERMS\\tata_neu_plus_card_tnc.pdf"
+  ]
+}

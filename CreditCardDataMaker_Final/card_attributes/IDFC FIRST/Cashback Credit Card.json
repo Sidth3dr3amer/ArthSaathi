@@ -1,0 +1,116 @@
+{
+  "card_name": "Cashback Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": null,
+  "annual_fee": null,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "1% cashback on every spend via the IDFC FIRST Bank mobile app",
+    "0.5% cashback on UPI spends via other apps (PhonePe, Google Pay, BHIM, etc.)",
+    "0.5% cashback on all utility, insurance, and wallet load transactions",
+    "5% cashback on incremental online spends above ₹10,000 (up to ₹18,000 per year)",
+    "3% cashback on online spends up to ₹10,000",
+    "1% cashback on in‑store swipes and essential category spends (rent, utility, insurance, education, FASTag, etc.)",
+    "Additional 1% cashback on hotel and flight bookings via the IDFC FIRST Bank app",
+    "Earn up to 10x Reward Points on foreign currency spends",
+    "Earn Milestone Rewards of 5,000 Reward Points on ₹10 lakhs spends in a year",
+    "Earn Milestone Rewards of 10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [
+    "1% cashback on all app‑based transactions",
+    "0.5% cashback on UPI transactions through third‑party apps",
+    "0.5% cashback on utility, insurance, and wallet loads",
+    "5% cashback on online spends above ₹10,000 (capped at ₹18,000 per year)",
+    "3% cashback on online spends up to ₹10,000",
+    "1% cashback on in‑store purchases and essential categories",
+    "Extra 1% cashback on hotel and flight bookings via the bank app"
+  ],
+  "milestone_benefits": [
+    "5,000 Reward Points on ₹10 lakhs spends in a year",
+    "10,000 Reward Points on ₹20 lakhs spends in a year"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "10x Reward Points on foreign currency spends"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [
+    "100% Credit Limit against Fixed Deposits with Corporate Liability"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Age: 18 years and above",
+    "No income proof needed",
+    "No credit score required"
+  ],
+  "income_requirements": [
+    "No income proof needed"
+  ],
+  "documents_required": [
+    "Identity proof (Aadhaar card, PAN card, passport)",
+    "Address proof (Utility bill, Aadhaar)"
+  ],
+  "charges": [],
+  "interest_rates": [
+    "Industry Lowest Interest (APR%) Starting from 15% p.a."
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "25% discount up to ₹100 on movie tickets booked on District by Zomato"
+  ],
+  "merchant_offers": [
+    "25% discount up to ₹100 on movie tickets via District by Zomato",
+    "Exclusive discounts on dining, fuel, and partner brands"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Overseas transactions are subject to applicable foreign currency markup fees",
+    "Cashback limits may apply per billing cycle or annually as defined in the card’s benefit section"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\IDFC FIRST_Cashback Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\summary.txt",
+    "CARD DATA",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\MITC\\MITC-Document-Customer1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\MITC\\MITC-Document-Customer2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\MITC\\MITC-Document-Customer3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\PRODUCT_GUIDE\\FirstWings-StartupBrochure2.pdf",
+    "CARDMEMBER AGREEMENT IDFC FIRST Bank Credit Cards",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement5.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\IDFC FIRST\\Cashback Credit Card\\TERMS\\Card-Member-Agreement6.pdf"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "card_name": "International Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": null,
+  "annual_fee": null,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [],
+  "cashback_benefits": [],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Unlimited Airport Lounge Access*",
+    "Unlimited Airport Lounge Access"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Low foreign currency mark-ups*",
+    "Low foreign currency mark-ups"
+  ],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Age: Minimum 21 & Maximum 65",
+    "Employment status: Either self-employed or salaried",
+    "Nationality: Indian"
+  ],
+  "income_requirements": [
+    "You can check with the bank for the minimum income requirement for each Credit Card variant."
+  ],
+  "documents_required": [
+    "Identity & address proof: Aadhaar, PAN, voter ID, valid passport, driver’s licence.",
+    "Income proof: Salary slip, bank statements, income tax return."
+  ],
+  "charges": [
+    "*Fees & charges are subject to change."
+  ],
+  "interest_rates": [
+    "Interest will be applicable on the outstanding balance, i.e., balance from not paying the entire bill amount. Interest is also applicable on cash withdrawals.",
+    "HDFC Bank offers an interest free period of up to 50 days."
+  ],
+  "fees_and_penalties": [
+    "Joining fee, card renewal fee, and forex markup fee are some common charges that may be applicable on an international Credit Card."
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [],
+  "renewal_benefits": [],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "*Fees & charges are subject to change.",
+    "Benefits and rewards: Choose an international Credit Card that offers benefits and rewards aligning with your interest.",
+    "Fees and charges: Joining fee, card renewal fee, and forex markup fee are some common charges that may be applicable on an international Credit Card.",
+    "Interest: Interest will be applicable on the outstanding balance, i.e., balance from not paying the entire bill amount. Interest is also applicable on cash withdrawals."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\International Credit Card\\HDFC_International Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\International Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\International Credit Card\\main.pdf"
+  ]
+}

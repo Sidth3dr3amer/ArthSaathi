@@ -1,0 +1,199 @@
+{
+  "card_name": "Platinum Times Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 1000,
+  "annual_fee": 1000,
+  "fee_waiver_condition": "Spending over ■2.5 lakh in a year gets a renewal fee waiver",
+  "welcome_benefits": [],
+  "reward_structure": [
+    "3 Reward Points for every ■150 spent on your card",
+    "10 Reward Points on every ■150 spent on dining spends on weekdays",
+    {
+      "reward_type": "Reward Points",
+      "reward_rate": "3 points per ₹200 spent",
+      "effective_from": "15th May 2026"
+    }
+  ],
+  "reward_redemption_options": [
+    "Click here to redeem"
+  ],
+  "reward_exclusions": [
+    "Fuel transactions",
+    "Insurance transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "Education payments made via CRED, Cheq, MobiKwik, etc.",
+    "Reward Points accrued for utility/telecom/cable transactions will be capped at 2,000/month",
+    "Rewards on grocery transactions will be capped at 1,000 per month"
+  ],
+  "reward_caps": [
+    "Reward Points accrued for utility/telecom/cable transactions will be capped at 2,000/month",
+    "Rewards on grocery transactions will be capped at 1,000 per month",
+    "Reward Points accrued for Insurance transactions will have a maximum cap of 2,000 per day"
+  ],
+  "cashback_benefits": [
+    "Up to 5% CashBack on utility bills via SmartPay",
+    "Up to 5% CashBack on shopping via SmartBuy",
+    "Get up to 10% CashBack on flight and hotel bookings, gift vouchers and more via SmartBuy",
+    "1% fuel surcharge waiver on ■400-■4,000 transactions, max ■500 cashback per cycle"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Up to 10% CashBack on flight and hotel bookings"
+  ],
+  "hotel_benefits": [
+    "Up to 10% CashBack on hotel bookings"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    {
+      "forex_markup": "1.75%",
+      "effective_from": "15th May 2026"
+    }
+  ],
+  "dining_benefits": [
+    "15% instant discount up to ₹1500 on restaurant bills via PayEazy on EazyDiner",
+    "10 Reward Points on every ■150 spent on dining spends on weekdays",
+    "Up to 20% off on shopping, wellness, and hotels at selected partners"
+  ],
+  "movie_benefits": [
+    "50% discount on movie ticket price (excluding convenience fee) on BookMyShow",
+    "Maximum 4 discounted tickets per card per month",
+    "Maximum discount Rs600 per transaction",
+    "Daily quota for discounted tickets refreshes at midnight",
+    "Rs50 food & beverage discount available once per user",
+    "50% off on movie tickets via BookMyShow (up to 4 discounted tickets per card monthly, maximum discount is ■600 per transaction)"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on ■400-■4,000 transactions, max ■500 cashback per cycle"
+  ],
+  "shopping_benefits": [
+    "Up to 20% off on shopping, wellness, and hotels at selected partners",
+    "Up to 5% CashBack on shopping via SmartBuy",
+    "■1,000 CashBack on shopping in-app on 200 plus brands"
+  ],
+  "entertainment_benefits": [
+    "50% off on movie tickets via BookMyShow",
+    "Additional ■50 discount on food and beverages once per user",
+    "Up to 15% off your bill when paying via PayEazy",
+    "With Times Prime annual membership, benefit from Gaana Plus, SonyLIV, TOI plus, Chaayos, Uber, Myntra and more"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [
+    "Zero liability on fraudulent Credit Card transactions reported immediately to HDFC’s 24/7 helpline"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Option to convert big spends into EMI after purchase"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "3 Reward Points for every ■150 spent",
+  "forex_markup": "1% markup on DCC transactions",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on ■400-■4,000 transactions",
+  "eligibility": [
+    "Salaried Indian citizen",
+    "Age: Minimum 21 years and maximum 60 years.",
+    "Net monthly income: ₹35,000 and above.",
+    "Self-employed Indian citizen",
+    "Age: Minimum 21 years and maximum 65 years.",
+    "Income: Annual Income should be ₹6 lakh and above.",
+    "Salaried Indian citizen: Age 21-60 years, net monthly income ₹35,000+",
+    "Self-employed Indian citizen: Age 21-65 years, annual income ₹6 Lakh+",
+    "Salaried Indian citizens aged 21-60 years with net monthly income of ₹35,000 or more.",
+    "Self-employed Indian citizens aged 21-65 years with annual income of ₹6 Lakh or more.",
+    "Qualify for Times Prime Membership by completing 1 transaction in a calendar quarter",
+    "Not applicable for Life Time Free Card holders from 2nd year onwards",
+    "One Times Prime Membership per bank registered mobile number"
+  ],
+  "income_requirements": [
+    "Net monthly income: ₹35,000 and above for salaried individuals.",
+    "Annual income: ₹6 lakh and above for self-employed individuals.",
+    "Salaried: ₹35,000 net monthly income",
+    "Self-employed: ₹6 Lakh annual income",
+    "Salaried: Minimum net monthly income of ₹35,000",
+    "Self-employed: Minimum annual income of ₹6 Lakh"
+  ],
+  "documents_required": [],
+  "charges": [
+    "1% fee on rental transactions from the second transaction of the calendar month",
+    {
+      "charge_type": "Card re-issuance fee",
+      "charge_amount": "₹199 for non-metal card variants",
+      "effective_from": "15th May 2026"
+    }
+  ],
+  "interest_rates": [
+    "Revolving Credit is available at a nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Late payment fee if Minimum Amount Due or total amount due is not settled on time.",
+    "Non-payment may result in reporting the cardholder as a defaulter to Credit Information Companies (CIC).",
+    "Joining/Renewal Membership Fees ■1,000 plus Applicable Taxes"
+  ],
+  "spend_conditions": [
+    "Maximum 4 discounted movie tickets per card per month on BookMyShow",
+    "Maximum discount Rs600 per transaction for movie tickets",
+    "Daily quota for discounted tickets refreshes at midnight",
+    "Maximum 15% discount up to ₹1500 on restaurant bills via PayEazy on EazyDiner",
+    "Maximum Rs50 food & beverage discount on BookMyShow per user",
+    "Offers are active on completing just one transaction per calendar quarter"
+  ],
+  "benefit_conditions": [
+    "Maximum 4 discounted movie tickets per card per month on BookMyShow",
+    "Maximum discount Rs600 per transaction for movie tickets",
+    "Daily quota for discounted tickets refreshes at midnight",
+    "Maximum 15% discount up to ₹1500 on restaurant bills via PayEazy on EazyDiner",
+    "Maximum Rs50 food & beverage discount on BookMyShow per user",
+    "The Bank retains the authority to revoke the card if it remains inactive, without any transactions, for six consecutive months.",
+    "Reward Points will remain valid for 2 years from the date of earning",
+    "Reward Points accrued will be reversed if a retail transaction is converted into SmartEMI"
+  ],
+  "renewal_benefits": [
+    "Spending over ■2.5 lakh in a year gets a renewal fee waiver"
+  ],
+  "partner_programs": [
+    "Times Prime Membership provides access to 20+ subscriptions and special offers across dining, travel, shopping, entertainment",
+    "Offers on brands like Gaana Plus, TOI+, Zee5, Dineout Passport, Myntra, Lifestyle",
+    "Link your HDFC Bank Platinum Times Credit Card on PayZapp"
+  ],
+  "merchant_offers": [
+    "BookMyShow movie ticket discount",
+    "EazyDiner PayEazy restaurant discount",
+    "Up to 20% off on shopping, wellness, and hotels at selected partners",
+    "City-specific offers apply"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Discount on BookMyShow limited to 4 tickets per month, Rs600 per transaction, daily quota applies",
+    "Discount on EazyDiner limited to 15% up to ₹1500",
+    "Times Prime Membership requires 1 transaction in a calendar quarter and is limited to one per mobile number",
+    "Life Time Free Card holders not eligible for Times Prime after 2nd year",
+    "Prior written notice will be sent to the registered email address, phone number, or communication address as per the Bank's records if the card is revoked due to inactivity.",
+    "The Bank retains the authority to revoke the card if it remains inactive, without any transactions, for six consecutive months. Prior written notice will be sent to the registered email address, phone number, or communication address as per the Bank's records."
+  ],
+  "excluded_categories": [
+    "Fuel transactions",
+    "Insurance transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "Education payments made via CRED, Cheq, MobiKwik, etc.",
+    "Reward Points accrued for utility/telecom/cable transactions will be capped at 2,000/month",
+    "Rewards on grocery transactions will be capped at 1,000 per month"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\HDFC_Platinum Times Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\eligibility.pdf",
+    "HDFC Bank Platinum Times Credit Card – Frequently Asked Questions (FAQs)",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\FAQ\\hdfc-bank-platinum-times-credit-card-frequently-asked-questions-faqs.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Platinum Times Credit Card\\TERMS\\generic-mailer-tnc.pdf"
+  ]
+}

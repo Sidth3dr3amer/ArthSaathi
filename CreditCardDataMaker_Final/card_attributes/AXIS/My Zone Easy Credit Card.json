@@ -1,0 +1,302 @@
+{
+  "card_name": "My Zone Easy Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 500,
+  "annual_fee": 500,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [],
+  "reward_structure": [
+    "Earn 4 points for every ₹200 spent on domestic transactions",
+    {
+      "type": "points",
+      "rate": "4 points per ₹200",
+      "category": "domestic transactions"
+    },
+    "Earn 4 EDGE REWARD points for every ₹200 spent on domestic transactions."
+  ],
+  "reward_redemption_options": [
+    "500+ rewards and offers to redeem",
+    "EDGE REWARDS Catalogue"
+  ],
+  "reward_exclusions": [
+    "No reward points are earned on movie offer transactions",
+    "No reward points are earned on fuel transactions",
+    "movie offer transactions",
+    "fuel transactions",
+    "No reward points on movie ticket purchases",
+    "No reward points on fuel transactions"
+  ],
+  "reward_caps": [
+    {
+      "type": "cashback",
+      "limit": "₹1000 per calendar year"
+    },
+    "Cashback on movie tickets limited to ₹1000 per calendar year",
+    "Fuel surcharge waiver benefit up to ₹400 per statement cycle"
+  ],
+  "cashback_benefits": [
+    "25% cashback on online and box office movie ticket purchases all week",
+    {
+      "category": "movie tickets",
+      "rate": "25%",
+      "conditions": "online and box office purchases"
+    },
+    "25% cashback on online and box office movie ticket purchases (MCC 7832 or 7922)"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip",
+    "Up to 15% instant savings on flights & hotels via Goibibo and Makemytrip"
+  ],
+  "hotel_benefits": [
+    "Instant savings of up to 15% on flights & hotels via Goibibo and Makemytrip",
+    "Up to 15% instant savings on hotels via Goibibo and Makemytrip"
+  ],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "Foreign currency transaction fee: 3.50% of the transaction value"
+  ],
+  "dining_benefits": [
+    "Minimum 15% off at partner restaurants in India via Axis Bank Dining Delights",
+    {
+      "description": "15% off at partner restaurants in India"
+    },
+    "Minimum 15% off at partner restaurants through Axis Bank Dining Delights"
+  ],
+  "movie_benefits": [
+    "25% cashback on online and box office movie ticket purchases all week",
+    {
+      "description": "25% cashback on movie tickets"
+    },
+    "25% cashback on movie tickets"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on all fuel transactions in India",
+    "Fuel surcharge refund on spending at all fuel stations across India with MY Zone Easy Credit Card. Valid on transactions between ₹400 and ₹4,000 only. Maximum benefits up to ₹400 per statement cycle.",
+    {
+      "description": "1% fuel surcharge waiver on fuel transactions in India",
+      "conditions": "transactions between ₹400 and ₹4000, max ₹400 per statement cycle"
+    },
+    "Fuel surcharge refund up to ₹400 per statement cycle (transactions between ₹400 and ₹4,000)"
+  ],
+  "shopping_benefits": [
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira"
+  ],
+  "entertainment_benefits": [
+    "25% cashback on online and box office movie ticket purchases all week"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "On any transaction over ₹2,500, contact the Bank to convert a big credit card purchase into EMIs",
+    {
+      "description": "Convert purchases to EMI on transactions over ₹2500"
+    },
+    "Convert purchases to EMI on transactions over ₹2,500"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": "4 points for every ₹200 spent on domestic transactions",
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "A Fixed Deposit at any Axis Bank branch is required",
+    "Minimum Fixed Deposit amount is ₹15,000, while maximum amounts to ₹25 lakhs",
+    "Minors are not eligible for the card",
+    "Fixed Deposit at any Axis Bank branch (₹15,000 - ₹25,00,000)",
+    "Not eligible for minors",
+    "Excludes Tax Saver Fixed Deposits, Flexi-Deposits, HUFs, societies, trusts, or companies",
+    "Fixed Deposit at any Axis Bank branch required",
+    "Minimum FD amount ₹15,000",
+    "Maximum FD amount ₹25 lakh",
+    "Minors not eligible",
+    "Not issued against Tax Saver Fixed Deposits",
+    "Not issued against Flexi-Deposits (Auto-sweep)",
+    "Not issued against FD in name of HUFs, societies, trusts, or companies"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Fixed Deposit"
+  ],
+  "charges": [
+    "Standard Joining Fee: ₹500",
+    "Standard Annual Fee: ₹500",
+    "Finance Charges (Retail purchases & cash): 3.40% per month (49.36% per annum)",
+    "Cash Withdrawal Fees: 2.5% (minimum ₹500) of the cash amount",
+    "Fee for Cash Payment: ₹175",
+    "Card Replacement: Nil",
+    "Overdue Penalty or Late Payment Fee: Nil if the total payment due is less than ₹500, ₹500 if the total payment due is between ₹501 and ₹5,000, ₹750 if the total payment due is between ₹5,001 and ₹10,000, ₹1200 if the total payment due is greater than ₹10,000. An additional charge of ₹100 will be applicable on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.",
+    "Overlimit penalty: 2.5% of the over limit amount (Minimum. ₹500)",
+    "Emergency card replacement fee when overseas (through VISA): As per VISA Global Customer Assistance Services (GCAS)",
+    "Surcharge on purchase or cancellation of railway tickets: As prescribed by Indian Railways",
+    "Fuel transaction surcharge: 1% of transaction amount (refunded for fuel transactions between ₹400 and ₹4000)",
+    "Foreign currency transaction Fee: 3.50% of the transaction value",
+    "Reward redemption fee: Yes",
+    "Rent transaction fee: 1% on transaction will be applicable on each rental transaction done on MCC 6513",
+    "Dynamic currency conversion markup: 1.5% + taxes for each international transaction performed in Indian currency at International location or transactions performed in Indian currency with merchants located in India but registered in foreign nation",
+    {
+      "type": "joining fee",
+      "amount": 500
+    },
+    {
+      "type": "annual fee",
+      "amount": 500
+    },
+    {
+      "type": "cash withdrawal fee",
+      "amount": "2.5% (min ₹500)"
+    },
+    {
+      "type": "cash payment fee",
+      "amount": 175
+    },
+    {
+      "type": "late payment fee",
+      "conditions": [
+        "₹500 if total payment due is ₹501-₹5,000",
+        "₹750 if total payment due is ₹5,001-₹10,000",
+        "₹1200 if total payment due is >₹10,000",
+        "Additional ₹100 for missing MAD for two consecutive cycles"
+      ]
+    },
+    {
+      "type": "overlimit penalty",
+      "amount": "2.5% (min ₹500)"
+    },
+    {
+      "type": "foreign currency transaction fee",
+      "amount": "3.50%"
+    },
+    {
+      "type": "fuel transaction surcharge",
+      "amount": "1% (refunded for ₹400-₹4000)"
+    },
+    {
+      "type": "cheque return fee",
+      "amount": "2% (min ₹500, max ₹1,522)"
+    },
+    {
+      "type": "reward redemption fee",
+      "amount": "Yes"
+    },
+    {
+      "type": "rent transaction fee",
+      "amount": "1%"
+    },
+    "Cash Withdrawal Fees: 2.5% (minimum ₹500)",
+    "Overlimit penalty: 2.5% of over limit amount (minimum ₹500)",
+    "Fuel transaction surcharge: 1% of transaction amount (refunded for fuel transactions between ₹400 and ₹4,000)",
+    "Foreign currency transaction fee: 3.50% of transaction value",
+    "Dynamic currency conversion markup: 1.5% + taxes"
+  ],
+  "interest_rates": [
+    "Finance Charges (Retail purchases & cash): 3.40% per month (49.36% per annum)",
+    {
+      "type": "retail purchases & cash",
+      "rate": "3.40% per month (49.36% per annum)"
+    },
+    "3.40% per month (49.36% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Overdue Penalty or Late Payment Fee: Nil if the total payment due is less than ₹500, ₹500 if the total payment due is between ₹501 and ₹5,000, ₹750 if the total payment due is between ₹5,001 and ₹10,000, ₹1200 if the total payment due is greater than ₹10,000. An additional charge of ₹100 will be applicable on missing payment of Minimum Amount Due (MAD) by the due date for two consecutive cycles. This charge will continue to be applicable for every payment cycle until the MAD is cleared.",
+    "Overlimit penalty: 2.5% of the over limit amount (Minimum. ₹500)",
+    {
+      "type": "mobile alerts",
+      "amount": "Waived"
+    },
+    {
+      "type": "balance enquiry",
+      "amount": "Waived"
+    },
+    "Overdue penalty: Nil if total due < ₹500; ₹500 if due between ₹501-₹5,000; ₹750 if due between ₹5,001-₹10,000; ₹1,200 if > ₹10,000; Additional ₹100 for missing MAD for two consecutive cycles",
+    "Overlimit penalty: 2.5% of over limit amount (minimum ₹500)",
+    "Cash Withdrawal Fees: 2.5% (minimum ₹500)",
+    "Fuel transaction surcharge: 1% (refunded under conditions)",
+    "Foreign currency transaction fee: 3.5%",
+    "Cheque return or dishonour fee: 2% of payment amount (minimum ₹500, maximum ₹1,522)"
+  ],
+  "spend_conditions": [
+    "25% cashback on movie tickets is limited to ₹1000 in a calendar year",
+    "Applicable only if there is no outstanding on the card account i.e., previous bill has been settled in full by the payment due date. Not applicable on cash transactions.",
+    "No reward points on movie offer transactions",
+    "No reward points on fuel transactions",
+    "Cashback limited to ₹1000 per calendar year",
+    "Cashback on movie tickets limited to ₹1000 per calendar year",
+    "Movie cashback applicable only on merchants with MCC 7832 or 7922",
+    "Cashback only if previous bill settled in full",
+    "Fuel surcharge waiver applicable on transactions between ₹400 and ₹4,000",
+    "Maximum fuel benefit ₹400 per statement cycle"
+  ],
+  "benefit_conditions": [
+    "25% cashback on movie tickets is limited to ₹1000 in a calendar year",
+    "Applicable only if there is no outstanding on the card account i.e., previous bill has been settled in full by the payment due date. Not applicable on cash transactions.",
+    "No outstanding on card account",
+    "Not applicable on cash transactions",
+    "No reward points earned on movie or fuel transactions",
+    "GST on fuel surcharge is non-refundable"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "Goibibo",
+    "Makemytrip",
+    "Swiggy",
+    "Amazon Fresh",
+    "Tira",
+    "EDGE REWARDS"
+  ],
+  "merchant_offers": [
+    "10% off on orders via Swiggy and Amazon Fresh",
+    "10% off up to ₹1000 on Tira",
+    "15% off at partner restaurants",
+    "10% off on Swiggy and Amazon Fresh",
+    "10% off upto ₹1000 on Tira",
+    "15% off at partner restaurants (Dining Delights)",
+    "10% off on Swiggy and Amazon Fresh orders",
+    "Up to 15% savings on flights & hotels via Goibibo and Makemytrip"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Charge structure is subject to change from time to time at the sole discretion of Axis Bank.",
+    "As per Ministry of Finance guidelines, GST as per existing government norms is being levied on all fees, interests & other charges on all credit cards. No refund shall be provided for GST charged on fuel transaction surcharge.",
+    "Chip and PIN protected",
+    "Contactless-enabled (up to ₹5000)",
+    "Free credit for 50 days",
+    "Cash withdrawals up to 100% of credit limit from day one",
+    "GST is levied on all fees, interests & other charges",
+    "No refund on GST charged on fuel transaction surcharge",
+    "Reward points not earned on movie and fuel transactions",
+    "Cashback limited to ₹1000 per year",
+    "Fuel surcharge waiver up to ₹400 per statement cycle"
+  ],
+  "excluded_categories": [
+    "No reward points are earned on movie offer transactions",
+    "No reward points are earned on fuel transactions",
+    "Tax Saver Fixed Deposits",
+    "Flexi-Deposits",
+    "HUFs, societies, trusts, or companies"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\AXIS_My Zone Easy Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\MITC\\mitc-credit-cards7.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\TERMS\\credit-card-member-agreement1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\TERMS\\credit-card-member-agreement2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\My Zone Easy Credit Card\\TERMS\\credit-card-member-agreement3.pdf"
+  ]
+}

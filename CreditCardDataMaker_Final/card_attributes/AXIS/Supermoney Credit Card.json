@@ -1,0 +1,170 @@
+{
+  "card_name": "Supermoney Credit Card",
+  "card_network": "RuPay",
+  "card_type": "Credit Card",
+  "joining_fee": "NIL",
+  "annual_fee": "NIL",
+  "fee_waiver_condition": "NIL",
+  "welcome_benefits": [
+    "Complimentary Sony LIV Premium subscription for 1 Year worth ₹1499",
+    "Earn up to 1,250 EDGE REWARD Points on first fuel transaction",
+    "Welcome benefit of up to ₹300* on Utility bill payment"
+  ],
+  "reward_structure": [
+    "3% cashback on transactions done using AXIS BANK SUPERMONEY RuPay Credit Card via the super.money App*",
+    "1% cashback on all other eligible spends*",
+    "1% cashback on all eligible UPI purchases (except through super.money app) and non-UPI purchases",
+    "3% Cashback on eligible UPI purchases via the super.money app"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [
+    "spends below INR 100"
+  ],
+  "reward_caps": [
+    "cashback from super.money UPI purchases capped at INR 100 if cashback from other UPI and non-UPI purchases is under INR 100",
+    "cashback from super.money UPI purchases capped at total cashback earned from other UPI and non-UPI purchases in the same statement month"
+  ],
+  "cashback_benefits": [
+    "3% on transactions done using AXIS BANK SUPERMONEY RuPay Credit Card via the super.money App",
+    "1% on all other eligible spends",
+    "3% cashback on transactions done using AXIS BANK SUPERMONEY RuPay Credit Card via the super.money App*",
+    "1% cashback on all other eligible spends*",
+    "unlimited cashback of 1% on all eligible UPI purchases (except through super.money app) and non-UPI purchases",
+    "3% Cashback on eligible UPI purchases via the super.money app"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [
+    "Complimentary airport lounge access (4 times per year)",
+    "Enjoy complimentary airport lounge access* (4 times per year)"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [
+    "3.5% of the transaction value on International Non-DCC Transactions",
+    "1.5% Surcharge on DCC Transactions"
+  ],
+  "dining_benefits": [
+    "10% off on Blinkit",
+    "Flat ₹120 off on Zomato (monthly 2 times)",
+    "Flat ₹120 off on Swiggy (twice a month)",
+    "Flat ₹120 off on Zomato (twice a month)",
+    "Flat ₹120* off on Swiggy; twice a month"
+  ],
+  "movie_benefits": [
+    "10% off on BookMyShow",
+    "10%* off on BookMyShow*"
+  ],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions at fuel stations across India",
+    "4% value back on fuel spends at IndianOil outlets",
+    "Enjoy a 1% fuel surcharge waiver on transactions at fuel stations across India",
+    "Refunded for fuel transactions between INR 400 to INR 4,000. Maximum benefits up to INR 500 per Statement Cycle"
+  ],
+  "shopping_benefits": [
+    "Fee waiver",
+    "Flat ₹120* off on Zomato twice a month"
+  ],
+  "entertainment_benefits": [
+    "10%* off on Blinkit and BookMyShow*"
+  ],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "3.5% of the transaction value on International Non-DCC Transactions",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on transactions at fuel stations across India",
+  "eligibility": [
+    "Available only to Axis Bank Flipkart Credit card customers for existing Axis Bank customers",
+    "Available only to Axis Bank Flipkart Credit card customers",
+    "Check your eligibility for AXIS BANK SUPERMONEY RuPay Credit Card",
+    "Note – For existing Axis Bank customers, AXIS BANK SUPERMONEY RuPay credit card is available only to Axis Bank Flipkart Credit card customers."
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Input the required details, including your mobile number, annual income and date of birth or PAN.",
+    "Upload the necessary documents"
+  ],
+  "charges": [
+    "Cash advance fee: 2.5% of the amount withdrawn or a minimum of ₹500, whichever is higher",
+    "Late payment charges: Nil if total payment due is up to ₹500; ₹500 if between ₹501 and ₹5000; ₹750 if between ₹5,001 and ₹10,000; ₹1200 if greater than ₹10,000. Additional ₹100 if 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles",
+    "Returned Payment Charge: 2% of the payment amount, with a minimum fee of ₹500",
+    "Railway ticket booking surcharge: As specified by IRCTC / Indian Railways",
+    "Foreign currency transaction markup fee: 3.5% of the transaction value on International Non-DCC Transactions",
+    "DCC Surcharge: 1.5% Surcharge on DCC Transactions",
+    "Cash deposit at Axis branches: ₹175 per deposit",
+    "Rent Surcharge: 1% transaction fee on rent transactions (uncapped)",
+    "Late payment charges: Nil if total payment due is up to ₹500; ₹500 if between ₹501-₹5000; ₹750 if between ₹5,001-₹10,000; ₹1,200 if greater than ₹10,000. Additional ₹100 if Minimum Amount Due (MAD) is not paid for two consecutive cycles",
+    "Over limit charge: 0",
+    "Statement Request (beyond 3 months): NIL",
+    "Reissue of lost, stolen or damaged card: NIL",
+    "Finance Charges - Interest: 3.75% p.m.",
+    "Rent Surcharge: 1% transaction fee (uncapped)",
+    "Late payment charges: Nil if total payment due is up to ₹500, ₹500 if total payment due is between ₹501 and ₹5000, ₹750 if total payment due is between ₹5,001 and ₹10,000, ₹1200 if the payment is greater than ₹10,000",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of the payment amount, with a minimum fee of ₹500",
+    "Rent Surcharge: 1% transaction fee (uncapped) on rent transactions",
+    "Fuel Transaction Surcharge: 1% of transaction amount (Refunded for fuel transactions between INR 400 to INR 4,000. Maximum benefits up to INR 500 per Statement Cycle)"
+  ],
+  "interest_rates": [
+    "Finance Charges - Interest: 3.75% p.m.",
+    "3.75% p.m.",
+    "3.4% per month (49.36% per annum) on overdue interest on extended credit and interest on cash advances"
+  ],
+  "fees_and_penalties": [
+    "Over limit charge: 0",
+    "Cash advance fee: 2.5% of the amount withdrawn or a minimum of ₹500, whichever is higher",
+    "Late payment charges: Nil if total payment due is up to ₹500; ₹500 if between ₹501-₹5000; ₹750 if between ₹5,001-₹10,000; ₹1,200 if greater than ₹10,000. Additional ₹100 if Minimum Amount Due (MAD) is not paid for two consecutive cycles",
+    "Returned Payment Charge: 2% of the payment amount, with a minimum fee of ₹500",
+    "Railway ticket booking surcharge: As specified by IRCTC / Indian Railways",
+    "Statement Request (beyond 3 months): NIL",
+    "Reissue of lost, stolen or damaged card: NIL",
+    "DCC Surcharge: 1.5% Surcharge on DCC Transactions",
+    "Cash deposit at Axis branches: ₹175 per deposit",
+    "Finance Charges - Interest: 3.75% p.m.",
+    "Rent Surcharge: 1% transaction fee (uncapped)",
+    "Late payment charges as specified",
+    "An additional charge of ₹100 will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles",
+    "Fuel Transaction Fee: 1% fee will be applicable on cumulative spends of INR 50,000 or more on fuel transactions per statement cycle (Applicable from 20th Dec 2024)"
+  ],
+  "spend_conditions": [],
+  "benefit_conditions": [
+    "For detailed terms and conditions please click here",
+    "The terms and conditions of Axis Bank Supermoney RuPay Credit Card will be updated w.e.f. 1st January, 2026"
+  ],
+  "renewal_benefits": [],
+  "partner_programs": [
+    "This co-branded credit card is being issued by Axis Bank in Partnership with Scapic Innovations Private Limited (operating under the brand name super.money)"
+  ],
+  "merchant_offers": [
+    "Flat ₹120* off on Zomato twice a month",
+    "10%* off on Blinkit and BookMyShow*",
+    "Welcome benefit of up to ₹300* on Utility bill payment"
+  ],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The bank reserves the right to approve or decline credit card applications",
+    "cashback capping of INR 500 per statement cycle no longer applicable"
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\AXIS_Supermoney Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards5.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards6.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\MITC\\mitc-credit-cards7.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Supermoney Credit Card\\TERMS\\terms-and-conditions-for-axis-bank-supermoney-rupay-credit-card.pdf"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "card_name": "Doctors Regalia Credit Card",
+  "card_network": null,
+  "card_type": "Premium & Super Premium Credit Card",
+  "joining_fee": "₹2,500 plus applicable taxes",
+  "annual_fee": "₹2,500 plus applicable taxes",
+  "fee_waiver_condition": "Spending ₹3 lakh within 12 months",
+  "welcome_benefits": [
+    "2,500 reward points (welcome)",
+    "2,500 reward points (renewal)",
+    "2,500 reward points",
+    "Welcome Benefit of 2500 Reward Points"
+  ],
+  "reward_structure": [
+    "4 reward points on ₹ 150, on all retail* spends including Insurance, Utilities, Education and Rent Pay.",
+    "Earn 15,000 Reward Points on annual spends of Rs. 8,00,000 or more in each anniversary year",
+    "Earn 10,000 Reward Points on annual spends of Rs. 5,00,000 or more in each anniversary year"
+  ],
+  "reward_redemption_options": [
+    "Flight and Hotel Bookings",
+    "Premium Products & Vouchers",
+    "Curated Global Experiences",
+    "For Flight and hotel bookings, can redeem up to maximum of 70% of booking value through Reward Points",
+    "Each Reward Point is worth 50 paise when redeemed on https://offers.smartbuy.hdfcbank.com/regalia"
+  ],
+  "reward_exclusions": [
+    "Reward points will not be accrued for fuel transactions",
+    "EasyEMI and e-wallet loading transactions will not accrue Reward points",
+    "Reward points accrued will be reversed if a retail transaction is converted into SmartEMI",
+    "Fuel transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "Insurance transactions (with a maximum cap of 2,000 per day)",
+    "Transactions converted into SmartEMI"
+  ],
+  "reward_caps": [
+    "Reward points accrued for Insurance transactions will have a maximum cap of 2,000 per day",
+    "Reward points are valid only for 2 years from the date of accumulation",
+    "Maximum cap of 2,000 reward points per day for insurance transactions"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Renewal fee waiver on spending ₹3 lakh within 12 months",
+    "Renewal benefit of 2,500 reward points",
+    "Earn Bonus 10,000 Reward Points when you spend ₹ 5 lakhs in the anniversary year",
+    "Earn additional 5,000 Reward Points when you spend ₹ 8 lakhs in the anniversary year",
+    "Earn 10,000 Reward Points when you achieve spends of Rs. 5,00,000 in anniversary year",
+    "Additional 5,000 Reward Points when you achieve Rs 8,00,000 in the same anniversary year"
+  ],
+  "lounge_access": [
+    "12 complimentary access per calendar year within India (both at domestic and international terminals)",
+    "Apply for Priority Pass for self and add-on members once you complete minimum 4 retail transactions",
+    "Use Priority Pass to avail up to 6 Complimentary Lounge Access per calendar year, outside India"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Apply for Priority Pass for self and add-on members once you complete minimum 4 retail transactions",
+    "Use Priority Pass to avail up to 6 Complimentary Lounge Access per calendar year, outside India",
+    "If you exceed the 6 Complimentary visits, you will be charged at US $27 + GST per visit"
+  ],
+  "travel_benefits": [
+    "12 complimentary access per calendar year within India (both at domestic and international terminals)",
+    "Priority Pass for international lounge access",
+    "Travel Concierge Services (24 X 7)"
+  ],
+  "hotel_benefits": [
+    "Can redeem reward points for hotel bookings"
+  ],
+  "airline_benefits": [
+    "Can redeem reward points for airline ticket booking"
+  ],
+  "forex_benefits": [
+    "Enjoy foreign currency mark up of 2% on all your foreign currency spends."
+  ],
+  "dining_benefits": [
+    "Exclusive complimentary Dineout Passport Membership",
+    "Assured flat 25% off at 2000+ premium restaurants",
+    "1+1 on buffet at 200+ restaurants",
+    "Additional 5% off and ₹0 Convenience fee",
+    "Minimum 25% off on the bill at 2000+ restaurants in 20 cities across the country",
+    "1+1 on Buffet at 200+ restaurants",
+    "Benefits on Dineout Pay such as additional cashback and zero convenience fee",
+    "Exclusive Access to Dineout Passport Experiences",
+    "Early Access to events and festivals such as GIRF, Gourmetlicious, etc."
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on transactions between ₹400 and ₹5000."
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Professional Indemnity Insurance Cover for HDFC Bank Doctor’s Superia/Regalia Cardholders",
+    "Protection worth up to ₹ 20 Lakh* against costs arising due to professional negligence",
+    "Accidental air death cover worth ₹ 1 Crore",
+    "Emergency overseas hospitalisation up to ₹ 15 lakhs in case of emergency",
+    "Credit Liability cover of up to ₹ 9,00,000"
+  ],
+  "protection_benefits": [
+    "Protection worth up to ₹ 20 Lakh* against costs arising due to professional negligence",
+    "Accidental air death cover worth ₹ 1 Crore",
+    "Emergency overseas hospitalisation up to ₹ 15 lakhs in case of emergency",
+    "Credit Liability cover of up to ₹ 9,00,000"
+  ],
+  "concierge_benefits": [
+    "Travel Concierge Services (24 X 7)"
+  ],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 12,
+  "international_lounge_visits_per_year": 6,
+  "guest_lounge_access": null,
+  "reward_rate": "4 reward points on ₹ 150 spent on retail transactions",
+  "forex_markup": "2%",
+  "fuel_surcharge_waiver": "1% at all fuel stations across India on transactions between ₹400 and ₹5000",
+  "eligibility": [
+    "HDFC BANK Doctors Superia/Regalia Cardholder",
+    "Designed for doctors",
+    "All Regalia credit cardholders are eligible for this offer."
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "Duly filled Claims intimation note by medical practitioner (card holder)",
+    "Notice of claim or court proceedings initiated by 3rd party on medical practitioner (card holder)",
+    "Response of the medical practitioner to the said notice/complaint",
+    "Details of counsel appointed by medical practioner",
+    "Identity proof (such as Aadhaar card and PAN card)",
+    "Address proof (such as utility bills or passport)",
+    "Income proof (such as salary slips or income tax returns)"
+  ],
+  "charges": [
+    "Goods and Services Tax (GST) at a rate of 18%"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Initial year membership fee : ₹2,500 plus applicable taxes",
+    "Subsequent year membership fee : ₹2,500 plus applicable taxes"
+  ],
+  "spend_conditions": [
+    "Spending ₹3 lakh within 12 months to waive renewal fee",
+    "Spending ₹3 lakh within 12 months",
+    "Spend ₹ 3L in 12 Months to get Renewal Fee waived",
+    "Earn Bonus 10,000 Reward Points when you spend ₹ 5 lakhs in the anniversary year",
+    "Earn additional 5,000 Reward Points when you spend ₹ 8 lakhs in the anniversary year",
+    "Only valid Retail purchases qualify for Reward points",
+    "Reward points will not be accrued for fuel transactions",
+    "Reward points accrued will be reversed if a retail transaction is converted into SmartEMI",
+    "If the Credit Card is not used for more than 365 days, Reward Points accrued will be nullified",
+    "Spend Rs. 75,000 and more from your Regalia credit card every calendar quarter beginning from Jan, 2021 to March, 2021."
+  ],
+  "benefit_conditions": [
+    "Welcome benefit and renewal benefit are applicable only after the membership fee is paid and is not applicable when the fee is waived off",
+    "Welcome benefit of 2,500 reward points and a renewal benefit of 2,500 reward points (this is applicable only after the membership fee is paid and is not applicable when the fee is waived off).",
+    "Priority Pass can be applied for after completing minimum 4 retail transactions",
+    "Dineout Passport Membership will not be applicable after 31st Dec,2021",
+    "Professional Indemnity Insurance benefit is applicable w.e.f. 1st Sept'19 only",
+    "Anniversary year is defined as 12 months period from card setup or last upgrade/downgrade date",
+    "This benefit is applicable w.e.f. 01st April 2018 only",
+    "In case of any retail card getting upgraded or downgraded to Regalia post 01st April 2018, the Spends calculation for annual spend benefit on the new Regalia card variant will start from date of upgrade/downgrade",
+    "Spends from any previous anniversary year or previous retail credit card product will not be considered for calculation of the Annual Spend benefit",
+    "Card Holder/s whose account has been classified as delinquent before or during the period of the Program, or when the Reward Point is to be posted, will not be eligible for the Reward Point under this offer",
+    "Benefits are valid for dine-in only, unless specified otherwise.",
+    "Discounts do not apply to service charges and/or government taxes.",
+    "Offers are not valid in conjunction with B.Y.O (Bring Your Own Liquor) or Corkage fees.",
+    "Benefits are not valid on Christmas Eve, Christmas Day, New Year’s Eve, New Year’s Day, and Valentine’s Day.",
+    "The discount value is limited to Rs. 25,000 per instance."
+  ],
+  "renewal_benefits": [
+    "2,500 reward points",
+    "renewal benefit of 2500 Reward Points (applicable only after the membership fee is realised and not applicable when the fee is waived off)",
+    "Additional Bonus Reward Points of 5,000 will be posted for the 2nd Milestone Spend Threshold achievers of Rs 8,00,000 within 90 days from renewal date"
+  ],
+  "partner_programs": [
+    "Dineout Passport Membership",
+    "Priority Pass",
+    "Dineout Passport"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [
+    "Applicable to all Regalia credit cards from 1st Jan, 2021 till 31st Dec, 2021 only."
+  ],
+  "important_terms": [
+    "The bank reserves the authority to terminate the card if it remains inactive, with no transactions made, for a continuous period of six months (for cards acquired after November 1st, 2020)",
+    "In the case of any dispute regarding fees, charges, or interest, the GST levied will not be reversed",
+    "The bank reserves the authority to terminate the card if it remains inactive, with no transactions made, for a continuous period of six months.",
+    "Policy will be primary and non-contributory",
+    "Covers for claims arising out of all professional and medical services as rendered by the individual doctor",
+    "Claims under National Human Rights Commission, Consumer Protection Act and any other such applicable law",
+    "Cover for corrective cosmetic surgeries (plastic surgery in connection with burns or other traumatic surgery)",
+    "Reimbursement of defense cost for criminal cases arising out of medical accidents, mishaps or medical negligence until proven guilty by law",
+    "Cover for dental treatment under anaesthesia",
+    "Loss of documents cover sub limited to 1% of Sum Insured",
+    "Only valid Retail purchases qualify for Reward points",
+    "Reward points will not be accrued for fuel transactions",
+    "Reward points are valid only for 2 years from the date of accumulation",
+    "EasyEMI and e-wallet loading transactions will not accrue Reward points",
+    "Reward points accrued will be reversed if a retail transaction is converted into SmartEMI",
+    "If the Credit Card is not used for more than 365 days, Reward Points accrued will be nullified",
+    "Reward points accrued for Insurance transactions will have a maximum cap of 2,000 per day",
+    "For Flight and hotel bookings, can redeem up to maximum of 70% of booking value through Reward Points",
+    "Each Reward Point is worth 50 paise when redeemed on https://offers.smartbuy.hdfcbank.com/regalia",
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 (Six) months after prior written notice",
+    "Dineout Passport benefits are non-transferable and are void if purchased, sold or bartered for cash.",
+    "Offers are not valid for delivery, unless specified otherwise.",
+    "All offers are exclusive and not valid in conjunction with any other discount offers, promotions, special menu items and dining or loyalty programs."
+  ],
+  "excluded_categories": [
+    "Criminal act or any act committed in violation of law",
+    "Services rendered under influence of intoxicants or narcotics",
+    "Treatment related to HIV/AIDS and weight loss",
+    "Cosmetic plastic surgery (viz. hair transplants, punch grafts, flap rotation, silicone implants and similar surgeries referred to as “Cosmetic”) with carve back for Corrective cosmetic surgeries – in connection with burns or traumatic injury only",
+    "Third party public liability",
+    "Assumed liability by agreement which would not have attached in the absence of agreement",
+    "Willful conduct",
+    "Claims arising out of genetic injuries caused by X-Ray treatment/diagnosis or treatment with radioactive substances",
+    "Injury/death of any person under a contract of employment or apprenticeship with the insured when such injury/death arises out of the execution of the contract",
+    "Blood and Blood Products Exclusion",
+    "Claims arising from any condition directly or indirectly caused by or association with Human T cell Lymphotropic Virus Type III (HTLV 111) or Lymphadenopathy Associated Virus (LAV) or the mutants derives or variations thereof or in any way related to acquired Immune Deficiency Syndrome or any syndrome or condition of a similar kind howsoever it may be named",
+    "Liability arising from clinical research or clinical trials",
+    "In-vitro fertilization and wrongful life claims",
+    "Fuel transactions (for reward points)",
+    "EasyEMI and e-wallet loading transactions (for reward points)",
+    "Fuel transactions",
+    "EasyEMI and e-wallet loading transactions",
+    "Insurance transactions",
+    "Special events, theme nights, buffets or brunches are excluded from the offer unless specified by the restaurant."
+  ],
+  "source_files_used": [
+    "Doctor's Regalia Credit Card Fees & Charges",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\HDFC_Doctors Regalia Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\LOUNGE\\lounge.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\MEMBERSHIP\\priority-pass.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\OFFERS\\milestone-benefits.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\PRODUCT_GUIDE\\dining-benefits.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\PRODUCT_GUIDE\\exclusive-benefits.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\TERMS\\june-tnc1.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\TERMS\\june-tnc2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\TERMS\\june-tnc3.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\TERMS\\june-tnc4.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Doctors Regalia Credit Card\\TERMS\\june-tnc5.pdf"
+  ]
+}

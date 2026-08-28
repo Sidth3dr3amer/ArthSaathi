@@ -1,0 +1,151 @@
+{
+  "card_name": "Retailio Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 499,
+  "annual_fee": 499,
+  "fee_waiver_condition": "Annual spending of 50,000 in the previous year",
+  "welcome_benefits": [
+    "1000 reward points on total spend of ₹500 within first 90 days",
+    "₹500 gift voucher for RIO club members on activation"
+  ],
+  "reward_structure": [
+    "4 reward points for every ₹150 spent on online purchases",
+    "2 reward points for every ₹150 spent on POS/offline purchases"
+  ],
+  "reward_redemption_options": [
+    "SmartBuy (0.2 Rupees per point)",
+    "Airmiles (0.25 Rupees per point)",
+    "Product Catalogue (up to 0.25 Rupees per point)",
+    "Cashback (0.2 Rupees per point)",
+    "Cashback redemption at 100 points = ₹20"
+  ],
+  "reward_exclusions": [
+    "Fuel spends",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transactions",
+    "Wallet loads",
+    "Retailio payments",
+    "Rental and government-related transactions"
+  ],
+  "reward_caps": [
+    "Reward points on grocery transactions capped at 2,000 per month",
+    "Reward point redemption capped at 3,000 points per month",
+    "Travel reward points redemption capped at 50,000 points per month"
+  ],
+  "cashback_benefits": [
+    "5% cashback on business essentials (capped at ₹250 per calendar month)"
+  ],
+  "milestone_benefits": [
+    "500 reward points on spending ₹25,000 every calendar month",
+    "Additional 1,500 reward points for RIO members on spending ₹50,000 every month",
+    "2,000 reward points on spending ₹1,00,000 every calendar quarter",
+    "Additional 5,000 reward points for RIO members on spending ₹2,00,000 every calendar quarter"
+  ],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions between ₹400 and ₹5,000 (capped at ₹250 per statement cycle)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Lost card liability cover up to ₹3,00,000"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [
+    "5% cashback on business essentials",
+    "Lower working capital charges at 1% on card spending"
+  ],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 1,
+  "fuel_surcharge_waiver": 1,
+  "eligibility": [
+    "A self-employed Indian citizen",
+    "Age should be between 21 years to 65 years",
+    "Self-employed Indian citizen aged between 21 and 65 years",
+    "Exclusively offered for Retailio merchants"
+  ],
+  "income_requirements": [
+    "Annual ITR above ₹6 lakh",
+    "Annual ITR above ■6 lakh"
+  ],
+  "documents_required": [
+    "ITR",
+    "GST returns",
+    "Bank statements",
+    "Merchant payment report",
+    "Income Tax Returns (ITR)",
+    "Goods and Services Tax (GST) returns",
+    "Merchant payment reports"
+  ],
+  "charges": [
+    "Joining membership fee: ₹499 + GST",
+    "Annual fee: ₹499 + GST",
+    "Renewal fee: ₹499 + GST (waivable on spend of ₹50,000)",
+    "Reward redemption fee: ₹99 per request"
+  ],
+  "interest_rates": [],
+  "fees_and_penalties": [
+    "Joining membership fee: ₹499 + GST",
+    "Annual fee: ₹499 + GST",
+    "Renewal fee: ₹499 + GST",
+    "Reward redemption fee: ₹99 per request"
+  ],
+  "spend_conditions": [
+    "Spend ₹500 within first 90 days to earn welcome benefit",
+    "Earn 4 points per ₹150 online spend",
+    "Earn 2 points per ₹150 offline spend",
+    "Milestone spend thresholds: ₹25,000 monthly, ₹50,000 monthly for RIO members, ₹1,00,000 quarterly, ₹2,00,000 quarterly for RIO members"
+  ],
+  "benefit_conditions": [
+    "Renewal fee waiver on annual spend of minimum ₹50,000",
+    "Fuel surcharge waiver applicable for transactions between ₹400 and ₹5,000 with max ₹250 per cycle"
+  ],
+  "renewal_benefits": [
+    "Waiver of renewal fee on annual spend of minimum ₹50,000"
+  ],
+  "partner_programs": [
+    "RIO Club membership"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Reward points not earned on Retailio spends, fuel spends, wallet loads, EMI spends",
+    "Reward points capped as per category limits",
+    "Reward redemption fee of ₹99 per request",
+    "GST applicable on all fees and charges"
+  ],
+  "excluded_categories": [
+    "Fuel spends",
+    "Cash advances",
+    "Payment of outstanding balances",
+    "Payment of card fees and other charges",
+    "Smart EMI / Dial an EMI transactions",
+    "Wallet loads",
+    "Retailio payments",
+    "Rental and government-related transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Retailio Credit Card\\HDFC_Retailio Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Retailio Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Retailio Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Retailio Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Retailio Credit Card\\main.pdf"
+  ]
+}

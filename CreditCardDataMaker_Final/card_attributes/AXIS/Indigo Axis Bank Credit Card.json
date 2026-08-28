@@ -1,0 +1,228 @@
+{
+  "card_name": "Indigo Axis Bank Credit Card",
+  "card_network": null,
+  "card_type": "Co-brand credit card",
+  "joining_fee": 799,
+  "annual_fee": 799,
+  "fee_waiver_condition": null,
+  "welcome_benefits": [
+    "Voucher worth 1,200 IndiGo BluChips as a welcome benefit on payment of the joining fee",
+    "1200 IndiGo BluChips on successful joining/annual fee payment",
+    "2 vouchers of 1200 IndiGo BluChips + 1 6E Eats voucher on joining fee payment"
+  ],
+  "reward_structure": [
+    "Earn 3 IndiGo BluChips on every ₹100 spent on all IndiGo channels",
+    "Earn 1 IndiGo BluChip on every ₹100 spent on all eligible categories",
+    "Earn 2 IndiGo BluChips on every ₹100 spent on groceries and dining",
+    "1 IndiGo BluChip for every Rs.100 spent on all eligible non-accelerated categories",
+    "2 IndiGo BluChips for every Rs.100 spent on all Grocery & Dining categories",
+    "3 IndiGo BluChips for every Rs.100 spent on all IndiGo Channels",
+    "Earn IndiGo BluChips on Co-Branded Card transactions"
+  ],
+  "reward_redemption_options": [
+    "Redeem IndiGo BluChips on IndiGo website/mobile app for flight bookings",
+    "Club IndiGo BluChips with Cash + IndiGo BluChips for flight bookings",
+    "Use IndiGo BluChip Vouchers for economy and business class airfare",
+    "Add-on vouchers including 6E Prime & 6E Eats",
+    "Redeem vouchers on IndiGo website or mobile application"
+  ],
+  "reward_exclusions": [
+    "Government services",
+    "Insurance services",
+    "Utility Services (Including telecom)",
+    "Rental payments",
+    "Wallet",
+    "Fuel",
+    "Jewelry",
+    "All EMIs transaction types",
+    "ATM Cash withdrawals",
+    "Fees, charges and Goods and Services Tax (GST)",
+    "Temporary credit and reversal of temporary credit for a disputed transaction",
+    "Any UPI spends over and above monthly capping (excluding IndiGo channel spends)"
+  ],
+  "reward_caps": [
+    "750 IndiGo BluChips per statement month for UPI spends (excluding IndiGo channel spends)"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Voucher worth 1,200 IndiGo BluChips on achieving spends milestone of ₹1.5 Lakhs and again at ₹3 Lakhs cumulative annual spends",
+    "1200 IndiGo BluChips for achieving INR 1,50,000 milestone spends",
+    "1200 IndiGo BluChips for achieving INR 3,00,000 milestone spends"
+  ],
+  "lounge_access": [
+    "Enjoy 1 complimentary domestic airport lounge access per quarter (applicable on spends of ₹50,000 in the preceding 3 months)",
+    "1 complimentary domestic airport lounge access per quarter (applicable on spends of ₹50,000 in the preceding 3 months)",
+    "1 complimentary lounge access per quarter",
+    "1 domestic lounge access per quarter"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [
+    "Earn 2 IndiGo BluChips on every ₹100 spent on groceries and dining"
+  ],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [],
+  "protection_benefits": [],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "For transactions exceeding ₹1500, you may contact the Bank to convert a credit card purchase into EMIs"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 4,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": 3.5,
+  "fuel_surcharge_waiver": null,
+  "eligibility": [
+    "Primary cardholder should be 18-70 years of age",
+    "Applicant should be a resident of India",
+    "By applying for the Co-Branded Card",
+    "The Double welcome bonus offer is applicable for customers who have applied for the card between 1 June'26 to 30 June'26"
+  ],
+  "income_requirements": [],
+  "documents_required": [
+    "PAN Card photocopy",
+    "Proof of income – Latest payslip / Form 16 / IT return",
+    "Resident proof – Driver’s license / Electricity Bill / Landline telephone bill"
+  ],
+  "charges": [
+    "Joining/Annual Fee: ₹799 + GST",
+    "Finance charges: 3.75% per month (55.55% per annum)",
+    "Cash withdrawal fee: 2.5% of Transaction (Minimum ₹500)",
+    "Fee for cash payment: ₹175",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments) NOTE - An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum ₹500)",
+    "Statement Request (beyond 3 months): NIL",
+    "Reissue of lost, stolen or damaged card: NIL",
+    "Foreign currency transactions: 3.50% of Transaction value on International Transactions",
+    "DCC Surcharge: 1.5% surcharge on DCC transactions",
+    "Rent surcharge: 1% transaction fee ( uncapped) MCC- 6513",
+    "Education transaction: A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik. MCCs: 8211, 8220, 8241, 8244, 8249, 8299 Note- DCC & International markup fee will be applicable on educational transactions.",
+    "Wallet load transaction: 1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period MCC: 6540",
+    "Fuel transaction fee: 1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "Utility transaction fee: 1% fee will be applicable for cumulative spends of ₹25000 or more on utilities within a statement period MCCs - 4814, 4899, 4900",
+    "₹799 + GST",
+    "3.75% per month (55.55% per annum)",
+    "2.5% of Transaction (Minimum ₹500)",
+    "₹175",
+    "Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,01 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "2.5% (Minimum ₹500) of Over limit amount",
+    "2% of payment amount (Minimum ₹500)",
+    "3.50% of Transaction value on International Transactions",
+    "1.5% surcharge on DCC transactions",
+    "1% transaction fee ( uncapped) MCC- 6513",
+    "A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik. MCCs: 8211, 8220, 8241, 8244, 8249, 8299",
+    "1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period MCC: 6540",
+    "1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "1% fee will be applicable for cumulative spends of ₹25000 or more on utilities within a statement period MCCs - 4814, 4899, 4900",
+    "Nominal swipe fee Rs 2 for Visa",
+    "Nominal swipe fee Rs 25 for Mastercard",
+    "Nominal swipe fee Rs 2 for Rupay",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000",
+    "Rent surcharge: 1% transaction fee (uncapped) MCC- 6513",
+    "Education transaction: 1% fee on education payments made via third-party apps"
+  ],
+  "interest_rates": [
+    "3.75% per month (55.55% per annum)"
+  ],
+  "fees_and_penalties": [
+    "Cash withdrawal fee: 2.5% of Transaction (Minimum ₹500)",
+    "Fee for cash payment: ₹175",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,001 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments) NOTE - An additional ₹100 charge will be levied if the 'Minimum Amount Due (MAD)' is not paid for two consecutive cycles and will apply until the MAD is cleared.",
+    "Over limit charge: 2.5% (Minimum ₹500) of Over limit amount",
+    "Returned Payment Charge (Cheque / ECS / ACH / SI bounce charge): 2% of payment amount (Minimum ₹500)",
+    "₹799 + GST",
+    "3.75% per month (55.55% per annum)",
+    "2.5% of Transaction (Minimum ₹500)",
+    "₹175",
+    "Nil if Total Payment Due is less than ₹500 ₹500 if total payment due is between ₹501 - ₹5,000 ₹750 if total payment due is between ₹5,01 - ₹10,000 ₹1200 if total payment due is greater than ₹10,000 LPF charged on Outstanding balance (Total amount due - Payments)",
+    "2.5% (Minimum ₹500) of Over limit amount",
+    "2% of payment amount (Minimum ₹500)",
+    "3.50% of Transaction value on International Transactions",
+    "1.5% surcharge on DCC transactions",
+    "1% transaction fee ( uncapped) MCC- 6513",
+    "A transaction fee of 1% will be applicable on education payments made via third-party apps (not limited to) such as CRED, PayTM, Cheq, and Mobikwik. MCCs: 8211, 8220, 8241, 8244, 8249, 8299",
+    "1% Fee will be applicable for cumulative spends on ₹10,000 or more for wallet loads within a statement period MCC: 6540",
+    "1% Fee will be applicable for cumulative spends of ₹50,000 or more on fuel within a statement period MCCs: 5983,5541,5542,5172",
+    "1% fee will be applicable for cumulative spends of ₹25000 or more on utilities within a statement period MCCs - 4814, 4899, 4900",
+    "Late payment charges: Nil if Total Payment Due is less than ₹500, ₹500 if total payment due is between ₹501 - ₹5,000, ₹750 if total payment due is between ₹5,001 - ₹10,000, ₹1200 if total payment due is greater than ₹10,000"
+  ],
+  "spend_conditions": [
+    "Voucher worth 1,200 IndiGo BluChips on achieving spends milestone of ₹1.5 Lakhs and again at ₹3 Lakhs cumulative annual spends",
+    "Enjoy 1 complimentary domestic airport lounge access per quarter (applicable on spends of ₹50,000 in the preceding 3 months)",
+    "Minimum spend Rs 50,000 in previous 3 calendar months",
+    "Spend criteria waived for month of issuance and following 3 months for new card",
+    "Spends towards Excluded categories shall not be eligible for IndiGo BluChips and will not contribute towards Milestone spends calculation"
+  ],
+  "benefit_conditions": [
+    "Welcome Benefit: Voucher worth 1,200 IndiGo BluChips as a welcome benefit on payment of the joining fee",
+    "Annual benefit: Voucher worth 1,200 IndiGo BluChips every year as a renewal benefit on payment of the annual fee",
+    "Access limited to 1 complimentary lounge visit per quarter",
+    "Subject to meeting spend criteria",
+    "Nominal swipe fee applicable at entry",
+    "Welcome/Renewal benefits vouchers are valid for six months from the date of issuance",
+    "Milestone benefits are reset at the end of each card anniversary year",
+    "IndiGo BluChip Vouchers are valid for booking and travel within 6 months of issuance",
+    "Joining fee payment is mandatory for a customer to be eligible to earn double welcome bonus"
+  ],
+  "renewal_benefits": [
+    "Voucher worth 1,200 IndiGo BluChips every year as a renewal benefit on payment of the annual fee",
+    "1200 IndiGo BluChips on successful annual fee payment"
+  ],
+  "partner_programs": [
+    "IndiGo BluChip Program",
+    "IndiGo BluChip Program partners"
+  ],
+  "merchant_offers": [
+    "Wednesday Delight: Beat the mid-week blues with exciting offers every Wednesday"
+  ],
+  "limited_period_offers": [
+    "Apply for the IndiGo Axis Bank Credit Card between 1 June'26 - 30 June'26 and enjoy Double welcome bonus",
+    "Double welcome bonus offer"
+  ],
+  "important_terms": [
+    "IndiGo BluChips are loyalty points and do not hold any monetary value",
+    "IndiGo BluChip Vouchers cannot be clubbed with another IndiGo BluChip Voucher",
+    "IndiGo BluChip Vouchers cannot be used for a return journey or a multi-segment journey",
+    "IndiGo BluChip Vouchers once used for a booking will be consumed in full",
+    "The vouchers shall be credited in two parts: Standard welcome benefit and Incremental voucher",
+    "The IndiGo BluChip Vouchers can be redeemed on IndiGo’s ecosystem at the time of checkout",
+    "The voucher will be valid for 6 months from the date of issuance. No reissuance or extension will be allowed after expiry",
+    "The bank & IndiGo are not responsible if customers fail to utilize the vouchers in the specified period"
+  ],
+  "excluded_categories": [
+    "Government services",
+    "Insurance services",
+    "Utility Services (Including telecom)",
+    "Rental payments",
+    "Wallet",
+    "Fuel",
+    "Jewelry",
+    "All EMIs transaction types",
+    "ATM Cash withdrawals",
+    "Fees, charges and Goods and Services Tax (GST)",
+    "Temporary credit and reversal of temporary credit for a disputed transaction",
+    "Any UPI spends over and above monthly capping (excluding IndiGo channel spends)"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\AXIS_Indigo Axis Bank Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\summary.txt",
+    "Axis Bank Credit Cards Domestic Airport Lounge Access Program",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\LOUNGE\\axis-bank-airport-lounge-access-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\TERMS\\final_indigo-base_customer-tnc1.pdf",
+    "provided_document",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\TERMS\\final_indigo-base_customer-tnc2.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\AXIS\\Indigo Axis Bank Credit Card\\TERMS\\terms-and-conditions-for-indigo-axis-bank-credit-card.pdf"
+  ]
+}

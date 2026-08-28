@@ -1,0 +1,267 @@
+{
+  "card_name": "Regalia Activ Credit Card",
+  "card_network": null,
+  "card_type": null,
+  "joining_fee": 2500,
+  "annual_fee": 0,
+  "fee_waiver_condition": "Waived on spends of ₹3 lakh or more in an anniversary year",
+  "welcome_benefits": [
+    "12 complimentary airport lounge access within India and 6 outside India",
+    "10,000 Bonus Reward Points on spends of ₹5 lakh, and an additional 5,000 Reward Points on spends of ₹8 lakh in an anniversary year",
+    "Gift voucher worth ₹250 (Amazon voucher) on activating the card within 37 days",
+    "10,000 Bonus Reward Points on spends of ₹5 lakh",
+    "Additional 5,000 Reward Points on spends of ₹8 lakh in an anniversary year",
+    "Gift voucher worth ₹250 (Amazon) on activating the card within 37 days",
+    "Zero Lost Card Liability",
+    "1% fuel surcharge waiver at all fuel stations in India (₹400‑₹5,000 transaction)",
+    "Revolving Credit at nominal interest rate",
+    "Up to 12 complimentary airport lounge accesses within India",
+    "10,000 Bonus Reward Points on spends of 5 lakh, and an additional 5,000 Reward Points on spends of 8 lakh in an anniversary year",
+    "Gift voucher worth 250 (Amazon voucher) on activating the card within 37 days"
+  ],
+  "reward_structure": [
+    "4 Reward Points for every ₹200 spent (On all eligible retail spends)",
+    "4 Reward Points for every ₹200 spent on eligible retail spends",
+    "Earn 10,000 Reward Points on annual spends of ₹5 lakh",
+    "Earn additional 5,000 Reward Points on annual spends of ₹8 lakh",
+    "Maximum of 500 reward points can be earned in a calendar month on UPI spends",
+    "4 Reward Points for every 200 spent (On all eligible retail spends)",
+    {
+      "category": "All categories",
+      "reward_rate": "4 points per ₹200 spent"
+    }
+  ],
+  "reward_redemption_options": [
+    "Flights and hotel bookings via Smartbuy at a value of 1 RP = ₹0.5",
+    "Airmiles conversion through netbanking at a value of 1RP = ₹0.5 airmile",
+    "Products and Vouchers via NetBanking or SmartBuy at a value of 1 RP = up to ₹0.35",
+    "CashBack at a value of 1 RP = ₹0.20",
+    "Flights and hotel bookings via SmartBuy at 1 RP = ₹0.5",
+    "Airmiles conversion through NetBanking at 1 RP = ₹0.5 airmile",
+    "Products and vouchers via NetBanking or SmartBuy at 1 RP = up to ₹0.35",
+    "CashBack at 1 RP = ₹0.20",
+    "Redeem Reward Points on SmartBuy or NetBanking",
+    "Flights and hotel bookings via Smartbuy at a value of 1 RP = 0.5 Airmiles",
+    "Products and Vouchers via Netbanking or SmartBuy at a value of 1 RP = up to 0.35",
+    "CashBack at a value of 1 RP = 0.20"
+  ],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Maximum of 500 reward points can be earned in a calendar month on UPI spends"
+  ],
+  "cashback_benefits": [
+    "CashBack at 1 RP = ₹0.20"
+  ],
+  "milestone_benefits": [
+    "10,000 Bonus Reward Points on spends of ₹5 lakh, and an additional 5,000 Reward Points on spends of ₹8 lakh in an anniversary year",
+    "10,000 Reward Points on ₹5 lakh annual spend",
+    "Additional 5,000 Reward Points on ₹8 lakh annual spend",
+    "Gift voucher worth ₹250 on card activation",
+    "12 complimentary airport lounge access within India (2 per quarter on meeting spends of 1 lakh per quarter)",
+    "6 complimentary lounge access outside India using Priority Pass"
+  ],
+  "lounge_access": [
+    "12 complimentary airport lounge access within India and 6 outside India",
+    "2 lounge access per calendar quarter on meeting spends criteria of ₹1 lakh in a calendar quarter within India",
+    "6 complimentary lounge access in a calendar year using Priority Pass outside India",
+    "Up to 12 complimentary airport lounge accesses within India",
+    "2 lounge accesses per calendar quarter on meeting spend of ₹1 lakh in the quarter",
+    "12 complimentary airport lounge access within India",
+    "6 complimentary lounge access outside India",
+    "Complimentary domestic airport lounge access subject to quota; Rs.2 validation charge is applied and reversed"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [
+    "Up to 6 Complimentary Lounge Access per calendar year outside India using Priority Pass",
+    "Priority Pass can be applied for self and add-on members after completing minimum 4 retail transactions",
+    "Up to 6 complimentary lounge accesses per calendar year outside India using Priority Pass",
+    "Apply for Priority Pass after completing minimum 4 retail transactions",
+    "Up to 6 Complimentary Lounge Access per calendar year outside India",
+    "Priority Pass can be applied for self and add-on members after completing 4 retail transactions"
+  ],
+  "travel_benefits": [
+    "Complimentary lounge access in India and abroad",
+    "Priority Pass lounge access",
+    "Air Accident Death Cover",
+    "Emergency Overseas Hospitalisation"
+  ],
+  "hotel_benefits": [
+    "Reward points redemption for hotel bookings via SmartBuy at 1 RP = ₹0.5"
+  ],
+  "airline_benefits": [
+    "Reward points redemption for flight bookings via SmartBuy at 1 RP = ₹0.5"
+  ],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of ₹400 and maximum transaction of ₹5,000)",
+    "1% fuel surcharge waiver on transactions between ₹400 and ₹5,000",
+    "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of 400 and maximum transaction of 5,000)"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Air Accident Death Cover: Coverage of up to ₹1 crore",
+    "Emergency Overseas Hospitalisation: Coverage of up to ₹15 lakh",
+    "Lost Card Liability Cover: Protection of up to ₹9 lakh",
+    "Air Accident Death Cover up to ₹1 crore",
+    "Emergency Overseas Hospitalisation up to ₹15 lakh",
+    "Lost Card Liability Cover up to ₹9 lakh",
+    "Air Accident Cover of INR 10,000,000",
+    "Emergency Medical Expenses Cover of up to INR 1,500,000",
+    "Card Liability Cover of up to INR 900,000",
+    "Air Accident Death Cover: Coverage of up to 1 crore (USD 125,000)",
+    "Emergency Overseas Hospitalisation: Coverage of up to 15 lakh (USD 18,750)",
+    "Lost Card Liability Cover: Protection of up to 9 lakh"
+  ],
+  "protection_benefits": [
+    "Zero Lost Card Liability: In the unfortunate event of losing your HDFC Bank Regalia Activ Credit Card, on reporting it immediately to our 24-hour call centre, you have zero liability on any fraudulent transactions made on your Credit Card",
+    "Zero Lost Card Liability on fraudulent transactions after reporting loss"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [
+    "Convert eligible high-value purchases into EMIs after the transaction",
+    "Convert eligible high‑value purchases into EMIs"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": 12,
+  "international_lounge_visits_per_year": 6,
+  "guest_lounge_access": "Guests must have an add‑on credit card with their own Priority Pass",
+  "reward_rate": 4,
+  "forex_markup": "1.75%",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver at all fuel stations across India (on minimum transaction of ₹400 and maximum transaction of ₹5,000)",
+  "eligibility": [
+    "Net income of at least ₹25,000/month",
+    "Net income of at least ₹25,000 per month",
+    "New to Bank customers who open an HDFC Bank Savings Account with ACH mandate",
+    "Minimum net income of 25,000/month"
+  ],
+  "income_requirements": [
+    "Net income of at least ₹25,000/month",
+    "₹25,000 per month",
+    "Minimum net income of 25,000/month"
+  ],
+  "documents_required": [],
+  "charges": [
+    "Joining/ Renewal Membership Fee: ₹2,500/- + Applicable Taxes",
+    "Annual Membership Fee: Waived on spends of ₹3 lakh or more in an anniversary year",
+    "Joining/Renewal Membership Fee: ₹2,500 + applicable taxes",
+    "Annual Membership Fee waived on spends of ₹3 lakh or more in an anniversary year",
+    "Renewal fee waived if spend > ₹3 lakh in previous year",
+    "US$27 + GST per lounge visit beyond complimentary quota",
+    "US$27 + GST per Priority Pass visit within India",
+    "Joining/ Renewal Membership Fee: 2,500/- + Applicable Taxes",
+    {
+      "description": "Card re-issuance fee",
+      "amount": "₹199 for non-metal card variants"
+    },
+    "Rs.2 validation charge (reversed) for lounge access"
+  ],
+  "interest_rates": [
+    "Revolving Credit at nominal interest rate"
+  ],
+  "fees_and_penalties": [
+    "Annual Membership Fee: Waived on spends of ₹3 lakh or more in an anniversary year",
+    "Joining/Renewal Membership Fee: ₹2,500 + taxes",
+    "Annual fee waived on ₹3 lakh spend",
+    "Renewal fee waiver on ₹3 lakh spend",
+    "US$27 + GST charge for excess lounge visits",
+    "US$27 + GST charge for Priority Pass visits in India",
+    "Annual Membership Fee: Waived on spends of 3 lakh or more in an anniversary year"
+  ],
+  "spend_conditions": [
+    "Earn 10,000 Reward Points on annual spends of ₹5 lakh",
+    "Earn additional 5,000 Reward Points on annual spends of ₹8 lakh",
+    "Spend ₹3 lakh in previous year to waive renewal fee",
+    "Spend ₹5 lakh annually to earn 10,000 reward points",
+    "Spend ₹8 lakh annually to earn additional 5,000 reward points",
+    "Minimum transaction ₹400 and maximum ₹5,000 for fuel surcharge waiver",
+    "Minimum 4 retail transactions to apply for Priority Pass",
+    "Spend ₹1 lakh in a calendar quarter to qualify for 2 domestic lounge accesses",
+    "10,000 Bonus Reward Points on spends of 5 lakh, and an additional 5,000 Reward Points on spends of 8 lakh in an anniversary year"
+  ],
+  "benefit_conditions": [
+    "Lounge access within India – 2 lounge access per calendar quarter on meeting spends criteria of ₹1 lakh in a calendar quarter",
+    "Lounge access outside India – 6 complimentary lounge access in a calendar year using Priority Pass",
+    "Annual fee waived on ₹3 lakh spend in anniversary year",
+    "Reward points earned based on eligible retail spends",
+    "Fuel surcharge waiver applicable on transactions between ₹400‑₹5,000",
+    "Air Accident/ Emergency Medical Expenses cover starts from the Date of Activation of the card (means first POS transaction/cash withdrawal by the cardholder)",
+    "Liability on lost card will start from the Date of Dispatch of the card up to 30 days",
+    "Liability on lost card covered to an extent of INR 900,000 for 2 days prior to Date of Block and 30 days post the Date of Block",
+    "Terrorism is specifically excluded under the policy",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa",
+    "Travel Insurance provided shall be valid for International Travel only",
+    "Maximum Trip Duration is restricted to 30 Days",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company with whom the Bank has tied up",
+    "The above features and benefits are valid up to 22nd July 2026",
+    "Air Accident/ Emergency Medical Expenses cover starts from the date of activation of the card (first POS transaction/cash withdrawal by the cardholder)",
+    "Liability on lost card starts from the date of dispatch of the card up to 30 days",
+    "Liability on lost card covered to an extent of INR 900,000 for 2 days prior to date of block and 30 days post the date of block",
+    "Travel Insurance is valid for international travel only",
+    "Maximum trip duration is restricted to 30 days",
+    "Fraudulent transactions done by a person known to the cardholder are specifically excluded",
+    "Insurance covers are not provided by HDFC Bank. Exclusions/Limitations are applicable as per the policies issued by the Insurance Company",
+    "Renewal fee waived off if you spend more than 3 lakh in the previous year",
+    "Card must be validated with a Rs.2 transaction at lounge entry",
+    "If quota of complimentary domestic lounge accesses is exceeded, transaction will be declined",
+    "Offer is non‑transferable, non‑negotiable and cannot be encashed",
+    "Additional charges may apply for meal/food/drink items, especially alcoholic drinks, and services like nap, massage, or spa",
+    "Maximum stay usually 2‑3 hours; extended stay may incur charges",
+    "HDFC Bank is not liable for services provided by participating lounges"
+  ],
+  "renewal_benefits": [
+    "Renewal fee waived off if you spend more than ₹3 lakh in the previous year",
+    "Renewal fee waived if spend > ₹3 lakh in the previous year",
+    "Annual membership fee waived on ₹3 lakh spend",
+    "Renewal fee waived off if you spend more than 3 lakh in the previous year"
+  ],
+  "partner_programs": [
+    "Priority Pass",
+    "SmartBuy"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The Bank reserves the right to cancel the Card in case the Card remains inactive and is not used for effecting any transaction for a continuous period of 6 (Six) months after prior written notice sent on the email address and/or phone number and/or communication address, registered in the records of the Bank",
+    "Card inactive for 6 consecutive months may be cancelled after notice",
+    "No joining and renewal fee for first 3 years",
+    "Credit limit typically 2.5 times net monthly salary",
+    "Card activation required within 37 days of setup",
+    "Intimation of Claim to be provided within 60 days from the date of loss by the insured. Documents to be submitted to HDFC ERGO within 130 days from the date of loss.",
+    "Contact details: For Emergency Medical Expenses - Toll Free: +800 08250825 (International Toll Free - accessible from outside India) / 01204507250 (Chargeable), Email: bankclaims@hdfcergo.com, Address: A&H Claims Inward Team, HDFC Ergo GIC Ltd., 6th Floor, Leela Business Park, Andheri Kurla Road, Andheri East. Mumbai 400059",
+    "Claim to be intimated within 60 days from the date of loss by the insured",
+    "Documents to be submitted to HDFC ERGO within 130 days from the date of loss",
+    "Contact details for Emergency Medical Expenses: Toll Free: +800 08250825 (International Toll Free) / 01204507250 (Chargeable), Email: bankclaims@hdfcergo.com, Address: A&H Claims Inward Team, HDFC Ergo GIC Ltd., 6th Floor, Leela Business Park, Andheri Kurla Road, Andheri East. Mumbai 400059",
+    "The Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use",
+    "Offer is conditional upon presentation of a valid eligible Regalia Activ card",
+    "Bank may alter, cancel, or amend eligibility of any credit card or card feature/benefits at any time without prior notice"
+  ],
+  "excluded_categories": [
+    "Medical expenses incurred due to any pre-existing illness will not be covered",
+    "Travel Insurance provided under the policy shall not be valid for procuring a visa",
+    "Fraudulent transactions done by person known to the cardholder are specifically excluded",
+    "Terrorism is specifically excluded under the policy",
+    "Medical expenses incurred due to any pre-existing illness",
+    "Travel Insurance not valid for procuring a visa",
+    "Fraudulent transactions done by a person known to the cardholder",
+    "Terrorism"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\HDFC_Regalia Activ Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\INSURANCE\\coverages-regalia.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\INSURANCE\\insurance-for-regalia-activ.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\MITC\\mitc-201-641.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\MITC\\mitc-201-642.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\MITC\\mitc-201-643.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\MITC\\mitc-201-644.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\MITC\\mitc-201-645.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\TERMS\\generic-mailer-tnc.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Regalia Activ Credit Card\\TERMS\\rg-and-ra-lounge-list-tncs.pdf"
+  ]
+}

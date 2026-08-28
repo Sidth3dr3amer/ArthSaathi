@@ -1,0 +1,186 @@
+{
+  "card_name": "Intermiles Diners Club Credit Card",
+  "card_network": "Diners Club",
+  "card_type": "Credit Card",
+  "joining_fee": 5000,
+  "annual_fee": 5000,
+  "fee_waiver_condition": "Spend ₹8 lakh in a year to get a waiver on next year’s annual membership fee.",
+  "welcome_benefits": [
+    "2,500 Reward points on card activation & renewal.",
+    "Complimentary InterMiles Gold membership for the first year.",
+    "10,000 InterMiles upon spending ₹20,000 within first 30 days of card set up.",
+    "15,000 InterMiles on total retail spends of ₹1.5 lakh and above, within the first 90 days"
+  ],
+  "reward_structure": [
+    "8 InterMiles on every ₹150 spent on retail purchases.",
+    "16 InterMiles on every ₹150 spent on every flight and hotel booked here.",
+    "Earn 15,000 Reward Points on annual spends of Rs. 8,00,000 or more in each anniversary year",
+    "Earn 10,000 Reward Points on annual spends of Rs. 5,00,000 or more in each anniversary year"
+  ],
+  "reward_redemption_options": [
+    "Redeem up to maximum of 70% on the travel bookings (Flights, hotels and experiences) using Reward Points",
+    "Redemption of Reward Points against statement balance (cashback redemption) will be capped at 50,000 Reward Points per calendar month"
+  ],
+  "reward_exclusions": [
+    "Cash advances, fuel transactions, fees, and other charges do not accrue any InterMiles",
+    "EasyEMI and e-wallet loading transactions will not accrue InterMiles",
+    "InterMiles accrued will be reversed if a retail transaction is converted into SmartEMI",
+    "InterMiles accrued for Insurance transactions will have a maximum cap of 2,000 per day",
+    "Reward points will not be accrued for fuel transactions",
+    "Reward points will not be accrued for rental pay transactions, property management services like rent, maintenance, packers & movers, etc and government transactions",
+    "Reward points earned on grocery transaction will be capped at 2000 RP per calendar month",
+    "Reward points accrued for Insurance transactions will have a maximum cap of 2,000 per day"
+  ],
+  "reward_caps": [
+    "Grocery capping to 1000 Reward points in a month",
+    "Redemption of Reward Points for flights & hotel bookings on Smartbuy portal will be capped at 50,000 Reward Points per calendar month",
+    "The maximum reward points that can be earned in a statement cycle for Regalia is 50,000"
+  ],
+  "cashback_benefits": [],
+  "milestone_benefits": [
+    "Earn 10,000 Reward Points when you achieve spends of Rs. 5,00,000 in anniversary year and additional 5,000 Reward Points when you achieve Rs 8,00,000 in the same anniversary year"
+  ],
+  "lounge_access": [
+    "Unlimited airport lounge access to 1,000+ lounges in India via Exclusive Lounge Program"
+  ],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [
+    "2,000 Flight Discount vouchers for the first year",
+    "3,000 Hotel Discount vouchers for the first year",
+    "10% discount on Etihad Airways Business Class tickets booked here",
+    "5% discount on Etihad Airways Economy Class tickets booked here",
+    "2.5X bonus InterMiles for Etihad Airways tickets booked here"
+  ],
+  "hotel_benefits": [],
+  "airline_benefits": [
+    "16 InterMiles on every ₹150 spent on every flight and hotel booked here"
+  ],
+  "forex_benefits": [
+    "1% mark-up will be applicable on DCC transactions",
+    "For transactions in Indian currency at an international location or with a merchant located in India but registered overseas, a dynamic & static conversion markup fee of 1% will be charged"
+  ],
+  "dining_benefits": [
+    "Up to 10X reward points on select partner platforms like SmartBuy and weekend dining"
+  ],
+  "movie_benefits": [
+    "Ola cabs, BookMyShow vouchers, TataCliQ vouchers on monthly spends over ₹80,000"
+  ],
+  "golf_benefits": [
+    "complimentary Golf Games and green fee waiver for Domestic and International Golf Courses",
+    "access to exclusive restaurants at select golf clubs",
+    "Unlimited Complimentary golf games at leading courses across India and select courses across the world"
+  ],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver at all fuel stations across India on a minimum transaction of ₹400. Maximum waiver capped at ₹1000 every billing cycle",
+    "Reward points will not be accrued for fuel transactions"
+  ],
+  "shopping_benefits": [],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Air accident insurance cover worth ₹2 crore",
+    "Emergency overseas hospitalization cover of ₹50 lakh",
+    "Travel Insurance covers up to ₹55,000 on baggage delay, capped to 10$ per hour restricted to 8 hours",
+    "Credit liability cover of up to ₹9 Lakh"
+  ],
+  "protection_benefits": [],
+  "concierge_benefits": [
+    "concierge service for golf bookings"
+  ],
+  "emi_benefits": [
+    "Reward points will not be accrued for EasyEMI and e-wallet loading transactions",
+    "Reward points accrued will be reversed if a retail transaction is converted into SmartEMI"
+  ],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": "1% mark-up will be applicable on DCC transactions",
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver at all fuel stations across India on a minimum transaction of ₹400. Maximum waiver capped at ₹1000 every billing cycle",
+  "eligibility": [
+    "Salaried Indian national aged 21-60 years with net monthly income > ₹1.75 Lakh",
+    "Self-employed Indian national aged 21-65 years with annual ITR > ₹21 Lakh",
+    "For a salaried Indian national: Age: Minimum 21 years and maximum 60 years. Income: Net Monthly Income > ₹1.75 Lakh per month.",
+    "For a self-employed Indian national: Age: Minimum 21 years and maximum 65 years. Income: Income Tax Return (ITR) > ₹21 Lakh per annum.",
+    "Indian national",
+    "Min 21 years & Max 60 years (Salaried)",
+    "Min 21 years & Max 65 years (Self-Employed)"
+  ],
+  "income_requirements": [
+    "Net monthly income > ₹1.75 Lakh for salaried",
+    "Annual ITR > ₹21 Lakh for self-employed",
+    "Net Monthly Income > ₹1.75 Lakh per month for salaried individuals.",
+    "Income Tax Return (ITR) > ₹21 Lakh per annum for self-employed individuals.",
+    "Gross Monthly Income > ₹1,20,000 (Salaried)",
+    "Annual ITR > ₹14,40,000 (Self-Employed)"
+  ],
+  "documents_required": [
+    "Identity proof (Passport, Aadhaar card, Voter ID, Driving licence, PAN card, Passport size photograph)",
+    "Address proof (Utility bills, Rental agreement)",
+    "Income proof (Salary slips, Income Tax Returns, ITR Form 16, Bank statements)"
+  ],
+  "charges": [
+    "1% fee will be applicable on Rental transactions from the second rental transactions of the calendar month",
+    "For rent payments made through third-party merchants, a fee of 1% of the total transaction amount will be levied from the second rental transaction of the calendar month"
+  ],
+  "interest_rates": [
+    "Lowest Revolving Credit at an interest rate of 1.99% per month"
+  ],
+  "fees_and_penalties": [],
+  "spend_conditions": [
+    "Only retail purchases above ₹150 qualify for InterMiles",
+    "Only valid Retail purchases qualify for Reward points",
+    "If the Credit Card is not used for more than 365 days, Reward Points accrued will be nullified"
+  ],
+  "benefit_conditions": [
+    "Renewal benefits are only applicable on the realisation of the membership fee",
+    "Anniversary year is defined as 12 months period from card setup or last upgrade/downgrade date",
+    "This benefit is applicable w.e.f. 01st April 2018 only and any spends done before 01st April 2018 will not be considered for this benefit",
+    "In case of any retail card getting upgraded or downgraded to Regalia post 01st April 2018, the Spends calculation for annual spend benefit on the new Regalia card variant will start from date of upgrade/downgrade",
+    "Spends from any previous anniversary year or previous retail credit card product will not be considered for calculation of the Annual Spend benefit",
+    "Card Holder/s whose account has been classified as delinquent before or during the period of the Program, or when the Reward Point is to be posted, will not be eligible for the Reward Point under this offer"
+  ],
+  "renewal_benefits": [
+    "2,500 Reward points on card activation & renewal",
+    "Complimentary InterMiles Gold membership for the first year"
+  ],
+  "partner_programs": [
+    "GolfLAN.com",
+    "SmartBuy",
+    "Ola cabs",
+    "BookMyShow",
+    "TataCliQ"
+  ],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "Terms & Conditions available on website",
+    "Intermiles card is phased out. All the existing customers have been notified on SMS/email between Jan-Feb'23 and have been migrated to other cards after 30 days of the notification",
+    "Effective 1st January,2023 we will be capping the reward offering of InterMiles Credit Cards for payments made by customers",
+    "InterMiles once credited to the customer’s InterMiles Account cannot be converted to Reward Points",
+    "Reward points are valid only for 2 years from the date of accumulation",
+    "Posting of Bonus Reward points is a fully automated process and the bonus RP will be posted within 2 days of the milestone achievement by the customer. The same will reflect in the next monthly statement as well"
+  ],
+  "excluded_categories": [
+    "Cash advances",
+    "Fuel transactions",
+    "Fees",
+    "Other charges",
+    "EasyEMI and e-wallet loading transactions",
+    "Insurance transactions (capped at 2,000 per day)",
+    "fuel transactions",
+    "rental pay transactions",
+    "property management services like rent, maintenance, packers & movers",
+    "government transactions"
+  ],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\HDFC_Intermiles Diners Club Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\GOLF\\golf-program.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Intermiles Diners Club Credit Card\\REWARDS\\rewards-points-program-terms-and-condition.pdf"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "card_name": "Teachers Platinum Credit Card",
+  "card_network": null,
+  "card_type": "Credit Card",
+  "joining_fee": 500,
+  "annual_fee": "500 plus GST",
+  "fee_waiver_condition": "Spend 50,000 annually to receive a waiver on the annual fee for the following year",
+  "welcome_benefits": [
+    "500 Reward Points on Teacher’s Day (05th September) every year"
+  ],
+  "reward_structure": [
+    "Up to 3X Reward Points on spends of ₹200 with an annual capping of 2,400 Reward Points"
+  ],
+  "reward_redemption_options": [],
+  "reward_exclusions": [],
+  "reward_caps": [
+    "Annual capping of 2,400 Reward Points",
+    {
+      "category": "Statement cycle",
+      "limit": 15000
+    }
+  ],
+  "cashback_benefits": [
+    "Earn additional CashBack along with the card Reward Points on utility bills, mobile recharges and more via PayZapp",
+    "₹1,000 CashBack on shopping in-app over 200+ brands via PayZapp"
+  ],
+  "milestone_benefits": [],
+  "lounge_access": [],
+  "airport_services": [],
+  "priority_pass_benefits": [],
+  "travel_benefits": [],
+  "hotel_benefits": [],
+  "airline_benefits": [],
+  "forex_benefits": [],
+  "dining_benefits": [],
+  "movie_benefits": [],
+  "golf_benefits": [],
+  "fuel_benefits": [
+    "1% fuel surcharge waiver on transactions from ₹400 to ₹5,000. Max waiver: ₹250/cycle"
+  ],
+  "shopping_benefits": [
+    "₹1,000 CashBack on shopping in-app over 200+ brands via PayZapp"
+  ],
+  "entertainment_benefits": [],
+  "insurance_benefits": [
+    "Stay protected against unauthorised use when you shop anywhere with EMV Chip Card technology"
+  ],
+  "protection_benefits": [
+    "Stay protected against unauthorised use when you shop anywhere with EMV Chip Card technology"
+  ],
+  "concierge_benefits": [],
+  "emi_benefits": [],
+  "business_benefits": [],
+  "domestic_lounge_visits_per_year": null,
+  "international_lounge_visits_per_year": null,
+  "guest_lounge_access": null,
+  "reward_rate": null,
+  "forex_markup": null,
+  "fuel_surcharge_waiver": "1% fuel surcharge waiver on transactions from ₹400 to ₹5,000. Max waiver: ₹250/cycle",
+  "eligibility": [
+    "For a salaried employee Age: Minimum 21 years and maximum 60 years.",
+    "For self-employed Age: Minimum 21 years and maximum 65 years.",
+    "Salaried individuals must be between 21 and 60 years old.",
+    "Self-employed individuals must be between 21 and 65 years old.",
+    "Salaried individuals must be between 21 and 60 years old",
+    "Self-employed individuals must be between 21 and 65 years old"
+  ],
+  "income_requirements": [],
+  "documents_required": [],
+  "charges": [
+    "Annual charges: ₹500 plus GST annually",
+    "Membership Renewal Fee: ₹500 plus Applicable Taxes per year"
+  ],
+  "interest_rates": [
+    "3.49% per month",
+    "3.6% per month (effective September 1, 2020, equivalent to 43.2% annual)",
+    "3.49% per month on any outstanding balance carried beyond the due date",
+    "3.6% per month (equivalent to an annual rate of 43.2%) on any unpaid balance remaining beyond the bill's due date"
+  ],
+  "fees_and_penalties": [
+    "Annual charges: ₹500 plus GST annually",
+    "Membership Renewal Fee: ₹500 plus Applicable Taxes per year"
+  ],
+  "spend_conditions": [
+    "Spend ₹50,000 annually to waive the annual fee for the following year"
+  ],
+  "benefit_conditions": [],
+  "renewal_benefits": [
+    "With effect from 15th February 2019, on annual spends of ₹50,000 or more, get ₹500 renewal fee waived off on your HDFC Bank Teachers Platinum Credit Card"
+  ],
+  "partner_programs": [],
+  "merchant_offers": [],
+  "limited_period_offers": [],
+  "important_terms": [
+    "The Most Important Terms and Conditions for each of our banking offerings features all the specific terms and conditions that govern their use."
+  ],
+  "excluded_categories": [],
+  "source_files_used": [
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\HDFC_Teachers Platinum Credit Card_summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\summary.txt",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\eligibility.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\fees_and_charges.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\main.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\MITC\\mitc-1-641.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\MITC\\mitc-1-642.pdf",
+    "C:\\Users\\potda\\Namura\\CreditCardDataMaker_Final\\per_card_data\\HDFC\\Teachers Platinum Credit Card\\MITC\\mitc-1-643.pdf"
+  ]
+}
