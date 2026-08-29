@@ -67,8 +67,15 @@ SERPAPI_KEY = env("SERPAPI_KEY")
 # Neon Postgres (memory layer)
 DATABASE_URL = env("DATABASE_URL")
 
-# Default models per provider, matching what the original notebooks used.
-GROQ_MODEL = env("GROQ_MODEL", "llama-3.3-70b-versatile")
+# Default models per provider.
+#
+# `llama-3.3-70b-versatile` -- what every notebook originally used -- has been
+# DECOMMISSIONED by Groq and now returns 404 model_not_found. That silently
+# killed every Groq path in the system (extractor, RAG answers, LLM reports,
+# the router's fallback, and the anthropic->groq fallback); the agents degraded
+# gracefully rather than crashing, which is exactly why it went unnoticed.
+# Overridable via the GROQ_MODEL env var.
+GROQ_MODEL = env("GROQ_MODEL", "openai/gpt-oss-120b")
 CEREBRAS_MODEL = env("CEREBRAS_MODEL", "gpt-oss-120b")
 ANTHROPIC_MODEL = env("ANTHROPIC_MODEL", "claude-sonnet-4-6")
 LLM7_MODEL = env("LLM7_MODEL", "default")

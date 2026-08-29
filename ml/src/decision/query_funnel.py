@@ -250,8 +250,11 @@ def discover_schema(strategies):
 def plan_query(
     question: str,
     schema: dict,
-    model: str = "llama-3.3-70b-versatile"
+    model: str | None = None,
 ) -> dict:
+    # `llama-3.3-70b-versatile` was hardcoded here by the original notebook and
+    # has since been decommissioned by Groq. Default to the configured model.
+    model = model or config.GROQ_MODEL
 
     system_prompt = PLANNER_SYSTEM_PROMPT.format(
         schema=json.dumps(schema, indent=2)
@@ -471,9 +474,10 @@ def explain(
     question: str,
     plan: dict,
     funnel_result: dict,
-    model: str = "llama-3.3-70b-versatile",
-    max_tokens: int = 700
+    model: str | None = None,
+    max_tokens: int = 700,
 ) -> str:
+    model = model or config.GROQ_MODEL
 
     if funnel_result["skipped"]:
         system_prompt = EXPLAINER_SYSTEM_GENERAL

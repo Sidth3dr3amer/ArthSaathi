@@ -19,12 +19,55 @@ Agents should call `chat(prompt, provider="groq")` rather than constructing clie
 
 from __future__ import annotations
 
+import re
+import threading
+import time
 from functools import lru_cache
 from typing import Any, Literal
 
 from . import config
 
 Provider = Literal["groq", "cerebras", "anthropic", "llm7"]
+
+#: Max concurrent in-flight calls per provider.
+#:
+#: The deliberation graph fans five councils out in parallel, which made every
+#: provider return HTTP 429 ("too many concurrent requests") and produced a
+#: deliberation with 0-3 of 5 verdicts, varying run to run. Capping concurrency
+#: here fixes it for every caller rather than reshaping one graph.
+MAX_CONCURRENT = int(config.env("LLM_MAX_CONCURRENT", "5") or 5)
+
+#: Retries on a rate-limit response, honouring the provider's own retry hint.
+MAX_RETRIES = int(config.env("LLM_MAX_RETRIES", "3") or 3)
+MAX_BACKOFF_SECONDS = 12.0
+
+_semaphores: dict[str, threading.Semaphore] = {}
+_semaphore_lock = threading.Lock()
+
+_RETRY_AFTER = re.compile(r"retry after ([0-9.]+)\s*second", re.IGNORECASE)
+
+
+def _semaphore(provider: str) -> threading.Semaphore:
+    with _semaphore_lock:
+        if provider not in _semaphores:
+            _semaphores[provider] = threading.Semaphore(MAX_CONCURRENT)
+        return _semaphores[provider]
+
+
+def _is_rate_limit(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return "429" in text or "rate limit" in text or "too many" in text
+
+
+def _retry_delay(exc: Exception, attempt: int) -> float:
+    """Prefer the provider's stated wait; otherwise exponential backoff."""
+    match = _RETRY_AFTER.search(str(exc))
+    if match:
+        try:
+            return min(float(match.group(1)) + 0.25, MAX_BACKOFF_SECONDS)
+        except ValueError:
+            pass
+    return min(0.75 * (2 ** attempt), MAX_BACKOFF_SECONDS)
 
 
 class LLMNotConfigured(RuntimeError):
@@ -155,6 +198,35 @@ def chat(
         model = None
     model = model or _DEFAULT_MODEL[provider]
 
+    # Bounded concurrency + retry on rate limits. Without this, five councils
+    # deliberating in parallel simply 429 each other.
+    last: Exception | None = None
+    for attempt in range(MAX_RETRIES):
+        with _semaphore(provider):
+            try:
+                return _call(prompt, provider, system, model, temperature, **kwargs)
+            except Exception as exc:
+                last = exc
+                if not _is_rate_limit(exc) or attempt == MAX_RETRIES - 1:
+                    raise
+        # Sleep OUTSIDE the semaphore, so a waiting caller is not blocked by
+        # one that is merely backing off.
+        # Note: Python unbinds the `except` variable at block exit, so the
+        # backoff must read the captured reference, not `exc`.
+        time.sleep(_retry_delay(last, attempt))
+
+    raise last if last else RuntimeError("llm.chat exhausted retries")
+
+
+def _call(
+    prompt: str,
+    provider: Provider,
+    system: str | None,
+    model: str,
+    temperature: float,
+    **kwargs: Any,
+) -> str:
+    """One attempt against a provider. Wrapped by `chat` for retry."""
     if provider == "anthropic":
         client = anthropic_client()
         message = client.messages.create(

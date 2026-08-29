@@ -26,10 +26,16 @@ from typing import Any, Callable, Sequence
 
 from langgraph.graph import END, START, StateGraph
 
-from ..common import llm
+from ..common import config, llm
 from ..schemas.state import FinancialState
 
-DEFAULT_PROVIDER: llm.Provider = "llm7"
+# Councils fan out in parallel, so the provider must tolerate concurrency.
+# LLM7 is the notebook's original endpoint and handles the five-way fan-out
+# (measured 5/5 concurrent calls in 4.2s). An exhausted key here is not
+# obvious from the outside: it surfaces as 429s that silently reduce a
+# deliberation to 2-3 of 5 verdicts, so `errors` now reports a short council.
+# Override with DELIBERATION_PROVIDER=groq to move the councils to Groq.
+DEFAULT_PROVIDER: llm.Provider = config.env("DELIBERATION_PROVIDER", "llm7")  # type: ignore[assignment]
 
 
 # --------------------------------------------------------------------------- #

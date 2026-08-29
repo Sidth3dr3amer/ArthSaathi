@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ArthaSaathi — agent test bench</title>
+<style>
+  :root { --bg:#faf7f2; --ink:#1c1c1c; --mut:#6b665e; --line:#e2ddd4; --accent:#b3261e; }
+  * { box-sizing:border-box; }
+  body { margin:0; padding:24px; background:var(--bg); color:var(--ink);
+         font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif; }
+  h1 { font-size:18px; margin:0 0 2px; }
+  .sub { color:var(--mut); font-size:12px; margin-bottom:16px; }
+  .row { display:flex; gap:8px; margin-bottom:10px; flex-wrap:wrap; }
+  input, select, button { font:inherit; padding:8px 10px; border:1px solid var(--line);
+                          border-radius:6px; background:#fff; }
+  input[type=text] { flex:1; min-width:260px; }
+  button { cursor:pointer; background:var(--ink); color:#fff; border-color:var(--ink); }
+  button:hover { background:#000; }
+  button.ghost { background:#fff; color:var(--ink); }
+  .chips { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px; }
+  .chip { font-size:12px; padding:5px 9px; border:1px solid var(--line); border-radius:99px;
+          background:#fff; cursor:pointer; color:var(--mut); }
+  .chip:hover { border-color:var(--ink); color:var(--ink); }
+  .card { background:#fff; border:1px solid var(--line); border-radius:8px;
+          padding:14px; margin-bottom:12px; }
+  .meta { display:flex; gap:18px; flex-wrap:wrap; font-size:12px; color:var(--mut);
+          margin-bottom:10px; }
+  .meta b { color:var(--ink); font-weight:600; }
+  .agent { font-size:12px; padding:2px 7px; background:#f1ede5; border-radius:4px;
+           margin:0 4px 4px 0; display:inline-block; }
+  h3 { font-size:13px; margin:14px 0 6px; }
+  ul { margin:0; padding-left:18px; }
+  li { margin-bottom:3px; }
+  pre { background:#f7f4ee; padding:10px; border-radius:6px; overflow:auto;
+        max-height:340px; font-size:11.5px; margin:0; }
+  .err { color:var(--accent); }
+  .ok { color:#1a7f3c; }
+  details summary { cursor:pointer; color:var(--mut); font-size:12px; }
+</style>
+</head>
+<body>
+
+<h1>ArthaSaathi — agent test bench</h1>
+<div class="sub">
+  Temporary harness. Start the API first:
+  <code>uvicorn server.main:app --port 8000</code>
+</div>
+
+<div class="row">
+  <input type="text" id="api" value="http://localhost:8000" style="max-width:220px">
+  <input type="text" id="uid" value="bench-user" style="max-width:150px">
+  <button class="ghost" onclick="health()">Health</button>
+  <button class="ghost" onclick="listWorkflows()">Workflows</button>
+</div>
+
+<div class="row">
+  <input type="text" id="q" value="give me a full financial review"
+         onkeydown="if(event.key==='Enter')send()">
+  <button onclick="send()">Run</button>
+</div>
+
+<div class="chips" id="chips"></div>
+<div id="out"></div>
+
+<script>
+const PRESETS = [
+  ["Full review", "give me a full financial review"],
+  ["Credit card", "which credit card should I get for online shopping?"],
+  ["Schemes", "am I eligible for any government schemes?"],
+  ["Salary day", "my salary just got credited, what should I do?"],
+  ["Goal", "I want to save 20 lakh for a house down payment"],
+  ["Life event", "we're getting married next year"],
+  ["Forecast", "how much will I have in 6 months?"],
+  ["Safety", "do I have enough emergency fund and insurance?"],
+  ["Fraud (slow ~60s)", "is Doubler Capital a scam?"],
+];
+
+// A profile with enough signal that every council has something to say.
+const PROFILE = {
+  user_id: "bench-user", name: "Bench User", age: 33, job_type: "salaried",
+  occupation: "farmer", residence: "rural", gender: "male", land_holding_ha: 1.2,
+  monthly_income: 95000, essential_expenses: 48000, current_balance: 150000,
+  existing_emergency_fund: 40000, retirement_corpus: 300000, dependents: 2,
+  has_health_insurance: false, annual_household_income: 1140000, max_annual_fee: 3000,
+  monthly_spend: { rent: 26000, dining: 8000, groceries: 8000, fuel: 4000, travel: 5000 },
+  debts: [{ name: "HDFC Card", debt_type: "credit_card", outstanding_amount: 160000,
+            interest_rate: 42.0, minimum_due: 8000 }],
+  goals: [{ name: "Home", target_amount: 2000000, current_amount: 250000,
+            target_months: 60, priority: "high" }]
+};
+
+const $ = id => document.getElementById(id);
+const api = () => $("api").value.replace(/\/$/, "");
+const esc = s => String(s).replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+
+PRESETS.forEach(([label, text]) => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.textContent = label;
+  b.onclick = () => { $("q").value = text; send(); };
+  $("chips").appendChild(b);
+});
+
+function show(html) { $("out").innerHTML = html; }
+
+async function call(path, opts) {
+  const t0 = performance.now();
+  const r = await fetch(api() + path, opts);
+  const ms = Math.round(performance.now() - t0);
+  const body = await r.json().catch(() => ({ error: "non-JSON response" }));
+  return { ok: r.ok, status: r.status, ms, body };
+}
+
+async function health() {
+  show('<div class="card">checking…</div>');
+  try {
+    const { status, ms, body } = await call("/health");
+    show(`<div class="card"><div class="meta">
+      <span>status <b class="${status === 200 ? "ok" : "err"}">${status}</b></span>
+      <span>${ms} ms</span></div><pre>${esc(JSON.stringify(body, null, 2))}</pre></div>`);
+  } catch (e) { show(`<div class="card err">Cannot reach ${api()} — is the server running?</div>`); }
+}
+
+async function listWorkflows() {
+  show('<div class="card">loading…</div>');
+  const { body, ms } = await call("/workflows");
+  const items = (body.workflows || body || []);
+  show(`<div class="card"><div class="meta"><span><b>${items.length}</b> workflows</span>
+    <span>${ms} ms</span></div>${items.map(w =>
+      `<div style="margin-bottom:8px"><b>${esc(w.name || w.label)}</b>
+       <div class="sub" style="margin:0">${esc(w.description || "")}</div></div>`).join("")}</div>`);
+}
+
+async function send() {
+  const msg = $("q").value.trim();
+  if (!msg) return;
+  show('<div class="card">running… (a fraud query makes real network calls and can take ~60s)</div>');
+
+  let res;
+  try {
+    res = await call("/chat", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        user_id: $("uid").value, message: msg,
+        profile: { ...PROFILE, user_id: $("uid").value },
+        use_llm_router: false
+      })
+    });
+  } catch (e) {
+    return show(`<div class="card err">Cannot reach ${api()} — is the server running?</div>`);
+  }
+
+  const b = res.body;
+  if (!res.ok) {
+    return show(`<div class="card"><div class="meta">
+      <span>status <b class="err">${res.status}</b></span><span>${res.ms} ms</span></div>
+      <pre>${esc(JSON.stringify(b, null, 2))}</pre></div>`);
+  }
+
+  const recs = b.recommendations || {};
+  const errs = b.errors || [];
+
+  show(`<div class="card">
+    <div class="meta">
+      <span>intent <b>${esc(b.intent || "?")}</b></span>
+      <span>workflow <b>${esc(b.workflow || "?")}</b></span>
+      <span>agents <b>${(b.agents_run || []).length}</b></span>
+      <span>councils <b>${(b.council_verdicts || []).length}</b></span>
+      <span>memory <b class="${b.memory_written ? "ok" : "err"}">${b.memory_written ? "written" : "no"}</b></span>
+      <span>${res.ms} ms</span>
+      <span>errors <b class="${errs.length ? "err" : "ok"}">${errs.length}</b></span>
+    </div>
+
+    <div>${(b.agents_run || []).map(a => `<span class="agent">${esc(a)}</span>`).join("")}</div>
+
+    ${errs.length ? `<h3 class="err">Errors</h3><ul class="err">${
+      errs.map(e => `<li>${esc(e)}</li>`).join("")}</ul>` : ""}
+
+    ${(b.allocation_plan || []).length ? `<h3>Where the surplus goes</h3><ul>${
+      b.allocation_plan.map(p =>
+        `<li><b>₹${Math.round(p.monthly_allocation).toLocaleString("en-IN")}/mo</b>
+         (${Math.round(p.share_of_surplus * 100)}%) — ${esc(p.label)}</li>`).join("")}</ul>` : ""}
+
+    ${Object.keys(recs).length ? `<h3>Recommendations</h3>${
+      Object.entries(recs).map(([agent, lines]) =>
+        `<div style="margin-bottom:8px"><b>${esc(agent)}</b><ul>${
+          (lines || []).map(l => `<li>${esc(l)}</li>`).join("")}</ul></div>`).join("")}` : ""}
+
+    ${b.final_decision ? `<h3>Judge</h3><div>${esc(b.final_decision).slice(0, 1200)}</div>` : ""}
+
+    <h3>Raw</h3>
+    <details><summary>show full JSON (${(JSON.stringify(b).length / 1024).toFixed(1)} KB)</summary>
+      <pre>${esc(JSON.stringify(b, null, 2))}</pre></details>
+  </div>`);
+}
+
+health();
+</script>
+</body>
+</html>
