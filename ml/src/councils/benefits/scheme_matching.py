@@ -46,14 +46,36 @@ CATEGORY_BASE = {
 EFFORT_PER_DOCUMENT = 0.04
 MIN_EFFORT_WEIGHT = 0.6
 
+#: What KIND of thing a benefit is. Summing these together is the single
+#: easiest way to produce a nonsense number, and the first version of this
+#: agent did exactly that: a street vendor earning Rs 2.16 lakh was told she
+#: qualified for Rs 7.26 lakh a year -- 335% of her income -- because a
+#: Rs 1 crore *loan* and a Rs 25 lakh business-subsidy *ceiling* were being
+#: counted as annual income alongside a Rs 6,000 cash transfer.
+#:
+#: They are four different things and only the first is money arriving:
+#:   income           cash or wages the user receives
+#:   protection       risk transferred away; contingent, never income
+#:   credit_access    capital they could borrow; a liability, not a benefit
+#:   savings_capacity room to save their OWN money at a better rate
+BENEFIT_KIND = {
+    "cash_transfer": "income",
+    "wage_employment": "income",
+    "subsidy": "income",
+    "interest_subsidy": "income",
+    "insurance": "protection",
+    "loan": "credit_access",
+    "credit_line": "credit_access",
+    "banking": "credit_access",
+    "pension": "savings_capacity",
+    "savings": "savings_capacity",
+}
+
 #: What fraction of the headline amount a user actually realises in a year.
 #:
-#: This matters more than it looks. A naive reading values PMSBY -- a Rs 20/year
-#: accident policy -- at its Rs 2,00,000 sum assured, which would rank it above
-#: PM-KISAN's guaranteed Rs 6,000 transfer and produce an obviously wrong
-#: recommendation. An insurance payout is contingent; a cash transfer is not.
-#: For risk products the honest annual value is the risk-transfer benefit, which
-#: is closer to the commercial premium than to the sum assured.
+#: A naive reading values PMSBY -- a Rs 20/year accident policy -- at its
+#: Rs 2,00,000 sum assured, ranking it above PM-KISAN's guaranteed Rs 6,000
+#: transfer. An insurance payout is contingent; a cash transfer is not.
 REALISATION = {
     "cash_transfer": 1.00,     # paid, guaranteed
     "wage_employment": 0.80,   # depends on days actually worked
@@ -67,19 +89,35 @@ REALISATION = {
     "interest_subsidy": 0.50,
 }
 
+#: A one-off ceiling (PMEGP's Rs 25 lakh project subsidy, PMAY's Rs 2.67 lakh)
+#: is a maximum a few applicants reach, not an annuity. Amortising it over five
+#: years still overstates it badly, so headline-capped benefits are additionally
+#: discounted and capped against what the user could plausibly absorb.
+CEILING_TYPES = {"subsidy", "interest_subsidy", "loan", "credit_line"}
+CEILING_DISCOUNT = 0.25
 
-def _annual_value(benefit: dict[str, Any]) -> float:
+
+def _annual_value(benefit: dict[str, Any], annual_surplus: float | None = None) -> float:
     """
     Indicative annual rupee value the user actually realises.
 
-    Combines the payout frequency with a realisation factor for the benefit
-    type, so contingent and guaranteed benefits are comparable.
+    Combines payout frequency with a realisation factor, then applies two
+    corrections that stop the figure becoming absurd:
+
+    * headline CEILINGS are discounted, because a Rs 25 lakh maximum is what a
+      few applicants reach, not what a typical one receives;
+    * SAVINGS CAPACITY is capped by what the user can actually put aside. A
+      PPF limit of Rs 1.5 lakh is worth nothing to someone with a Rs 3,000
+      monthly surplus, and counting it as a benefit is telling them they have
+      money they do not have.
     """
     amount = float(benefit.get("amount", 0) or 0)
     if amount <= 0:
         return 0.0
 
+    kind_of = benefit.get("type", "")
     frequency = benefit.get("frequency", "one_time")
+
     if frequency == "annual":
         annualised = amount
     elif frequency == "per_season":
@@ -91,8 +129,14 @@ def _annual_value(benefit: dict[str, Any]) -> float:
     else:
         annualised = amount
 
-    realisation = REALISATION.get(benefit.get("type", ""), 0.5)
-    return annualised * realisation
+    if kind_of in CEILING_TYPES:
+        annualised *= CEILING_DISCOUNT
+
+    # You cannot save more than you have spare.
+    if BENEFIT_KIND.get(kind_of) == "savings_capacity" and annual_surplus is not None:
+        annualised = min(annualised, max(annual_surplus, 0.0))
+
+    return annualised * REALISATION.get(kind_of, 0.5)
 
 
 def _need_weight(scheme: dict[str, Any], profile: UserProfile) -> tuple[float, list[str]]:
@@ -174,10 +218,15 @@ def scheme_matching_advisor(
     if include_possible:
         candidates += assessment["possibly_eligible"]
 
+    # What the user could plausibly set aside in a year, used to cap
+    # savings-capacity benefits at something they can actually reach.
+    annual_surplus = max(profile.monthly_surplus, 0.0) * 12
+
     scored: list[dict[str, Any]] = []
     for row in candidates:
         benefit = row.get("benefit", {}) or {}
-        annual_value = _annual_value(benefit)
+        annual_value = _annual_value(benefit, annual_surplus)
+        kind = BENEFIT_KIND.get(benefit.get("type", ""), "income")
 
         # log scale keeps a huge credit limit from dominating a small transfer
         benefit_weight = math.log10(annual_value + 10) / 6 if annual_value > 0 else 0.05
@@ -199,13 +248,26 @@ def scheme_matching_advisor(
             "need_weight": round(need, 4),
             "effort_weight": round(effort_weight, 4),
             "match_score": round(min(score, 1.0) * 100, 2),
+            "benefit_kind": kind,
             "why": reasons or [f"{row.get('category', 'general')} support"],
         })
 
     scored.sort(key=lambda r: r["match_score"], reverse=True)
     top = scored[:top_n]
 
-    total_annual = sum(r["annual_value"] for r in scored if r["verdict"] == "eligible")
+    # Sum by KIND. Adding a loan ceiling to a cash transfer produces a headline
+    # figure that can exceed the user's income several times over, which is both
+    # wrong and the kind of number that destroys trust the moment it is noticed.
+    eligible = [r for r in scored if r["verdict"] == "eligible"]
+    by_kind: dict[str, float] = {}
+    for r in eligible:
+        by_kind[r["benefit_kind"]] = by_kind.get(r["benefit_kind"], 0.0) + r["annual_value"]
+
+    income_benefit = by_kind.get("income", 0.0)
+    annual_income = (
+        profile.annual_household_income
+        or (profile.monthly_income * 12 if profile.monthly_income else 0.0)
+    )
 
     return {
         "schemes_evaluated": assessment["schemes_evaluated"],
@@ -213,7 +275,16 @@ def scheme_matching_advisor(
         "possibly_eligible_count": assessment["possibly_eligible_count"],
         "matches": top,
         "all_scored": scored,
-        "estimated_annual_benefit": round(total_annual, 2),
+        # Only money actually arriving. Credit access and savings headroom are
+        # reported separately rather than folded into an income-like number.
+        "estimated_annual_benefit": round(income_benefit, 2),
+        "benefit_breakdown": {k: round(v, 2) for k, v in sorted(by_kind.items())},
+        "credit_access": round(by_kind.get("credit_access", 0.0), 2),
+        "protection_value": round(by_kind.get("protection", 0.0), 2),
+        "savings_capacity": round(by_kind.get("savings_capacity", 0.0), 2),
+        "benefit_as_income_percent": (
+            round(income_benefit / annual_income * 100, 1) if annual_income else None
+        ),
         "ask_user_for": assessment["ask_user_for"],
         "recommendations": [
             f"{r['name']} - {r['match_score']:.0f}% match, "

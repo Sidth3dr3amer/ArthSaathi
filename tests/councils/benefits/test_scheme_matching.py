@@ -63,8 +63,16 @@ def test_a_guaranteed_transfer_outvalues_a_far_larger_credit_line():
 
 
 def test_one_time_benefits_are_amortised():
+    """
+    A one-off subsidy is spread over five years AND discounted as a ceiling,
+    because the headline is a maximum rather than a typical receipt.
+    """
+    from ml.src.councils.benefits.scheme_matching import CEILING_DISCOUNT
+
     value = _annual_value({"type": "subsidy", "amount": 120_000, "frequency": "one_time"})
-    assert value == pytest.approx(120_000 / 5 * REALISATION["subsidy"])
+    assert value == pytest.approx(
+        120_000 / 5 * CEILING_DISCOUNT * REALISATION["subsidy"]
+    )
 
 
 def test_zero_amount_is_zero_value():
@@ -138,10 +146,20 @@ def test_excluding_possibles_narrows_the_candidate_set(farmer):
     assert all(r["verdict"] == "eligible" for r in without["all_scored"])
 
 
-def test_estimated_benefit_counts_only_confirmed_schemes(farmer):
+def test_estimated_benefit_counts_only_confirmed_income(farmer):
+    """
+    Confirmed schemes only, AND income-kind only. An unconfirmed match or a
+    loan ceiling must not inflate the headline.
+    """
     out = scheme_matching_advisor(farmer)
-    expected = sum(r["annual_value"] for r in out["all_scored"] if r["verdict"] == "eligible")
+    expected = sum(
+        r["annual_value"] for r in out["all_scored"]
+        if r["verdict"] == "eligible" and r["benefit_kind"] == "income"
+    )
     assert out["estimated_annual_benefit"] == pytest.approx(expected, abs=0.5)
+    assert out["estimated_annual_benefit"] < sum(
+        r["annual_value"] for r in out["all_scored"] if r["verdict"] == "eligible"
+    )
 
 
 def test_every_match_carries_a_reason(farmer):
@@ -174,3 +192,79 @@ def test_node_produces_human_readable_recommendations(farmer):
 def test_node_survives_a_bare_profile(zero_profile):
     result = scheme_matching_node(new_state(zero_profile))["scheme_matching_result"]
     assert result["schemes_evaluated"] > 0
+
+
+# --------------------------------------------------------------------------- #
+# Benefit kinds — the fix for a headline that exceeded the user's income
+# --------------------------------------------------------------------------- #
+
+def test_benefit_kinds_are_not_summed_together(urban_worker):
+    """
+    The first version told a street vendor earning Rs 2.16 lakh that she
+    qualified for Rs 7.26 lakh a year -- 335% of her income -- by adding a
+    Rs 1 crore LOAN and a Rs 25 lakh project-subsidy CEILING to a Rs 6,000
+    cash transfer. Those are four different things.
+    """
+    out = scheme_matching_advisor(urban_worker, top_n=99)
+    assert out["benefit_as_income_percent"] < 100, (
+        "headline benefit exceeds the user's entire annual income"
+    )
+    assert set(out["benefit_breakdown"]) <= {
+        "income", "protection", "credit_access", "savings_capacity"
+    }
+
+
+def test_headline_counts_only_money_actually_arriving(urban_worker):
+    out = scheme_matching_advisor(urban_worker, top_n=99)
+    assert out["estimated_annual_benefit"] == pytest.approx(
+        out["benefit_breakdown"].get("income", 0.0), abs=1.0
+    )
+    # Credit and savings headroom are reported, never folded into the headline.
+    assert out["credit_access"] >= 0
+    assert out["savings_capacity"] >= 0
+
+
+def test_a_loan_is_never_counted_as_income(urban_worker):
+    out = scheme_matching_advisor(urban_worker, top_n=99)
+    loans = [r for r in out["all_scored"]
+             if (r.get("benefit") or {}).get("type") in ("loan", "credit_line")]
+    assert loans, "expected at least one loan-type scheme in the catalogue"
+    assert all(r["benefit_kind"] == "credit_access" for r in loans)
+
+
+def test_savings_capacity_is_capped_by_what_the_user_can_spare():
+    """A Rs 1.5 lakh PPF limit is worth nothing on a Rs 500 monthly surplus."""
+    broke = UserProfile(user_id="b", age=30, monthly_income=12_000,
+                        essential_expenses=11_500, annual_household_income=144_000)
+    rich = broke.model_copy(update={"essential_expenses": 2_000})
+
+    def savings(p):
+        return scheme_matching_advisor(p, top_n=99)["savings_capacity"]
+
+    assert savings(broke) < savings(rich)
+
+
+def test_ceiling_amounts_are_discounted():
+    """PMEGP's headline is a maximum project cost, not a grant."""
+    from ml.src.councils.benefits.scheme_matching import CEILING_DISCOUNT, _annual_value
+
+    plain = _annual_value({"type": "cash_transfer", "amount": 100_000, "frequency": "one_time"})
+    ceiling = _annual_value({"type": "subsidy", "amount": 100_000, "frequency": "one_time"})
+    assert ceiling < plain
+    assert CEILING_DISCOUNT < 1.0
+
+
+def test_ceiling_based_schemes_carry_a_note():
+    """A reader must be able to tell a ceiling from a typical receipt."""
+    from ml.src.councils.benefits.eligibility import load_schemes
+
+    flagged = [s for s in load_schemes()
+               if (s.get("benefit") or {}).get("amount_is_ceiling")]
+    assert flagged, "expected ceiling-based schemes to be marked"
+    assert all((s["benefit"].get("note") or "") for s in flagged)
+
+
+def test_the_uninsured_still_get_health_cover_ranked_first(urban_worker):
+    """Re-weighting benefit value must not break the ranking that matters."""
+    out = scheme_matching_advisor(urban_worker, top_n=3)
+    assert out["matches"][0]["scheme_id"] == "PMJAY"
