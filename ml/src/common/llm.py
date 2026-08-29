@@ -12,7 +12,8 @@ Provider assignments inherited from the original notebooks:
   groq      -> most council agents, fraud detection, voice, query funnel
   cerebras  -> credit-card PDF attribute extraction
   anthropic -> cashflow narrative layer
-  llm7      -> multi-agent deliberation council (OpenAI-compatible endpoint)
+  llm7      -> legacy deliberation endpoint (the notebook's original)
+  openrouter-> multi-agent deliberation council, and Groq's failover target
 
 Agents should call `chat(prompt, provider="groq")` rather than constructing clients.
 """
@@ -27,7 +28,7 @@ from typing import Any, Literal
 
 from . import config
 
-Provider = Literal["groq", "cerebras", "anthropic", "llm7"]
+Provider = Literal["groq", "cerebras", "anthropic", "llm7", "openrouter"]
 
 #: Max concurrent in-flight calls per provider.
 #:
@@ -109,6 +110,17 @@ def anthropic_client():
 
 
 @lru_cache(maxsize=1)
+def openrouter_client():
+    from openai import OpenAI
+
+    if not config.OPENROUTER_API_KEY:
+        raise LLMNotConfigured("OPENROUTER_API_KEY is not set.")
+    return OpenAI(
+        base_url=config.OPENROUTER_BASE_URL, api_key=config.OPENROUTER_API_KEY
+    )
+
+
+@lru_cache(maxsize=1)
 def llm7_client():
     from openai import OpenAI
 
@@ -122,6 +134,7 @@ _DEFAULT_MODEL: dict[str, str] = {
     "cerebras": config.CEREBRAS_MODEL,
     "anthropic": config.ANTHROPIC_MODEL,
     "llm7": config.LLM7_MODEL,
+    "openrouter": config.OPENROUTER_MODEL,
 }
 
 _KEY_FOR: dict[str, str | None] = {
@@ -129,16 +142,24 @@ _KEY_FOR: dict[str, str | None] = {
     "cerebras": config.CEREBRAS_API_KEY,
     "anthropic": config.ANTHROPIC_API_KEY,
     "llm7": config.LLM7_API_KEY,
+    "openrouter": config.OPENROUTER_API_KEY,
 }
 
-#: Where to route when the requested provider has no credentials.
-#: ANTHROPIC_API_KEY is currently a blank placeholder, so the cashflow narrative
-#: layer runs on Groq until a real key is supplied -- no code change needed then,
-#: it simply stops falling back.
+#: Where to route when the requested provider is unavailable -- either because
+#: it has no credentials, or because a live call to it failed.
+#:
+#: `groq -> openrouter` matters most: Groq serves roughly nine calls in ten
+#: (profile extraction, RAG, LLM reports, the router's fallback, the query
+#: funnel), and before this entry existed it was the one provider nothing fell
+#: back from -- a Groq outage took all of that down at once. OpenRouter is the
+#: target rather than LLM7 because it is a different vendor and measured far
+#: faster under concurrency (11 parallel calls in 1.9s vs LLM7's 8.5-60s).
 PROVIDER_FALLBACK: dict[str, Provider] = {
     "anthropic": "groq",
-    "llm7": "groq",
+    "llm7": "openrouter",
     "cerebras": "groq",
+    "groq": "openrouter",
+    "openrouter": "groq",
 }
 
 
@@ -198,8 +219,37 @@ def chat(
         model = None
     model = model or _DEFAULT_MODEL[provider]
 
-    # Bounded concurrency + retry on rate limits. Without this, five councils
-    # deliberating in parallel simply 429 each other.
+    try:
+        return _attempt(prompt, provider, system, model, temperature, **kwargs)
+    except LLMNotConfigured:
+        raise
+    except Exception as exc:
+        # A LIVE failure, not a missing key. Previously this raised and took
+        # down every caller, because `resolve_provider` only ever fell back on
+        # an absent credential -- so an outage on a provider whose key was
+        # present had no path out. Try the fallback once.
+        if strict:
+            raise
+        fallback = PROVIDER_FALLBACK.get(provider)
+        if not fallback or fallback == provider or not is_configured(fallback):
+            raise
+        try:
+            return _attempt(
+                prompt, fallback, system, _DEFAULT_MODEL[fallback], temperature, **kwargs
+            )
+        except Exception:
+            raise exc from None      # report the original failure, not the fallback's
+
+
+def _attempt(
+    prompt: str,
+    provider: Provider,
+    system: str | None,
+    model: str,
+    temperature: float,
+    **kwargs: Any,
+) -> str:
+    """One provider, with bounded concurrency and rate-limit retry."""
     last: Exception | None = None
     for attempt in range(MAX_RETRIES):
         with _semaphore(provider):
@@ -244,6 +294,7 @@ def _call(
         "groq": groq_client,
         "cerebras": cerebras_client,
         "llm7": llm7_client,
+        "openrouter": openrouter_client,
     }[provider]()
 
     messages: list[dict[str, str]] = []
@@ -262,9 +313,4 @@ def _call(
 
 def available_providers() -> dict[str, bool]:
     """Which providers currently have credentials. Useful in demos and diagnostics."""
-    return {
-        "groq": bool(config.GROQ_API_KEY),
-        "cerebras": bool(config.CEREBRAS_API_KEY),
-        "anthropic": bool(config.ANTHROPIC_API_KEY),
-        "llm7": bool(config.LLM7_API_KEY),
-    }
+    return {name: bool(key) for name, key in _KEY_FOR.items()}

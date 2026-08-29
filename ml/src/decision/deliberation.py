@@ -30,11 +30,19 @@ from ..common import config, llm
 from ..schemas.state import FinancialState
 
 # Councils fan out in parallel, so the provider must tolerate concurrency.
-# LLM7 is the notebook's original endpoint and handles the five-way fan-out
-# (measured 5/5 concurrent calls in 4.2s). An exhausted key here is not
-# obvious from the outside: it surfaces as 429s that silently reduce a
-# deliberation to 2-3 of 5 verdicts, so `errors` now reports a short council.
-# Override with DELIBERATION_PROVIDER=groq to move the councils to Groq.
+#
+# Measured on the REAL deliberation (5 advisors + 5 critics + judge, full
+# council prompts, ~500 chars generated each) -- not on toy prompts, which
+# mislead badly here because generation time dominates, not concurrency:
+#
+#   llm7        8.5-60s, 5/5 verdicts   <- current default
+#   openrouter  82-133s, 5/5 verdicts, more consistent but ~10x slower
+#
+# LLM7 wins on latency with a healthy key. Its failure mode is that an
+# exhausted key silently degrades a deliberation to 2-3 of 5 verdicts, which
+# is why `errors` now reports a short council explicitly.
+#
+# Override with DELIBERATION_PROVIDER=openrouter for consistency over speed.
 DEFAULT_PROVIDER: llm.Provider = config.env("DELIBERATION_PROVIDER", "llm7")  # type: ignore[assignment]
 
 

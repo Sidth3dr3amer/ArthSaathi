@@ -61,6 +61,7 @@ GROQ_API_KEY = env("GROQ_API_KEY")
 CEREBRAS_API_KEY = env("CEREBRAS_API_KEY")
 ANTHROPIC_API_KEY = env("ANTHROPIC_API_KEY")
 LLM7_API_KEY = env("LLM7_API_KEY")
+OPENROUTER_API_KEY = env("OPENROUTER_API_KEY")
 TAVILY_API_KEY = env("TAVILY_API_KEY")
 SERPAPI_KEY = env("SERPAPI_KEY")
 
@@ -80,5 +81,16 @@ CEREBRAS_MODEL = env("CEREBRAS_MODEL", "gpt-oss-120b")
 ANTHROPIC_MODEL = env("ANTHROPIC_MODEL", "claude-sonnet-4-6")
 LLM7_MODEL = env("LLM7_MODEL", "default")
 LLM7_BASE_URL = env("LLM7_BASE_URL", "https://api.llm7.io/v1/")
+
+# OpenRouter. Chosen for the council fan-out after measuring 11 concurrent
+# calls in 1.9s, against LLM7's 8.5-60s for the same deliberation.
+#
+# Deliberately an INSTRUCT model, not a reasoning one. Reasoning models on
+# OpenRouter (openai/gpt-oss-120b, inclusionai/ling-3.0-flash-fin) spend the
+# token budget on reasoning and return EMPTY content rather than an error --
+# every agent would silently produce blank output while reporting success,
+# which is the same failure mode as the decommissioned Groq model.
+OPENROUTER_MODEL = env("OPENROUTER_MODEL", "meta-llama/llama-3.3-70b-instruct")
+OPENROUTER_BASE_URL = env("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
 
 EMBEDDING_DIM = int(env("EMBEDDING_DIM", "384") or 384)

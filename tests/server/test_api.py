@@ -76,7 +76,9 @@ def test_health_reports_wiring(client):
     assert body["status"] == "ok"
     assert body["agents"] == 18
     assert body["workflows"] == len(WORKFLOWS)
-    assert set(body["providers"]) == {"groq", "cerebras", "anthropic", "llm7"}
+    # Derived, not hardcoded, so adding a provider does not break this.
+    from ml.src.common.llm import _KEY_FOR
+    assert set(body["providers"]) == set(_KEY_FOR)
 
 
 def test_health_never_leaks_key_values(client):
