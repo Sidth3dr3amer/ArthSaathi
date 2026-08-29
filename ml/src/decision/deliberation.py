@@ -120,7 +120,9 @@ COUNCIL_PERSONAS: tuple[Persona, ...] = (
         brief=(
             "You argue for protecting the household against shocks first: runway, "
             "insurance cover, and escaping high-cost debt. Argue only from the "
-            "findings given. Be concrete about what breaks if a shock lands."
+            "findings given. Be concrete about what breaks if a shock lands. "
+            "Answer in at most 60 words, as plain prose. No headings, no "
+            "bullet points, no markdown."
         ),
         result_keys=("emergency_fund_result", "insurance_result", "debt_trap_result"),
     ),
@@ -129,7 +131,9 @@ COUNCIL_PERSONAS: tuple[Persona, ...] = (
         brief=(
             "You argue for compounding: time in market, retirement readiness, and "
             "the cost of delaying. Argue only from the findings given. Be concrete "
-            "about what is lost by waiting another year."
+            "about what is lost by waiting another year. "
+            "Answer in at most 60 words, as plain prose. No headings, no "
+            "bullet points, no markdown."
         ),
         result_keys=(
             "asset_allocation_result", "retirement_result",
@@ -141,7 +145,9 @@ COUNCIL_PERSONAS: tuple[Persona, ...] = (
         brief=(
             "You argue from what the month-to-month numbers can actually sustain: "
             "surplus, forecast stability, and whether a plan survives a bad month. "
-            "Argue only from the findings given."
+            "Argue only from the findings given. "
+            "Answer in at most 60 words, as plain prose. No headings, no "
+            "bullet points, no markdown."
         ),
         result_keys=(
             "stability_result", "income_projection_result",
@@ -153,7 +159,9 @@ COUNCIL_PERSONAS: tuple[Persona, ...] = (
         brief=(
             "You argue about whether this plan will actually be followed, based on "
             "observed behaviour rather than intentions. Flag any recommendation "
-            "that depends on willpower the history does not support."
+            "that depends on willpower the history does not support. "
+            "Answer in at most 60 words, as plain prose. No headings, no "
+            "bullet points, no markdown."
         ),
         result_keys=(
             "bias_detection_result", "habit_formation_result",
@@ -164,7 +172,9 @@ COUNCIL_PERSONAS: tuple[Persona, ...] = (
         key="benefits", label="Benefits Council", council="benefits", critiques="risk",
         brief=(
             "You argue for claiming entitlements the user already qualifies for "
-            "before committing their own money. Argue only from the findings given."
+            "before committing their own money. Argue only from the findings given. "
+            "Answer in at most 60 words, as plain prose. No headings, no "
+            "bullet points, no markdown."
         ),
         result_keys=("scheme_matching_result", "eligibility_result"),
     ),
@@ -245,6 +255,9 @@ def make_critic(persona: Persona, provider: llm.Provider = DEFAULT_PROVIDER) -> 
     Critique this {persona.critiques} strategy:
 
     {target_advice}
+
+    At most 40 words, plain prose. No markdown, no headings, no bullet points.
+    Name the single weakness that matters most.
     """
         try:
             answer = llm.chat(prompt, provider=provider)
@@ -281,7 +294,11 @@ def make_judge(provider: llm.Provider = DEFAULT_PROVIDER) -> Callable:
             sections.append(f"    {v['stance'].upper()}:\n    {v['rationale']}\n")
         for c in critiques:
             sections.append(f"    {c['stance'].upper()}:\n    {c['rationale']}\n")
-        sections.append("    Produce final recommendation.")
+        sections.append(
+            "    Produce the final recommendation. At most 150 words, plain "
+            "prose, no markdown, no headings, no bullet points. Lead with the "
+            "single most important action and say why in one clause."
+        )
         prompt = "\n".join(sections)
 
         try:

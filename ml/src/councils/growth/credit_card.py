@@ -538,6 +538,30 @@ def credit_card_node(
 
     routing = build_spend_routing(scored, engine_profile) if scored else {}
 
+    # When nothing qualifies, say why. Returning an empty list leaves the user
+    # staring at a blank panel with no idea whether the system failed or they
+    # genuinely do not qualify -- and the second is useful information. The
+    # deck's own persona (a farmer, so `self_employed`) is rejected by every
+    # curated card, which is exactly the case this has to explain.
+    reason = None
+    if not scored:
+        why: list[str] = []
+        for entry in rejected:
+            notes = entry.get("reasons") if isinstance(entry, dict) else None
+            if notes is None and isinstance(entry, (list, tuple)) and len(entry) > 1:
+                notes = entry[1]
+            if isinstance(notes, str):
+                why.append(notes)
+            elif isinstance(notes, (list, tuple)):
+                why.extend(str(n) for n in notes)
+        # Collapse to distinct reasons -- four cards rejecting for the same
+        # reason is one fact, not four.
+        distinct = list(dict.fromkeys(why))
+        reason = (
+            f"None of the {len(database)} cards in the database fit this profile. "
+            + ("Reasons given: " + "; ".join(distinct[:4]) + "." if distinct else "")
+        ).strip()
+
     return {
         "credit_card_result": {
             "cards_considered": len(database),
@@ -546,5 +570,12 @@ def credit_card_node(
             "spend_analysis": spend_analysis,
             "recommendations": scored[:top_n],
             "routing": routing,
+            "reason": reason,
+            # A human-readable line either way, so any surface -- API, UI,
+            # memory summary -- has something to show.
+            "summary": (
+                reason if reason
+                else f"{len(scored)} of {len(database)} cards fit this profile."
+            ),
         }
     }

@@ -124,17 +124,42 @@ def summarise_run(result: dict[str, Any]) -> dict[str, Any]:
         "intent": result["intent"],
         "workflow": result["workflow_label"],
         "agents_run": result["agents_run"],
+        # An agent that produced no recommendations may still have something
+        # worth saying -- "none of the 4 cards fit this profile, here is why"
+        # is more useful than an empty panel. Fall back to its `summary`.
         "recommendations": {
             key.removesuffix("_result"): lines
             for key in result["agents_run"]
             if isinstance(state.get(key), dict)
-            and (lines := _as_lines(state[key].get("recommendations")))
+            and (
+                lines := (
+                    _as_lines(state[key].get("recommendations"))
+                    or ([state[key]["summary"]] if state[key].get("summary") else [])
+                )
+            )
         },
         "allocation_plan": (state.get("utility_result") or {}).get("allocation_plan", []),
         "final_decision": state.get("final_decision", ""),
+        # The argument itself, not just who spoke. A deliberation summarised
+        # down to a list of council names throws away the only thing that
+        # makes a five-council debate worth running -- the reasoning, and the
+        # fact that the councils disagreed.
         "council_verdicts": [
-            {"council": v.get("agent"), "stance": v.get("stance")}
+            {
+                "council": v.get("agent"),
+                "stance": v.get("stance"),
+                "rationale": v.get("rationale", ""),
+                "tokens": v.get("tokens", 0),
+            }
             for v in state.get("verdicts", [])
+        ],
+        "council_critiques": [
+            {
+                "council": c.get("agent"),
+                "stance": c.get("stance"),
+                "rationale": c.get("rationale", ""),
+            }
+            for c in state.get("critiques", [])
         ],
         "memory_written": result["memory_written"],
         "errors": result["errors"],

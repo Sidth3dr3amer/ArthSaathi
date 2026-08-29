@@ -118,6 +118,16 @@ profile = UserProfile(user_id="demo", monthly_income=95_000, essential_expenses=
 print(summarise_run(run("give me a full financial review", profile)))
 ```
 
+**The dashboard**
+
+```bash
+cd frontend && npm install && npm run dev    # http://localhost:5173
+```
+
+Four screens: the **Report** (ask anything, watch the councils argue), **Schemes**,
+**Onboarding** (the Teaching Saathis conversation), and **Voice**. It proxies
+`/api` to the backend on :8000, so no CORS setup is needed.
+
 **The voice assistant** (separate service, multilingual — Hindi, Marathi,
 Kannada, English):
 
@@ -148,6 +158,7 @@ ml/src/
   workflows/    the 9 flows + orchestrator
 ml/data/        25 government schemes, synthetic transactions
 server/         FastAPI app
+frontend/       React dashboard (Vite)
 tests/          33 test files, one per agent
 docs/           architecture and credit-card agent design
 ```
@@ -171,5 +182,12 @@ superseded it — editing a notebook will not change behaviour.
   planted so the Behavioral Council can be tested against known ground truth.
 - **Only 4 curated cards** back the recommendation engine, though 148 extracted
   card profiles exist in `CreditCardDataMaker_Final/card_attributes/`.
-- **No frontend dashboard yet** — the API and the voice UI exist; the reporting
-  screens do not.
+- **Council latency is variable.** A full deliberation runs 8–60s depending on
+  provider load. Narrow questions return in under a second.
+- **Rahul Patil gets no credit-card recommendation.** A farmer maps to
+  `self_employed`, which every card in the curated set excludes. The agent now
+  explains that rather than showing an empty panel, but the underlying gap is
+  the four-card sample, not the engine.
+- **Scheme benefit totals overstate.** Amounts like PMEGP's project-subsidy
+  ceiling are counted at their headline value, which can exceed a user's annual
+  income. The realisation factors in `scheme_matching` need a second pass.

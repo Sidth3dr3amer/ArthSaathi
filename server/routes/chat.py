@@ -98,6 +98,7 @@ def chat(request: ChatRequest) -> dict[str, Any]:
             allocation_plan=[],
             final_decision="",
             council_verdicts=[],
+            council_critiques=[],
             memory_written=False,
             errors=[f"orchestrator: {exc!r}"],
             elapsed_seconds=0.0,

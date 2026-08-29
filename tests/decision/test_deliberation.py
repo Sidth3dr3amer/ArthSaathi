@@ -142,7 +142,12 @@ def test_each_critic_receives_the_advice_it_is_paired_with(stub_chat, salaried_p
 def test_judge_sees_every_verdict_and_critique(stub_chat, salaried_profile):
     deliberate(new_state(salaried_profile, query="q"))
     judge_prompt = stub_chat[-1]
-    assert "Produce final recommendation." in judge_prompt
+    # The judge is asked for a bounded, plain-prose answer -- without a length
+    # constraint the councils returned enough markdown to make the page 16,000
+    # pixels tall.
+    assert "Produce the final recommendation" in judge_prompt
+    assert "At most 150 words" in judge_prompt
+    assert "no markdown" in judge_prompt
     assert judge_prompt.count("ADVICE#") == 6      # 3 advisors + 3 critics
 
 

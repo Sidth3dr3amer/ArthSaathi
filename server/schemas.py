@@ -36,6 +36,10 @@ class ChatResponse(BaseModel):
     allocation_plan: list[dict[str, Any]]
     final_decision: str
     council_verdicts: list[dict[str, Any]]
+    #: Each council's critique of another council's position. `response_model`
+    #: drops any field not declared here, so an undeclared field is invisible
+    #: to the client no matter what the orchestrator returns.
+    council_critiques: list[dict[str, Any]] = []
     memory_written: bool
     errors: list[str]
     elapsed_seconds: float
