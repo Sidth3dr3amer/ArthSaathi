@@ -29,24 +29,94 @@ from ...schemas.profile import UserProfile
 from ...schemas.state import FinancialState
 
 
-def load_card_database(directory: Path | None = None) -> list[dict[str, Any]]:
+def load_card_database(
+    directory: Path | None = None, include_pool: bool = True
+) -> list[dict[str, Any]]:
     """
-    Load every curated card JSON from `final_decision/`.
+    Load the card database: hand-curated cards first, then the promoted pool.
 
-    Returns an empty list rather than raising when the directory is absent, so
-    the agent degrades to "no cards available" instead of breaking a workflow.
+    `final_decision/` holds cards checked by a human. `card_pool/` holds cards
+    derived from the Tier-0 extraction by `ml.src.cards.promote` -- 27 of the
+    148 raw profiles, the rest skipped because no rate on ordinary spend could
+    be read out of them. A hand-checked record always wins a name collision, so
+    curating a card is enough to override whatever the parser produced.
+
+    Returns an empty list rather than raising when nothing is present, so the
+    agent degrades to "no cards available" instead of breaking a workflow.
     """
-    directory = Path(directory or config.CARD_FINAL_DECISION_DIR)
-    if not directory.exists():
-        return []
+    def _read(root: Path) -> list[dict[str, Any]]:
+        if not root.exists():
+            return []
+        out: list[dict[str, Any]] = []
+        for path in sorted(root.rglob("*.json")):
+            try:
+                out.append(json.loads(path.read_text(encoding="utf-8")))
+            except (OSError, json.JSONDecodeError):
+                continue
+        return out
 
-    cards: list[dict[str, Any]] = []
-    for path in sorted(directory.rglob("*.json")):
-        try:
-            cards.append(json.loads(path.read_text(encoding="utf-8")))
-        except (OSError, json.JSONDecodeError):
-            continue
-    return cards
+    curated = _read(Path(directory or config.CARD_FINAL_DECISION_DIR))
+    if directory is not None or not include_pool:
+        return curated
+
+    seen = {c.get("card_name") for c in curated}
+    pool = [
+        c for c in _read(config.CARD_PIPELINE_DIR / "card_pool")
+        if c.get("card_name") not in seen
+    ]
+    return curated + pool
+
+
+#: Above this rate, a revolved balance costs more than any card can earn back.
+#: Indian card APRs run 36-48%; the best net value in the curated pool is under
+#: Rs 6,000/year. There is no reward rate that beats not paying 42% interest.
+REVOLVING_RATE_THRESHOLD = 24.0
+DEFAULT_CARD_APR = 42.0
+
+
+def existing_card_burden(profile: UserProfile) -> dict[str, Any]:
+    """
+    What the user's CURRENT cards already cost them. Pure and deterministic.
+
+    A recommendation engine that ignores the cards someone already holds will
+    cheerfully hand a second card to a person revolving a balance at 42%. The
+    deck's own persona is exactly that person: Rahul carries Rs 48,000 at 42%,
+    which costs him about Rs 20,000 a year -- roughly four times the net value
+    of the best card in the pool. Rewards are rounding error next to that, and
+    an extra card raises the available limit precisely when it should not.
+
+    So this is computed first and the ranking is framed against it, rather than
+    the ranking being presented as if the user held nothing.
+    """
+    cards = [d for d in profile.debts if d.debt_type == "credit_card"]
+    outstanding = sum(c.outstanding_amount for c in cards)
+
+    if outstanding > 0:
+        annual_interest = sum(
+            c.outstanding_amount * (c.interest_rate or DEFAULT_CARD_APR) / 100
+            for c in cards
+        )
+        effective_rate = annual_interest / outstanding * 100
+    else:
+        annual_interest = 0.0
+        effective_rate = 0.0
+
+    revolving = outstanding > 0 and effective_rate >= REVOLVING_RATE_THRESHOLD
+
+    return {
+        "holds_cards": bool(cards),
+        "card_count": len(cards),
+        "card_names": [c.name for c in cards],
+        "outstanding": round(outstanding, 2),
+        "effective_rate": round(effective_rate, 2),
+        "annual_interest_cost": round(annual_interest, 2),
+        "revolving": revolving,
+        "verdict": (
+            "revolving" if revolving
+            else "holds_cards_paid_off" if cards
+            else "no_cards"
+        ),
+    }
 
 
 def profile_to_engine_dict(profile: UserProfile) -> dict[str, Any]:
@@ -510,10 +580,21 @@ def credit_card_node(
     profile = state["profile"]
     engine_profile = profile_to_engine_dict(profile)
     database = cards if cards is not None else load_card_database()
+    existing = existing_card_burden(profile)
+
+    # Cards the user already holds must not be recommended back to them.
+    held = {n.strip().lower() for n in existing["card_names"]}
+    if held:
+        database = [
+            c for c in database
+            if str(c.get("card_name", "")).strip().lower() not in held
+        ]
 
     if not database:
         return {
             "credit_card_result": {
+                "existing_cards": existing,
+                "recommend_new_card": not existing["revolving"],
                 "cards_considered": 0,
                 "reason": "card database is empty",
                 "recommendations": [],
@@ -537,6 +618,27 @@ def credit_card_node(
     scored.sort(key=lambda x: -x["net_value"])
 
     routing = build_spend_routing(scored, engine_profile) if scored else {}
+
+    # Weigh a new card against the cost of the balance already being carried.
+    # Presenting a Rs 4,000/year reward gain without saying it is dwarfed by a
+    # Rs 20,000/year interest bill is technically accurate and practically
+    # misleading, which is the failure mode this whole block exists to prevent.
+    caution = None
+    if existing["revolving"]:
+        best_gain = scored[0]["net_value"] if scored else 0.0
+        caution = (
+            f"You already carry Rs {existing['outstanding']:,.0f} on "
+            f"{'a card' if existing['card_count'] == 1 else 'cards'} at about "
+            f"{existing['effective_rate']:.0f}%, costing roughly "
+            f"Rs {existing['annual_interest_cost']:,.0f} a year in interest. "
+            + (
+                f"The best card below is worth about Rs {best_gain:,.0f} a year, "
+                f"which is {existing['annual_interest_cost'] / best_gain:.0f}x smaller. "
+                if best_gain > 0 else ""
+            )
+            + "Clearing that balance is worth more than any card on this list. "
+            "Treat these as options for after it is paid off."
+        )
 
     # When nothing qualifies, say why. Returning an empty list leaves the user
     # staring at a blank panel with no idea whether the system failed or they
@@ -564,6 +666,9 @@ def credit_card_node(
 
     return {
         "credit_card_result": {
+            "existing_cards": existing,
+            "recommend_new_card": not existing["revolving"],
+            "caution": caution,
             "cards_considered": len(database),
             "eligible_count": len(eligible),
             "rejected_count": len(rejected),
@@ -574,7 +679,8 @@ def credit_card_node(
             # A human-readable line either way, so any surface -- API, UI,
             # memory summary -- has something to show.
             "summary": (
-                reason if reason
+                caution if caution
+                else reason if reason
                 else f"{len(scored)} of {len(database)} cards fit this profile."
             ),
         }

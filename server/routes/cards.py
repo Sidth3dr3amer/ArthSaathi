@@ -28,10 +28,17 @@ router = APIRouter(prefix="/cards", tags=["cards"])
 
 @router.get("")
 def list_cards() -> dict[str, Any]:
-    """The curated card database the recommendation engine scores against."""
+    """
+    The card database the engine scores against.
+
+    Mixes hand-checked cards with ones promoted out of the raw extraction, so
+    each row says which it is: a consumer must be able to tell a verified card
+    from a parsed one.
+    """
     cards = load_card_database()
     return {
         "count": len(cards),
+        "confirmed_count": sum(1 for c in cards if c.get("eligibility_confirmed", True)),
         "cards": [
             {
                 "card_name": c.get("card_name"),
@@ -39,6 +46,7 @@ def list_cards() -> dict[str, Any]:
                 "card_type": c.get("card_type"),
                 "annual_fee": c.get("annual_fee"),
                 "base_reward_rate": c.get("base_reward_rate"),
+                "eligibility_confirmed": c.get("eligibility_confirmed", True),
             }
             for c in cards
         ],
@@ -58,6 +66,12 @@ def recommend(request: WorkflowRunRequest, top_n: int = Query(default=3, ge=1, l
         return {"recommendations": [], "errors": [repr(exc)], "profile_source": source}
 
     return {
+        # A new card is the wrong advice for someone revolving a balance, so
+        # this travels with the ranking rather than being inferred downstream.
+        "existing_cards": result.get("existing_cards"),
+        "recommend_new_card": result.get("recommend_new_card", True),
+        "caution": result.get("caution"),
+        "summary": result.get("summary"),
         "cards_considered": result["cards_considered"],
         "eligible_count": result.get("eligible_count", 0),
         "rejected_count": result.get("rejected_count", 0),

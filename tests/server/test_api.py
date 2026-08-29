@@ -399,8 +399,11 @@ def test_memory_degrades_on_store_outage(client, monkeypatch):
 
 def test_card_database_is_listed(client):
     body = client.get("/cards").json()
-    assert body["count"] == 4
     assert all(c["card_name"] for c in body["cards"])
+    # Hand-checked cards plus ones promoted out of the raw extraction. Each row
+    # says which it is, so a consumer can tell a verified card from a parsed one.
+    assert body["count"] == len(body["cards"]) > body["confirmed_count"] == 4
+    assert all("eligibility_confirmed" in c for c in body["cards"])
 
 
 def test_card_recommendation_is_ranked(client):
@@ -408,7 +411,30 @@ def test_card_recommendation_is_ranked(client):
                        json={"user_id": "api-test", "profile": PROFILE}).json()
     values = [r["net_annual_value"] for r in body["recommendations"]]
     assert values == sorted(values, reverse=True)
-    assert body["cards_considered"] == 4
+    assert body["cards_considered"] >= 4
+
+
+def test_a_revolving_user_is_warned_rather_than_sold_a_second_card(client):
+    """
+    Recommending a card to someone paying 42% on the one they hold is the
+    failure this endpoint has to refuse to make.
+    """
+    # PROFILE already carries Rs 1,60,000 at 42%.
+    body = client.post("/cards/recommend?top_n=3",
+                       json={"user_id": "api-test", "profile": PROFILE}).json()
+    assert body["recommend_new_card"] is False
+    assert "1,60,000" in body["caution"] or "160,000" in body["caution"]
+    assert body["existing_cards"]["annual_interest_cost"] == pytest.approx(67_200)
+
+
+def test_a_user_with_no_card_balance_still_gets_recommendations(client):
+    """The warning must not suppress advice for someone carrying nothing."""
+    body = client.post("/cards/recommend?top_n=3",
+                       json={"user_id": "api-test",
+                             "profile": {**PROFILE, "debts": []}}).json()
+    assert body["recommend_new_card"] is True
+    assert body["caution"] is None
+    assert body["recommendations"]
 
 
 def test_spend_profile_returns_an_analysis(client):

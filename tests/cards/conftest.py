@@ -19,7 +19,9 @@ from ml.src.schemas.profile import Debt, UserProfile
 
 @pytest.fixture(scope="session")
 def card_db():
-    return load_card_database()
+    # The hand-checked four only. Golden winners and component breakdowns are
+    # pinned against these, so promoting more cards must not move them.
+    return load_card_database(include_pool=False)
 
 
 @pytest.fixture

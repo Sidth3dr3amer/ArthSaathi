@@ -1,0 +1,33 @@
+{
+ "card_name": "Pixel Play Credit Card",
+ "issuer": "HDFC",
+ "network": [
+  "RuPay",
+  "Visa",
+  "VISA",
+  "Visa/RuPay",
+  "VISA, RuPay",
+  "Visa / RuPay",
+  "Visa, RuPay"
+ ],
+ "card_type": "REWARDS",
+ "annual_fee": 500.0,
+ "joining_fee": 500.0,
+ "base_reward_rate": 1.0,
+ "domestic_lounge_visits": 0,
+ "international_lounge_visits": 0,
+ "invite_only": false,
+ "age_min": 18,
+ "age_max": 70,
+ "self_employed_eligible": true,
+ "unsalaried_eligible": true,
+ "student_eligible": false,
+ "income_requirement": 0,
+ "eligibility_confirmed": false,
+ "source": "promoted_from_card_attributes",
+ "benefits": [],
+ "dining_reward_rate": 5.0,
+ "travel_reward_rate": 5.0,
+ "grocery_reward_rate": 5.0,
+ "online_reward_rate": 5.0
+}

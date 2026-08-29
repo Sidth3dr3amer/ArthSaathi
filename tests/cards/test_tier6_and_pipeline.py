@@ -126,14 +126,14 @@ def test_explanation_is_json_serialisable(explanation):
 # Full pipeline
 # =========================================================================== #
 
-def test_the_pipeline_runs_all_six_tiers(card_user):
-    out = run_card_intelligence(card_user)
+def test_the_pipeline_runs_all_six_tiers(card_user, card_db):
+    out = run_card_intelligence(card_user, cards=card_db)
     assert out["status"] == "complete"
     assert set(out["tiers"]) == {"tier1", "tier2", "tier3", "tier4", "tier5", "tier6"}
 
 
-def test_the_pipeline_recommends_a_card_with_an_explanation(card_user):
-    out = run_card_intelligence(card_user)
+def test_the_pipeline_recommends_a_card_with_an_explanation(card_user, card_db):
+    out = run_card_intelligence(card_user, cards=card_db)
     recommendation = out["recommendation"]
     assert recommendation["card_name"]
     assert recommendation["net_annual_value"] > 0
@@ -141,25 +141,25 @@ def test_the_pipeline_recommends_a_card_with_an_explanation(card_user):
     assert len(recommendation["points"]) >= 4
 
 
-def test_golden_winner_on_the_curated_database(card_user):
+def test_golden_winner_on_the_curated_database(card_user, card_db):
     """Pinned so a change to any tier's arithmetic is deliberate, not incidental."""
-    out = run_card_intelligence(card_user)
+    out = run_card_intelligence(card_user, cards=card_db)
     assert out["cards_considered"] == 4
     assert out["eligible"] == 4
     assert out["recommendation"]["card_name"] == "Axis Bank Atlas Credit Card"
     assert out["recommendation"]["net_annual_value"] == pytest.approx(28_750, abs=1)
 
 
-def test_golden_component_breakdown(card_user):
-    top = run_card_intelligence(card_user)["top_cards"][0]
+def test_golden_component_breakdown(card_user, card_db):
+    top = run_card_intelligence(card_user, cards=card_db)["top_cards"][0]
     components = top["components"]
     assert components["net_annual_value"] == pytest.approx(1.0)
     assert components["approval_probability"] == pytest.approx(0.70, abs=0.01)
     assert top["final_score_percent"] == pytest.approx(71.5, abs=0.5)
 
 
-def test_the_panel_is_split_on_this_user(card_user):
-    tier4 = run_card_intelligence(card_user)["tiers"]["tier4"]
+def test_the_panel_is_split_on_this_user(card_user, card_db):
+    tier4 = run_card_intelligence(card_user, cards=card_db)["tiers"]["tier4"]
     assert tier4["unanimous"] is False
     assert len(tier4["contested"]) == 2
 
@@ -182,26 +182,27 @@ def test_an_empty_database_degrades_rather_than_raising(card_user):
     assert out["recommendation"] is None
 
 
-def test_no_eligible_cards_explains_why():
+def test_no_eligible_cards_explains_why(card_db):
     """max_annual_fee defaults to 0, which filters out every fee-charging card."""
-    out = run_card_intelligence(UserProfile(user_id="strict", age=30,
-                                            monthly_income=60_000))
+    out = run_card_intelligence(
+        UserProfile(user_id="strict", age=30, monthly_income=60_000), cards=card_db
+    )
     assert out["status"] == "no eligible cards"
     assert "max_annual_fee" in out["reason"]
     assert out["recommendation"] is None
 
 
-def test_the_pipeline_is_deterministic_without_an_llm(card_user):
-    assert run_card_intelligence(card_user) == run_card_intelligence(card_user)
+def test_the_pipeline_is_deterministic_without_an_llm(card_user, card_db):
+    assert run_card_intelligence(card_user, cards=card_db) == run_card_intelligence(card_user, cards=card_db)
 
 
-def test_the_pipeline_is_json_serialisable(card_user):
-    json.dumps(run_card_intelligence(card_user))
+def test_the_pipeline_is_json_serialisable(card_user, card_db):
+    json.dumps(run_card_intelligence(card_user, cards=card_db))
 
 
-def test_the_pipeline_does_not_mutate_the_profile(card_user):
+def test_the_pipeline_does_not_mutate_the_profile(card_user, card_db):
     before = card_user.model_dump()
-    run_card_intelligence(card_user)
+    run_card_intelligence(card_user, cards=card_db)
     assert card_user.model_dump() == before
 
 
